@@ -21,7 +21,7 @@ The Architecture of cognitive control in the human prefrontal cortex - Koechlin 
 
 ## Livres
 Psychopathologie de la vie quotidienne, Sigmund Freud. 2022
-Diagnostiques des TND chez l'adulte, Maëva Rollin. 11/12-2023
+Diagnostiques des TND chez l'adulte, Maëva Rollin. 02-2024
 Thérapie des Schémas, Jeffrey E. Young. 08-2024
 
 # Art
