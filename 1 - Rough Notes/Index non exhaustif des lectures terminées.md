@@ -8,7 +8,7 @@ Neuroscience fonctionnelles (De boeck) 10-2024
 Neurobiologie des émotions, 2022, Catherine Belzung 10-2024 [[Closed]]
 
 ## Articles
-Sensory perception in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024
+Sensory perception in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024 [[Closed]] 
 
 Memory, Navigation and theta rythm in the hippocampal-enthorinal system - Buszaki, Moser,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024
 
