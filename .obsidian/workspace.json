@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8d42c50b7552b6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5229c97243ca536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11785d2ea3490fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Index non exhaustif des lectures terminées.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a043398223932ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "67283bbe82c106ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3bbea2c4f4a176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "410ef777f6da455b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f44ba3daf853f53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af26cd2d9789d398",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45a22e3813e2aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d1a5afaed8253f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Rough Notes/Index non exhaustif des lectures terminées.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edb84bf89b10f4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Rough Notes/Index non exhaustif des lectures terminées.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6537166246c1d9ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28b79b4330eb7ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Rough Notes/Index non exhaustif des lectures terminées.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11785d2ea3490fdf",
+  "lastOpenFiles": [
+    "5 - Full Notes/Neurobiologie des émotions.md",
+    "3 - Tags/Sentiment.md",
+    "6 - En cours de rédaction/Sensorialité chez les personnes TSA.md",
+    "1 - Rough Notes/Index non exhaustif des lectures terminées.md",
+    "1 - Rough Notes/Index des lectures envisagées.md",
+    "3 - Tags/TSA.md",
+    "6 - En cours de rédaction",
+    "5 - Full Notes/Eloge de la fuite.md",
+    "Templates/Note.md",
+    "Some random note.md",
+    "3 - Tags/altruisme.md",
+    "3 - Tags/TPJ.md",
+    "3 - Tags/jonction temporo-pariétale.md",
+    "3 - Tags/VMPFC.md",
+    "3 - Tags/PFC.md",
+    "3 - Tags/Théorie de l'esprit.md",
+    "3 - Tags/système miroir.md",
+    "3 - Tags/cortex préfrontal dorso-médian.md",
+    "3 - Tags/cortex préfrontal ventro-médian.md",
+    "Templates",
+    "5 - Full Notes",
+    "4 - Indexes",
+    "3 - Tags",
+    "1 - Rough Notes",
+    "2 - Source Materials",
+    "Welcome.md"
+  ]
+}
