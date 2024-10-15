@@ -1,6 +1,6 @@
 2024-10-14 19:25
 
-Status: Closed.  
+Status: [[Closed]].  
 
 Tags: [[Neurobiologie]] [[Emotions]] [[génétique]] [[empathie]] [[conscience]]
 
