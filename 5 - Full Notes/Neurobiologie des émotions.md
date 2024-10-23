@@ -14,7 +14,7 @@ Aujourd'hui :
 		- Ex: Récepteurs glucocorticoïdes, principalement sur l'hippocampe, sensible au cortisol (produit dans des glandes surrénales), un gène code pour leur quantité. L'expression de ce gène peut être modifiée de manière épigénétique (attention maternelle chez des rats).
 	
 #### Emotions, corps et sentiments
-- [[Sentiment]]s = Prise de conscience de sensation physique liées à une émotion
+- [[Sentiment]]s = Prise de [[conscience]] de sensation physique liées à une émotion
 - Historiquement : débat sur la sources des émotions, sont-elles dues à des état physiologique (fréquence cardiaque élevée, respiration, mains moites) ou sont-elles génératrices de ces stigmates ?
 - Pour changer : combo des deux.  
 	- La contraction de certains muscles fasciaux modifie le score d'amusement donné à un jeu : Contraction similaire à ce qui est observé dans la colère --> score d'amusement moindre comparé à des contractions des zygomatiques semblable au sourire de joie. --> l'engagement corporel contribue au ressenti émotionnel
