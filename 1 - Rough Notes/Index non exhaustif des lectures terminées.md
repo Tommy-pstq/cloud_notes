@@ -17,6 +17,11 @@ Multimodal sensory integration and concurrent navigation strategies for spatial 
 Mindblind eyes: an absence of spontaneous theory of mind in Asperger syndrome - Senju A, Southgate V, White S, Frith U.  Science. 2009 Aug 14;325(5942):883-5. DOI: [10.1126/science.1176170](https://doi.org/10.1126/science.1176170) 10-2024
 
 The Architecture of cognitive control in the human prefrontal cortex - Koechlin E., Ody C., Koneiher F. Science. 2013. DOI:10.1123/science.1088545 10-2024
+
+Neurobiology of obsessive–compulsive disorder: insights into neural circuitry dysfunction through mouse genetics Jonathan T Ting and Guoping Feng. Current Opinion in Neurobiology (2011). DOI 10.1016/j.conb.2011.04.0100 10-2024
+
+Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
+
 # Psychologie
 
 ## Livres
