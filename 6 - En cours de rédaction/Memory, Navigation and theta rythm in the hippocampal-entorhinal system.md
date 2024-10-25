@@ -35,7 +35,7 @@ La mémoire sémantique se forme à partir de la reproduction d'épisodes sembla
 
 Pour qu'un système neuronal supporte la mémoire de manière efficace il est nécessaire qu'il puisse : 
 - Stocker de grande quantité de données sous forme de représentations orthogonales (Dimensionalité ++)
-- Générer de manière autonome des séquences d'assemblage de cellules temporellement évolutives.
+- Générer de manière autonome des séquences d'[[assemblage]] de cellules temporellement évolutives.
 Le système hippocampo-entorhinal offre ces propriétés anatomique & physiologique. 
 
 ### Cartes allocentriques & mémoire sémantique

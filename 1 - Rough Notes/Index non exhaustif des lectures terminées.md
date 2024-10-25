@@ -24,6 +24,7 @@ Internally generated cell assembly sequences in the rat hippocampus. Pastalkova,
 
 The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 [[Open]] 
 
+Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745
 # Psychologie
 
 ## Livres
