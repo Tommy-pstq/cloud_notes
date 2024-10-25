@@ -104,10 +104,29 @@ Cependant, un élément clé diffère: le système de navigation se base sur des
 	- Input externe (environnement, infos corporelles)
 	- Génération spontanées --> supportent le "voyage interne"
 Il existe probablement des interaction entre ces deux mécanismes.
+
 #### Chunking de mémoires / chemins
 
+Globalement : l'info, que ce soit un chemin complet ou un épisode, est découpée en [[chunk]] - avec des déclencheurs extérieurs dans le cadre de la navigation - plutôt que stockée comme que comme une représentation unique.
+Double intérêt:
+- Réduction des erreurs (drift, erreur neuronale, bruit)
+- Facilité d'accéder à des infos simples.
+
+En cas de situation complexe (ex: labyrinthe avec environnement similaire), l'information est chunkée de manière encore plus fine, pour permettre une représentation plus fine. Sachant que les grid cells ont un output différent selon la direction de l'individu, et que les place-cells activées dans une direction ne seront pas les mêmes que dans une autre, cela permet d'avoir des représentation différentes d'un environnement extérieur a priori très similaire. 
+
+Le parallèle avec la mémoire épisodique est assez direct : on se souvient d'élément uniques, qui simulent un continuum (interaction [[mémoire de travail]] mentionnée plus haut). Une séparation fine de ces éléments permet une représentation plus précise de chacun d'eux, donc une mémorisation de plus de détail, moins d'interactions possible entre diff items. (espace latent extrêmement complex et haute dimension, donc pas de soucis d'avoir énormément d'élément distincts.)
 
 
+### Organisation temporelle de l'exploration et mémoire épisodique
+
+Rappel épisodique: 
+- Fragments d'informations permettent la reconstruction d'épisodes bien plus long. ("predict" dans le texte, porte à confusion si l'on pense au caractère réellement prédictif de signaux prédisant une décision avant que celle-ci soit consciente)
+* Orientation temporelle directe largement favorisée. 
+
+Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliquent par une organisation temporelle multi-échelle de séquences neuronales permises par les oscillations theta dans l'hippocampe.
+
+### L'organisation temporelle multi-échelle des assemblages neuronaux
+à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004)
 
 
 

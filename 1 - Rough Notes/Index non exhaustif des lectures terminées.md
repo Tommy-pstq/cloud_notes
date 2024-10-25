@@ -22,6 +22,8 @@ Neurobiology of obsessive–compulsive disorder: insights into neural circuitry 
 
 Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
 
+The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 [[Open]] 
+
 # Psychologie
 
 ## Livres
