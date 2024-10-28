@@ -31,7 +31,7 @@ Localité des connexion neuronale --> période des oscillations possible limité
 
 ### Synchronisation d'assemblage via oscillations
 
-l'intégration d'information repose sur la [[synchrony]] , dépendante de la [[fenêtre d'intégration temporelle]].
+l'intégration d'information repose sur la [[synchronicité]] , dépendante de la [[fenêtre d'intégration temporelle]].
 
 Bien que des signaux externes irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'activation synchrone de réseaux (=synchrony), le mécanisme physique le plus énergétiquement efficace de générer une telle coordination temporelle est l'utilisation des oscillations (1,2).
 
@@ -44,13 +44,36 @@ Ex: oscillations theta dans l'hippocampe ressemblent aux variations sinusoïdale
 
 En revanche, ces oscillations macros (theta) sont issues de neurones, dont les patterns d'activation ressemble quant à eux à des oscillateurs de relaxation. Ces derniers présentent une excitabilité dépendante de leur phase, permettant la définition d'une phase de transfert et d'une phase de réception tout en offrant une synchronisation robuste et stable.
 
-### Functions des oscillateurs cérébraux
+### Fonctions des oscillateurs cérébraux
 
+Les bénéfices spécifiques liés à chacun de ces deux types d'oscillateur dépend du système neuronal qui le supporte. On peut cependant définir des principes généraux.
 #### Input selection & [[plasticité]] 
+
+Input puissant -> réponse des neurones & réseaux par des oscillations transitoires.
+- [[Membrane neuronal]] : conductance et capacitance de fuite --> filtre passe bas. 
+- Courants dirigés par un seuil de tension, dont la l'activation est proche du potentiel au repos de la membrane --> filtre passe haut. Permet au neurone de répondre à des arrivés rapides de signaux proches.
+--> **passe bas & passe haut : résonateurs, coupe bande, oscillateurs à seuil réduit, passe bande**.  
+Comportement de résonance, permet la sélection d'input à partir de leur caractéristique fréquentielle. Changement de potentiel/conductance de la membre = changement de fréquence de préférence. 
+[[Interneurone]]s corticaux: capacité à modifier leur fréquence et modifient ainsi la dynamique de leur réseau. Ex: [[cellule pyramidale]] dont les décharges haute fréquence entraine les basket cells (cellules de Purkinje) en résonnance, supprimant ainsi l'activité des autres cellules pyramidales avoisinante. 
+
+Résonateurs/oscillateur à seuil réduit: détection & amplification de signaux faibles. Ex: cortical feedback jusqu'au [[thalamus]] --> amplification des oscillations thalamo-corticale. 
+
+De manière générale: Les oscillations des réseaux permettent la mise en place de "[[fenêtre d'opportunité]]", en abaissant le voltage nécessaire à la perception d'un signal en modifiant le potentiel de la membrane cellulaire. un input bien timé nécessite donc une énergie plus faible pour entrainer une réponse --> [[efficacité énergétique]]. 
+Ex : Dans l'[[hippocampe]], les spike d'activité en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via activité [[NMDA]] ?) alors qu'une activation en décalage de phase amoindri des inputs renforcés préalablement (3). 
+De manière analogue, des signaux déphasés peuvent supprimé les oscillations d'un réseau, comme c'est le cas dans l'hippocampe, lorsque que [[gyrus denté]] décharge en déphasage des [[oscillations gamma]]  présentent dans l'hippocampe, les annulant. 
 
 #### Liaison des [[assemblage]]s cellulaires
 
+Il semblerait que l'information soit traitée/transférée/stockée par des [[assemblage]]s dynamique de cellules, synchronisés par des connections dynamique. Le mécanisme induisant de telles coalition temporaires est encore inconnu (papier = 2004). 
+Un mécanisme possible serait un changement dynamique de la puissance synaptique entre assemblages. Cependant, un tel procédé serait très énergivore. 
+Un autre processus serait la [[synchronisation oscillatoire]] (4), bien plus énergétiquement efficace. La synchronisation dépend de la force de couplage et la distribution de fréquences propres entre les assemblages.
+Tant que les fréquences des oscillateurs couplés demeurent similaires, la [[synchronicité]] peut être assurée même avec des liens synaptiques faibles.  Par conséquent, cette propriété des oscillations permets à des groupes neuronaux distant, reliés par des liens synaptiques éparses d'être temporellement reliés 
+Par exemple, un stimulus visuel peut être traité de plusieurs manières par des assemblages distinct dans des régions corticales différentes mais reliés par des oscillation à fréquence gamma. Les décharges conditionnées par la phase de ces oscillations permettrait la constitution d'un concept cognitif cohérent à partir des variables générées par les différent assemblages (5). Plusieurs expérimentation confirment ce "lien-gamma" 
 #### Consolidation et combinaison des informations apprises
+
+Les oscillations sont une caractéristique intrinsèque des systèmes à l'équilibre et sont définies par les constantes de temps de leur composant.
+Des réseaux construits à partir de cellules pyramidale sans oscillations (reproduction d'un réseau [[feed-forward]] in vitro à partir d'une slice de cortex de rat) produisent et maintiennent des oscillations. 
+
 
 #### Représentation par information de phase
 
@@ -62,5 +85,6 @@ Base article:
 - Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745
 1. R. E. Mirollo, S. H. Strogatz, SIAM J. Appl. Math. 50, 1645 (1990).
 2. A. Winfree, The Geometry of Biological Time (Spring-er-Verlag, New York, 1980).
-3. 
-4. 
+3. P. T. Huerta, J. E. Lisman, Neuron 15, 1053 (1995).
+4. A. K. Engel, P. Fries, W. Singer, Nature Rev. Neurosci. 2, 704 (2001).
+5. C. M. Gray, P. Ko¨nig, A. K. Engel, W. Singer, Nature 338, 334 (1989).
