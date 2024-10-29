@@ -1,6 +1,6 @@
 2024-10-17 12:19
 
-Status: [[Open]]
+Status: [[Closed]] 
 
 
 Tags: [[mémoire]] [[navigation]] [[hippocampe]] [[Neurobiologie]] [[expérimentation animale]]
@@ -45,7 +45,7 @@ Consensus : la formation de mémoire déclarative se fait au niveau du complexe 
 
 Encodage des coordonnées spatiales implique beaucoup de cellules différentes avec des profil d'activité définis. Les deux les plus notables:
 - "[[Place cells]]" dans l'hippocampe - Activation spécifique en fonction de l'environnement 
-- ''[[Grid cells]]" dans le cortex entorhinal médian - Activité continue dans tous types d'environnement (ACTE). 
+- ''[[Grid cells]]" dans le cortex entorhinal médian -[[activité]] continue dans tous types d'environnement (ACTE). 
 
 * Cortex entorhinal médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur activation, les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances allocentriques + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
 
@@ -129,7 +129,7 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
-Activité neuronale à multi-échelle temporelle observable via le spiking de neurones de l'hippocampe: les place cells représentant la même position spatiale ou objet forme un [[assemblage]]
+Activité neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'hippocampe: les place cells représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
 - Assemblage: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones spike durant un intervale de temps inférieur à la constante de temps de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le neurone reader.
 - Les spikes d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
@@ -137,8 +137,49 @@ durant un cycle [[gamma]].
 - Assemblages dans l'hippocampe, durée de vie = 10-30ms --> 5-9 assemblage, chacun contenu dans un cycle gamma, durant un cycle theta. 
 
 --> Double fonctionnalité des ondes theta:
-* Rassemble et lie des assemblages dans la fenêtre temporelle permettant leur modulation par la plasticité synaptique
+* Rassemble et lie des assemblages dans la fenêtre temporelle permettant leur modulation par la [[plasticité]] synaptique
 * Sépare les assemblages dans l'espace des phases disponible (Peut être engendré par des [[interneurones inhibiteurs]] péri-somatique)
+
+--> Trois conséquences croisées de cette ségrégation de phase:
+1. Séquences d'activations des neurones en phase descendante, minimale et montante des ondes theta représente respectivement les positions passées, présentes et futures: 
+				 ![[Pasted image 20241029113942.png]]
+			
+2. Délais d'activation maximal entre deux place cells proportionnel à la distance physique entre les deux éléments/lieu encodés. 
+	* -> 1 & 2 : distance traversée pendant le déplacement sont exprimé dans le domaine temporel via un format compressé temporellement dans les ondes theta.
+3.  Les place cells d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'activation  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les ondes theta (en partie dû aux délais de l'ordre de la miliseconde entre spiking the place cells adjacente) : [[phase precession]].
+	- Ce phénomène engendre une avance de phase croissante pour les populations de cellules impliquées. 
+	- La pente de cette avance de phase représente la taille du place field impliqué, plus la pente est élevée, plus le champ sera de petite taille. 
+	-  Le même phénomène serait observé dans le cortex entorhinal dans le fonctionnement des grid cells(15)
+
+Le mécanisme de compression temporelle des oscillations theta contraint les représentation d'espaces et de mémoires:
+* Délai entre place cells --> limite le nombre d'assemblage par cycle theta. 
+* Durée d'un cycle theta --> Limite les distances encodables par les séquences d'activation.
+	* -> Lien sigmoïdale distance maximale représentable et intervale de temps en spiking de deux place cells. 
+				 ![[Pasted image 20241029193528.png]]
+
+--> Location proches représentées plus fortement, celles lointaines de manières plus éparses.
+		- Groupement par oscillation theta ~ mécanisme de zoom.
+De plus: la fréquence des oscillations theta augmente avec la vitesse de déplacement, les mêmes cellules peuvent donc s'activer pour les mêmes références indépendamment de la vitesse de déplacement. 
+
+**Analogie avec la mémoire:** Si l'on considère des locations comme des items uniques à insérer dans un buffer mémoriel, le mécanisme de compression/expansion theta peut être utilisé de manière similaire:
+- Limitation du nombre d'items pouvant être stockés dans un cycle theta.
+	- Limitation de la quantité d'information pouvant être stockée/accédée à un moment donné 
+* Zoom: détails précis autour d'un événement donnés, mais les liens reliant deux éléments éloignés temporellement sont plus éparses.
+* Plus le contenu d'un rappel mémoriel avance dans le temps, plus la quantité d'information (résolution contextuelle) disponible augmente pour les événements suivant.
+
+#### Lien entre expériences passées et actuelles via oscillations thêta. 
+
+En plus de créer un contexte autour d'une situation donnée, le mécanisme d'oscillations thêta pourrait aider à créer des liens entre des événements temporellement distants. 
+
+Ex: Chez le rat, les assemblages représentant l'environnement actuels sont parfois remplacés par des assemblages complètement différent au sein d'un même cycle theta. Comme si l'individu avait fait un bref saut mental dans un autre environnement.  
+Ces "sauts mentaux" sont fréquents lorsque le rat est "téléporté" (changement de pattern d'illumination) entre différents environnements. 
+
+Dans les cas de tâches mémorielles, lorsque des choix critiques sont à effectuer, on observe des séquences représentant des longue distances. (16,17)
+Les places cells s'entremêlent régulièrement avec des séquences internes "rétrospectives" et "prospectives" (13)
+
+Place fields & large grid size dans les parties ventrales de l'hippocampe et du cortex entorhinal dotés de longue connections, permettant l'activation synchrone de réseaux distants, cela permettrait de créer des liens de haute complexité ("high order") pour permettre une navigation efficace.
+Cela permet également d'améliorer la flexibilité de la mémoire épisodique. 
+-> Les mécanismes neuronaux permettant de sélection le chemin le plus efficace permettraient la sélection optimale des séquences nécessaire à la représentation d'un épisode mémoriel.  
 ## Refs
 Article de base:
 Memory, Navigation and theta rythm in the hippocampal-entorhinal system - Buszaki G., Moser E.,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024)
@@ -150,19 +191,14 @@ Memory, Navigation and theta rythm in the hippocampal-entorhinal system - Buszak
 4. Nadel, L. & Moscovitch, M. Memory consolidation, retrograde amnesia and the hippocampal complex. Curr. Opin. Neurobiol. 7, 217–227 (1997).
 5. Manns, J.R., Hopkins, R.O., Reed, J.M., Kitchener, E.G. & Squire, L.R. Recognition memory and the human hippocampus. Neuron 37, 171–180 (2003).
 6. Fyhn, M., Hafting, T., Treves, A., Moser, M.B. & Moser, E.I. Hippocampal remapping and grid realignment in entorhinal cortex. Nature 446, 190–194 (2007).
-7. Wilson, M.A. & McNaughton, B.L. Dynamics of the hippocampal ensemble code
-for space. Science 261, 1055–1058 (1993).
-8. Manns, J.R., Hopkins, R.O., Reed, J.M., Kitchener, E.G. & Squire, L.R. Recognition
-memory and the human hippocampus. Neuron 37, 171–180 (2003).
-9. Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C. & Fried, I. Invariant visual
-representation by single neurons in the human brain. Nature 435, 1102–1107
-(2005).
-10. Buckner, R.L. & Carroll, D.C. Self-projection and the brain. Trends Cogn. Sci. 11,
-49–57 (2007). [[à check]] 
-11.  Burgess, N., Maguire, E.A. & O’Keefe, J. The human hippocampus and spatial
-and episodic memory. Neuron 35, 625–641 (2002).
-12. Lisman, J.E. Relating hippocampal circuitry to function: recall of memory sequences
-by reciprocal dentate-CA3 interactions. Neuron 22, 233–242 (1999).
-13. Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
-14. Dragoi, G. & Buzsáki, G. Temporal encoding of place sequences by hippocampal
-cell assemblies. Neuron 50, 145–157 (2006).
+7. Wilson, M.A. & McNaughton, B.L. Dynamics of the hippocampal ensemble code for space. Science 261, 1055–1058 (1993).
+8. Manns, J.R., Hopkins, R.O., Reed, J.M., Kitchener, E.G. & Squire, L.R. Recognition memory and the human hippocampus. Neuron 37, 171–180 (2003).
+9. Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C. & Fried, I. Invariant visual representation by single neurons in the human brain. Nature 435, 1102–1107 (2005).
+10. Buckner, R.L. & Carroll, D.C. Self-projection and the brain. Trends Cogn. Sci. 11, 49–57 (2007).  [[à check]] 
+11.  Burgess, N., Maguire, E.A. & O’Keefe, J. The human hippocampus and spatial and episodic memory. Neuron 35, 625–641 (2002).
+12. Lisman, J.E. Relating hippocampal circuitry to function: recall of memory sequences by reciprocal dentate-CA3 interactions. Neuron 22, 233–242 (1999).
+13. Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024 [[à check]] 
+14. Dragoi, G. & Buzsáki, G. Temporal encoding of place sequences by hippocampal cell assemblies. Neuron 50, 145–157 (2006).
+15. Burgess, N. & O’Keefe, J. Models of place and grid cell firing and theta rhythmicity. Curr. Opin. Neurobiol. 21, 734–744 (2011).
+16. Johnson, A. & Redish, A.D. Neural ensembles in CA3 transiently encode paths forward of the animal at a decision point. J. Neurosci. 27, 12176–12189 (2007).
+17. Gupta, A.S., van der Meer, M.A., Touretzky, D.S. & Redish, A.D. Segmentation of spatial experience by hippocampal theta sequences. Nat. Neurosci. 15, 1032–1039 (2012).

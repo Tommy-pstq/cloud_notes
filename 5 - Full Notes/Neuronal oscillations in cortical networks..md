@@ -11,7 +11,7 @@ Début de l'EEG:
 Sclap EEG en phase d'éveil montrent des variation de faible amplitudes & désynchronisées. Apparemment antithétique  d'avoir des perturbations des rythmes du cerveau, surtout que ces oscillations étaient encore plus importantes dans le cas d'anesthésies ou d'épisodes épileptiques. Il était donc supposé que ces perturbations n'étaient pas nécessairement liées à des opérations cognitives.
 "Recent" (dans le texte, paru en 2004) résurgence d'intérêt pour ces oscillations due à des avancées parallèles :
 - Possibilité de les reproduire
-- Etudes [[biophysique]]s : même des neurones uniques font preuve de grande variations de dynamiques et peuvent oscillés et résonner à différentes fréquences, suggérant ainsi que le timing précis de leur activité au sein d'un réseau serait porteur d'information.
+- Etudes [[biophysique]]s : même des neurones uniques font preuve de grande variations de dynamiques et peuvent oscillés et résonner à différentes fréquences, suggérant ainsi que le timing précis de leur [[activité]] au sein d'un réseau serait porteur d'information.
 * Découverte que des assemblages de structures corrélées aux activité de la journée précédente s'activent en fonctions des pattern d'oscillations. Conjecture : utilité dans la mémorisation.
 
 -> L'activité synchrones des réseaux oscillants désormais perçue comme le lien critique liant l'activité de neurones unitaires pour générer des comportements.
@@ -102,7 +102,7 @@ Exemple de la première expérimentation permettant de conclure sur l'utilisatio
 	- Déplacement du timing des spikes de cette cellule, plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'onde Theta.
 				- ![[Pasted image 20241029113942.png]]
 
---> La position future des places fields peut être prédite ) partir d'une seule séquence de spiking dans un cycle theta.
+--> La position future des places fields peut être prédite à partir d'une seule séquence de spiking dans un cycle theta.
 
 
 ## Refs

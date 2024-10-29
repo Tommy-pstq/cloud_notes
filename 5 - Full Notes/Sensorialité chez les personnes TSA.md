@@ -2,7 +2,7 @@
 
 Status: [[Closed]] 
 
-Tags: [[TSA]] 
+Tags: [[TSA]] [[inhibition]] 
 
 # Sensorialité chez les personnes TSA
 
@@ -13,7 +13,7 @@ D'après 1) (2017):
 
 De plus, l'autisme est principalement considéré comme impactant et défini par des inaptitudes sociales, avec sensorialité  altérée en "bonus" 
 
-Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects cognitifs, dont la sensorialité et les interactions sociales. **la sensorialité spécifique engendrée par le TSA doit donc être considéré de manière égale à sa composante sociale** 
+Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects cognitifs, dont la sensorialité et les interactions sociales. **la sensorialité spécifique engendrée par le TSA doit donc être considéré de manière égale à sa composante sociale ([[Théorie de l'esprit]])**  
 
 Hypothèse supportée par :
 	- [[Normalisation divisive]] altérée chez les personnes TSA
@@ -52,7 +52,7 @@ Le déficit d'association est particulièrement observé lors de l'étude de mod
 
 ##### Neuro-Imagerie
 Signature neuronale de l'autisme visible dans les zones traitements primaires de l'information, voire dans les zone perceptives.
--> Les [[fonctions supérieures]] sont peut être impactées, mais cela ne suffit à expliquer pas la différence d'activité dans ces zones.
+-> Les [[fonctions supérieures]] sont peut être impactées, mais cela ne suffit à expliquer pas la différence d'[[activité]] dans ces zones.
 
 ###### Vision 
 - La régulation des fonctions visuelles via les [[GABA]] n'est pas effectuée de manière aussi performante que dans la population générale. Cela explique le déficit de rivalité binoculaire.

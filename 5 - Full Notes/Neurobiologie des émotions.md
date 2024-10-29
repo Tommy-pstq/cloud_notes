@@ -63,6 +63,6 @@ Ex: patients avec lésion à cet endroit ne présentant aucune altération des c
 #### Emotions esthétiques
 
 Un seul "cas d'étude" présenté ici, celui du frisson émotionnel pouvant être ressenti à l'écoute d'une musique. 
-Les individus pouvant le ressentir présentaient une activité cérébrales bien plus étendue que ceux ne le pouvant. (pers.: similaire au marqueur d'une prise de conscience ?)
+Les individus pouvant le ressentir présentaient une [[activité]] cérébrales bien plus étendue que ceux ne le pouvant. (pers.: similaire au marqueur d'une prise de conscience ?)
 ## Refs
 Neurobiologie des émotions, 2022, Catherine Belzung
