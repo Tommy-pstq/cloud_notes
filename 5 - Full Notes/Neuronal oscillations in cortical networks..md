@@ -1,6 +1,6 @@
 2024-10-24 18:07
 
-Status:
+Status: [[Closed]]
 
 Tags: [[Oscillation neuronale]] [[réseaux corticaux]] [[EEG]] 
 
@@ -97,6 +97,12 @@ Si l'oscillation d'inhibition somatique est stable mais que la dépolarisation d
 
 Avance de phase croissant (phase-shift) des potentiels d'action élevé peut être exploité pour du stockage d'information à cours terme (9).
 
+Exemple de la première expérimentation permettant de conclure sur l'utilisation de la phase comme vecteur d'information:
+- Mesure de l'activité d'une cellule pyramidale ([[Place cells]]) dans l'hippocampe d'un rat:
+	- Déplacement du timing des spikes de cette cellule, plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'onde Theta.
+				- ![[Pasted image 20241029113942.png]]
+
+--> La position future des places fields peut être prédite ) partir d'une seule séquence de spiking dans un cycle theta.
 
 
 ## Refs

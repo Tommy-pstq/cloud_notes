@@ -126,7 +126,8 @@ Rappel épisodique:
 Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliquent par une organisation temporelle multi-échelle de séquences neuronales permises par les oscillations theta dans l'hippocampe.
 
 ### L'organisation temporelle multi-échelle des assemblages neuronaux
-à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004)
+à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
+
 
 
 
