@@ -128,9 +128,17 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 ### L'organisation temporelle multi-échelle des assemblages neuronaux
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
+Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
+Activité neuronale à multi-échelle temporelle observable via le spiking de neurones de l'hippocampe: les place cells représentant la même position spatiale ou objet forme un [[assemblage]]
+durant un cycle [[gamma]]. 
+- Assemblage: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones spike durant un intervale de temps inférieur à la constante de temps de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le neurone reader.
+- Les spikes d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
+- la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  récepteurs [[GABA]].a [[AMPA]] , dont les interactions génèrent le rythme [[gamma]] (14).  
+- Assemblages dans l'hippocampe, durée de vie = 10-30ms --> 5-9 assemblage, chacun contenu dans un cycle gamma, durant un cycle theta. 
 
-
-
+--> Double fonctionnalité des ondes theta:
+* Rassemble et lie des assemblages dans la fenêtre temporelle permettant leur modulation par la plasticité synaptique
+* Sépare les assemblages dans l'espace des phases disponible (Peut être engendré par des [[interneurones inhibiteurs]] péri-somatique)
 ## Refs
 Article de base:
 Memory, Navigation and theta rythm in the hippocampal-entorhinal system - Buszaki G., Moser E.,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024)
@@ -156,3 +164,5 @@ and episodic memory. Neuron 35, 625–641 (2002).
 12. Lisman, J.E. Relating hippocampal circuitry to function: recall of memory sequences
 by reciprocal dentate-CA3 interactions. Neuron 22, 233–242 (1999).
 13. Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
+14. Dragoi, G. & Buzsáki, G. Temporal encoding of place sequences by hippocampal
+cell assemblies. Neuron 50, 145–157 (2006).
