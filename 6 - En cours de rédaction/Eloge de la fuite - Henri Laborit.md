@@ -13,7 +13,7 @@ Henri Laborit (1914-1995) était un médecin, chirurgien et neurobiologiste fran
 
 "Il n'y a pas d'objectivité dans l'appréciation des faits qui s'enregistrent dans notre [[système nerveux]]"
 
-"Imagine dont l'antagonisme fonctionnel avec les automatisme est sans doute à l'origine du phénomène de [[conscience]]"
+"Imagine dont l'antagonisme fonctionnel avec les automatisme est sans doute à l'origine du phénomène de [[conscien]]ce"
 
 "Ce qui peut être intéressant dans l'histoire d'une vie [...], ce qui peut être universel, c'est la façon dont le contexte social détermine un individu au point qu'il ne peut en être qu'une expression particulière"
 

@@ -1,6 +1,6 @@
 2024-10-24 18:07
 
-Status: [[Closed]]
+Status: Closed
 
 Tags: [[Oscillation neuronale]] [[réseaux corticaux]] [[EEG]] 
 
@@ -58,7 +58,7 @@ Comportement de résonance, permet la sélection d'input à partir de leur carac
 
 Résonateurs/oscillateur à seuil réduit: détection & amplification de signaux faibles. Ex: cortical feedback jusqu'au [[thalamus]] --> amplification des oscillations thalamo-corticale. 
 
-De manière générale: Les oscillations des réseaux permettent la mise en place de "[[fenêtre d'opportunité]]", en abaissant le voltage nécessaire à la perception d'un signal en modifiant le potentiel de la membrane cellulaire. un input bien timé nécessite donc une énergie plus faible pour entrainer une réponse --> [[efficacité énergétique]]. 
+De manière générale: Les oscillations des réseaux permettent la mise en place de "[[fenêtre d'opportunité]]", en abaissant le voltage nécessaire à la [[perception]] d'un signal en modifiant le potentiel de la membrane cellulaire. un input bien timé nécessite donc une énergie plus faible pour entrainer une réponse --> [[efficacité énergétique]]. 
 Ex : Dans l'[[hippocampe]], les spike d'activité en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via activité [[NMDA]] ?) alors qu'une activation en décalage de phase amoindri des inputs renforcés préalablement (3). 
 De manière analogue, des signaux déphasés peuvent supprimé les oscillations d'un réseau, comme c'est le cas dans l'hippocampe, lorsque que [[gyrus denté]] décharge en déphasage des [[oscillations gamma]]  présentent dans l'hippocampe, les annulant. 
 

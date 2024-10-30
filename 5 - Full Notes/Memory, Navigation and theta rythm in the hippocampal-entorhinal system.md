@@ -1,6 +1,6 @@
 2024-10-17 12:19
 
-Status: [[Closed]] 
+Status: Closed
 
 
 Tags: [[mémoire]] [[navigation]] [[hippocampe]] [[Neurobiologie]] [[expérimentation animale]]
