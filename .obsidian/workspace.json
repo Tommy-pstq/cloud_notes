@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "583dfb16d0462bf7",
+        "id": "ebde327d456e963d",
         "type": "tabs",
         "children": [
           {
-            "id": "594f60365f78729f",
+            "id": "4384d0734b674c76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5 - Full Notes/The cascading influence of multisensory processing on speech perception in autism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The cascading influence of multisensory processing on speech perception in autism"
             }
           }
         ]
@@ -157,10 +162,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "594f60365f78729f",
+  "active": "4384d0734b674c76",
   "lastOpenFiles": [
+    "6 - En cours de rédaction/Generalized Framework for Liquid Neural Network upon Sequential and Non-Sequential Tasks.md",
+    "3 - Tags/intelligence artificielle.md",
     "1 - Rough Notes/Liquid Neural Network.md",
+    "6 - En cours de rédaction/Eloge de la fuite - Henri Laborit.md",
+    "5 - Full Notes/Neuronal oscillations in cortical networks..md",
+    "Untitled.canvas",
+    "3 - Tags/à check.md",
+    "5 - Full Notes/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
+    "1 - Rough Notes/Récepteurs NMDA.md",
+    "5 - Full Notes/The cascading influence of multisensory processing on speech perception in autism.md",
+    "5 - Full Notes/Sensorialité chez les personnes TSA.md",
+    "5 - Full Notes/Neurobiologie des Troubles Obsessionnels Compulsifs.md",
     "5 - Full Notes/Neurobiologie des émotions.md",
+    "5 - Full Notes/Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome.md",
+    "3 - Tags/tempo.md",
+    "3 - Tags/constante de temps.md",
     "2 - Source Materials/Pasted image 20241104144349.png",
     "2 - Source Materials/Pasted image 20241104154904.png",
     "2 - Source Materials/Pasted image 20241104154809.png",
@@ -171,20 +190,11 @@
     "2 - Source Materials/Pasted image 20241104153258.png",
     "2 - Source Materials/Pasted image 20241104153028.png",
     "2 - Source Materials/Pasted image 20241104152957.png",
-    "5 - Full Notes/The cascading influence of multisensory processing on speech perception in autism.md",
     "4 - Indexes/Index non exhaustif des lectures terminées.md",
-    "5 - Full Notes/Récepteurs NMDA.md",
-    "5 - Full Notes/Sensorialité chez les personnes TSA.md",
-    "5 - Full Notes/Neuronal oscillations in cortical networks..md",
-    "5 - Full Notes/Neurobiologie des Troubles Obsessionnels Compulsifs.md",
-    "5 - Full Notes/Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome.md",
-    "5 - Full Notes/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "3 - Tags/Closed.md",
     "Templates/Note.md",
-    "Untitled.canvas",
     "3 - Tags/Sentiments.md",
     "3 - Tags/conscien.md",
-    "6 - En cours de rédaction/Eloge de la fuite - Henri Laborit.md",
     "3 - Tags/Open.md",
     "PDF/Index non exhaustif des lectures terminées.pdf",
     "PDF/Neurobiologie des émotions.pdf",
@@ -193,12 +203,8 @@
     "1 - Rough Notes/Index des lectures envisagées.md",
     "3 - Tags/Interneurone.md",
     "3 - Tags/Neuro.md",
-    "3 - Tags/figure ici.md",
-    "3 - Tags/synchrony.md",
-    "3 - Tags/serotonirgenic.md",
     "PDF",
     "Nouveau dossier",
-    "3 - Tags/TSA.md",
     "6 - En cours de rédaction",
     "Templates",
     "5 - Full Notes",

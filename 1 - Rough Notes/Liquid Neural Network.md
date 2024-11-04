@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[intellience artificielle]] [[AI]] [[neurone]] [[attention]] [[circuit neuronaux]] 
+Tags: [[intelligence artificielle]] [[neurone]] [[attention]] [[circuit neuronaux]] [[constante de temps]]
 
 # Liquid Neural Network
 
@@ -44,7 +44,7 @@ Ex : Autonomous car : the attention map is now mainly centered on the road. More
 ![[Pasted image 20241104144349.png]]
 
 Common ground between neurosciences & machine learning :
-	**Continuous time/depth neural network** = Neural ODE
+	**Continuous time/depth neural network** = Neural [[ODE]]
 
 ![[Pasted image 20241104144610.png]]
 Depth dimension = continuous 
@@ -92,7 +92,7 @@ y-axis = steering angle (blue = right, yellow = left), x-axis = time constant.
 
 LTC : have stable state & time constant.
 
-- Theorem1 : Time-constance of each neuron is bouded:
+- Theorem1 : Time-constant of each neuron is bouded:
 	* $\tau$_i / (1+$\tau$_iW_i) <= $\tau$_sys <= $\tau$_i 
 - Theorem 2: state of each LTC neuron is bounded. each synapse has a bias 'A', max(A) = max of the state. 
 - Theorem 3: Universal approximators. 

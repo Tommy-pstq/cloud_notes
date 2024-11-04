@@ -16,7 +16,7 @@ Tags: [[perception]] [[mutlisens]] [[TSA]]
 
 * Chez les enfants TSA:
 	* FIT supérieure 
-	* **Associations temporelles moins précises** particulièrement pour signaux sociaux.
+	* **Associations [[tempo]]relles moins précises** particulièrement pour signaux sociaux.
 * Intégration multisensorielle très bénéfiques, surtout dans des environnements bruyants.
 	* Reconnaissance de la parole plus précise et moins fatigante si le visage est visible pour les individus TD. Moins de bénéfices dans les populations TSA.
 

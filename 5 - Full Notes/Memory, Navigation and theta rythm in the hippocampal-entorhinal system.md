@@ -35,7 +35,7 @@ La mémoire sémantique se forme à partir de la reproduction d'épisodes sembla
 
 Pour qu'un système neuronal supporte la mémoire de manière efficace il est nécessaire qu'il puisse : 
 - Stocker de grande quantité de données sous forme de représentations orthogonales (Dimensionalité ++)
-- Générer de manière autonome des séquences d'[[assemblage]] de cellules temporellement évolutives.
+- Générer de manière autonome des séquences d'[[assemblage]] de cellules [[tempo]]rellement évolutives.
 Le système hippocampo-entorhinal offre ces propriétés anatomique & physiologique. 
 
 ### Cartes allocentriques & mémoire sémantique
@@ -131,7 +131,7 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
 Activité neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'hippocampe: les place cells représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
-- Assemblage: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones spike durant un intervale de temps inférieur à la constante de temps de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le neurone reader.
+- Assemblage: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones spike durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le neurone reader.
 - Les spikes d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
 - la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  récepteurs [[GABA]].a [[AMPA]] , dont les interactions génèrent le rythme [[gamma]] (14).  
 - Assemblages dans l'hippocampe, durée de vie = 10-30ms --> 5-9 assemblage, chacun contenu dans un cycle gamma, durant un cycle theta. 

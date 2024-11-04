@@ -28,7 +28,7 @@ Nécessite des études sur d'autres motif neuronaux basique impactés dans le TS
  - [[Rivalité binoculaire]] moins efficace que dans la population générale. 
 Cependant: l'acuité visuelle, la discrimination de contraste ou d'orientation ne sont pas impactés, les performances  sont semblable à la population globale.
 
-Hypothèse avancé par 1) : **Décalage dans la synthèse temporelle : les patterns globaux apparaissent plus lentement**
+Hypothèse avancé par 1) : **Décalage dans la synthèse [[tempo]]relle : les patterns globaux apparaissent plus lentement**
 Ex : personnes TSA ont des difficultés pour identifier la direction moyenne d'un nuage de points dont chacun possède un vecteur directionnel unique. En outre, l'amplitude de cette difficulté est prédictive de la sévérité du TSA.
 
 ##### [[Perception tactile]]
