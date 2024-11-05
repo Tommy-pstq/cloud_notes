@@ -3,8 +3,8 @@
 ## Livres
 L'homme Thermomètre, Laurent Cohen. 2021
 Où est le sens, Stephan Bohler. 2022
-Base de neurosciences, neuroanatomie fonctionnelle (De boeck) 09-2024
-Neuroscience fonctionnelles (De boeck) 10-2024
+Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) 09-2024
+Neurosciences fonctionnelles (De boeck) 10-2024
 Neurobiologie des émotions, 2022, Catherine Belzung 10-2024 
 
 ## Articles
