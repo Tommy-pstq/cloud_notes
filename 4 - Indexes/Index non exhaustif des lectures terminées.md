@@ -5,10 +5,10 @@ L'homme Thermomètre, Laurent Cohen. 2021
 Où est le sens, Stephan Bohler. 2022
 Base de neurosciences, neuroanatomie fonctionnelle (De boeck) 09-2024
 Neuroscience fonctionnelles (De boeck) 10-2024
-Neurobiologie des émotions, 2022, Catherine Belzung 10-2024 [[Closed]]
+Neurobiologie des émotions, 2022, Catherine Belzung 10-2024 
 
 ## Articles
-Sensory perception in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024 [[Closed]] 
+Sensory perception in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024 
 
 Memory, Navigation and theta rythm in the hippocampal-enthorinal system - Buszaki, Moser,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024
 
@@ -22,7 +22,7 @@ Neurobiology of obsessive–compulsive disorder: insights into neural circuitry 
 
 Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
 
-The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 [[Open]] 
+The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 
 
 Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745
 # Psychologie
