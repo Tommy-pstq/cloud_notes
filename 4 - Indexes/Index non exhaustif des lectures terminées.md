@@ -24,7 +24,11 @@ Internally generated cell assembly sequences in the rat hippocampus. Pastalkova,
 
 The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 
 
-Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745
+Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745 10-2024
+
+High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001 11-2024
+
+The Association of Paternal IQ With Autism Spectrum Disorders and Its Comorbidities: A Population-Based Cohort Study Gardner, Renee M. et al. Journal of the American Academy of Child & Adolescent Psychiatry, Volume 59, Issue 3, 410 - 421 11-2024
 # Psychologie
 
 ## Livres

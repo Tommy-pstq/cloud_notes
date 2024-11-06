@@ -2,7 +2,7 @@
 
 Status: Closed.  
 
-Tags: [[Neurobiologie]] [[Emotions]] [[génétique]] [[empathie]] [[conscien]]ce
+Tags: [[Neurobiologie]] [[émotion]] [[génétique]] [[empathie]] [[conscien]]ce
 
 # Neurobiologie des émotions
 
