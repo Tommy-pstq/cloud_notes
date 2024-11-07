@@ -37,6 +37,33 @@ Mais:
 	2. Estimation de l'output de circuit RLC non-linéaire
 	3. Classification d'images d'afflictions rétiniennes 
 
+### Travaux connexes 
+- Efficace pour modélisation fine de dynamiques temporelles. 
+- ODE-RNN -> échantillonnage irrégulier
+- Intégration de Neural ODE dans des CNN.
+- nODE efficace pour structure graphée -> systèmes biologiques / réseaux sociaux
+- Réinterprétation de ResNets en tant que solver d'équation différentielle ordinaire (ODE) : ResNets ~~ discretized ODE.
+### nODE-based Model's background
+
+- ResNets : skip connections, préserve les données d'entrée. Aide à l'entrainement.
+
+- Système dynamique déterministe : gouvernés par des règles décrites par des équations différentielles. 
+	- Beaucoup de méthodes ont été développés pour les résoudre numériquement et sont prêtes à être intégrées dans des réseaux de neurones artificiels. 
+
+- ResNets -> ODEnet:
+	- La dimension temporelle devient un paramètre du réseau.
+	- Trajectoire d'un ODEnet définit par des conditions initiales locales et des dynamiques partagées dans toutes les séries temporelles. 
+	- Résoudre des ODE par un ODEnet implique l'utilisation de solver d'ODE, calculant l'output du réseau comme une fonction temporelle . 
+- Entraînement d'ODEnet:
+	- Backpropagation temporelle continue
+	- Soucis de valeur initiale: résolue par la méthode des états adjoints
+		- Second ODE en temps inverse calculant le gradient : facilite l'optimisation des poids et de la dynamique du réseau.
+
+Sujet de cette recherche: "Augmented state", prenant en compte les gradients des paramètres du réseau.
+	- Premiers aperçus de l'intégrations d'ODE dans des réseaux, permettant un apprentissage efficace & précis pour des tâches non séquentielles.
+
+##### Systèmes dynamiques
+
 ## Refs
 
 - Generalized Framework for Liquid Neural Network upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525
