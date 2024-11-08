@@ -11,18 +11,31 @@
             "id": "ee24603c65eb4c6d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "2 - Source Materials/{9ADEC88B-10D5-43D5-B0E6-94E5488E8863}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{9ADEC88B-10D5-43D5-B0E6-94E5488E8863}"
+            }
+          },
+          {
+            "id": "8f73dc151e5b5ef2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Index non exhaustif des lectures terminées.md",
+                "file": "5 - Full Notes/Self-projection and the brain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index non exhaustif des lectures terminées"
+              "title": "Self-projection and the brain"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,9 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee24603c65eb4c6d",
+  "active": "df3bbea2c4f4a176",
   "lastOpenFiles": [
+    "5 - Full Notes/The cascading influence of multisensory processing on speech perception in autism.md",
+    "2 - Source Materials/{985254C6-39F1-4690-9CD4-96963C5C6D77}.png",
+    "2 - Source Materials/{9ADEC88B-10D5-43D5-B0E6-94E5488E8863}.png",
+    "5 - Full Notes/Self-projection and the brain.md",
+    "3 - Tags/activité.md",
+    "3 - Tags/Théorie de l'esprit.md",
+    "5 - Full Notes/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "5 - Full Notes/Generalized Framework for Liquid Neural Network upon Sequential and Non-Sequential Tasks.md",
+    "4 - Indexes/Index non exhaustif des lectures terminées.md",
     "1 - Rough Notes/Intelligence, ASD, ADHD..md",
     "2 - Source Materials/{FFD76FB8-B820-4C02-8000-96A3B45045E7}.png",
     "2 - Source Materials/{1BEE3B75-5462-4D2C-9EE8-A05476CA4380}.png",
@@ -174,11 +195,7 @@
     "2 - Source Materials/{9EDA6CFC-8099-4A4E-8BA7-36A385595D38}.png",
     "2 - Source Materials/{1BEE8459-54BB-4522-8017-B584247BCE2B}.png",
     "2 - Source Materials/{205BD407-6BD5-402A-B904-BEC164EDA79F}.png",
-    "2 - Source Materials/{365A8902-821D-4C1A-AC61-75A2A28CE806}.png",
-    "2 - Source Materials/{F791808C-6E51-40F7-BC1C-5A2AD249318F}.png",
-    "4 - Indexes/Index non exhaustif des lectures terminées.md",
     "Untitled.canvas",
-    "5 - Full Notes/The cascading influence of multisensory processing on speech perception in autism.md",
     "3 - Tags/émotion.md",
     "5 - Full Notes/Neurobiologie des émotions.md",
     "5 - Full Notes/Sensorialité chez les personnes TSA.md",
@@ -189,7 +206,6 @@
     "6 - En cours de rédaction/Eloge de la fuite - Henri Laborit.md",
     "5 - Full Notes/Neuronal oscillations in cortical networks..md",
     "3 - Tags/à check.md",
-    "5 - Full Notes/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "1 - Rough Notes/Récepteurs NMDA.md",
     "5 - Full Notes/Neurobiologie des Troubles Obsessionnels Compulsifs.md",
     "5 - Full Notes/Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome.md",
@@ -198,11 +214,8 @@
     "3 - Tags/Closed.md",
     "Templates/Note.md",
     "3 - Tags/Sentiments.md",
-    "3 - Tags/conscien.md",
-    "3 - Tags/Open.md",
     "PDF/Index non exhaustif des lectures terminées.pdf",
     "PDF/Neurobiologie des émotions.pdf",
-    "3 - Tags/Perception auditive.md",
     "PDF",
     "Nouveau dossier",
     "6 - En cours de rédaction",

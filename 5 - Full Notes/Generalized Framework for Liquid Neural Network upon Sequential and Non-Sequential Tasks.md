@@ -51,7 +51,7 @@ Mais:
 	- Beaucoup de méthodes ont été développés pour les résoudre numériquement et sont prêtes à être intégrées dans des réseaux de neurones artificiels. 
 
 - ResNets -> ODEnet:
-	- La dimension temporelle devient un paramètre du réseau.
+	- La dimension [[tempo]]relle devient un paramètre du réseau.
 	- Trajectoire d'un ODEnet définit par des conditions initiales locales et des dynamiques partagées dans toutes les séries temporelles. 
 	- Résoudre des ODE par un ODEnet implique l'utilisation de solver d'ODE, calculant l'output du réseau comme une fonction temporelle . 
 - Entraînement d'ODEnet:
@@ -109,7 +109,7 @@ $$\frac{dx}{dt}=0 = -\frac{x}{\tau} + f(x, I, \theta, (A-x))$$
 Suppose que le système a atteint un état d'équilibre, donc indépendant du temps. 
 
 
-*Bon, après ça déroule les calcules etc, j'vais pas trop creuser car pas nécessaire pour l'instant.*
+*Bon, après ça déroule les calculs etc, j'vais pas trop creuser car pas nécessaire pour l'instant.*
 In fine, on se retrouve avec des fonctions pour : 
 - Les inputs externes
 - l'auto-régulation

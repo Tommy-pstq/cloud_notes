@@ -194,7 +194,7 @@ Memory, Navigation and theta rythm in the hippocampal-entorhinal system - Buszak
 7. Wilson, M.A. & McNaughton, B.L. Dynamics of the hippocampal ensemble code for space. Science 261, 1055–1058 (1993).
 8. Manns, J.R., Hopkins, R.O., Reed, J.M., Kitchener, E.G. & Squire, L.R. Recognition memory and the human hippocampus. Neuron 37, 171–180 (2003).
 9. Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C. & Fried, I. Invariant visual representation by single neurons in the human brain. Nature 435, 1102–1107 (2005).
-10. Buckner, R.L. & Carroll, D.C. Self-projection and the brain. Trends Cogn. Sci. 11, 49–57 (2007).  [[à check]] 
+10. Buckner, R.L. & Carroll, D.C. Self-projection and the brain. Trends Cogn. Sci. 11, 49–57 (2007).  
 11.  Burgess, N., Maguire, E.A. & O’Keefe, J. The human hippocampus and spatial and episodic memory. Neuron 35, 625–641 (2002).
 12. Lisman, J.E. Relating hippocampal circuitry to function: recall of memory sequences by reciprocal dentate-CA3 interactions. Neuron 22, 233–242 (1999).
 13. Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024 [[à check]] 
