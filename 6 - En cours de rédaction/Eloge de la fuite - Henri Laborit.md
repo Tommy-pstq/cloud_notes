@@ -1,7 +1,5 @@
 2024-10-14 21:12
 
-Status: [[Open]]
-
 Tags: 
 
 petite biographie GPT: 

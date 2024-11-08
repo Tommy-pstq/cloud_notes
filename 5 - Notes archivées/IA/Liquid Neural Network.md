@@ -7,7 +7,7 @@ Tags: [[intelligence artificielle]] [[neurone]] [[attention]] [[circuit neuronau
 # Liquid Neural Network
 
 - Objectif : se rapprocher des systèmes naturels au dépend du côté algorithmique.
-	- Neurone flexible
+	- [[neurone]] flexible
 	(Finalement, j'vais prendre des notes à partir de la vidéo.)
 
 - Besoin de nouvelles idées, au risque de voir les futurs résultats n'être plus qu'incrémentaux. 
@@ -92,11 +92,11 @@ y-axis = steering angle (blue = right, yellow = left), x-axis = time constant.
 
 LTC : Possède des états d'équilibre et des [[constante de temps]]
 
-Théorème 1 : La [[constante de temps]] de chaque neurone est bornée :
+Théorème 1 : La [[constante de temps]] de chaque [[neurone]] est bornée :
 
     $\tau_i / (1 + \tau_i W_i) \leq \tau_{sys} \leq \tau_i$
 
-Théorème 2 : L’état de chaque neurone LTC est borné. Chaque synapse a un biais "A", max(A) = maximum de l’état.
+Théorème 2 : L’état de chaque [[neurone]] LTC est borné. Chaque synapse a un biais "A", max(A) = maximum de l’état.
 
 Théorème 3 : Approximateurs universels.
 #### Expressivité

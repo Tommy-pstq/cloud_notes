@@ -23,7 +23,7 @@ Cependant: les individus à haut niveau de fonctionnement peuvent combler cette 
 - Avant cette expérience, on pensait qu'il était nécessaire d'avoir la capacité de "mentaliser" spontanément un concept pour pouvoir ensuite l'exprimer et l'expliquer verbalement.
 	- --> Ici, on voit que ce n'est pas nécessairement le cas (dans le cadre de cette étude), le [[raisonnement]] peut remplacer la spontanéité.
 * Cela implique que des apprentissages compensatoires peuvent contourner des limites neurophysiologiques.
-* Cependant, bien que ces apprentissages permettent de répondre correctement à des tests, ils impliquent d'effectuer des [[raisonnement|raisonnements]] conscient ce qui reste handicapant dans la vie de tous les jours. 
+* Cependant, bien que ces apprentissages permettent de répondre correctement à des tests, ils impliquent d'effectuer des [[raisonnement|raisonnements]] conscient ce qui reste handicapant dans les interactions [[social|sociales]]. 
 ## Refs
 
 Initiale:

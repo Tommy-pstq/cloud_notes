@@ -42,7 +42,7 @@ Grande variabilité de taille/architecture
 ### Synapse
 
 Terminaisons axoniques pré-[[synaptique]]: gorgées de [[vésicules synaptique]] (d=30-140 nm), contenant les [[neurotransmetteurs]]. 
-Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[membrane présynaptique]] --> Libération de [[neurotransmetteurs]] dans la [[fente synaptique]] --> modification de l'excitabilité du neurone post-[[synaptique]]. 
+Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[membrane présynaptique]] --> Libération de [[neurotransmetteurs]] dans la [[fente synaptique]] --> modification de l'excitabilité du [[neurone]] post-[[synaptique]]. 
 [[membrane postsynaptique ]] : grande quantité de [[récepteurs]], protéines captant les différents [[neurotransmetteurs]].
 
 [[Axone]] : 

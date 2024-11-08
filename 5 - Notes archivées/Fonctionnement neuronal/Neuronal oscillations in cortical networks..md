@@ -51,7 +51,7 @@ Les bénéfices spécifiques liés à chacun de ces deux types d'oscillateur dé
 
 Input puissant -> réponse des neurones & réseaux par des oscillations transitoires.
 - [[Membrane neuronale]] : [[conductance]] et [[capacitance]] de fuite --> filtre passe bas. 
-- Courants dirigés par un seuil de tension, dont la l'activation est proche du potentiel au repos de la membrane --> filtre passe haut. Permet au neurone de répondre à des arrivés rapides de signaux proches.
+- Courants dirigés par un seuil de tension, dont la l'activation est proche du potentiel au repos de la membrane --> filtre passe haut. Permet au [[neurone]] de répondre à des arrivés rapides de signaux proches.
 --> **passe bas & passe haut : résonateurs, coupe bande, oscillateurs à seuil réduit, passe bande**.  
 Comportement de résonance, permet la sélection d'input à partir de leur caractéristique fréquentielle. Changement de potentiel/[[conductance]] de la membre = changement de fréquence de préférence. 
 [[Interneurones]] corticaux: capacité à modifier leur fréquence et modifient ainsi la dynamique de leur réseau. Ex: [[cellule pyramidale]] dont les décharges haute fréquence entraine les basket cells (cellules de Purkinje) en résonnance, supprimant ainsi l'[[activité]] des autres cellules pyramidales avoisinante. 

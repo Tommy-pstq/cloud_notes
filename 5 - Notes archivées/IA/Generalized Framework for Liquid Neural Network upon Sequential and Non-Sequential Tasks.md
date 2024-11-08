@@ -45,7 +45,7 @@ Mais:
 - Réinterprétation de ResNets en tant que solver d'équation différentielle ordinaire ([[ODE]]) : ResNets ~~ discretized [[ODE]].
 ### nODE-based Model's background
 
-- ResNets : skip connections, préserve les données d'entrée. Aide à l'entrainement.
+- ResNets : skip connections, préserve les données d'entrée. Aide à l'[[Entrainement]].
 
 - [[Système dynamique]] [[déterministe]] : gouvernés par des règles décrites par des équations différentielles. 
 	- Beaucoup de méthodes ont été développés pour les résoudre numériquement et sont prêtes à être intégrées dans des réseaux de neurones artificiels. 

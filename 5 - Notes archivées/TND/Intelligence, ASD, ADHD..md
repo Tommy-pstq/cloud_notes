@@ -224,7 +224,7 @@ Etude de tissus de cerveau d'individus [[TSA]] post-mortem : traces de neuroinfl
 
 ### Différences avec les autres études sur la santé / intelligence.
 	
-Comme beaucoup d'autres études, celle-ci montre aussi un lien en HQI et revenu/position sociale/éducation. 
+Comme beaucoup d'autres études, celle-ci montre aussi un lien en HQI et revenu/position [[social|sociale]]/éducation. 
 Cependant, ces études montrent en général un lien positif également entre intelligence et santé physique/mentale, contrairement à celle-ci.
 
 	-> pourquoi ?

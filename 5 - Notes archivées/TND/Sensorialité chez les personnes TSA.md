@@ -2,7 +2,7 @@
 
 Status: Closed
 
-Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] 
+Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] [[social]] 
 
 # Sensorialité chez les personnes TSA
 
@@ -13,7 +13,7 @@ D'après 1) (2017):
 
 De plus, l'autisme est principalement considéré comme impactant et défini par des inaptitudes sociales, avec sensorialité  altérée en "bonus" 
 
-Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects cognitifs, dont la sensorialité et les interactions sociales. **la sensorialité spécifique engendrée par le [[TSA]] doit donc être considéré de manière égale à sa composante sociale ([[Théorie de l'esprit]])**  
+Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects cognitifs, dont la sensorialité et les interactions sociales. **la sensorialité spécifique engendrée par le [[TSA]] doit donc être considéré de manière égale à sa composante [[social|sociale]] ([[Théorie de l'esprit]])**  
 
 Hypothèse supportée par :
 	- [[Normalisation divisive]] altérée chez les personnes [[TSA]]
@@ -47,7 +47,7 @@ En plus : pop G. voit ses performances de détection d'un [[stimulus]] visuel am
 
 -> stimuli asynchrone perçu comme synchrones et leur association n'est pas aussi bénéfique qu'en popG.
 
-Le déficit d'association est particulièrement observé lors de l'étude de modalité audio-visuelles et peuvent constitué un frein conséquent au développement du langage et de la [[communication]] (article à lire - ajouté dans la reading list: [[neurosciences]]-articles-1)
+Le déficit d'association est particulièrement observé lors de l'étude de modalité audio-visuelles et peuvent constitué un frein conséquent au développement du langage et de la [[communication]] ([[The cascading influence of multisensory processing on speech perception in autism|Note ici]]) 
 
 
 ##### Neuro-Imagerie

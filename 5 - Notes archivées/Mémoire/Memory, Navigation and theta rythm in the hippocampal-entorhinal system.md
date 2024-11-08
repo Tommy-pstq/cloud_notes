@@ -131,7 +131,7 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
 [[activité]] neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[Place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
-- [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le neurone reader.
+- [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le [[neurone]] reader.
 - Les [[spike]]s d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
 - la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  [[récepteurs]] [[GABA]].a [[AMPA]] , dont les interactions génèrent le rythme [[gamma]] (14).  
 - Assemblages dans l'[[hippocampe]], durée de vie = 10-30ms --> 5-9 [[assemblage]], chacun contenu dans un cycle gamma, durant un cycle theta. 
@@ -179,7 +179,7 @@ Les places cells s'entremêlent régulièrement avec des séquences internes "r�
 
 Place fields & large grid size dans les parties ventrales de l'[[hippocampe]] et du [[cortex entorhinal]] dotés de longue connections, permettant l'activation synchrone de réseaux distants, cela permettrait de créer des liens de haute [[Complexité]] ("high order") pour permettre une [[navigation]] efficace.
 Cela permet également d'améliorer la flexibilité de la [[mémoire épisodique]]. 
--> Les mécanismes neuronaux permettant de sélection le chemin le plus efficace permettraient la sélection optimale des séquences nécessaire à la représentation d'un épisode mémoriel.  
+-> Les [[mécanismes neuronaux]] permettant de sélection le chemin le plus efficace permettraient la sélection optimale des séquences nécessaire à la représentation d'un épisode mémoriel.  
 ## Refs
 Article de base:
 Memory, [[navigation]] and theta rythm in the hippocampal-entorhinal system - Buszaki G., Moser E.,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024)
