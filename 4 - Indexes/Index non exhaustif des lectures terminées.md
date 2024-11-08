@@ -3,16 +3,16 @@
 ## Livres
 L'homme Thermomètre, Laurent Cohen. 2021
 Où est le sens, Stephan Bohler. 2022
-Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) 09-2024
-Neurosciences fonctionnelles (De boeck) 10-2024
-Neurobiologie des émotions, 2022, Catherine Belzung 10-2024 
+Bases de [[neurosciences]], neuroanatomie fonctionnelle (De boeck) 09-2024
+[[neurosciences]] fonctionnelles (De boeck) 10-2024
+[[Neurobiologie des émotions]], 2022, Catherine Belzung 10-2024 
 
 ## Articles
-Sensory perception in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024 
+Sensory [[perception]] in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - 09-2024 
 
-Memory, Navigation and theta rythm in the hippocampal-enthorinal system - Buszaki, Moser,  Nature Neurosciences, 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024
+Memory, [[navigation]] and theta rythm in the hippocampal-enthorinal system - Buszaki, Moser,  Nature [[neurosciences]], 2013. DOI: [10.1038/nn.3304](https://doi.org/10.1038/nn.3304) 09-2024
 
-Multimodal sensory integration and concurrent navigation strategies for spatial cognition in real and artificial organisms - Arleo A., Rondi-Reig L., Journal of integrative neurosciences, 2007.  DOI:[10.1142/s0219635207001593](https://doi.org/10.1142/s0219635207001593) 10-2024
+Multimodal sensory integration and concurrent [[navigation]] strategies for spatial cognition in real and artificial organisms - Arleo A., Rondi-Reig L., Journal of integrative [[neurosciences]], 2007.  DOI:[10.1142/s0219635207001593](https://doi.org/10.1142/s0219635207001593) 10-2024
 
 Mindblind eyes: an absence of spontaneous theory of mind in Asperger syndrome - Senju A, Southgate V, White S, Frith U.  Science. 2009 Aug 14;325(5942):883-5. DOI: [10.1126/science.1176170](https://doi.org/10.1126/science.1176170) 10-2024
 
@@ -22,13 +22,13 @@ Neurobiology of obsessive–compulsive disorder: insights into neural circuitry 
 
 Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
 
-The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 
+[[The cascading influence of multisensory processing on speech perception in autism]]. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 
 
 Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745 10-2024
 
 High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001 11-2024
 
-
+ [[Self-projection and the brain]]. Buckner RL, Carroll DC. Trends Cogn Sci. 2007 Feb;11(2):49-57. doi: 10.1016/j.tics.2006.11.004. Epub 2006 Dec 22. PMID: 17188554. 11-2024
 # Psycho/Psychia
 
 ## Livres
@@ -42,7 +42,7 @@ Thérapie des Schémas, Jeffrey E. Young. 08-2024
 # IA
 
 ## Articles
-- Generalized Framework for Liquid Neural Network upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525 11-2024
+- Generalized Framework for [[Liquid Neural Network]] upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525 11-2024
 # Art
 
 On n'y voit rien, Daniel Arasse. 2023

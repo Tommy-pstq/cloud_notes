@@ -1,0 +1,74 @@
+Tags arbitraires: [[récepteurs]] 
+### Architecture cérébrale
+Cerveau : 10¹⁵ [[synapses]] // 86.10⁹ neurones.
+- épaisseur cortex : 3mm
+- longueur cerveau : 15cm ~~ 
+Neurones : zones de :
+	- Réception
+	- intégration
+	- conduction
+	- transmission
+Grande variabilité de taille/architecture
+
+- Corps cellulaire (grands) ~ 100µm diam.
+- Axones & dendrites ~ 10µm diam.
+- Synapse ~ 1µm diam
+- Fente [[synaptique]] ~ 20nm
+- [[Membrane neuronale]] ~ 5nm
+- Canal ionique ~ 0.5 nm
+
+### Visualisation structures cérébrales
+- **Coloration de [[Colgi]]** : teinte l'intégralité de la cellule jusqu'au épines dendritiques.
+	- -> Caractérisation de la variabilité architecturale d'une zone.
+	- **Ne colore que certaines cellules, ultra bien, et d'autres presque pas.** raisons inconnues.
+* **Coloration de [[Nissl]]** : Teinte tous les corps cellulaires par interaction avec l'ARN entourant le noyau. 
+	* -> Mesure de la taille du [[Soma]]. 
+* **Autoradiographie** : Immersion dans une formule radioactive de médicament. Molécule retenues par le tissu nerveux -> émissions radioactives : expose l'émulsion photographique. 
+* **Immunocytochimie** : Exposition de coupes cérébrales à des [[anticorps]] spécifiques à certaines protéines d'intérêt. Puis [[anticorps]] fluo.
+* **Hybridation in situ** : target des gènes par sélection d'[[ARNm]] 
+* **Peroxydase du raifort [[HRP]]** : traçage jusqu'au [[Soma]] à partir d'un axone.
+
+### Cellules [[gliales]]
+ - Communiquent entre elles & avec les neurones
+ - Fournissent les nutriments essenciels
+ - Modifie la structure & excitabilité
+	 - Astroctytes : [[régulation]] du flux sanguin local. Impliqué création nouvelles [[synapses]].  trauma --> hypertrophie -> oedème. Cicatrisation. 
+	 - Cellules microgniales : très petite taille, émet/résorbe des prolongements en permanence à la recherche de lésion. ~ service de nettoyage cérébral.
+		 - Si lésion : confinement sphérique.
+* Production de myéline
+	* [[SNC]] : [[Oligodendrocytes]]
+	* SNP : cellules de [[Schwann]] 
+
+### Synapse
+
+Terminaisons axoniques pré-[[synaptique]]: gorgées de [[vésicules synaptique]] (d=30-140 nm), contenant les [[neurotransmetteurs]]. 
+Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[membrane présynaptique]] --> Libération de [[neurotransmetteurs]] dans la [[fente synaptique]] --> modification de l'excitabilité du neurone post-[[synaptique]]. 
+[[membrane postsynaptique ]] : grande quantité de [[récepteurs]], protéines captant les différents [[neurotransmetteurs]].
+
+[[Axone]] : 
+- Cône d'émergence = zone d'intégration des différents input reçus --> [[spike]]. 
+- [[transport axonal]] = production de protéines dans le [[Soma]], transport vers les régions distantes du neurones via l'axone. Substances à recycler/élimier convoyées dans l'axone jusqu'au [[Soma]]. 
+
+[[Nerfs crâniens]]:
+1. Olfactif, sensoriel
+2. Optique : vision, sensoriel
+3. Occulomoteur : adduction, moteur
+4. Trochléaire, moteur
+5. Trijumeau : sensoriel : sinus/visage/dents | moteur : mâchoire 
+6. Abducens : abduction
+7. Facial : sensoriel : langue/palais | moteur : muscles faciaux, glades salivaires & lacrymales
+8. Vestibulocochléaire : sensoriel : audition & équilibre 
+9. Glossopharyngien : sensoriel : goût et bouche, moteur : gorge
+10. Vague : sensoriel : organes internes, moteur : muscles lisses 
+11. Spinal accessoire : moteur : nuque
+12. Hypoglosse : moteur : langue.
+## [[ganglions de la base]]  
+ Sensibles aux déséquilibres dopaminergiques.
+ - [[noyaux caudé]] : contrôle moteur & [[fonctions cognitives]] & émotionnelles
+ - [[putamen]] : [[régulation]] des mouvements volontaire & [[apprentissage]] moteur
+ - [[Globus pallidus]] : Relais dans la modulation des signaux moteurs 
+ - [[noyau sous-thalamique]] : [[régulation]] des mouvements. 
+ - [[substance noire]] : production de [[dopamine]] # Lié à Parkinson
+ - [[noyaux accumbens]] : récompense & [[motivation]], [[régulation]] motrice via interaction avec les autres [[ganglions de la base]] 
+
+### [[striatum]] 
