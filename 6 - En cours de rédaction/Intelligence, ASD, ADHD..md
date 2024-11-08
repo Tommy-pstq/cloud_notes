@@ -242,6 +242,21 @@ Cependant, ces études montrent en général un lien positif également entre in
 * Enfin : Beaucoup d'études entre intelligence & santé se basent sur des critères d'évaluation génériques : pression sanguine, hypertension, cardiologie, cancers, habitude de sommeil, nombre de visite chez un docteur, niveaux d'énergie. Dans le cas de l'étude actuelle il y a un focus sur la PNI (psychoneuroimmunologie), ce qui ne peut pas être comparé aux précédents éléments.
 * Certaines études se basent sur le niveau académique plutôt que des scores de QI : pas viable car passe à côté de potentiellement beaucoup d'individus très/sur-doués mais ayant, volontairement ou à cause d'autres troubles, choisi d'autres voies.
 * D'autres études trouvent des conslusions similaire à celle-ci en divisant les individus HQI entre ceux présentant des compétences verbales ou s'orientant vers des domaines artistiques et les autres.
+
+## ADHD/ASD/IQ & Genetic
+
+Ref3 
+
+##### Datasets
+ - ADHD = 20k sujets, 35k contrôles. Processus Ricopili 
+ - ASD = 18k sujets, 28k contrôles. Sous population d'une cohorte comprenant tous les enfants nés au Danemark entre 1981  & fin 2005.
+ - Intelligence = 269k sujets. Cumule de plusieurs cohortes.
+ 
+ **_Results:_** Our results showed that intelligence has a positive and negative genetic correlation with ASD and ADHD, respectively, including three hub genomic regions showing correlated genetic effects across the three traits. Polygenic overlap analysis indicated that all the risk variants contributing to ADHD are overlapped with half of those for intelligence, and the majority of the shared variants have opposite effect directions between them. The majority of risk variants (80%) of ASD are overlapped with almost all the risk variants of intelligence (97%). Notably, some ASD/intelligence overlapping variants displayed opposing effects on these two conditions. MR analysis showed that the genetic liability to higher intelligence was associated with an increased risk for ASD (OR = 1.12) and a decreased risk for ADHD (OR = 0.78) (**masquage TDAH par capacité cognitive ++ ?**). Cross-trait meta-analyses identified 170 pleiotropic genomic loci across the three traits, including 12 novel loci. Functional analyses of the novel genes support their potential involvement in neurodevelopment.
+  
+ **_Conclusion:_** Our results suggest that ADHD is associated with inheriting a reduced set of low-intelligence alleles, whereas ASD results from incongruous effects from a mixture of high-intelligence and low-intelligence contributing alleles summed up with additional, ASD-specific risk variants not associated with intelligence. 
+ 
+
 ## Refs
 1.  High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001
 	1. # Sensory Sensitivities of Gifted Children [https://doi.org/10.5014/ajot.63.3.288](https://doi.org/10.5014/ajot.63.3.288) 
@@ -259,4 +274,3 @@ Cependant, ces études montrent en général un lien positif également entre in
 		- Fombonne E, Bolton P, Prior J, Jordan H, Rutter M. A family study of autism: cognitive patterns and levels in parents and siblings. J Child Psychol Psychiatry. 1997;38:667-683.
 		- Gizzonio V, Avanzini P, Fabbri-Destro M, Campi C, Rizzolatti G. Cognitive abilities in siblings of children with autism spectrum disorders. Exp Brain Res. 2014;232: 2381-2390.
 - Shuquan Rao, A. Baranova, Yao Yao, Jun Wang and Fuquan Zhang. "Genetic Relationships between Attention-Deficit/Hyperactivity Disorder, Autism Spectrum Disorder, and Intelligence." _Neuropsychobiology_, 81 (2022): 484 - 496. [https://doi.org/10.1159/000525411](https://doi.org/10.1159/000525411).
-- Katusic, M., Myers, S., Weaver, A., & Voigt, R. (2021). IQ in Autism Spectrum Disorder: A Population-Based Birth Cohort Study.. _Pediatrics_. [https://doi.org/10.1542/peds.2020-049899](https://doi.org/10.1542/peds.2020-049899).
