@@ -28,14 +28,21 @@ Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 
 
 High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001 11-2024
 
-The Association of Paternal IQ With Autism Spectrum Disorders and Its Comorbidities: A Population-Based Cohort Study Gardner, Renee M. et al. Journal of the American Academy of Child & Adolescent Psychiatry, Volume 59, Issue 3, 410 - 421 11-2024
-# Psychologie
+
+# Psycho/Psychia
 
 ## Livres
 Psychopathologie de la vie quotidienne, Sigmund Freud. 2022
 Diagnostiques des TND chez l'adulte, Maëva Rollin. 02-2024
 Thérapie des Schémas, Jeffrey E. Young. 08-2024
 
+## Articles
+
+- The Association of Paternal IQ With Autism Spectrum Disorders and Its Comorbidities: A Population-Based Cohort Study Gardner, Renee M. et al. Journal of the American Academy of Child & Adolescent Psychiatry, Volume 59, Issue 3, 410 - 421 11-2024 11-2024
+# IA
+
+## Articles
+- Generalized Framework for Liquid Neural Network upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525 11-2024
 # Art
 
 On n'y voit rien, Daniel Arasse. 2023
