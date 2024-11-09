@@ -36,17 +36,17 @@
       }
     },
     {
-      "query": "path:\"5 - Notes archivées/Autres\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15462383
-      }
-    },
-    {
       "query": "path:\"6 - En cours de rédaction\"  ",
       "color": {
         "a": 1,
         "rgb": 10770081
+      }
+    },
+    {
+      "query": "path:\"5 - Notes archivées/Chapitres - livre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2723437
       }
     }
   ],
