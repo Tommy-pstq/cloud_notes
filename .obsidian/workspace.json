@@ -11,10 +11,15 @@
             "id": "d282db5d2a7618ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch1 - perception & attention..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neurosciences cognitives - ch1 - perception & attention."
             }
           }
         ]
@@ -160,6 +165,7 @@
   },
   "active": "d282db5d2a7618ec",
   "lastOpenFiles": [
+    "2 - Source Materials/20241109_181913.jpg",
     "3 - Tags/neurone.md",
     "2 - Source Materials/{AB13256A-3038-4254-BC01-2257090EC26C}.png",
     "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch1 - perception & attention..md",

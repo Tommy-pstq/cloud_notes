@@ -88,6 +88,8 @@ Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une co
 	- Modification du gain.
 -> Modification dynamique des champs [[récepteurs]].
 
+![[20241109_181913.jpg|400]]
+
 - Focalisation sur une région spécifique du champ visuel -> modulation de l'[[activité]] dans les aires rétinotopiques associées.
 	- A priori via des connections feedback venant des aires supérieures. (2)
 
