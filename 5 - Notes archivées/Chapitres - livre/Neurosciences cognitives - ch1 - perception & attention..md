@@ -19,12 +19,12 @@ Objectif du chapitre : *faire le lien entre [[psychologie]] et [[neurosciences]]
 ### Rétinotopie
 [[rétinotopie|Rétinotopie]] : permet de réduire la quantité d'informations à traiter. En répartissant les capacité de traitement de manière inégale : privilégier une partie du champ visuelle (le centre).
 
-[[champ récepteur]] : Chaque cellule photosensible de la rétine reçoit de la lumière d'une partie restreinte d'une monde visuel. Ces cellules envoient leur signal vers des neurones. On définit comme [[champ récepteur]] la petite surface visuelle qu'un neurone reçoit comme input. 
+[[champ récepteur]] : Chaque cellule photosensible de la rétine reçoit de la lumière d'une partie restreinte d'une monde visuel. Ces cellules envoient leur signal vers des neurones. On définit comme [[champ récepteur]] la petite surface visuelle qu'un [[neurone]] reçoit comme input. 
 
 Rétine : plus de cellules photosensibles au centre. 
 +
 [[convergence|Convergence]] : Les cellules photosensibles périphériques projettent sur un plus faible nombre de neurones que celles du centre.
-	- Plusieurs dizaines/centaines de cellules périphériques projettent sur un même neurone
+	- Plusieurs dizaines/centaines de cellules périphériques projettent sur un même [[neurone]]
 		- perte de résolution.
 
 [[magnification|Magnification]] : Nombre de neurones traitant l'info en provenance du champ visuel est inversement proportionnel à la distance du centre du champ visuel.
@@ -86,7 +86,7 @@ Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une co
 - L'[[attention]] module la courbe d'ajustement des neurones, modulation de la sélectivité par:
 	- Réduction de la variance.
 	- Modification du gain.
--> Modification dynamique des champs récepteurs.
+-> Modification dynamique des champs [[récepteurs]].
 
 - Focalisation sur une région spécifique du champ visuel -> modulation de l'[[activité]] dans les aires rétinotopiques associées.
 	- A priori via des connections feedback venant des aires supérieures. (2)

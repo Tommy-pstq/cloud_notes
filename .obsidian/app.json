@@ -12,5 +12,6 @@
     "Templates/",
     "4 - Indexes/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "2 - Source Materials"
 }

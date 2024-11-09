@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c131ea36f6b6b80d",
+        "id": "843d3c94ac3a09fa",
         "type": "tabs",
         "children": [
           {
-            "id": "7b8374a417e4f5ba",
+            "id": "d282db5d2a7618ec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -158,8 +158,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7b8374a417e4f5ba",
+  "active": "d282db5d2a7618ec",
   "lastOpenFiles": [
+    "3 - Tags/neurone.md",
     "2 - Source Materials/{AB13256A-3038-4254-BC01-2257090EC26C}.png",
     "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch1 - perception & attention..md",
     "{AB13256A-3038-4254-BC01-2257090EC26C}.png",
@@ -182,7 +183,6 @@
     "3 - Tags/échantillonnage.md",
     "3 - Tags/mécanismes neuronaux.md",
     "5 - Notes archivées/Mémoire/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
-    "3 - Tags/neurone.md",
     "3 - Tags/motivation.md",
     "3 - Tags/dopamine.md",
     "3 - Tags/régulation.md",
@@ -203,7 +203,6 @@
     "2 - Source Materials/{114B1447-0BA0-4F1A-85F8-545938F821FA}.png",
     "2 - Source Materials/{9EDA6CFC-8099-4A4E-8BA7-36A385595D38} 1.png",
     "2 - Source Materials/{9EDA6CFC-8099-4A4E-8BA7-36A385595D38}.png",
-    "2 - Source Materials/{1BEE8459-54BB-4522-8017-B584247BCE2B}.png",
     "Untitled.canvas",
     "PDF/Sensorialité chez les personnes TSA.pdf",
     "PDF/Index non exhaustif des lectures terminées.pdf"
