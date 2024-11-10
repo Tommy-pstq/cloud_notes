@@ -1,0 +1,2 @@
+- Neurones agnostiques de l'espace. 
+- Informés des mouvement relatifs entre segments corporels.

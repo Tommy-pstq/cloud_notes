@@ -1,0 +1,1 @@
+- Neurones codant la position que nous pensons estimer dans l'espace ([[Place cells]]), de manière [[allocentrique]] 

@@ -1,0 +1,2 @@
+- Régule l'exécution motrice
+- Modifie le geste en fonction de l'apprentissage
