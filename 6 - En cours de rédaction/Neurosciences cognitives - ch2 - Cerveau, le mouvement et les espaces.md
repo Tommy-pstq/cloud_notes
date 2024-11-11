@@ -143,6 +143,7 @@ Expérience de la main de caoutchouc:
 
 ## IV La marche
 
+
 ## Refs
 
 1. Kahane P, Hoffmann D, Minotti L, Berthoz A. Reappraisal of the human vestibular cortex by cortical electrical stimulation study. Ann Neurol. 2003 Nov;54(5):615-24. doi: 10.1002/ana.10726. PMID: 14595651.

@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 2723437
       }
+    },
+    {
+      "query": "path:\"5 - Notes archivées/Shorts - Discussions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1710663
+      }
     }
   ],
   "collapse-display": true,
