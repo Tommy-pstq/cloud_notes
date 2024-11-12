@@ -1,5 +1,9 @@
+
+*Dernier update: 12/11/2024*
+![[Pasted image 20241112190349.png]]
 *Les références dont la checkbox est validée sont celles ayant été résumées en une note,  l'absence de checkbox implique une lecture sans note associée dans le vault. (lecture précédant la mise en place de cet environnement ou effectuée sans possibilité de prise de note numérique)
 Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu mais pas encore transcrit en une note*
+
 # Neurosciences
 
 ## Livres
@@ -57,3 +61,6 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 
 ## Articles
 - [x] Generalized Framework for [[Liquid Neural Network]] upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525 11-2024
+
+
+
