@@ -11,10 +11,15 @@
             "id": "d282db5d2a7618ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Index non exhaustif des lectures terminées.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index non exhaustif des lectures terminées"
             }
           }
         ]
@@ -160,12 +165,18 @@
   },
   "active": "d282db5d2a7618ec",
   "lastOpenFiles": [
+    "6 - En cours de rédaction/Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation.md",
+    "5 - Notes archivées/Mémoire/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
+    "6 - En cours de rédaction/Psychobiologie - Neuroanatomie fonctionnelle.md",
+    "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch2 - Cerveau, le mouvement et les espaces.md",
+    "5 - Notes archivées/Chapitres - livre/Neurobiologie des émotions.md",
+    "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch1 - perception & attention..md",
+    "4 - Indexes/Index non exhaustif des lectures terminées.md",
     "3 - Tags/anxiété.md",
     "3 - Tags/sérotoninergique.md",
     "3 - Tags/fonctions cognitives.md",
     "3 - Tags/inconscience.md",
     "3 - Tags/empathie.md",
-    "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch2 - Cerveau, le mouvement et les espaces.md",
     "3 - Tags/TDAH.md",
     "3 - Tags/psychologie.md",
     "2 - Source Materials/Pasted image 20241112121208.png",
@@ -179,17 +190,11 @@
     "3 - Tags/thérapie narrative.md",
     "3 - Tags/dépression.md",
     "3 - Tags/anorexie.md",
-    "6 - En cours de rédaction/Psychobiologie - Neuroanatomie fonctionnelle.md",
     "2 - Source Materials/Pasted image 20241110174321.png",
     "3 - Tags/cortex préfrontal.md",
     "3 - Tags/cervelet.md",
     "3 - Tags/parahippocampe.md",
     "3 - Tags/gyrus fusiforme.md",
-    "3 - Tags/ganglions de la base.md",
-    "3 - Tags/putamen.md",
-    "3 - Tags/colliculus supérieur.md",
-    "3 - Tags/amygdale.md",
-    "3 - Tags/vicariance.md",
     "2 - Source Materials/20241109_181913.jpg",
     "2 - Source Materials/{AB13256A-3038-4254-BC01-2257090EC26C}.png",
     "{AB13256A-3038-4254-BC01-2257090EC26C}.png",

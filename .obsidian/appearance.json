@@ -1,5 +1,8 @@
 {
   "cssTheme": "Everforest",
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "non_strikethrough_checkbox"
+  ]
 }
