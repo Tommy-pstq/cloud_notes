@@ -30,7 +30,7 @@ Deuxième : " Si les majorité des interactions avec l'individu son centrées su
 * [[thérapie stratégique|Thérapie stratégique]], expliquée dans (1), proposée après plusieurs autres approches inefficaces :
 	* Plutôt que d'essayer tout faire jusqu'à forcer/tromper l'individu pour qu'il mange ("*logique du sacrifice et une attitude protectrice*"), pendant une courte période ([[thérapie brève]]) (2 semaines dans le cas décrit), prendre le problème dans l'autre sens:
 		* Eviter de parler du problème (risque de l'alimenter)
-		* Peut de lui demander de manger 
+		* Peur de lui demander de manger 
 		* Placer l'individu "dans une situation de frustration vis à vis de son symptôme"
 			* Ne pas l'inviter à manger, mais en plus ne pas mettre son couvert.
 				* " à quoi ça sert puisque tu ne manges pas ?"
@@ -42,7 +42,7 @@ Deuxième : " Si les majorité des interactions avec l'individu son centrées su
 Ce que j'ai compris en lisant les extraits du bouquin (1) à propos de la stratégie:
 - Les parents et proches, en exprimant leur inquiétude, angoisse, essayant de forcer la personne à manger entretienne le TCA de deux manières:
 	- Beaucoup d'interactions à propos du TCA, donc l'[[activité]] neural y étant lié est régulière, il devient donc un sujet de rumination quasi permanent.
-	- Ces interactions sont majoritairement perçues comme positives car empathique  (*on essaie de s'occuper de moi),* l'individu peut donc associer cette [[attention]] positive à son trouble, ce qui va nécessairement le renforcer (on rappel le besoin de reconnaissance). 
+	- Ces interactions sont majoritairement perçues comme positives car empathique  (*on essaie de s'occuper de moi),* l'individu peut donc associer cette [[attention]] positive à son trouble, ce qui va nécessairement [[consolidation|le renforcer]] (on rappel le besoin de reconnaissance). 
 * Solution: 
 	* Diminution drastique de la fréquence de mention du TCA. on invisibilise cet aspect de la personne (commun à la thérapie narrative). 
 	* On **associe au troubles des interactions négatives**: l'individu n'est plus convié.e au repas CAR iel ne mange pas. Des réprimandes sont reçues lorsque l'individu mange ouvertement car "iel risque de s'en vouloir plus tard".

@@ -1,0 +1,1 @@
+- Permet de se focaliser sur un information précise

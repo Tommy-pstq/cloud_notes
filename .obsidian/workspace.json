@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Index non exhaustif des lectures terminées.md",
+                "file": "6 - En cours de rédaction/Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index non exhaustif des lectures terminées"
+              "title": "Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "af26cd2d9789d398",
@@ -165,10 +165,16 @@
   },
   "active": "d282db5d2a7618ec",
   "lastOpenFiles": [
-    "Templates/Note.md",
-    "4 - Indexes/Index non exhaustif des lectures terminées.md",
-    "2 - Source Materials/Pasted image 20241112190349.png",
+    "3 - Tags/contrôle inhibiteur.md",
     "6 - En cours de rédaction/Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation.md",
+    "3 - Tags/inhibition.md",
+    "3 - Tags/attention.md",
+    "5 - Notes archivées/Shorts - Discussions/Discussions TCA avec Marie.md",
+    "3 - Tags/consolidation.md",
+    "3 - Tags/flexibilité.md",
+    "4 - Indexes/Index non exhaustif des lectures terminées.md",
+    "Templates/Note.md",
+    "2 - Source Materials/Pasted image 20241112190349.png",
     "5 - Notes archivées/Mémoire/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "6 - En cours de rédaction/Psychobiologie - Neuroanatomie fonctionnelle.md",
     "5 - Notes archivées/Chapitres - livre/Neurosciences cognitives - ch2 - Cerveau, le mouvement et les espaces.md",
@@ -187,22 +193,16 @@
     "3 - Tags/hippocampe.md",
     "3 - Tags/cortex pariétal.md",
     "PDF/Discussions TCA avec Marie.pdf",
-    "5 - Notes archivées/Shorts - Discussions/Discussions TCA avec Marie.md",
     "5 - Notes archivées/Shorts - Discussions",
     "3 - Tags/thérapie narrative.md",
-    "3 - Tags/dépression.md",
-    "3 - Tags/anorexie.md",
     "2 - Source Materials/Pasted image 20241110174321.png",
-    "3 - Tags/cortex préfrontal.md",
-    "3 - Tags/cervelet.md",
-    "3 - Tags/parahippocampe.md",
     "2 - Source Materials/20241109_181913.jpg",
     "2 - Source Materials/{AB13256A-3038-4254-BC01-2257090EC26C}.png",
     "{AB13256A-3038-4254-BC01-2257090EC26C}.png",
     "5 - Notes archivées/Untitled",
     "5 - Notes archivées/Chapitres - livre",
     "Untitled",
-    "5 - Notes archivées/Fonctionnement neuronal",
+    "5 - Notes archivées/Fonctionnement neural",
     "5 - Notes archivées/TND",
     "5 - Notes archivées/IA",
     "5 - Notes archivées/Mémoire",
