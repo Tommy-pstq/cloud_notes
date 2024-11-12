@@ -6,3 +6,6 @@ Oreille interne.
 Projection vers de nombreuses aires cérébrales. 
 
 Lésions vestibulaires -> vertiges mais aussi perte de l'identité personnelle. 
+
+A. Berthoz: "Un des sens qui sont totalement ignorés, comme la proprioception musculaire & articulaire"
+	-> Notre cerveau utilise ces infos [[inconscience|inconsciemment]].

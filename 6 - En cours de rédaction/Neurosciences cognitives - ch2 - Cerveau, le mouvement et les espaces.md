@@ -143,7 +143,142 @@ Expérience de la main de caoutchouc:
 
 ## IV La marche
 
+- Réticulée mésencéphalique déclenche 
+	- Moelle épinière : générateurs de rythme
+		- Course / pas 
+
+Sous contrôle du cerveau, coordination du [[cervelet]] & des [[ganglions de la base]].
+
+Relation le système de traitement de l'espace : [[cortex pariétal]] & l'[[hippocampe]], qui sont sous contrôle du [[cortex préfrontal]]. 
+
+### IV - 1 Création de référentiels mobiles: principe simplificateur
+
+- Tous les degrés de libertés du corps sont coordonnés à partir d'un référentiel centré sur la tête (la création d'un référentiel mobile utilise le [[système vestibulaire]]).
+	- La marchez est au début contrôlée des pieds vers la tête, mais à partir de 3-4 ans, le référentiel change et les actions motrices sont contrôlés à partir de la tête stabilisée en rotation
+### IV - 2 La direction du regard anticipe la trajectoire
+
+- Attraper un objet = le regarder (saccade), puis agir.
+
+Pareil pour la marche à partir de 4-5 ans. Contourner un obstacle:
+1. Tourner les yeux vers la nouvelle direction
+2. Tête
+3. Tronc
+4. Pieds
+-> Le cerveau simule la trajectoire puis la chaîne de commande descend jusqu'au pieds. 
+
+	 -> Certains déficits prétendus locomoteurs sont en fait des déficits d'anticipation par la tête du guidage.
+		 -> Le contrôle oculomoteur du regard doit être réhabilité si possible. 
+
+contrôle oculomoteur : dépend des traitements des relations entre le corps et l'espace.
+-> Une fonction motrice est en fait guidée par des mécanismes cognitifs. 
+
+-> Pathologie de la marche pas seulement une atteinte musculaire, mais potentiellement aussi une atteinte de la capacité à guider par le regard. 
+
+### IV - 3 Les trajectoires locomotrices sont stéréotypées
+
+Expérience de référence :  demander à un individu de passer par une porte au milieu d'une pièce, sans indication supplémentaire. 
+	-> Les trajectoires observées sont stéréotypées et répondent à des principes généraux. 
+	![[Pasted image 20241112121208.png]]
+					*ref: (2)*
+					
+
+-> Cela laisse pressentir l'existence de principes d'optimisations.
+	- La courbure est liée à la vitesse.
+		- Equivalent avec ce qui est observé pour les gestes.
+
+### IV - 4 Géométries du cerveau 
+
+Henri Poincaré: la géométrie Euclidienne  n'est "peut être pas la vraie, mais la plus commode".
+
+Les relations vitesse/courbures, les formes du dessin manuel & de la marche sont bien expliquées en supposant que le cerveau utilise **trois géométries** en combinaison: **Euclidienne, affine, équi-affine**.
+
+## V L'imagerie mentale 
+
+### V - I Mêmes structures cérébrales pour l'exécution, l'observation et l'imagination ? 
+
+[[psychologie]] : utilisation de simulation & imagerie mentale.
+réhabilitation : imagerie motrice
+
+Découverte initiale : mesure de l'activité neurale d'un singe mangeant une cacahuète. Le chercher a décidé d'en manger une également et une activité identique a été observée. 
+
+Les neurones que l'on pensait pré-moteurs sont en fait responsable du codage de l'action elle-même. Ils s'activent lors de l'observations d'une action ou de son exécution.
+
+l'activation du système miroir pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
+	- Un sportif pro regardant son sport aura bien plus l'impression de le pratique, de manière plus précise qu'un amateur ou un non-initié. 
+
+- Peut d'études neuropharmacologiques de cette simulation.
+
+### V - 2 Le cerveau simulateur: les "modèles internes"
+
+"Penser un mouvement, c'est déjà le faire".
+
+Fonctionnement cognitif:
+- Utilisation de modèles internes prédictifs pour simuler l'action avant son exécution.
+	- Ex: attraper une bouteille, les muscles se contractent en avance et avec la bonne force nécessaire avant le contact avec la bouteille. 
+
+Modèles internes: intègrent les propriétés physiques du monde et de son propre corps.
+
+Cerveau = machine biologique simulant la réalité grâce à des représentations mentales.
+
+## VII Les espaces de l'action 
+*(on a sauté le VI, il fait 8 lignes et sera repris dans d'autres chapitres*
+### VI - 1 La genèse de l'espace 
+
+Le cerveau ne se contente pas de percevoir l'espace, il l'interprète à partir d'hypothèse et de règles puissantes (ex: principe de symétrie). C'est ce sur quoi se base les illusions. 
+
+*Note perso: Quid du déterminisme concernant ces règles ? Souvenir d'une population aborigène ne percevant que très peu les lignes parfaitement droites car extrêmement rares dans leur environnement mais ultra présentes dans les constructions en dur*
+
+Utilisation de l'espace comme lieu de mémoire (palais mentaux), "méthode des loci" aujourd'hui.
+
+### VI - 2 Multiplicité des espaces 
+
+- Espaces d'actions, impliquant différent circuits neuronaux:
+	- Espace du corps (pas toujours facile d'établir l'unité du corps) & espace péri-personnel, espace de protection/défense si l'on s'approche trop près.
+	- Espace extra-personnel proche : de préhension.
+	- Espace locomoteur proche : aller cherche un objet dans une pièce.
+	- Espace environnemental : aller à la poste/boulangerie
+	- Espace imaginé lointain.
+
+### VII - 3 Stratégies de navigation de référentiels spatiaux 
+
+Voir note [[Memory, Navigation and theta rythm in the hippocampal-entorhinal system]], plus complète & détaillée.
+
+### VII - 4 La latéralisation
+
+Cerveau gauche plus actif dans un référentiel égocentré, "cerveau de la verbalisation"
+Cerveau droit : catégorisation globale, représentation cartographique 
+
+### VII - 5 Différences entre les sexes
+
+Tâche de navigation virtuelle: activation de zones cérébrales différentes. 
+Le traitement de l'espace n'est pas effectué de la même manière. 
+
+- Neuropharmacologie:
+	- Femme : influence du cycle menstruel, i.e les oeustrogènes influence la performance dans les tâches spatiales
+	- Homme : Taux de testostérone (variations journalières mais aussi saisonnières).
+		- Taux de T bas = meilleures performances spatiales. 
+
+Préférence des hommes pour les stratégie allocentriques, plutôt égocentrique, séquentielle & topo-kinésique pour les femmes. **Très grande variabilité de résultats** intra-sexe. 
+
+### VII - 6 Codage de la mémoire des trajets
+
+[[head direction cells]] : utilisent les référentiels visuels les plus stables.
+
+Encore une fois, bien plus détaillé dans [[Memory, Navigation and theta rythm in the hippocampal-entorhinal system]].
+
+### VII - 7 Tapis magique & Tapis virtuel 
+
+Eudes des pathologie de la perception, du mouvement, relations avec l'espace: besoin de nouveaux paradigmes expérimentaux. 
+
+- Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la mémoire spatiale, fonctions exécutives, changement de perspective, codage égo- ou allo-centré .
+
+- Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la mémoire visuo-spatiale locomotrices chez les sujets sains, avec déficité attentionnel ([[TDAH]]) ou [[TSA]]. 
+- Mimoire double : permet d'étudier les déficits d'attribution d'identité, à soi ou autrui lors d'un changement de perspective : difficultés des patients [[schyzophrénie|schizophrène]], [[TSA]] ou [[anorexie|anorexiques]] à se détacher d'eux mêmes.
+- "Le funambule" : deux réseaux différents du cerveaux sont impliqués dans la sympathie & l'empathie. L'empathie exige un changement de référentiel spatiaux & de perspective, pas la sympathie. 
+
 
 ## Refs
 
 1. Kahane P, Hoffmann D, Minotti L, Berthoz A. Reappraisal of the human vestibular cortex by cortical electrical stimulation study. Ann Neurol. 2003 Nov;54(5):615-24. doi: 10.1002/ana.10726. PMID: 14595651.
+2. Arechavaleta G., Berthoz A., On the nonholonomic nature of human locomotion, Autonomous Robots, 2008, DOI:[10.1007/s10514-007-9075-2](http://dx.doi.org/10.1007/s10514-007-9075-2)
+3. 
