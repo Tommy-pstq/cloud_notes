@@ -1,2 +1,2 @@
 - Identification visuelles de lieux
-- Activité lors du rappel mémoriel d'un endroit connu.
+- [[activité]] lors du rappel mémoriel d'un endroit connu.

@@ -8,8 +8,8 @@ Tags: [[TSA]] [[TDAH]] [[dépression]] [[anxiété]] [[sensor]] [[attention]]
 
 - Idée issue du podcast 'Intensément votre' et donc à vérifier (possible erreur de [[mémoire]]) : le HPI/Haut QI (deux notions utilisées comme équivalentes ici) n'implique pas une plus grande prévalence de troubles neurodéveloppementaux.
 - Spectacle de Jérémy Ferrari : HPI --> aggrave certains troubles puisque cognition efficace.
-- Prévalence [[TSA]]/TDAH entre-eux : environ 50% (Diag TND Maeva Rollin)
-- Si TDAH ou [[TSA]] : 6x de chance de dep. (Diag TND Maeva Rollin)
+- Prévalence [[TSA]]/[[TDAH]] entre-eux : environ 50% (Diag TND Maeva Rollin)
+- Si [[TDAH]] ou [[TSA]] : 6x de chance de dep. (Diag TND Maeva Rollin)
 
 ### Lien entre QI paternel et TSA/TDAH
 
@@ -71,7 +71,7 @@ HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrit
 
 #### Revue de littérature
 52 chercheurs en cognitions s'accordent sur une def de l'intelligence : "Une capacité plus large et plus profonde à comprendre son environnement"
-	-> permet la création artistique ou mène à la dépression. (et ?)
+	-> permet la création artistique ou mène à la [[dépression]]. (et ?)
 
 Enfants HPI (6-11 ans) ont montrés des réactions émotives significativement plus marquées que ceux ayant un QI moyen.  (1-1) 
 	->  engendre en partie chez ceux avec une surexcitabilité cognitive une hyperactivité du [[SNC]] (1-2) 
@@ -86,7 +86,7 @@ Dabrowski, 1964-76 : "neurotically allergic or nervous" en pop HQI.
 Recherche récentes (1-3): réponses émotionnelles intenses -> rumination, associé à des [[capacités cognitives]] supérieures. 
 
 Ruminations = prédicteurs de troubles dépressifs & anxieux, notemment de l'arrivé de nouveaux épisodes. 
-	-> Style cognitif ruminatif = vulnérabilité à la dépression majeur & contribue à la sévérité des symptomes
+	-> Style cognitif ruminatif = vulnérabilité à la [[dépression]] majeur & contribue à la sévérité des symptomes
 
 Individus "s'inquiétant" plus souvent = meilleures perfs aux test de QI
 
@@ -151,14 +151,14 @@ ASD inclut ici comme OE psychologique ET physiologique aux vues de la littératu
  OE --> activation continue du HPA/
 
   - Surconnection au sein de [[circuit neuronaux]] --> favorise la rumination.
-	  - Individus en état de dépression majeure présente des [[synchronicité]] au travers toute les fréquences d'[[activité]] neuronale
+	  - Individus en état de [[dépression]] majeure présente des [[synchronicité]] au travers toute les fréquences d'[[activité]] neuronale
 		  - Connectivité supérieures entre aires du cerveaux dont l'[[activité]] semble ne pas s'arrêter, particulièrement le [[cortex préfrontal]] 
-- Autre théorie (mentionné dans un podcast de Huberman sur le TDAH) :
+- Autre théorie (mentionné dans un podcast de Huberman sur le [[TDAH]]) :
 	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'[[activité]] environnementale. Permet la projection temporelle dans le future et de réagir à nos jugements & expériences (1-4,5). 
 		- Normalement actif quand l'esprit divague sans but précis et s'arrête lorsque l'individu se focus sur une tâche. 
 			- Individus avec trouble de l'humeur ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
-- Dépression & anxiété liés à des réponses inflammatoires majorées. 
-- Brain cytokine augmentation dans les cas de dépression (rats)
+- [[dépression]] & anxiété liés à des réponses inflammatoires majorées. 
+- Brain cytokine augmentation dans les cas de [[dépression]] (rats)
 - Mood/anxiety disorder impacte les réponses immunitaires.
 
 ### Dysrégulation immunitaire et inflammatoire dans le TSA
@@ -217,7 +217,7 @@ Dans le cas d'individus présentant des OEs, y compris ASD, cette [[régulation]
 Cerveau d'individus [[TSA]] : montre des signes d'inflammation chronique dans les zones présentant une croissance excessive. 
 Zones présentant une hyper-production de matière blanche montrent aussi des signes d'inflammation et une production accrue de cytokines pro- et anti-inflammatoire par les neuroglie.
 
-Etude de tissus de cerveau d'individus [[TSA]] post-mortem : traces de neuroinflammation dans le cortex cérébral  et cervelet. 
+Etude de tissus de cerveau d'individus [[TSA]] post-mortem : traces de neuroinflammation dans le cortex cérébral  et [[cervelet]]. 
 	- Activation cellulaire des cellules astrogliales et microgliales présentant un pattern de cytokine altéré.
 
 --> Réponse [[immunitaire]] aberrante des cellules [[gliales]] pourrait influencer les fonctions et le développement neuronal, induisant un [[TSA]].
@@ -252,7 +252,7 @@ Ref3
  - ASD = 18k sujets, 28k contrôles. Sous population d'une cohorte comprenant tous les enfants nés au Danemark entre 1981  & fin 2005.
  - Intelligence = 269k sujets. Cumule de plusieurs cohortes.
  
- **_Results:_** Our results showed that intelligence has a positive and negative genetic correlation with ASD and ADHD, respectively, including three hub genomic regions showing correlated genetic effects across the three traits. Polygenic overlap analysis indicated that all the risk variants contributing to ADHD are overlapped with half of those for intelligence, and the majority of the shared variants have opposite effect directions between them. The majority of risk variants (80%) of ASD are overlapped with almost all the risk variants of intelligence (97%). Notably, some ASD/intelligence overlapping variants displayed opposing effects on these two conditions. MR analysis showed that the genetic liability to higher intelligence was associated with an increased risk for ASD (OR = 1.12) and a decreased risk for ADHD (OR = 0.78) (**masquage TDAH par capacité cognitive ++ ?**). Cross-trait meta-analyses identified 170 pleiotropic genomic loci across the three traits, including 12 novel loci. Functional analyses of the novel genes support their potential involvement in neurodevelopment.
+ **_Results:_** Our results showed that intelligence has a positive and negative genetic correlation with ASD and ADHD, respectively, including three hub genomic regions showing correlated genetic effects across the three traits. Polygenic overlap analysis indicated that all the risk variants contributing to ADHD are overlapped with half of those for intelligence, and the majority of the shared variants have opposite effect directions between them. The majority of risk variants (80%) of ASD are overlapped with almost all the risk variants of intelligence (97%). Notably, some ASD/intelligence overlapping variants displayed opposing effects on these two conditions. MR analysis showed that the genetic liability to higher intelligence was associated with an increased risk for ASD (OR = 1.12) and a decreased risk for ADHD (OR = 0.78) (**masquage [[TDAH]] par capacité cognitive ++ ?**). Cross-trait meta-analyses identified 170 pleiotropic genomic loci across the three traits, including 12 novel loci. Functional analyses of the novel genes support their potential involvement in neurodevelopment.
   
  **_Conclusion:_** Our results suggest that ADHD is associated with inheriting a reduced set of low-intelligence alleles, whereas ASD results from incongruous effects from a mixture of high-intelligence and low-intelligence contributing alleles summed up with additional, ASD-specific risk variants not associated with intelligence. 
  

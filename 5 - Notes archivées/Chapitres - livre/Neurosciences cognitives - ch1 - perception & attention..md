@@ -99,7 +99,7 @@ Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une co
 
 Déficits attentionnels présents dans beaucoup de troubles neuropsychologiques
 
-Traitement du TDAH des protocoles de neurofeedback.
+Traitement du [[TDAH]] des protocoles de neurofeedback.
 	- Enregistrement cérébral d'un participant réalisant une tâche simple utilisé en temps réel pour ajuster son comportement. 
 ## Refs
 1. Carrasco M, Barbot A. Spatial [[attention]] alters visual appearance. Curr Opin Psychol. 2019 Oct;29:56-64. doi: 10.1016/j.copsyc.2018.10.010. Epub 2018 Nov 8. PMID: 30572280; PMCID: PMC7661009.

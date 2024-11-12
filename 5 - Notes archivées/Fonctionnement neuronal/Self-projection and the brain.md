@@ -55,7 +55,7 @@ Eval neuropsy :
 		-  [[planification]] de tâche impliquant une vision long terme
 		- Ajustement comportementaux à des règles changeantes
 
-En reliant ces processus à la self-projection (SP): le cortex préfrontal aurait un rôle (entre autres) dans le "transfert d'un point de référence effectif de soit à autrui, d'ici à là-bas, de maintenant à plus tard" (2). 
+En reliant ces processus à la self-projection (SP): le [[cortex préfrontal]] aurait un rôle (entre autres) dans le "transfert d'un point de référence effectif de soit à autrui, d'ici à là-bas, de maintenant à plus tard" (2). 
 
 D'autre études confirment que le lobe [[frontal]] profère la capacité de se détacher de l'immédiateté présente, temporelle & spatiale. 
 

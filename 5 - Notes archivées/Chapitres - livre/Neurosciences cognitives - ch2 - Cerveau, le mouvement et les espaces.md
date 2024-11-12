@@ -78,7 +78,7 @@ Production d'une saccade : nécessite la désinhibition de CS.
 	- Modulation de l'amplitude de la saccade.
 
 En plus : "neurones pauseurs" dans le tronc cérébral peuvent bloquer l'exécution de la saccade même si tout le circuit cortico-colliculaire est activé.
-	-> Permet des déplacement imaginés du regard. Donc un déplacement de l'[[attention]] sans mouvement oculaire (expérience individuelle : fixer un point et déplacer son attention ailleurs dans le champ visuel) : "fovéa virtuelle"
+	-> Permet des déplacement imaginés du regard. Donc un déplacement de l'[[attention]] sans mouvement oculaire (expérience individuelle : fixer un point et déplacer son [[attention]] ailleurs dans le champ visuel) : "fovéa virtuelle"
 
 ### II - 4 Apprentissage du geste
 
@@ -199,11 +199,11 @@ Les relations vitesse/courbures, les formes du dessin manuel & de la marche sont
 [[psychologie]] : utilisation de simulation & imagerie mentale.
 réhabilitation : imagerie motrice
 
-Découverte initiale : mesure de l'activité neurale d'un singe mangeant une cacahuète. Le chercher a décidé d'en manger une également et une activité identique a été observée. 
+Découverte initiale : mesure de l'[[activité]] neurale d'un singe mangeant une cacahuète. Le chercher a décidé d'en manger une également et une [[activité]] identique a été observée. 
 
 Les neurones que l'on pensait pré-moteurs sont en fait responsable du codage de l'action elle-même. Ils s'activent lors de l'observations d'une action ou de son exécution.
 
-l'activation du système miroir pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
+l'activation du [[système miroir]] pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
 	- Un sportif pro regardant son sport aura bien plus l'impression de le pratique, de manière plus précise qu'un amateur ou un non-initié. 
 
 - Peut d'études neuropharmacologiques de cette simulation.
@@ -228,7 +228,7 @@ Le cerveau ne se contente pas de percevoir l'espace, il l'interprète à partir 
 
 *Note perso: Quid du déterminisme concernant ces règles ? Souvenir d'une population aborigène ne percevant que très peu les lignes parfaitement droites car extrêmement rares dans leur environnement mais ultra présentes dans les constructions en dur*
 
-Utilisation de l'espace comme lieu de mémoire (palais mentaux), "méthode des loci" aujourd'hui.
+Utilisation de l'espace comme lieu de [[mémoire]] (palais mentaux), "méthode des loci" aujourd'hui.
 
 ### VI - 2 Multiplicité des espaces 
 
@@ -250,7 +250,7 @@ Cerveau droit : catégorisation globale, représentation cartographique
 
 ### VII - 5 Différences entre les sexes
 
-Tâche de navigation virtuelle: activation de zones cérébrales différentes. 
+Tâche de [[navigation]] virtuelle: activation de zones cérébrales différentes. 
 Le traitement de l'espace n'est pas effectué de la même manière. 
 
 - Neuropharmacologie:
@@ -258,7 +258,7 @@ Le traitement de l'espace n'est pas effectué de la même manière.
 	- Homme : Taux de testostérone (variations journalières mais aussi saisonnières).
 		- Taux de T bas = meilleures performances spatiales. 
 
-Préférence des hommes pour les stratégie allocentriques, plutôt égocentrique, séquentielle & topo-kinésique pour les femmes. **Très grande variabilité de résultats** intra-sexe. 
+Préférence des hommes pour les stratégie allocentriques, plutôt [[égocentrique]], séquentielle & topo-kinésique pour les femmes. **Très grande variabilité de résultats** intra-sexe. 
 
 ### VII - 6 Codage de la mémoire des trajets
 
@@ -268,13 +268,13 @@ Encore une fois, bien plus détaillé dans [[Memory, Navigation and theta rythm 
 
 ### VII - 7 Tapis magique & Tapis virtuel 
 
-Eudes des pathologie de la perception, du mouvement, relations avec l'espace: besoin de nouveaux paradigmes expérimentaux. 
+Eudes des pathologie de la [[perception]], du mouvement, relations avec l'espace: besoin de nouveaux paradigmes expérimentaux. 
 
-- Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la mémoire spatiale, fonctions exécutives, changement de perspective, codage égo- ou allo-centré .
+- Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la [[mémoire]] spatiale, fonctions exécutives, changement de perspective, codage égo- ou allo-centré .
 
-- Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la mémoire visuo-spatiale locomotrices chez les sujets sains, avec déficité attentionnel ([[TDAH]]) ou [[TSA]]. 
-- Mimoire double : permet d'étudier les déficits d'attribution d'identité, à soi ou autrui lors d'un changement de perspective : difficultés des patients [[schyzophrénie|schizophrène]], [[TSA]] ou [[anorexie|anorexiques]] à se détacher d'eux mêmes.
-- "Le funambule" : deux réseaux différents du cerveaux sont impliqués dans la sympathie & l'empathie. L'empathie exige un changement de référentiel spatiaux & de perspective, pas la sympathie. 
+- Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la [[mémoire]] visuo-spatiale locomotrices chez les sujets sains, avec déficité attentionnel ([[TDAH]]) ou [[TSA]]. 
+- Miroir double : permet d'étudier les déficits d'attribution d'identité, à soi ou autrui lors d'un changement de perspective : difficultés des patients [[schyzophrénie|schizophrène]], [[TSA]] ou [[anorexie|anorexiques]] à se détacher d'eux mêmes.
+- "Le funambule" : deux réseaux différents du cerveaux sont impliqués dans la sympathie & l'[[empathie]]. L'[[empathie]] exige un changement de référentiel spatiaux & de perspective, pas la sympathie. 
 
 
 ## Refs

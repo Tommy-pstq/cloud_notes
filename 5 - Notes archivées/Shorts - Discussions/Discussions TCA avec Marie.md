@@ -5,7 +5,7 @@ Tags: [[TCA]]
 
 # Discussions TCA avec Marie
 
-- Souvenir vague: anorexie nerveuse = création de connections neurales entre sensation de faim & bien-être/récompense
+- Souvenir vague: [[anorexie]] nerveuse = création de connections neurales entre sensation de faim & bien-être/récompense
 
 - Individus ayant des TCA -> bcp de chances de développer d'autres profils addictifs. 
 	- Alcoorexie : remplacement de la nourriture par l'alcool

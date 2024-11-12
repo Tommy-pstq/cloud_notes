@@ -22,14 +22,14 @@ Aujourd'hui :
 #### Emotions, un chaos empêchant l'objectivité ?
 
 - Les émotions modulent la [[perception]]s sensorielle
-	- L'amygdale projette une sorte d'[[attention]] de survie sur les aires sensorielle de sorte à amplifier les éléments considérer comme dangereux.
+	- L'[[amygdale]] projette une sorte d'[[attention]] de survie sur les aires sensorielle de sorte à amplifier les éléments considérer comme dangereux.
 		- Ces projections sont altérés en cas troubles anxieux ou dépressif, entrainant un focus sur des éléments négatifs, créant ainsi un cercle vicieux. 
 -  Les émotions influent sur l'[[apprentissage]]. Courbe en "U" : trop d'émotions = morts de cellules neuronales et trauma (Ex PTSD de viols ou la victime se souvient uniquement des yeux de sont agresseur) altérant la [[mémoire]]. Pas assez d'[[émotion]] = mise en [[mémoire]] quasi nulle (trajet quotidien au travail)
 --> On ne perçoit le monde que par le prisme de notre sensorialité, la réalité reconstruite est ainsi modulée par de nombreux éléments dont nos émotions. 
 
 #### Empathie
-La coopération intra et inter espèce est extrêmement répandue dans la "nature", mais est-ce que tous les animaux sont capables "d'empathie" ? 
-- On peut distinguer 3 types d'empathie différente:
+La coopération intra et inter espèce est extrêmement répandue dans la "nature", mais est-ce que tous les animaux sont capables "d'[[empathie]]" ? 
+- On peut distinguer 3 types d'[[empathie]] différente:
 	- 1) Contagion émotionnelle
 		- Baillements contagieux, bébé pleurant à la chaine. On parle ici de synchronisation corporelle (représentation interne de son propre corps mimant un autre individu) sans nécessité de [[conscience]]. Ex: je pleure car l'autre pleure, donc il a du chagrin. Car je ressens du chagrin par mes pleurs.
 		- Contraction inconsciente des muscles nécessaire aux émotions (colère, tristesse, joie) face à des visages expressif. Même des images subliminales provoque ces contractions -> [[conscience]] non requise. 
@@ -38,17 +38,17 @@ La coopération intra et inter espèce est extrêmement répandue dans la "natur
 	- 2) Assistance contextuelle/se soucier de l'autre
 		- Très ancienne chez les hominidés, vestige préhistoriques édentés et pleins de rhumatismes, incapable de survivre sans assistance
 		- Présente chez de nombreuses espèce
-		- Cependant, des actions d'empathie au coût élevé (mise en danger de la survie de l'individu, douleur potentielle) ne sont observées que chez des espèce à haut quotient d'encéphalisation et passant le test du miroir. -> Nécessaire d'avoir un "sens du soi" 
+		- Cependant, des actions d'[[empathie]] au coût élevé (mise en danger de la survie de l'individu, douleur potentielle) ne sont observées que chez des espèce à haut quotient d'encéphalisation et passant le test du miroir. -> Nécessaire d'avoir un "sens du soi" 
 		
 	- 3) Intégration des [[sentiments]] d'autrui à partir d'éléments abstraits.
 		- Ex : Deviner la tristesse d'autrui à partir de la connaissance que l'on a de la situation, même si la personne ne montre pas de tristesse apparente.  
 		- Changement de perspective sur le monde: 1ere --> 3eme personne. Processus cognitif très élevé. [[Théorie de l'esprit]].
 		- Présente uniquement chez certains grands singes, de manière limitée
 
- - Le [[système miroir]] est largement activé lors des mesures d'empathie, on observe une synchronisation des activités cérébrales entre observateur et sujet. 
+ - Le [[système miroir]] est largement activé lors des mesures d'[[empathie]], on observe une synchronisation des activités cérébrales entre observateur et sujet. 
  - Concernant la [[Théorie de l'esprit]] le [[cortex préfrontal]] ([[PFC]])et la [[jonction temporo-pariétale]] ([[TPJ]]) sont impliqués. Ces zones sont aussi reliés à l'[[altruisme]] et la compréhension de l'autre. Pour assister l'autre il est semble être nécessaire de le comprendre et changer de perspective.
 	 - la [[TPJ]] est également impliquée dans les expérience de sortie de corps et notion de "bien" et "mal".
-Cependant, une bonne partie de la [[conscience]] de l'empathie n'est pas encore totalement comprise ni conceptualisée par les [[neurosciences]].
+Cependant, une bonne partie de la [[conscience]] de l'[[empathie]] n'est pas encore totalement comprise ni conceptualisée par les [[neurosciences]].
 	
 #### Emotions et prises de décisions ?
 Pascal : *"Le cœur a ses raisons que la raison ne connait pas"* 
