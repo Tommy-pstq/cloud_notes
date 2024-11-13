@@ -1,0 +1,1 @@
+- [[cortex orbito-frontal]] & [[striatum]] : encode la valeur subjective par leur niveau d'activité. 
