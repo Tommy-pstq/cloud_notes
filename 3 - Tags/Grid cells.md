@@ -1,0 +1,3 @@
+- Situées dans le [[cortex entorhinal]]
+- Projettent sur les [[place cells]] 
+- Reçoivent des input des [[head direction cells]] 

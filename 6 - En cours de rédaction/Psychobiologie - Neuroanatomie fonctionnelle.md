@@ -65,7 +65,7 @@ Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[memb
 ## [[ganglions de la base]]  
  Sensibles aux déséquilibres dopaminergiques.
  (A. Berthoz) : *Sélectionnent nos actions en inhibant toutes les actions non choisies plutôt qu'en excitant l'action choisie* <- équilibre perturbé dans la maladie de Parkinson
- - [[noyaux caudé]] : contrôle moteur & [[fonctions cognitives]] & émotionnelles
+ - [[noyau caudé]] : contrôle moteur & [[fonctions cognitives]] & émotionnelles
  - [[putamen]] : [[régulation]] des mouvements volontaire & [[apprentissage]] moteur
  - [[Globus pallidus]] : Relais dans la modulation des signaux moteurs 
  - [[noyau sous-thalamique]] : [[régulation]] des mouvements. 

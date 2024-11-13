@@ -1,6 +1,7 @@
 
-*Dernier update: 12/11/2024*
-![[Pasted image 20241112190349.png]]
+*Dernier update: 13/11/2024*
+![[Pasted image 20241113170136.png]]
+
 *Les références dont la checkbox est validée sont celles ayant été résumées en une note,  l'absence de checkbox implique une lecture sans note associée dans le vault. (lecture précédant la mise en place de cet environnement ou effectuée sans possibilité de prise de note numérique)
 Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu mais pas encore transcrit en une note*
 
@@ -14,7 +15,7 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 - [ ] Neurosciences cognitives (De boeck) 10-2024:  
 	- [x] Perception et attention 
 	- [x] Le cerveau, le mouvement et les espace 
-	- [ ] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation
+	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation
 	- [ ] Décision et action
 	- [ ] Neurolinguistique
 	- [ ] Conscience et métacognition

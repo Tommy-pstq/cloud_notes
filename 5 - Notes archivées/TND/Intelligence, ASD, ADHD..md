@@ -62,7 +62,7 @@ Ref1
 
 ## Introduction 
 
-HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrité systémique) selon des études, d'autres cependant font des liens entre HQI (particulièrement des aptitudes verbales très supérieures) et troubles immunologiques/mentaux (trouble bipolaire/depression/anxiété/allergies/asthme/trouble immunitaires/autisme.)
+HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrité systémique) selon des études, d'autres cependant font des liens entre HQI (particulièrement des aptitudes verbales très supérieures) et troubles immunologiques/mentaux (trouble bipolaire/depression/[[anxiété]]/allergies/asthme/trouble immunitaires/autisme.)
 
 	-> Relativement contradictoire.
 --> Peut être réconcilié en s'intéressant à la psychoneuroimmunologie [[PNI]] (=comment le stress, particulièrement chronique influence la [[communication]] entre cerveau & système [[immunitaire]]) ?
@@ -79,7 +79,7 @@ Enfants HPI (6-11 ans) ont montrés des réactions émotives significativement p
 #### Surexcitabilité intellectuelle (overexcitability (OE))
 
 Dabrowski, 1964-76 : "neurotically allergic or nervous" en pop HQI.
-	-> OE psychomoteur, sensorielle, intellectuelle, imaginative, [[émotion]]nelle.  Associées à des dev de personnalités et anxiété/depression/tics. 
+	-> OE psychomoteur, sensorielle, intellectuelle, imaginative, [[émotion]]nelle.  Associées à des dev de personnalités et [[anxiété]]/depression/tics. 
 
 #### Psychological OE : troubles affectifs & ADHD
 
@@ -157,7 +157,7 @@ ASD inclut ici comme OE psychologique ET physiologique aux vues de la littératu
 	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'[[activité]] environnementale. Permet la projection temporelle dans le future et de réagir à nos jugements & expériences (1-4,5). 
 		- Normalement actif quand l'esprit divague sans but précis et s'arrête lorsque l'individu se focus sur une tâche. 
 			- Individus avec trouble de l'humeur ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
-- [[dépression]] & anxiété liés à des réponses inflammatoires majorées. 
+- [[dépression]] & [[anxiété]] liés à des réponses inflammatoires majorées. 
 - Brain cytokine augmentation dans les cas de [[dépression]] (rats)
 - Mood/anxiety disorder impacte les réponses immunitaires.
 
@@ -232,7 +232,7 @@ Cependant, ces études montrent en général un lien positif également entre in
 - La plupart des études prennent uniquement en compte les individus situés à +/- une déviation standard par rapport à la moyenne. Donc exit les individus avec 130+ de QI (ou score supérieur à 98% de la popG).
 *  Elles extrapolent que les difficultés mentales/physiques présentent dans les bas QI et diminuant avec son augmentation continue sans fin avec un QI croissant.
 * Sauf que les populations avec des QI supérieurs à +1*$\sigma$ ne sont pas prises en compte dans les études. Donc pas comparable avec celle-ci.
--> Quand on s'intéresse aux derniers percentiles, et principalement pour les individus aux compétences cognitives verbales élevées, on observe bien plus d'anxiété/manie/faible estime de soit.
+-> Quand on s'intéresse aux derniers percentiles, et principalement pour les individus aux compétences cognitives verbales élevées, on observe bien plus d'[[anxiété]]/manie/faible estime de soit.
 -> Les études s'arrêtant à 130 de QI ratent peut être une relation non-linéaire en extrapolant leurs données.
 - Pas mal d'études sur la santé & l'intelligence se basent sur des données cliniques (admission en HP). 
 	- Bien que ce soit plus précis que de l'auto-évaluation concernant la symptomatologie, ça ne prend en compte que les cas les plus sévères. 

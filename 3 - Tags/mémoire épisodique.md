@@ -1,0 +1,1 @@
+- Dernière [[mémoire]] à se mettre en place pendant l'enfance. La première à se détoriorer avec l'âge.

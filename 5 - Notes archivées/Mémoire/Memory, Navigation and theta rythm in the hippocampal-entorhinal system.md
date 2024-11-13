@@ -44,35 +44,35 @@ Le système hippocampo-entorhinal offre ces propriétés anatomique & physiologi
 Consensus : la formation de [[mémoire déclarative]] se fait au niveau du complexe [[hippocampe]]-entorhinal. Le débat persiste quant à sa dépendance à l'[[hippocampe]] une fois consolidée (3, 4, 5 - faudra check ça).
 
 Encodage des coordonnées spatiales implique beaucoup de cellules différentes avec des profil d'[[activité]] définis. Les deux les plus notables:
-- "[[Place cells]]" dans l'[[hippocampe]] - Activation spécifique en fonction de l'environnement 
-- ''[[Grid cells]]" dans le [[cortex entorhinal]] médian -[[activité]] continue dans tous types d'environnement (ACTE). 
+- "[[place cells]]" dans l'[[hippocampe]] - Activation spécifique en fonction de l'environnement 
+- ''[[grid cells]]" dans le [[cortex entorhinal]] médian -[[activité]] continue dans tous types d'environnement (ACTE). 
 
 * [[cortex entorhinal]] médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur activation, les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances allocentriques + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
 
-**[[Grid cells]]** :
+**[[grid cells]]** :
 	- Map la totalité de l'espace entourant l'individu, avec des patterns haxegonal périodique et fourni une métrique pour la représentation neuronale de l'espace.
 			- Les couches profondes sont sensibles à   certains axes directionnels
 			- Connectés avec les [[head direction cells]] (ACTE), qui elles s'activent selon la direction de la tête, avec un mapping uniforme sur 360.
 	- Espacement croissant selon l'axe dorso-ventral : défini des patterns de plus en plus larges
 	- Orientation des patterns discrétisée, pas aléatoire.
 	![[Pasted image 20241021124038.png]] 
-			*[[Grid cells]] organization along dorso-ventral axis*
+			*[[grid cells]] organization along dorso-ventral axis*
 	- Couches profondes : Souvent des préférences pour certaines directions. 
 
-- Organisation "modulaire" des [[Grid cells]] : chaque module encode l'environnement avec une **orientation** (alignement des patterns) et une **résolution spatiale** (espacement) **unique**. Il n'y a pas d'organisation hiérarchique entre modules, la même data de base est utilisé et encodée de manière différente, produisant des représentations orthogonales (sans overlap). --> Changement de représentation inter-module = indépendant, donc immense capacité de représentation. 
+- Organisation "modulaire" des [[grid cells]] : chaque module encode l'environnement avec une **orientation** (alignement des patterns) et une **résolution spatiale** (espacement) **unique**. Il n'y a pas d'organisation hiérarchique entre modules, la même data de base est utilisé et encodée de manière différente, produisant des représentations orthogonales (sans overlap). --> Changement de représentation inter-module = indépendant, donc immense capacité de représentation. 
 
 **[[cortex entorhinal]]** : dispose des infos de directions/distance/position & limites d'environnement et donc ==candidat idéal pour le calcul des métriques spatiales de l'environnement== (à lier : [[simplexité]] de calcul par géométrie euclidienne, semi-euclidienne et linéaire exposé dans Neuroscience cognitives @DeBoeck).
 
-- [[Grid cells]] projettent leur représentation sur les [[Place cells]] de l'[[hippocampe]], la grande variabilité de ces projections permettrait l'encodage unique de chaque environnement --> pas d'interférences. 
+- [[grid cells]] projettent leur représentation sur les [[place cells]] de l'[[hippocampe]], la grande variabilité de ces projections permettrait l'encodage unique de chaque environnement --> pas d'interférences. 
 
-**[[hippocampe]]** : Capacité des [[Place cells]] à créer des représentations uniques à partir des projections des [[Grid cells]] (principalement dans le sous-champ [[CA3]] qui reçoit les projections combinées des grid modules). Même un changement mineur dans la configuration d'un paysage ou un contexte entraine un schéma de réponse des populations de cellules radicalement différent. 
+**[[hippocampe]]** : Capacité des [[place cells]] à créer des représentations uniques à partir des projections des [[grid cells]] (principalement dans le sous-champ [[CA3]] qui reçoit les projections combinées des grid modules). Même un changement mineur dans la configuration d'un paysage ou un contexte entraine un schéma de réponse des populations de cellules radicalement différent. 
 Donc : ==capacité d'associer à chaque "élément"== (environnement ou contexte) ==une représentation unique== --> Parfait pour la [[mémoire]]. 
 
-Système [[hippocampe]] + [[cortex entorhinal]] : ultra complexe. Bien trop complexe pour n'être issue d'un processus d'[[évolution]]  réservé à la [[navigation]]. Les insectes s'en sortent très bien avec quelques neurones uniquement. Chez les rats, pour une représentation d'environnements avec une précision de l'ordre du cm, quelques douzaines de grid/[[Place cells]] (6,7) suffisent. Donc, supposition des auteurs du papier : *la capacité de représentation orthogonale et variée de l'environnement a été la base permettant le stockage des détails de chaque épisode de la vie d'un individu*
+Système [[hippocampe]] + [[cortex entorhinal]] : ultra complexe. Bien trop complexe pour n'être issue d'un processus d'[[évolution]]  réservé à la [[navigation]]. Les insectes s'en sortent très bien avec quelques neurones uniquement. Chez les rats, pour une représentation d'environnements avec une précision de l'ordre du cm, quelques douzaines de grid/[[place cells]] (6,7) suffisent. Donc, supposition des auteurs du papier : *la capacité de représentation orthogonale et variée de l'environnement a été la base permettant le stockage des détails de chaque épisode de la vie d'un individu*
 
 En outre : plusieurs [[expérimentations]]  (8 - d'autres dans l'article) démontrent que, chez plusieurs espèces, le rappel mnésique est associé à des activations de patterns uniques dans le système hippocampo-entorhinal. Chez l'humain, une activation **spécifique & sélective**  du dit système est observée lors de l'évocation de mots/objets/individus précis, indépendemment de leur caractéristiques physique/visuelles (9).  
 
-La [[mémoire sémantique]] peut être vue comme une mise en relation de représentations uniques de différents items, comme une tâche de classification assigne une partition d'un espace latent à un concept. l'architecture et le fonctionnement du système hippocampo-entorhinal permet et est optimisé pour générer de telles représentations ([[Grid cells]]) et leur assignation à un concept ([[Place cells]]), que ce soit les mesures de distances associés à un environnement précis, ou le concept d'amitié associé à sa notion.
+La [[mémoire sémantique]] peut être vue comme une mise en relation de représentations uniques de différents items, comme une tâche de classification assigne une partition d'un espace latent à un concept. l'architecture et le fonctionnement du système hippocampo-entorhinal permet et est optimisé pour générer de telles représentations ([[grid cells]]) et leur assignation à un concept ([[place cells]]), que ce soit les mesures de distances associés à un environnement précis, ou le concept d'amitié associé à sa notion.
 
 ### Navigation Egocentrique & mémoire épisodique
 
@@ -112,7 +112,7 @@ Double intérêt:
 - Réduction des erreurs (drift, erreur neuronale, bruit)
 - Facilité d'accéder à des infos simples.
 
-En cas de situation complexe (ex: labyrinthe avec environnement similaire), l'information est chunkée de manière encore plus fine, pour permettre une représentation plus fine. Sachant que les [[Grid cells]] ont un output différent selon la direction de l'individu, et que les place-cells activées dans une direction ne seront pas les mêmes que dans une autre, cela permet d'avoir des représentation différentes d'un environnement extérieur a priori très similaire. 
+En cas de situation complexe (ex: labyrinthe avec environnement similaire), l'information est chunkée de manière encore plus fine, pour permettre une représentation plus fine. Sachant que les [[grid cells]] ont un output différent selon la direction de l'individu, et que les place-cells activées dans une direction ne seront pas les mêmes que dans une autre, cela permet d'avoir des représentation différentes d'un environnement extérieur a priori très similaire. 
 
 Le parallèle avec la [[mémoire épisodique]] est assez direct : on se souvient d'élément uniques, qui simulent un continuum (interaction [[mémoire de travail]] mentionnée plus haut). Une séparation fine de ces éléments permet une représentation plus précise de chacun d'eux, donc une mémorisation de plus de détail, moins d'interactions possible entre diff items. (espace latent extrêmement complex et haute dimension, donc pas de soucis d'avoir énormément d'élément distincts.)
 
@@ -129,7 +129,7 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
-[[activité]] neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[Place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
+[[activité]] neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
 - [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le [[neurone]] reader.
 - Les [[spike]]s d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
@@ -144,17 +144,17 @@ durant un cycle [[gamma]].
 1. Séquences d'activations des neurones en phase descendante, minimale et montante des ondes theta représente respectivement les positions passées, présentes et futures: 
 				 ![[Pasted image 20241029113942.png]]
 			
-2. Délais d'activation maximal entre deux [[Place cells]] proportionnel à la distance physique entre les deux éléments/lieu encodés. 
+2. Délais d'activation maximal entre deux [[place cells]] proportionnel à la distance physique entre les deux éléments/lieu encodés. 
 	* -> 1 & 2 : distance traversée pendant le déplacement sont exprimé dans le domaine temporel via un format compressé temporellement dans les ondes theta.
-3.  Les [[Place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'activation  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les ondes theta (en partie dû aux délais de l'ordre de la miliseconde entre [[spiking]] the [[Place cells]] adjacente) : [[phase precession]].
+3.  Les [[place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'activation  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les ondes theta (en partie dû aux délais de l'ordre de la miliseconde entre [[spiking]] the [[place cells]] adjacente) : [[phase precession]].
 	- Ce phénomène engendre une avance de phase croissante pour les populations de cellules impliquées. 
 	- La pente de cette avance de phase représente la taille du place field impliqué, plus la pente est élevée, plus le champ sera de petite taille. 
-	-  Le même phénomène serait observé dans le [[cortex entorhinal]] dans le fonctionnement des [[Grid cells]](15)
+	-  Le même phénomène serait observé dans le [[cortex entorhinal]] dans le fonctionnement des [[grid cells]](15)
 
 Le mécanisme de compression temporelle des [[oscillations theta]] contraint les représentation d'espaces et de mémoires:
-* Délai entre [[Place cells]] --> limite le nombre d'[[assemblage]] par cycle theta. 
+* Délai entre [[place cells]] --> limite le nombre d'[[assemblage]] par cycle theta. 
 * Durée d'un cycle theta --> Limite les distances encodables par les séquences d'activation.
-	* -> Lien sigmoïdale distance maximale représentable et intervale de temps en [[spiking]] de deux [[Place cells]]. 
+	* -> Lien sigmoïdale distance maximale représentable et intervale de temps en [[spiking]] de deux [[place cells]]. 
 				 ![[Pasted image 20241029193528.png]]
 
 --> Location proches représentées plus fortement, celles lointaines de manières plus éparses.
@@ -178,7 +178,7 @@ Dans les cas de tâches mémorielles, lorsque des choix critiques sont à effect
 Les places cells s'entremêlent régulièrement avec des séquences internes "rétrospectives" et "prospectives" (13)
 
 Place fields & large grid size dans les parties ventrales de l'[[hippocampe]] et du [[cortex entorhinal]] dotés de longue connections, permettant l'activation synchrone de réseaux distants, cela permettrait de créer des liens de haute [[Complexité]] ("high order") pour permettre une [[navigation]] efficace.
-Cela permet également d'améliorer la flexibilité de la [[mémoire épisodique]]. 
+Cela permet également d'améliorer la [[flexibilité]] de la [[mémoire épisodique]]. 
 -> Les [[mécanismes neuronaux]] permettant de sélection le chemin le plus efficace permettraient la sélection optimale des séquences nécessaire à la représentation d'un épisode mémoriel.  
 ## Refs
 Article de base:
@@ -188,7 +188,7 @@ Memory, [[navigation]] and theta rythm in the hippocampal-entorhinal system - Bu
 1.  Scoville, W.B. & Milner, B. Loss of recent memory after bilateral hippocampal lesions. J. Neurol. Neurosurg. Psychiatry 20, 11–21 (1957).
 2. Squire, L.R. Memory and the hippocampus: a synthesis from findings with rats, monkeys, and humans. Psychol. Rev. 99, 195–231 (1992). [[à check]]
 3. McClelland, J.L., McNaughton, B.L. & O’Reilly, R.C. Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychol. Rev. 102, 419–457 (1995).
-4. Nadel, L. & Moscovitch, M. Memory consolidation, retrograde amnesia and the hippocampal complex. Curr. Opin. Neurobiol. 7, 217–227 (1997).
+4. Nadel, L. & Moscovitch, M. Memory [[consolidation]], retrograde amnesia and the hippocampal complex. Curr. Opin. Neurobiol. 7, 217–227 (1997).
 5. Manns, J.R., Hopkins, R.O., Reed, J.M., Kitchener, E.G. & Squire, L.R. Recognition memory and the human hippocampus. Neuron 37, 171–180 (2003).
 6. Fyhn, M., Hafting, T., Treves, A., Moser, M.B. & Moser, E.I. Hippocampal remapping and grid realignment in entorhinal cortex. Nature 446, 190–194 (2007).
 7. Wilson, M.A. & McNaughton, B.L. Dynamics of the hippocampal ensemble code for space. Science 261, 1055–1058 (1993).

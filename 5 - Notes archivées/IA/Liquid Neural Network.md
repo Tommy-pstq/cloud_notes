@@ -18,7 +18,7 @@ Tags: [[intelligence artificielle]] [[neurone]] [[attention]] [[circuit neuronau
 - Capacité à apprendre des représentations
 * Compréhension du monde, capture la [[causalité]]
 	- --> Extrapole facilement en dehors des distributions
-* Robustesse & flexibilité
+* Robustesse & [[flexibilité]]
 * efficacité 
 
 

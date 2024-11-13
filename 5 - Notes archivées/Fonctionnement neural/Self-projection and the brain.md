@@ -70,7 +70,7 @@ Lésions -->
 			- Ex : "Future plans" --> ne répondent que des généralités. 
 	- Patient HM (le fameux!): ne fait aucune prédiction autobiographique. Quand explicitement demandé, soit ne répond pas, soit décrit un événement passé lointain.
 
-*Pas si surprenant qu'en absence de [[Place cells]], la notion de référence egocentrée soit altérée IMO*
+*Pas si surprenant qu'en absence de [[place cells]], la notion de référence egocentrée soit altérée IMO*
 
 Patient amnésique suit à une anoxie :  Incapable de faire de prévisions sur son [[activité]] future mais capable de retenir des éléments sémantique concernant le future. 
 

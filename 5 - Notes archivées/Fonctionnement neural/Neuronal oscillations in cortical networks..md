@@ -79,7 +79,7 @@ Les oscillations sont une caractéristique intrinsèque des systèmes à l'équi
 
 - Etat par défaut du cerveau endormis = système complexe présentant une association complexe d'oscillation auto-générées. - particulièrement dans le système [[système thalamo-cortical]] -
 - Ces oscillations contiennent des spikes représentant les activités effectuées plus tôt dans la journée.
---> Replay durant le sommeil, consolidation des modifications structurales des [[synapses]].
+--> Replay durant le sommeil, [[consolidation]] des modifications structurales des [[synapses]].
 
 - (7) : Le sommeil permet la restructuration de nouvelle représentations mémorielles, facilitant l'abstraction de connaissances explicites. 
 
@@ -98,7 +98,7 @@ Si l'oscillation d'[[inhibition]] somatique est stable mais que la [[dépolarisa
 Avance de phase croissant (phase-shift) des potentiels d'action élevé peut être exploité pour du stockage d'information à cours terme (9).
 
 Exemple de la première expérimentation permettant de conclure sur l'utilisation de la phase comme vecteur d'information:
-- Mesure de l'[[activité]] d'une [[cellule pyramidale]] ([[Place cells]]) dans l'[[hippocampe]] d'un rat:
+- Mesure de l'[[activité]] d'une [[cellule pyramidale]] ([[place cells]]) dans l'[[hippocampe]] d'un rat:
 	- Déplacement du timing des spikes de cette cellule, plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'onde Theta.
 				- ![[Pasted image 20241029113942.png]]
 
