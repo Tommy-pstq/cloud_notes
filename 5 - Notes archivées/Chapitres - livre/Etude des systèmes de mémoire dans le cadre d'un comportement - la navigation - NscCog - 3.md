@@ -115,7 +115,7 @@ Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant
 
  **Des systèmes de mémoires distincts sont impliqués dans les deux types de [[navigation]]**:
 	1. Système de [[mémoire déclarative]], associé au système hippocampique et à un encodage des informations selon un mode de traitement S-S 
-	2. Système de mémoire procédurale associé au système striatal et à un mode de traitement de des informations de type stimulus-réponse. S-R.
+	2. Système de mémoire procédurale associé au système striatal et à un mode de traitement de des informations de type stimulus-réponse. [[S-R]].
 		- Important de dissocier deux régions du [[striatum]] dorsal:
 			- [[striatum dorso-médian]] : apprentissages associatifs. (DMS ou [[noyau caudé]])
 				- nécessaire pour l'association du but avec un comportement approprié.

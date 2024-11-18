@@ -1,64 +1,15 @@
 2024-11-06 15:18
 
-Status:
 
-Tags: [[TSA]] [[TDAH]] [[dépression]] [[anxiété]] [[sensor]] [[attention]] 
-
-# Intelligence, ASD, ADHD.
+# High intelligence: A risk factor for psychological and physiological overexcitabilities
 
 - Idée issue du podcast 'Intensément votre' et donc à vérifier (possible erreur de [[mémoire]]) : le HPI/Haut QI (deux notions utilisées comme équivalentes ici) n'implique pas une plus grande prévalence de troubles neurodéveloppementaux.
 - Spectacle de Jérémy Ferrari : HPI --> aggrave certains troubles puisque cognition efficace.
 - Prévalence [[TSA]]/[[TDAH]] entre-eux : environ 50% (Diag TND Maeva Rollin)
 - Si [[TDAH]] ou [[TSA]] : 6x de chance de dep. (Diag TND Maeva Rollin)
 
-### Lien entre QI paternel et TSA/TDAH
-
-Ref 2
-
-Recent studies : ASD corrélé avec haut QI. --> Etude du lien entre QI paternel & ASD chances (pourquoi paternel ? --> conscription des hommes = test de QI
-		-> logique, comprehension verbale, abilité spatiale, compréhension technique)
-
-Etude de cohort : 360k individus - avec QI , 309k sans. 193 -> 162K pères. ; nés entre 1984 & 2008.
-
-Diags issus de centre régionaux & nationaux de santé. 
-- QI les plus faibles (50-69) : études familiales suggères qu'ils sont expliqués par des gènes communs à la population générales.
-- ASD + ID : hérites de plus de gènes associés à des capacité cognitives que leurs paires familiaux.
-	- -> diff ID pour pop générale que pour ASD ? pas étudié dans l'article
-
-![[{87EB1281-61A8-4922-940D-BF83AC3203AE}.png]]
-
-#### Results:
-
-*Ligne pointillés : résultats non ajustés. Ligne pleine : ajustée avec sex, date de naissance, ordre de naissance, caractéristiques familiales* 
-
-Faible courbe en J entre QI paternel & ASD chances pour les enfants.
-![[{A0F97D4C-60D0-4501-890B-0B56692F2FC2}.png]]
-- ASD + ID : associé à un QIp plus faible
-- ID : QIp plus faible, décrois FAIBLEMENT avec un QIp plus élevé
-- ADHD || ADHD+ASD : plus de chances avec QIp plus faible.
-	- ADHD lien monotone avec le QIp
-Plus grosse covariance : éducation parentale : module la corrélation en QIp faible et chances de dev un TND.
-
-#### Analyse par sous domaine de QI.
-
-![[{92DA0936-8ABC-4475-890F-062670455322}.png]]
-Domaine prépondérant dans les chances d'avoir un enfant ASD : compréhension technique. Autres domaines non corrélés.
-
-ASD+ADHD plus fortement associé à des scores faibles en [[raisonnement]] logique.
-![[{1A8E4B2A-4728-40C0-BDEF-0999AD86629E}.png]]
-#### Analyses de genre
--> ASD féminin trop peu connu, je soupçonne un biais conséquent.
-
-ASD+ID avec QIp élevé apparent que chez les mâles.
-
-
-## Discussions:
-
-- ASD chances + avec QIp au dessus de la moyenne --> Association [[génétique]] ET phénotypique entre intelligence & ASD.
-- ADHD chances - avec QIp : confirme l'association inverse [[génétique]] entre ADHD & capacité cognitives. Etudes récentes. 
-
 ## Haute intelligence = facteur de risque pour surexcitabilité psycho & physiologique ?
-Ref1 
+
 
 ## Introduction 
 
@@ -182,9 +133,9 @@ Pour expliqué l'OE dans l'ASD: Markam & Markam 2010 proposent:
 		- Hyper-réactivité
 		- Hyper-[[plasticité]]
 
-Autistic animals : pas de déficite des fonctions inhibitrices mais trop de connexions excitatrice dans le néocortex. (Markam 2007)
+Autistic animals : pas de déficit des fonctions inhibitrices mais trop de connexions excitatrice dans le néocortex. (Markam 2007)
 -> Réponse excessive observer lorsqu'un nouveau [[stimulus]] est présenté et que les [[synapses]] l'apprennent plus vite que d'habitude.
-	-> Réactivite excessive + emprunte mémorielle rapide renforcées par une réactivité émotionnelle plus intense. 
+	-> Réactivité excessive + emprunte mémorielle rapide renforcées par une réactivité émotionnelle plus intense. 
 		-> Génère des craintes plus intenses et difficile à effacer que dans le reste de la population. 
 
  (1-7) : Cerveaux d'enfant [[TSA]] produit au repos, en moyenne, 42% d'information supplémentaire qu'enfant TD. --> Surcharge mentale plus facile à atteindre. 
@@ -243,19 +194,6 @@ Cependant, ces études montrent en général un lien positif également entre in
 * Certaines études se basent sur le niveau académique plutôt que des scores de QI : pas viable car passe à côté de potentiellement beaucoup d'individus très/sur-doués mais ayant, volontairement ou à cause d'autres troubles, choisi d'autres voies.
 * D'autres études trouvent des conslusions similaire à celle-ci en divisant les individus HQI entre ceux présentant des compétences verbales ou s'orientant vers des domaines artistiques et les autres.
 
-## ADHD/ASD/IQ & Genetic
-
-Ref3 
-
-##### Datasets
- - ADHD = 20k sujets, 35k contrôles. Processus Ricopili 
- - ASD = 18k sujets, 28k contrôles. Sous population d'une cohorte comprenant tous les enfants nés au Danemark entre 1981  & fin 2005.
- - Intelligence = 269k sujets. Cumule de plusieurs cohortes.
- 
- **_Results:_** Our results showed that intelligence has a positive and negative genetic correlation with ASD and ADHD, respectively, including three hub genomic regions showing correlated genetic effects across the three traits. Polygenic overlap analysis indicated that all the risk variants contributing to ADHD are overlapped with half of those for intelligence, and the majority of the shared variants have opposite effect directions between them. The majority of risk variants (80%) of ASD are overlapped with almost all the risk variants of intelligence (97%). Notably, some ASD/intelligence overlapping variants displayed opposing effects on these two conditions. MR analysis showed that the genetic liability to higher intelligence was associated with an increased risk for ASD (OR = 1.12) and a decreased risk for ADHD (OR = 0.78) (**masquage [[TDAH]] par capacité cognitive ++ ?**). Cross-trait meta-analyses identified 170 pleiotropic genomic loci across the three traits, including 12 novel loci. Functional analyses of the novel genes support their potential involvement in neurodevelopment.
-  
- **_Conclusion:_** Our results suggest that ADHD is associated with inheriting a reduced set of low-intelligence alleles, whereas ASD results from incongruous effects from a mixture of high-intelligence and low-intelligence contributing alleles summed up with additional, ASD-specific risk variants not associated with intelligence. 
- 
 
 ## Refs
 1.  High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001
@@ -265,12 +203,5 @@ Ref3
 	4. Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. Biological Psychiatry, 78, 224–230. http://dx.doi.org/10.1016/j.biopsych.2015.02.020. 
 	5. Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A [[default mode]] of brain function. Proceedings of the National Academy of Sciences of the United States of America, 98, 676–682. http://dx.doi.org/10.1073/pnas. 98.2.676.
 	6. Anticevic, A., Cole, M. W., Murray, J. D., Corlett, P. R., Wang, X. J., & Krystal, J. H. (2012). The role of default network deactivation in cognition and disease. Trends in Cognitive Sciences, 16, 584–592. http://dx.doi.org/10.1016/j.tics.2012.10.008.
-	7. Velázquez, J. L., & Galán, R. F. (2013). Information gain in the brain's resting state: A new perspective on autism. Frontiers in Neuroinformatics, 7, 1–10. http://dx.doi.org/10. 3389/fninf.2013.00037.
+	7. Velázquez, J. L., & Galán, R. F. (2013). Information gain in the brain's resting state: A new perspective on autism. Frontiers in Neuroinformatics, 7, 1–10. http://dx.doi.org/10.3389/fninf.2013.00037.
 	8. Vargas, D. L., Nascimbene, C., Krishnan, C., Zimmerman, A. W., & Pardo, C. A. (2005). Neuroglial activation and neuroinflammation in the brain of patients with autism. Annals of Neurology, 57, 67–81. http://dx.doi.org/10.1002/ana.20315.
--  The Association of Paternal IQ With Autism Spectrum Disorders and Its Comorbidities: A Population-Based Cohort Study Gardner, Renee M. et al. Journal of the American Academy of Child & Adolescent Psychiatry, Volume 59, Issue 3, 410 - 421
-	- A check : biais de sélection.
-		- Crespi BJ. Autism as a disorder of high intelligence. Front Neurosci. 2016;10:300.
-		- Folstein SE, Santangelo SL, Gilman SE, et al. Predictors of cognitive test patterns in autism families. J Child Psychol Psychiatry. 1999;40:1117-1128.
-		- Fombonne E, Bolton P, Prior J, Jordan H, Rutter M. A family study of autism: cognitive patterns and levels in parents and siblings. J Child Psychol Psychiatry. 1997;38:667-683.
-		- Gizzonio V, Avanzini P, Fabbri-Destro M, Campi C, Rizzolatti G. Cognitive abilities in siblings of children with autism spectrum disorders. Exp Brain Res. 2014;232: 2381-2390.
-- Shuquan Rao, A. Baranova, Yao Yao, Jun Wang and Fuquan Zhang. "Genetic Relationships between [[attention]]-Deficit/Hyperactivity Disorder, Autism Spectrum Disorder, and Intelligence." _Neuropsychobiology_, 81 (2022): 484 - 496. [https://doi.org/10.1159/000525411](https://doi.org/10.1159/000525411).

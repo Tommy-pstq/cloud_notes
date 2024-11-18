@@ -1,0 +1,2 @@
+- Aire tegmentale ventrale - mésencéphale. 
+- contient des neurones dopaminergiques 

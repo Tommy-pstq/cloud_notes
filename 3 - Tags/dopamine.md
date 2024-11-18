@@ -1,0 +1,2 @@
+- **Signale** & **quantifie** la récompense, ainsi que sa **probabilité d'occurrence**, ainsi que sa **pertinence de mémorisation**.
+- Transporté du tronc cérébral jusqu'au cortex préfrontal via le medial forebrain bundle ([[MFB]])

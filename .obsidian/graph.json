@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"5 - Notes archivées/Mémoire\"  ",
@@ -62,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.472318339100346,
   "repelStrength": 11.9377162629758,
   "linkStrength": 0.835640138408305,
   "linkDistance": 236,
-  "scale": 0.1455406584130982,
+  "scale": 0.17753951263000448,
   "close": false
 }
