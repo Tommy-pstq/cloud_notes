@@ -13,7 +13,7 @@ Tags: [[mémoire]] [[navigation]] [[hippocampe]] [[Neurobiologie]] [[expériment
 
 Fonction de l'[[hippocampe]] ? 
 * Patient HM (lésion bilatérale de l'[[hippocampe]] suite chirurgie épilepsie) : amnésie antérograde.
-* Chez les rats : activation en fonction de la position spatial.
+* Chez les rats : [[activité|activation]] en fonction de la position spatial.
 -> Les deux ne semblent, a priori pas vraiment corrélés. 
 Sauf si, hypothèse : **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les bases & [[algorithmes neuronaux]] les supportant sont les mêmes.**
 
@@ -35,7 +35,7 @@ La [[mémoire sémantique]] se forme à partir de la reproduction d'épisodes se
 
 Pour qu'un système neuronal supporte la [[mémoire]] de manière efficace il est nécessaire qu'il puisse : 
 - Stocker de grande quantité de données sous forme de représentations orthogonales (Dimensionalité ++)
-- Générer de manière autonome des séquences d'[[assemblage]] de cellules [[tempo]]rellement évolutives.
+- Générer de manière autonome des séquences d'[[assemblage]] de cellules [[temporalité|temporellement]] [[évolution|évolutives]].
 Le système hippocampo-entorhinal offre ces propriétés anatomique & physiologique. 
 
 ### Cartes allocentriques & mémoire sémantique
@@ -44,10 +44,10 @@ Le système hippocampo-entorhinal offre ces propriétés anatomique & physiologi
 Consensus : la formation de [[mémoire déclarative]] se fait au niveau du complexe [[hippocampe]]-entorhinal. Le débat persiste quant à sa dépendance à l'[[hippocampe]] une fois consolidée (3, 4, 5 - faudra check ça).
 
 Encodage des coordonnées spatiales implique beaucoup de cellules différentes avec des profil d'[[activité]] définis. Les deux les plus notables:
-- "[[place cells]]" dans l'[[hippocampe]] - Activation spécifique en fonction de l'environnement 
+- "[[place cells]]" dans l'[[hippocampe]] - [[activité|activation]] spécifique en fonction de l'environnement 
 - ''[[grid cells]]" dans le [[cortex entorhinal]] médian -[[activité]] continue dans tous types d'environnement (ACTE). 
 
-* [[cortex entorhinal]] médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur activation, les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances allocentriques + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
+* [[cortex entorhinal]] médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur [[activité|activation]], les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances allocentriques + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
 
 **[[grid cells]]** :
 	- Map la totalité de l'espace entourant l'individu, avec des patterns haxegonal périodique et fourni une métrique pour la représentation neuronale de l'espace.
@@ -61,7 +61,7 @@ Encodage des coordonnées spatiales implique beaucoup de cellules différentes a
 
 - Organisation "modulaire" des [[grid cells]] : chaque module encode l'environnement avec une **orientation** (alignement des patterns) et une **résolution spatiale** (espacement) **unique**. Il n'y a pas d'organisation hiérarchique entre modules, la même data de base est utilisé et encodée de manière différente, produisant des représentations orthogonales (sans overlap). --> Changement de représentation inter-module = indépendant, donc immense capacité de représentation. 
 
-**[[cortex entorhinal]]** : dispose des infos de directions/distance/position & limites d'environnement et donc ==candidat idéal pour le calcul des métriques spatiales de l'environnement== (à lier : [[simplexité]] de calcul par géométrie euclidienne, semi-euclidienne et linéaire exposé dans Neuroscience cognitives @DeBoeck).
+**[[cortex entorhinal]]** : dispose des infos de directions/distance/position & limites d'environnement et donc ==candidat idéal pour le calcul des métriques spatiales de l'environnement== (à lier : [[simplexité]] de calcul par géométrie euclidienne, semi-euclidienne et linéaire exposé dans Neuroscience [[cognition|cognitives]] @DeBoeck).
 
 - [[grid cells]] projettent leur représentation sur les [[place cells]] de l'[[hippocampe]], la grande variabilité de ces projections permettrait l'encodage unique de chaque environnement --> pas d'interférences. 
 
@@ -70,7 +70,7 @@ Donc : ==capacité d'associer à chaque "élément"== (environnement ou contexte
 
 Système [[hippocampe]] + [[cortex entorhinal]] : ultra complexe. Bien trop complexe pour n'être issue d'un processus d'[[évolution]]  réservé à la [[navigation]]. Les insectes s'en sortent très bien avec quelques neurones uniquement. Chez les rats, pour une représentation d'environnements avec une précision de l'ordre du cm, quelques douzaines de grid/[[place cells]] (6,7) suffisent. Donc, supposition des auteurs du papier : *la capacité de représentation orthogonale et variée de l'environnement a été la base permettant le stockage des détails de chaque épisode de la vie d'un individu*
 
-En outre : plusieurs [[expérimentations]]  (8 - d'autres dans l'article) démontrent que, chez plusieurs espèces, le rappel mnésique est associé à des activations de patterns uniques dans le système hippocampo-entorhinal. Chez l'humain, une activation **spécifique & sélective**  du dit système est observée lors de l'évocation de mots/objets/individus précis, indépendemment de leur caractéristiques physique/visuelles (9).  
+En outre : plusieurs [[expérimentations]]  (8 - d'autres dans l'article) démontrent que, chez plusieurs espèces, le rappel mnésique est associé à des [[activité|activations]] de patterns uniques dans le système hippocampo-entorhinal. Chez l'humain, une [[activité|activation]] **spécifique & sélective**  du dit système est observée lors de l'évocation de mots/objets/individus précis, indépendemment de leur caractéristiques physique/visuelles (9).  
 
 La [[mémoire sémantique]] peut être vue comme une mise en relation de représentations uniques de différents items, comme une tâche de classification assigne une partition d'un espace latent à un concept. l'architecture et le fonctionnement du système hippocampo-entorhinal permet et est optimisé pour générer de telles représentations ([[grid cells]]) et leur assignation à un concept ([[place cells]]), que ce soit les mesures de distances associés à un environnement précis, ou le concept d'amitié associé à sa notion.
 
@@ -80,7 +80,7 @@ Travaux récents : superposition conséquente entre les réseaux cérébraux res
 
 Propriétés de la [[mémoire]] épisode:
 - Relier des éléments disparates & arbitraires en un narratif cohérent
-- Récupération/accès aux expérience vécues et leur contexte spatio-temporel
+- Récupération/accès aux expérience vécues et leur contexte spatio-[[temporalité|temporel]]
 - Un indice unique peut déclencher la recollection d'une suite plus longue d'événement
 - Revivre le passé est perçu comme un processus continu alors qu'il s'agit d'un [[assemblage]] de courts segments
 	- --> Forte coopération entre les mécanismes et structures utilisées dans la [[mémoire déclarative]] à long terme et la [[mémoire de travail]] pour simuler cette impression de continuité.
@@ -88,15 +88,15 @@ Propriétés de la [[mémoire]] épisode:
 Q: Comment le cerveau génère et stock des séquence ? 
 Hypothèse: Les mécanismes de représentation d'un chemin à travers un environnement est similaire à ceux permettant la représentation d'une séquence mémorielle. 
 ![[Pasted image 20241023162634.png]]
-	*Activation neuronale (normalisée) durant un parcours linéaire*
+	*[[activité|activation]] neuronale (normalisée) durant un parcours linéaire*
 
 De la même manière que les neurones s'activent successivement en fonction de la position de l'animal le long d'un chemin linéaire, les souvenirs épisodiques sont également rappelés sous forme de séquences d'éléments qui suivent un ordre précis. Dans les deux cas, qu'il s'agisse de la [[navigation]] spatiale ou du rappel de souvenirs, le cerveau traite l'information de manière unidimensionnelle, c'est-à-dire en activant les neurones dans une séquence ordonnée. Cette séquence reflète soit un parcours dans l'espace, soit une succession d'événements dans le temps.
 
 --> Des mécanismes similaires peuvent être utilisés pour effectuer l'[[intégration temporelle]] de différentes positions ou d'épisodes mémoriels.
 
-Le caractère associatif unidirectionnel de l'association d'éléments dans la [[mémoire épisodique]], similaire à l'association de places cells (12) explique deux points important du rappel volontaire:
-- Son asymétrie: les associations dans le sens "direct" sont plus fortes que dans le sens "contraire"
-- La contiguïté temporelle: Le rappel d'un élément est facilité par des informations temporellement proche de celui-ci. 
+Le caractère [[association|associatif]] unidirectionnel de l'[[association]] d'éléments dans la [[mémoire épisodique]], similaire à l'[[association]] de places cells (12) explique deux points important du rappel volontaire:
+- Son asymétrie: les [[association|associations]] dans le sens "direct" sont plus fortes que dans le sens "contraire"
+- La contiguïté [[temporalité|temporelle]]: Le rappel d'un élément est facilité par des informations [[temporalité|temporellement]] proche de celui-ci. 
 Cependant, un élément clé diffère: le système de [[navigation]] se base sur des éléments externes ou informations internes, le "voyage simulé" doit, quant à lui, se baser sur des séquences d'[[assemblage]] interne. Des neurones de l'[[hippocampe]] permettent également de prédire d'où vient un individu (rat) ou quels seront ses futurs choix de déplacement.
 (13): l'[[hippocampe]], notamment la zone [[CA3]] possède toutes les caractéristiques pour la génération interne de séquence. 
 
@@ -121,39 +121,39 @@ Le parallèle avec la [[mémoire épisodique]] est assez direct : on se souvient
 
 Rappel épisodique: 
 - Fragments d'informations permettent la reconstruction d'épisodes bien plus long. ("predict" dans le texte, porte à confusion si l'on pense au caractère réellement prédictif de signaux prédisant une décision avant que celle-ci soit consciente)
-* Orientation temporelle directe largement favorisée. 
+* Orientation [[temporalité|temporelle]] directe largement favorisée. 
 
-Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliquent par une organisation temporelle multi-échelle de séquences neuronales permises par les [[oscillations theta]] dans l'[[hippocampe]].
+Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliquent par une organisation [[temporalité|temporelle]] multi-échelle de séquences neuronales permises par les [[oscillations theta]] dans l'[[hippocampe]].
 
 ### L'organisation temporelle multi-échelle des assemblages neuronaux
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
-Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[ondes gamma]] par les [[oscillations theta]]. 
-[[activité]] neuronale à multi-échelle temporelle observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
+Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[oscillations gamma|ondes gamma]] par les [[oscillations theta]]. 
+[[activité]] neuronale à multi-échelle [[temporalité|temporelle]] observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
 - [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le [[neurone]] reader.
 - Les [[spike]]s d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
 - la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  [[récepteurs]] [[GABA]].a [[AMPA]] , dont les interactions génèrent le rythme [[gamma]] (14).  
 - Assemblages dans l'[[hippocampe]], durée de vie = 10-30ms --> 5-9 [[assemblage]], chacun contenu dans un cycle gamma, durant un cycle theta. 
 
---> Double fonctionnalité des ondes theta:
-* Rassemble et lie des assemblages dans la fenêtre temporelle permettant leur modulation par la [[plasticité synaptique]]
+--> Double fonctionnalité des [[oscillations theta|ondes theta]]:
+* Rassemble et lie des assemblages dans la fenêtre [[temporalité|temporelle]] permettant leur modulation par la [[plasticité synaptique]]
 * Sépare les assemblages dans l'espace des phases disponible (Peut être engendré par des [[interneurones inhibiteurs]] péri-somatique)
 
 --> Trois conséquences croisées de cette ségrégation de phase:
-1. Séquences d'activations des neurones en phase descendante, minimale et montante des ondes theta représente respectivement les positions passées, présentes et futures: 
+1. Séquences d'[[activité|activations]] des neurones en phase descendante, minimale et montante des [[oscillations theta|ondes theta]] représente respectivement les positions passées, présentes et futures: 
 				 ![[Pasted image 20241029113942.png]]
 			
-2. Délais d'activation maximal entre deux [[place cells]] proportionnel à la distance physique entre les deux éléments/lieu encodés. 
-	* -> 1 & 2 : distance traversée pendant le déplacement sont exprimé dans le domaine temporel via un format compressé temporellement dans les ondes theta.
-3.  Les [[place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'activation  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les ondes theta (en partie dû aux délais de l'ordre de la miliseconde entre [[spiking]] the [[place cells]] adjacente) : [[phase precession]].
+2. Délais d'[[activité|activation]] maximal entre deux [[place cells]] proportionnel à la distance physique entre les deux éléments/lieu encodés. 
+	* -> 1 & 2 : distance traversée pendant le déplacement sont exprimé dans le domaine [[temporalité|temporel]] via un format compressé [[temporalité|temporellement]] dans les [[oscillations theta|ondes theta]].
+3.  Les [[place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'[[activité|activation]]  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les [[oscillations theta|ondes theta]] (en partie dû aux délais de l'ordre de la miliseconde entre [[spiking]] the [[place cells]] adjacente) : [[phase precession]].
 	- Ce phénomène engendre une avance de phase croissante pour les populations de cellules impliquées. 
 	- La pente de cette avance de phase représente la taille du place field impliqué, plus la pente est élevée, plus le champ sera de petite taille. 
 	-  Le même phénomène serait observé dans le [[cortex entorhinal]] dans le fonctionnement des [[grid cells]](15)
 
-Le mécanisme de compression temporelle des [[oscillations theta]] contraint les représentation d'espaces et de mémoires:
+Le mécanisme de compression [[temporalité|temporelle]] des [[oscillations theta]] contraint les représentation d'espaces et de mémoires:
 * Délai entre [[place cells]] --> limite le nombre d'[[assemblage]] par cycle theta. 
-* Durée d'un cycle theta --> Limite les distances encodables par les séquences d'activation.
+* Durée d'un cycle theta --> Limite les distances encodables par les séquences d'[[activité|activation]].
 	* -> Lien sigmoïdale distance maximale représentable et intervale de temps en [[spiking]] de deux [[place cells]]. 
 				 ![[Pasted image 20241029193528.png]]
 
@@ -164,12 +164,12 @@ De plus: la fréquence des [[oscillations theta]] augmente avec la vitesse de d�
 **Analogie avec la [[mémoire]]:** Si l'on considère des locations comme des items uniques à insérer dans un buffer mémoriel, le mécanisme de compression/expansion theta peut être utilisé de manière similaire:
 - Limitation du nombre d'items pouvant être stockés dans un cycle theta.
 	- Limitation de la quantité d'information pouvant être stockée/accédée à un moment donné 
-* Zoom: détails précis autour d'un événement donnés, mais les liens reliant deux éléments éloignés temporellement sont plus éparses.
+* Zoom: détails précis autour d'un événement donnés, mais les liens reliant deux éléments éloignés [[temporalité|temporellement]] sont plus éparses.
 * Plus le contenu d'un rappel mémoriel avance dans le temps, plus la quantité d'information (résolution contextuelle) disponible augmente pour les événements suivant.
 
 #### Lien entre expériences passées et actuelles via oscillations thêta. 
 
-En plus de créer un contexte autour d'une situation donnée, le mécanisme d'oscillations thêta pourrait aider à créer des liens entre des événements temporellement distants. 
+En plus de créer un contexte autour d'une situation donnée, le mécanisme d'oscillations thêta pourrait aider à créer des liens entre des événements [[temporalité|temporellement]] distants. 
 
 Ex: Chez le rat, les assemblages représentant l'environnement actuels sont parfois remplacés par des assemblages complètement différent au sein d'un même cycle theta. Comme si l'individu avait fait un bref saut mental dans un autre environnement.  
 Ces "sauts mentaux" sont fréquents lorsque le rat est "téléporté" (changement de pattern d'illumination) entre différents environnements. 
@@ -177,7 +177,7 @@ Ces "sauts mentaux" sont fréquents lorsque le rat est "téléporté" (changemen
 Dans les cas de tâches mémorielles, lorsque des choix critiques sont à effectuer, on observe des séquences représentant des longue distances. (16,17)
 Les places cells s'entremêlent régulièrement avec des séquences internes "rétrospectives" et "prospectives" (13)
 
-Place fields & large grid size dans les parties ventrales de l'[[hippocampe]] et du [[cortex entorhinal]] dotés de longue connections, permettant l'activation synchrone de réseaux distants, cela permettrait de créer des liens de haute [[Complexité]] ("high order") pour permettre une [[navigation]] efficace.
+Place fields & large grid size dans les parties ventrales de l'[[hippocampe]] et du [[cortex entorhinal]] dotés de longue connections, permettant l'[[activité|activation]] [[synchronicité|synchrone]] de réseaux distants, cela permettrait de créer des liens de haute [[Complexité]] ("high order") pour permettre une [[navigation]] efficace.
 Cela permet également d'améliorer la [[flexibilité]] de la [[mémoire épisodique]]. 
 -> Les [[mécanismes neuronaux]] permettant de sélection le chemin le plus efficace permettraient la sélection optimale des séquences nécessaire à la représentation d'un épisode mémoriel.  
 ## Refs

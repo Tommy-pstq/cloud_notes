@@ -1,0 +1,6 @@
+---
+aliases:
+  - altruiste
+  - altruistes
+---
+(

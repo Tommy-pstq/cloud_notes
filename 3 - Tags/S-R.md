@@ -1,1 +1,7 @@
-- association stimulus-réponse
+---
+aliases:
+  - stimulus-réponse
+---
+
+
+- [[association]] [[stimulus]]-réponse

@@ -18,11 +18,11 @@ Mécanisme fondamental de la [[vicariance]] : l'[[inhibition]]. (choix de la sol
 ## II - Regard & geste
 ### II - 1 Bases neurales du contrôle du regard
 
-Ici, regard = direction de l'axe optique dans l'espace (pas de considérations sociales).
+Ici, regard = direction de l'axe optique dans l'espace (pas de considérations [[social|sociales]]).
 	-> Porter son [[attention]] sur un élément.
 
 ##### Multiples voies visuelles
-1. Attribution d'une valence émotionnelle aux éléments | coloration affective.
+1. Attribution d'une valence [[émotion|émotionnelle]] aux éléments | coloration affective.
 	-  75 ms.
 	-  Via le [[thalamus]] jusqu'à l'[[amygdale]] 
 2. Calcul de la trajectoire des objets, voie "rétino-tectale".
@@ -33,7 +33,7 @@ Ici, regard = direction de l'axe optique dans l'espace (pas de considérations s
 		- Informent les [[fonctions supérieures]].
 3. "Voie corticale du mouvement".
 	- Aires visuelles supérieures + aires spécialisées dans la détection de mouvement (métio-temporale)
-	- Décharge dans les systèmes de contrôle des mouvements oculaire, permettant la poursuite oculaire d'un objet se déplaçant.
+	- [[spike|décharge]] dans les systèmes de contrôle des mouvements oculaire, permettant la poursuite oculaire d'un objet se déplaçant.
 4. "Voie dorsale". 
 	- **Où** se trouve l'objet ?
 5. "Voie temporale". identification des objets:
@@ -71,7 +71,7 @@ Contrôle de la saccade oculaire: double flux d'opération neuronales.
 	- Inhibitrices ou excitatrices.
 
 - influence excitatrice en provenance du cortex [[frontal]] -> [[colliculus supérieur]] -> tronc cérébral. (pareil pour orientation de la tête)
-- Réseau d'[[inhibition]] : cortex [[frontal]] -> substance noire -> [[inhibition]] du [[colliculus supérieur]].
+- Réseau d'[[inhibition]] : cortex [[frontal]] -> [[substance noire]] -> [[inhibition]] du [[colliculus supérieur]].
 
 Production d'une saccade : nécessite la désinhibition de CS.
 	- Permet la sélection de la région de l'espace visuel où se fera la saccade au niveau du CS (déplacement d'[[attention]])
@@ -80,13 +80,13 @@ Production d'une saccade : nécessite la désinhibition de CS.
 En plus : "neurones pauseurs" dans le tronc cérébral peuvent bloquer l'exécution de la saccade même si tout le circuit cortico-colliculaire est activé.
 	-> Permet des déplacement imaginés du regard. Donc un déplacement de l'[[attention]] sans mouvement oculaire (expérience individuelle : fixer un point et déplacer son [[attention]] ailleurs dans le champ visuel) : "fovéa virtuelle"
 
-### II - 4 Apprentissage du geste
+### II - 4 [[Apprentissage]] du geste
 
 Comment passe-t-on d'un geste nouveau à un geste automatisé ?
 
-- [[apprentissage]] de séquences de mouvement = activation d'aires spécialisées dans le [[cortex préfrontal]].
+- [[apprentissage]] de séquences de mouvement = [[activité|activation]] d'aires spécialisées dans le [[cortex préfrontal]].
 	- Valable pour des gestes de la main comme pour les mouvement oculaires.
-- Une fois le geste appris, disparition de l'[[activité]] dans le PFC (-> capacité d'[[apprentissage]] disponible à nouveau) au profit de celle dans l'[[aire motrice supplémentaire]]. 
+- Une fois le geste appris, disparition de l'[[activité]] dans le [[cortex préfrontal|PFC]] (-> capacité d'[[apprentissage]] disponible à nouveau) au profit de celle dans l'[[aire motrice supplémentaire]]. 
 
 ### II - 5 Lois du mouvement naturel
 
@@ -102,7 +102,7 @@ Etude mathématique de ces lois du mouvement: elles dérivent de **principes de 
 
 On ne décrit comme se déplaçant à vitesse constante qu'un objet se déplaçant non pas à vitesse constante, mais respectant les lois du mouvement décrites au dessus.
 
-	-> Les mêmes lois sous-tendent à la fois l'exécution motrice et la perception.
+	-> Les mêmes lois sous-tendent à la fois l'exécution motrice et la [[perception]].
 
 ### III - 1 La variation coplanaire
 
@@ -170,7 +170,7 @@ Pareil pour la marche à partir de 4-5 ans. Contourner un obstacle:
 		 -> Le contrôle oculomoteur du regard doit être réhabilité si possible. 
 
 contrôle oculomoteur : dépend des traitements des relations entre le corps et l'espace.
--> Une fonction motrice est en fait guidée par des mécanismes cognitifs. 
+-> Une fonction motrice est en fait guidée par des mécanismes [[cognition|cognitifs]]. 
 
 -> Pathologie de la marche pas seulement une atteinte musculaire, mais potentiellement aussi une atteinte de la capacité à guider par le regard. 
 
@@ -203,7 +203,7 @@ Découverte initiale : mesure de l'[[activité]] neurale d'un singe mangeant une
 
 Les neurones que l'on pensait pré-moteurs sont en fait responsable du codage de l'action elle-même. Ils s'activent lors de l'observations d'une action ou de son exécution.
 
-l'activation du [[système miroir]] pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
+l'[[activité|activation]] du [[système miroir]] pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
 	- Un sportif pro regardant son sport aura bien plus l'impression de le pratique, de manière plus précise qu'un amateur ou un non-initié. 
 
 - Peut d'études neuropharmacologiques de cette simulation.
@@ -212,7 +212,7 @@ l'activation du [[système miroir]] pour les aires en étant doté est d'autant 
 
 "Penser un mouvement, c'est déjà le faire".
 
-Fonctionnement cognitif:
+Fonctionnement [[cognition|cognitif]]:
 - Utilisation de modèles internes prédictifs pour simuler l'action avant son exécution.
 	- Ex: attraper une bouteille, les muscles se contractent en avance et avec la bonne force nécessaire avant le contact avec la bouteille. 
 
@@ -226,13 +226,13 @@ Cerveau = machine biologique simulant la réalité grâce à des représentation
 
 Le cerveau ne se contente pas de percevoir l'espace, il l'interprète à partir d'hypothèse et de règles puissantes (ex: principe de symétrie). C'est ce sur quoi se base les illusions. 
 
-*Note perso: Quid du déterminisme concernant ces règles ? Souvenir d'une population aborigène ne percevant que très peu les lignes parfaitement droites car extrêmement rares dans leur environnement mais ultra présentes dans les constructions en dur*
+*Note perso: Quid du [[déterministe|déterminisme]] concernant ces règles ? Souvenir d'une population aborigène ne percevant que très peu les lignes parfaitement droites car extrêmement rares dans leur environnement mais ultra présentes dans les constructions en dur*
 
 Utilisation de l'espace comme lieu de [[mémoire]] (palais mentaux), "méthode des loci" aujourd'hui.
 
 ### VI - 2 Multiplicité des espaces 
 
-- Espaces d'actions, impliquant différent circuits neuronaux:
+- Espaces d'actions, impliquant différent [[circuit neuronaux|circuits neuronaux]]:
 	- Espace du corps (pas toujours facile d'établir l'unité du corps) & espace péri-personnel, espace de protection/défense si l'on s'approche trop près.
 	- Espace extra-personnel proche : de préhension.
 	- Espace locomoteur proche : aller cherche un objet dans une pièce.
@@ -250,7 +250,7 @@ Cerveau droit : catégorisation globale, représentation cartographique
 
 ### VII - 5 Différences entre les sexes
 
-Tâche de [[navigation]] virtuelle: activation de zones cérébrales différentes. 
+Tâche de [[navigation]] virtuelle: [[activité|activation]] de zones cérébrales différentes. 
 Le traitement de l'espace n'est pas effectué de la même manière. 
 
 - Neuropharmacologie:
@@ -272,7 +272,7 @@ Eudes des pathologie de la [[perception]], du mouvement, relations avec l'espace
 
 - Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la [[mémoire]] spatiale, fonctions exécutives, changement de perspective, codage égo- ou allo-centré .
 
-- Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la [[mémoire]] visuo-spatiale locomotrices chez les sujets sains, avec déficité attentionnel ([[TDAH]]) ou [[TSA]]. 
+- Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la [[mémoire]] visuo-spatiale locomotrices chez les sujets sains, avec déficit [[attention|attentionnel]] ([[TDAH]]) ou [[TSA]]. 
 - Miroir double : permet d'étudier les déficits d'attribution d'identité, à soi ou autrui lors d'un changement de perspective : difficultés des patients [[schyzophrénie|schizophrène]], [[TSA]] ou [[anorexie|anorexiques]] à se détacher d'eux mêmes.
 - "Le funambule" : deux réseaux différents du cerveaux sont impliqués dans la sympathie & l'[[empathie]]. L'[[empathie]] exige un changement de référentiel spatiaux & de perspective, pas la sympathie. 
 

@@ -17,18 +17,18 @@ Décennies de recherche : le complexe cortico-striato-thalamo-cortical ([[CSTS]]
 
 - 25 ans d'imagerie: patterns d'[[activité]]s anormaux dans la boucle CSTC. 
 - Même temps: Fonctions des [[ganglions de la base]] : boucles fermées dédiées à des fonctions motrices ou cognitives discrètes (maths).  Apparition du modèle dichotomique de projections directes/indirectes des [[ganglions de la base]]. 
-	- --> Hypothèse :  Une hyperactivité des boucles [[orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'activation excessive  du chemin direct, entraine des TOC.
+	- --> Hypothèse :  Une hyperactivité des boucles [[orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'[[activité|activation]] excessive  du chemin direct, entraine des TOC.
 		* Article : affirme que c'est une simplification abusive des phénomène neurobiologique mais qui permet de mettre en place un cadre d'étude théorique. 
 	* Léger "soucis" : pas d'avancée ou argument réfutant cette théorie au cours des 20 dernières années, certainement dû à des considération éthique concernant les procédures invasives sur des patient humain.
 ### Elements récents des modèles génétique chez la souris
 Suppression [[génétique]] de la production de [[SAPAP3]], fortement exprimé dans le [[striatum]]. 
-- augmentation des comportements anxieux / compulsifs
+- augmentation des comportements [[anxiété|anxieux]] / compulsifs
 - déficit de transmission [[glutamatergique]] dans les [[synapses]] cortico-striatales.
 Ces deux effets ont disparus après incorporation virale de SAPAP3 dans le [[striatum]]. 
 
 *L'article contient d'autres exemples concernant des protéines/acides aminés dont l'absence entraine des comportement compulsifs/répétitifs : Slitrk5/ Hoxb8/ Slc1a1|EAAC1 null mice*
 
---> Modèles uniques insuffisants pour représenter complètement les TOC chez l'humain. Peut être même impossible à reproduire chez la souris pour des raisons de différence de capacité cognitive.
+--> Modèles uniques insuffisants pour représenter complètement les TOC chez l'humain. Peut être même impossible à reproduire chez la souris pour des raisons de différence de [[capacités cognitives|capacité cognitive]].
 ### Perspectives
 - 30-40% des personnes [[TSA]] ont un diagnostique de [[TOC]]
 - Modèles animaux permettent de faire des parallèles, bien qu'incomplets ils sont très importants.

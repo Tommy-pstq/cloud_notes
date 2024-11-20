@@ -9,11 +9,11 @@ Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] [[social]]
 D'après 1) (2017):
   Paradigmes préexistants : 
 	 -  "Top-down" -> [[fonctions supérieures]] altérées ([[théorie de la cohérence centrale]])  générant des particularités sensorielles.
-	- "Sensory first" -> particularités sensorielles entrainent des déficits dans les [[fonctions supérieures]]. (difficultés sensorielles rendent les situations sociales difficilement supportable, donc évitées donc fonction sociales impactées pendant le dev.)
+	- "Sensory first" -> particularités sensorielles entrainent des déficits dans les [[fonctions supérieures]]. (difficultés sensorielles rendent les situations [[social|sociales]] difficilement supportable, donc évitées donc fonction [[social|sociales]] impactées pendant le dev.)
 
-De plus, l'autisme est principalement considéré comme impactant et défini par des inaptitudes sociales, avec sensorialité  altérée en "bonus" 
+De plus, l'[[TSA|autisme]] est principalement considéré comme impactant et défini par des inaptitudes [[social|sociales]], avec sensorialité  altérée en "bonus" 
 
-Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects cognitifs, dont la sensorialité et les interactions sociales. **la sensorialité spécifique engendrée par le [[TSA]] doit donc être considéré de manière égale à sa composante [[social|sociale]] ([[Théorie de l'esprit]])**  
+Proposition du papier : **symptômes du [[TSA]] issus d'altérations fonctionnelles de bas niveau** et impact donc plusieurs aspects [[cognition|cognitifs]], dont la sensorialité et les interactions [[social|sociales]]. **la sensorialité spécifique engendrée par le [[TSA]] doit donc être considéré de manière égale à sa composante [[social|sociale]] ([[théorie de l'esprit]])**  
 
 Hypothèse supportée par :
 	- [[Normalisation divisive]] altérée chez les personnes [[TSA]]
@@ -28,30 +28,30 @@ Nécessite des études sur d'autres motif neuronaux basique impactés dans le [[
  - [[Rivalité binoculaire]] moins efficace que dans la population générale. 
 Cependant: l'acuité visuelle, la discrimination de contraste ou d'orientation ne sont pas impactés, les performances  sont semblable à la population globale.
 
-Hypothèse avancé par 1) : **Décalage dans la synthèse [[tempo]]relle : les patterns globaux apparaissent plus lentement**
+Hypothèse avancé par 1) : **Décalage dans la synthèse [[temporalité|temporelle]] : les patterns globaux apparaissent plus lentement**
 Ex : personnes [[TSA]] ont des difficultés pour identifier la direction moyenne d'un nuage de points dont chacun possède un vecteur directionnel unique. En outre, l'amplitude de cette difficulté est prédictive de la sévérité du [[TSA]].
 
 ##### [[Perception tactile]]
 L'[[adaptabilité dynamique]]  est réduite chez les personnes [[TSA]].
 i.e : Un [[stimulus]] tactile à intensité constante sera perçu comme de moins en moins intense au cours du temps dans la population générale, moins/pas le cas dans population [[TSA]].
 
-##### [[Perception auditive]]
-En population [[TSA]] enfant, difficulté à distinguer deux sons temporellement proches. (également prédictif de la sévérité du [[TSA]]).
+##### [[perception auditive]]
+En population [[TSA]] enfant, difficulté à distinguer deux sons [[temporalité|temporellement]] proches. (également prédictif de la sévérité du [[TSA]]).
 Valable pour des sons purs - une note précise - comme pour des signaux complexes. 
 --> La [[fenêtre d'intégration temporelle]] est allongée. 
 -> Produit fort probablement un impact dans la [[communication]] et donc [[sociabilisation]]. 
 
 ##### Association [[mutlisens]]orielle 
-L'association audio-visuelle est plus longue: un son et un signal visuel seront perçus comme synchrone pendant un intervalle temporel plus long que dans la population générale. 
+L'association audio-visuelle est plus longue: un son et un signal visuel seront perçus comme [[synchronicité|synchrone]] pendant un intervalle [[temporalité|temporel]] plus long que dans la population générale. 
 En plus : pop G. voit ses performances de détection d'un [[stimulus]] visuel amélioré quand il est précédé d'un son, cet effet bénéfique de la multisensorialité est réduit en pop [[TSA]].
 
--> stimuli asynchrone perçu comme synchrones et leur association n'est pas aussi bénéfique qu'en popG.
+-> [[stimulus|stimuli]] asynchrone perçu comme [[synchronicité|synchrones]] et leur [[association]] n'est pas aussi bénéfique qu'en popG.
 
-Le déficit d'association est particulièrement observé lors de l'étude de modalité audio-visuelles et peuvent constitué un frein conséquent au développement du langage et de la [[communication]] ([[The cascading influence of multisensory processing on speech perception in autism|Note ici]]) 
+Le déficit d'[[association]] est particulièrement observé lors de l'étude de modalité audio-visuelles et peuvent constitué un frein conséquent au développement du langage et de la [[communication]] ([[The cascading influence of multisensory processing on speech perception in autism|Note ici]]) 
 
 
 ##### Neuro-Imagerie
-Signature neuronale de l'autisme visible dans les zones traitements primaires de l'information, voire dans les zone perceptives.
+Signature neuronale de l'[[TSA|autisme]] visible dans les zones traitements primaires de l'information, voire dans les zone [[perception|perceptives]].
 -> Les [[fonctions supérieures]] sont peut être impactées, mais cela ne suffit à expliquer pas la différence d'[[activité]] dans ces zones.
 
 ###### Vision 

@@ -1,0 +1,6 @@
+---
+aliases:
+  - synapse
+  - synaptique
+  - synpatiques
+---

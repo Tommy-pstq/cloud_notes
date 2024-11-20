@@ -1,1 +1,0 @@
-- Aussi appelé [[putamen]] 

@@ -14,7 +14,7 @@ Tags: [[TCA]]
 
 * Comme d'hab : inutile de juste demander à une personne en situation d'[[anorexie]] de manger. Equivalent à demander à une personne en [[dépression]] d'arrêter d'être triste ou à un fumeur d'arrêter de fumer.
 
-Première reformulation : "On ne considère plus le trouble, donc l'individu reçoit moins de stimuli externes à propos dudit trouble et peut donc perdre en intensité car moins activé en permanence"
+Première reformulation : "On ne considère plus le trouble, donc l'individu reçoit moins de [[stimulus|stimuli]] externes à propos dudit trouble et peut donc perdre en intensité car moins activé en permanence"
 
 Deuxième : " Si les majorité des interactions avec l'individu son centrées sur le TCA, il y a de grande chances qu'il soit entretenu "
 

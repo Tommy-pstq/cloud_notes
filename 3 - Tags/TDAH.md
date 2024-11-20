@@ -1,0 +1,12 @@
+---
+aliases:
+  - ADHD
+  - TDA
+  - ADD
+  - trouble de l'attention
+  - troubles de l'attention
+  - trouble attentionnel
+  - troubles attentionnels
+---
+- Niveaux de [[dopamine]] trop faible.
+- Problèmes de [[motivation]], concentration, mémoire, impulsivité, sur-stimulation

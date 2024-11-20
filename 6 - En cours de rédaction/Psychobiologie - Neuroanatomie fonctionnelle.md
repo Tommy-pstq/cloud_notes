@@ -12,7 +12,7 @@ Grande variabilité de taille/architecture
 
 - Corps cellulaire (grands) ~ 100µm diam.
 - Axones & dendrites ~ 10µm diam.
-- Synapse ~ 1µm diam
+- [[synapses|Synapse]] ~ 1µm diam
 - Fente [[synaptique]] ~ 20nm
 - [[Membrane neuronale]] ~ 5nm
 - Canal ionique ~ 0.5 nm
@@ -22,11 +22,11 @@ Grande variabilité de taille/architecture
 	- -> Caractérisation de la variabilité architecturale d'une zone.
 	- **Ne colore que certaines cellules, ultra bien, et d'autres presque pas.** raisons inconnues.
 * **Coloration de [[Nissl]]** : Teinte tous les corps cellulaires par interaction avec l'ARN entourant le noyau. 
-	* -> Mesure de la taille du [[Soma]]. 
+	* -> Mesure de la taille du [[soma]]. 
 * **Autoradiographie** : Immersion dans une formule radioactive de médicament. Molécule retenues par le tissu nerveux -> émissions radioactives : expose l'émulsion photographique. 
 * **Immunocytochimie** : Exposition de coupes cérébrales à des [[anticorps]] spécifiques à certaines protéines d'intérêt. Puis [[anticorps]] fluo.
 * **Hybridation in situ** : target des gènes par sélection d'[[ARNm]] 
-* **Peroxydase du raifort [[HRP]]** : traçage jusqu'au [[Soma]] à partir d'un axone.
+* **Peroxydase du raifort [[HRP]]** : traçage jusqu'au [[soma]] à partir d'un axone.
 
 ### Cellules [[gliales]]
  - Communiquent entre elles & avec les neurones
@@ -47,7 +47,7 @@ Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[memb
 
 [[Axone]] : 
 - Cône d'émergence = zone d'intégration des différents input reçus --> [[spike]]. 
-- [[transport axonal]] = production de protéines dans le [[Soma]], transport vers les régions distantes du neurones via l'axone. Substances à recycler/élimier convoyées dans l'axone jusqu'au [[Soma]]. 
+- [[transport axonal]] = production de protéines dans le [[soma]], transport vers les régions distantes du neurones via l'axone. Substances à recycler/élimier convoyées dans l'axone jusqu'au [[soma]]. 
 
 [[Nerfs crâniens]]:
 1. Olfactif, sensoriel
@@ -57,7 +57,7 @@ Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[memb
 5. Trijumeau : sensoriel : sinus/visage/dents | moteur : mâchoire 
 6. Abducens : abduction
 7. Facial : sensoriel : langue/palais | moteur : muscles faciaux, glades salivaires & lacrymales
-8. Vestibulocochléaire : sensoriel : audition & équilibre 
+8. Vestibulocochléaire : sensoriel : [[perception auditive|audition]] & équilibre 
 9. Glossopharyngien : sensoriel : goût et bouche, moteur : gorge
 10. Vague : sensoriel : organes internes, moteur : muscles lisses 
 11. Spinal accessoire : moteur : nuque
@@ -67,7 +67,7 @@ Potentiel d'action arrivant dans l'axone -> fusion des vésicules avec la [[memb
  Sensibles aux déséquilibres dopaminergiques.
  (A. Berthoz) : *Sélectionnent nos actions en inhibant toutes les actions non choisies plutôt qu'en excitant l'action choisie* <- équilibre perturbé dans la maladie de Parkinson
  
- - [[noyau caudé]] : contrôle moteur & [[fonctions cognitives]] & émotionnelles
+ - [[noyau caudé]] : contrôle moteur & [[fonctions cognitives]] & [[émotion|émotionnelles]]
  - [[putamen]] : [[régulation]] des mouvements volontaire & [[apprentissage]] moteur
  - [[Globus pallidus]] : Relais dans la modulation des signaux moteurs 
  - [[noyau sous-thalamique]] : [[régulation]] des mouvements. 

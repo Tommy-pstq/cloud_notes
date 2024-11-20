@@ -4,7 +4,7 @@ Status:
 
 Tags: [[perception]] [[mutlisens]] [[TSA]] [[social]] 
 
-# The cascading influence of multisensory processing on speech perception in autism
+# The cascading influence of multisensory processing on [[reconnaissance vocale|speech perception]] in autism
 
 ### Intro
 
@@ -12,13 +12,13 @@ Tags: [[perception]] [[mutlisens]] [[TSA]] [[social]]
 * Difficultés [[sensor]]ielles rapportées par 87% des personnes [[TSA]] 
 * Peu d'études réalisées pour établir des liens entre comportements et perceptions atypiques
 
-- Concept bien établis: si deux signaux sont reçus à un intervalle inférieur à la [[fenêtre d'intégration temporelle]] (FIT), ils sont perçus comme synchrones. la largeur de cette fenêtre est propre à chaque individu. ([[synchronicité]])
+- Concept bien établis: si deux signaux sont reçus à un intervalle inférieur à la [[fenêtre d'intégration temporelle]] (FIT), ils sont perçus comme [[synchronicité|synchrones]]. la largeur de cette fenêtre est propre à chaque individu. ([[synchronicité]])
 
 * Chez les enfants [[TSA]]:
 	* FIT supérieure 
-	* **Associations [[tempo]]relles moins précises** particulièrement pour signaux sociaux.
+	* **[[association|associations]] [[temporalité|temporelles]] moins précises** particulièrement pour signaux [[social|sociaux]].
 * [[intégration multisensorielle]] très bénéfiques, surtout dans des environnements bruyants.
-	* Reconnaissance de la parole plus précise et moins fatigante si le visage est visible pour les individus TD. Moins de bénéfices dans les populations [[TSA]].
+	* [[reconnaissance vocale|Reconnaissance de la parole]] plus précise et moins fatigante si le visage est visible pour les individus TD. Moins de bénéfices dans les populations [[TSA]].
 
 --> *Hypothèse du papier*: 
 	traitement multisensoriel dégradé 
@@ -46,21 +46,21 @@ Focus sur la [[perception]] de parole. || [[reconnaissance vocale]]
 	- Régression hiérarchique pour prédire le score de speech in noise.
 
 **FIT** : 
-- ASD = 307 +/- 176 ms 
+- [[TSA|ASD]] = 307 +/- 176 ms 
 - TD  =  317 +/- 189 ms
 -> Pas de diff significative lors de la mesure de FIT à partir de flash/bip.
 
 **[[perception]] de phonème** :
 *(p = null hypothesis rejection, F= ratio inter/intra variances, $\eta$ = taille d'effet (0.01 : small, 0.06:merdium, 0.14:large))*
 
-- ASD performent moins bien  en moyenne sur toutes les modalité (p=0.008, F=7.47, partial-$\eta$² =0.09)
+- [[TSA|ASD]] performent moins bien  en moyenne sur toutes les modalité (p=0.008, F=7.47, partial-$\eta$² =0.09)
 - Effet de la modalité: majoritairement audiovisuelle, le plus faible pour visual speech uniquement (p<0.001, F=480,08, partial-$\eta$² =0.87)
 - Pas d'interaction entre la modalité et le diag TSA/ASD
 
-- Audiovisual speech perception : TSA performent significativement moins bien. (p=0.002, F=3.16, d=0.73).
+- Audiovisual [[reconnaissance vocale|speech perception]] : TSA performent significativement moins bien. (p=0.002, F=3.16, d=0.73).
 - Audio uniquement : pas de différence significative.
 
-### Relation entre intégration temporelle et perception de parole 
+### Relation entre intégration temporelle et [[perception]] de parole 
 
 ![[Pasted image 20241102171843.png]]
 
@@ -78,7 +78,7 @@ TSA  :
 	McGurk fait le lien entre FIT & S-i-N score, reprend "l'info" portée par la FIT. lien **directionnel**.
 
 --> 
-**[[intégration multisensorielle]] moins performante en population [[TSA]] entraine des difficulté de reconnaissance de la parole en milieu bruyant.**
+**[[intégration multisensorielle]] moins performante en population [[TSA]] entraine des difficulté de [[reconnaissance vocale|reconnaissance de la parole]] en milieu bruyant.**
 ## Refs
 Initiale:
 The cascading influence of multisensory processing on speech [[perception]] in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 10-2024 

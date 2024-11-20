@@ -10,6 +10,6 @@ Canal NMDAR initialement bloqué par du magnésium.
 
 ![[Activated_NMDAR.png]]
 
-**Activation** : Changement de [[configuration]] entrainé par le glutamate/glycine pré-[[synaptique]] (=Libère le magnésium) + inversion de [[potentiel électrochimique]]-> [[dépolarisation]] post-[[synaptique]] (=Repousse le magnésium)
+**[[activité|activation]]** : Changement de [[configuration]] entrainé par le glutamate/glycine pré-[[synaptique]] (=Libère le magnésium) + inversion de [[potentiel électrochimique]]-> [[dépolarisation]] post-[[synaptique]] (=Repousse le magnésium)
 
 La [[dépolarisation]] est engendrée par les [[récepteurs]] [[AMPA]] , déclenchée également par le glutamate mais avec une cinétique préférentielle. 

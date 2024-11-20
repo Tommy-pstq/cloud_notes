@@ -1,0 +1,6 @@
+---
+aliases:
+  - sociale
+  - sociaux
+  - sociales
+---

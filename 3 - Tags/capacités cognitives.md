@@ -1,0 +1,5 @@
+---
+aliases:
+  - capacité cognitive
+---
+[[cognition]]

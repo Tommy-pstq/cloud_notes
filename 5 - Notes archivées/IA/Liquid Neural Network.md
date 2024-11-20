@@ -15,7 +15,7 @@ Tags: [[intelligence artificielle]] [[neurone]] [[attention]] [[circuit neuronau
 
 ### Différences fondamentales en cerveaux & [[ANN]]
 
-- Capacité à apprendre des représentations
+- Capacité à [[apprentissage|apprendre]] des représentations
 * Compréhension du monde, capture la [[causalité]]
 	- --> Extrapole facilement en dehors des distributions
 * Robustesse & [[flexibilité]]
@@ -37,9 +37,9 @@ Etudes:
 		- Capacité de [[mémoire]]
 		- [[causalité]] ++
 		- Robustesse + 
-		- [[Extrapolation]] 
+		- [[extrapolation]] 
 
-Ex : Voiture autonome : la carte d'[[attention]] est maintenant centrée sur la route. bien plus causal
+Ex : Voiture autonome : la carte d'[[attention]] est maintenant centrée sur la route. bien plus [[causalité|causal]]
 
 #### Différences des composants 
 
@@ -69,7 +69,7 @@ Avantages:
     - relier la dynamique de la perte à l'état du système
     - exécuter l'EDO à rebours pour obtenir le gradient de la perte par rapport au système, et celui du système par rapport aux paramètres
 
-[[Backpropagation]] temporelle:
+[[Backpropagation]] [[temporalité|temporelle]]:
 ![[Pasted image 20241104150615.png]]
 Beaucoup plus complexe mais plus précise. 
 
@@ -96,7 +96,7 @@ Théorème 1 : La [[constante de temps]] de chaque [[neurone]] est bornée :
 
     $\tau_i / (1 + \tau_i W_i) \leq \tau_{sys} \leq \tau_i$
 
-Théorème 2 : L’état de chaque [[neurone]] LTC est borné. Chaque synapse a un biais "A", max(A) = maximum de l’état.
+Théorème 2 : L’état de chaque [[neurone]] LTC est borné. Chaque [[synapses|synapse]] a un biais "A", max(A) = maximum de l’état.
 
 Théorème 3 : Approximateurs universels.
 #### Expressivité
@@ -117,7 +117,7 @@ Expressivity draw the line between shallow and deep networks
 
 ![[Pasted image 20241104154310.png]]
 
-DCM = Dynamic Causal Models
+DCM = Dynamic [[causalité|Causal]] Models
 
 ![[Pasted image 20241104154443.png]]
 

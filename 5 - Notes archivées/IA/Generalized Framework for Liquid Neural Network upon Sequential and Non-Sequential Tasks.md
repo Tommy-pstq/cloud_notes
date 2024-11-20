@@ -17,9 +17,9 @@ Neural ordinary differential equations ([[ODE]]) : nouveau paradigme en deep-lea
 * Robuste contre les perturbations 
 * Efficacité paramétrique
 * Supporte bien les données irrégulièrement échantillonnées 
-* Efficace pour l'inter ou [[Extrapolation]]
+* Efficace pour l'inter ou [[extrapolation]]
 * Principalement utilisé pour les signaux à durée variable 
-	* Récemment : [[reconnaissance vocale]] en temps réel, [[analyse de données]] issues de capteurs, prise de décision séquentielle 
+	* Récemment : [[reconnaissance vocale]] en temps réel, [[analyse de données]] issues de capteurs, [[prise de décision]] séquentielle 
 
 1 + 2 : Architecture fournissant une [[adaptabilité dynamique]] incomparable.
 
@@ -30,7 +30,7 @@ Mais:
 **Objectif du papier** 
 - Nouvelle amélioration aux [[LNN]] : Runge-Kutta DOPRI 5 method (1)
 	- Permet son application aux tâches non-séquentielles en améliorant sa prédictibilité et stabilité grâce à une amélioration numérique de la dynamique. 
-		- Réorganisation du modèle : dépendance [[tempo]]relle -> indépendance en supposant qu'il est à l'équilibre. 
+		- Réorganisation du modèle : dépendance [[temporalité|temporelle]] -> indépendance en supposant qu'il est à l'équilibre. 
 
 3 cas d'études:
 	1. Prédiction de trajectoires sinusoïdales atténuées. 
@@ -38,24 +38,24 @@ Mais:
 	3. Classification d'images d'afflictions rétiniennes 
 
 ### Travaux connexes 
-- Efficace pour [[modélisation]] fine de dynamiques temporelles. 
+- Efficace pour [[modélisation]] fine de dynamiques [[temporalité|temporelles]]. 
 - [[ODE]]-RNN -> [[échantillonnage]] irrégulier
 - Intégration de Neural [[ODE]] dans des [[CNN]].
-- nODE efficace pour structure graphée -> systèmes biologiques / réseaux sociaux
+- nODE efficace pour structure graphée -> systèmes biologiques / réseaux [[social|sociaux]]
 - Réinterprétation de ResNets en tant que solver d'équation différentielle ordinaire ([[ODE]]) : ResNets ~~ discretized [[ODE]].
 ### nODE-based Model's background
 
 - ResNets : skip connections, préserve les données d'entrée. Aide à l'[[Entrainement]].
 
 - [[Système dynamique]] [[déterministe]] : gouvernés par des règles décrites par des équations différentielles. 
-	- Beaucoup de méthodes ont été développés pour les résoudre numériquement et sont prêtes à être intégrées dans des réseaux de neurones artificiels. 
+	- Beaucoup de méthodes ont été développés pour les résoudre numériquement et sont prêtes à être intégrées dans des [[ANN|réseaux de neurones artificiels]]. 
 
 - ResNets -> ODEnet:
-	- La dimension [[tempo]]relle devient un paramètre du réseau.
-	- Trajectoire d'un ODEnet définit par des conditions initiales locales et des dynamiques partagées dans toutes les séries temporelles. 
+	- La dimension [[temporalité|temporelle]] devient un paramètre du réseau.
+	- Trajectoire d'un ODEnet définit par des conditions initiales locales et des dynamiques partagées dans toutes les séries [[temporalité|temporelles]]. 
 	- Résoudre des [[ODE]] par un ODEnet implique l'utilisation de solver d'[[ODE]], calculant l'output du réseau comme une [[fonction temporelle]] . 
 - Entraînement d'ODEnet:
-	- [[Backpropagation]] temporelle continue
+	- [[Backpropagation]] [[temporalité|temporelle]] continue
 	- Soucis de valeur initiale: résolue par la méthode des états adjoints
 		- Second [[ODE]] en temps inverse calculant le gradient : facilite l'optimisation des poids et de la dynamique du réseau.
 
@@ -88,7 +88,7 @@ Calcule de l'output du réseau comme une [[fonction temporelle]]. Le réseau est
 
 ## Design de modèles pour GLNN
 
-De base : dépendance temporelle de la dynamique. Objectif : atteindre une indépendance temporelle. 
+De base : dépendance [[temporalité|temporelle]] de la dynamique. Objectif : atteindre une indépendance [[temporalité|temporelle]]. 
 
 Continuous-Time RNN (CT-RNN) : $$\frac{dx(t)}{dt} = -x(t)/\tau + f(x(t), I(t), \theta)$$ 
 ou $\frac{dx(t)}{dt}$  aide le système à atteindre l'équilibre avec la [[constante de temps]] $\tau$.

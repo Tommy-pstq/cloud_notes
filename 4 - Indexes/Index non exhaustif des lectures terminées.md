@@ -1,6 +1,6 @@
 
-*Dernier update: 13/11/2024*
-![[Pasted image 20241113170136.png]]
+*Dernier update: 20/11/2024*
+![[Pasted image 20241120184110.png]]
 
 *Les références dont la checkbox est validée sont celles ayant été résumées en une note,  l'absence de checkbox implique une lecture sans note associée dans le vault. (lecture précédant la mise en place de cet environnement ou effectuée sans possibilité de prise de note numérique)
 Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu mais pas encore transcrit en une note*
@@ -12,14 +12,14 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 - Où est le sens, Stephan Bohler. 2022
 - Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) 09-2024
 
-- [ ] Neurosciences cognitives (De boeck) 10-2024:  
+- [ ] Neurosciences [[cognition|cognitives]] (De boeck) 10-2024:  
 	- [x] Perception et attention 
 	- [x] Le cerveau, le mouvement et les espace 
 	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation
 	- [ ] Décision et action
 	- [ ] Neurolinguistique
 	- [ ] Conscience et métacognition
-	- [ ] Cognition sociale
+	- [ ] Cognition [[social|sociale]]
 	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 
@@ -35,7 +35,7 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 
 - [x] Mindblind eyes: an absence of spontaneous theory of mind in Asperger syndrome - Senju A, Southgate V, White S, Frith U.  Science. 2009 Aug 14;325(5942):883-5. DOI: [10.1126/science.1176170](https://doi.org/10.1126/science.1176170) 10-2024
 
-- The Architecture of cognitive control in the human prefrontal cortex - Koechlin E., Ody C., Koneiher F. Science. 2013. DOI:10.1123/science.1088545 10-2024
+- The Architecture of [[cognition|cognitive]] control in the human prefrontal cortex - Koechlin E., Ody C., Koneiher F. Science. 2013. DOI:10.1123/science.1088545 10-2024
 
 - [x] Neurobiology of obsessive–compulsive disorder: insights into neural circuitry dysfunction through mouse genetics Jonathan T Ting and Guoping Feng. Current Opinion in Neurobiology (2011). DOI 10.1016/j.conb.2011.04.0100 10-2024
 

@@ -7,9 +7,9 @@ Tags:
 
 # Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation
 
-## Apprentissage & mémoires : définitions
+## [[Apprentissage]] & mémoires : définitions
 
-- Tous comme les mémoires, les apprentissages sont multiples et se reposent sur des processus fondamentaux : 
+- Tous comme les mémoires, les [[apprentissage|apprentissages]] sont multiples et se reposent sur des processus fondamentaux : 
 	- [[attention]]
 		- Se focaliser sur une information
 	- engagement actif : plusieurs paramètres.
@@ -24,12 +24,12 @@ Tags:
 	- [[flexibilité]]
 	- [[consolidation]]
 	
-**[[contrôle inhibiteur|Contrôle inhibiteur]]** : constitué de l'[[attention]] et de l'[[inhibition]], fait partie avec la flexibilité des 3 fonctions exécutives (*le nombre varie suivant les modèles si je me souviens bien, on en énumère bien plus dans un des chapitres suivants)*.
+**[[contrôle inhibiteur|Contrôle inhibiteur]]** : constitué de l'[[attention]] et de l'[[inhibition]], fait partie avec la [[flexibilité]] des 3 fonctions exécutives (*le nombre varie suivant les modèles si je me souviens bien, on en énumère bien plus dans un des chapitres suivants)*.
 
-contrôle inhibiteur + [[flexibilité]]
-	-> prise de décision
+[[contrôle inhibiteur]] + [[flexibilité]]
+	-> [[prise de décision]]
 		 -> retour d'information, positif (récompense) ou négatif (signal d'erreur)
-			  -> correction du comportement et des prédictions (apprentissage par renforcement).
+			  -> correction du comportement et des prédictions ([[apprentissage par renforcement]]).
 
  ### II - 2 Les cinq systèmes de mémoires
 ![[1720589930338.jpg|700]]
@@ -40,15 +40,15 @@ contrôle inhibiteur + [[flexibilité]]
 - [[mémoire procédurale]].
 	- Savoir-faires, habitudes, automatisme 
 	- Implicite, [[inconscience|inconsciente]]
-	- Peut impliquer une phase d'apprentissage consciente (Voir apprentissage du geste dans chapitre 2)
+	- Peut impliquer une phase d'[[apprentissage]] consciente (Voir [[apprentissage]] du geste dans chapitre 2)
 	- Permet des comportements routiniers, libère de des ressources computationnelles.
 	- Se maintient même sans utilisation (Ex: vélo ou conduite)
 - [[mémoire sémantique]].
-	- Explicite
+	- [[conscience|Explicite]]
 	- Permet d'acquérir des connaissance générales 
 	- Se perd en cas d'inutilisation
 * [[mémoire épisodique|Mémoire épisodique]].
-	* Explicite
+	* [[conscience|Explicite]]
 	* Des souvenirs personnels
 	* Mémoire du "quoi, où & quand"
 	* Contexte peut également être associé à une [[émotion]]
@@ -74,14 +74,14 @@ Processus mentaux du navigateur:
 
 Plus un chemin est utilisé, moins il demande de réflexion. S'il est indisponible, un temps de réflexion est nécessaire pour décider du nouvel itinéraire.
 
-Navigation = fonction cognitive complexe faisant appel à, en plus de la [[mémoire]], les fonctions suivantes:
-	- Attention
+Navigation = fonction [[cognition|cognitive]] complexe faisant appel à, en plus de la [[mémoire]], les fonctions suivantes:
+	- [[Attention]]
 	- Taitement multi-sensoriel
 	- Engagement active
 	- Flexibilté
-	- Inhibition
+	- [[inhibition]]
 	- Contrôle moteur
-	- Apprentissage & mémoires 
+	- [[Apprentissage]] & mémoires 
 
 ## IV L'information multisensorielle
 
@@ -94,7 +94,7 @@ Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant
 	- Implique:
 		- Info idiothétiques
 		- mouvement:
-			- système vestibulaire
+			- [[système vestibulaire]]
 			- proprioceptif
 			- copie de commandes motrice
 			- flux optique
@@ -107,27 +107,27 @@ Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant
 ![[Pasted image 20241113155647.png|500]]
 
 - [[hippocampe]] = mise en relation de différents [[stimulus]] (S-S). Non impliqué dans la procédurale
-- [[striatum]] = [[apprentissage par renforcement]], relation stimulus - réponse 
+- [[striatum]] = [[apprentissage par renforcement]], relation [[stimulus]] - réponse 
 - [[cervelet]] = [[apprentissage supervisé]] grâce à sa capacité à prédire l'état sensoriel & à la corriger à partir d'un signal d'erreur 
-- [[amygdale]] = [[apprentissage par renforcement]], association stimulus - récompense.
+- [[amygdale]] = [[apprentissage par renforcement]], [[association]] [[stimulus]] - récompense.
 
 - Certaine tâche de [[navigation]] (indicée) peuvent être résolue sans utilisation de stratégie [[allocentrique]] ou [[égocentrique]] mais simplement de manière procédurale. Découvert via modèle computationnel et validé par l'[[expérimentation animale]]. 
 
  **Des systèmes de mémoires distincts sont impliqués dans les deux types de [[navigation]]**:
 	1. Système de [[mémoire déclarative]], associé au système hippocampique et à un encodage des informations selon un mode de traitement S-S 
-	2. Système de mémoire procédurale associé au système striatal et à un mode de traitement de des informations de type stimulus-réponse. [[S-R]].
+	2. Système de [[mémoire procédurale]] associé au système striatal et à un mode de traitement de des informations de type [[S-R|stimulus-réponse]]. [[S-R]].
 		- Important de dissocier deux régions du [[striatum]] dorsal:
-			- [[striatum dorso-médian]] : apprentissages associatifs. (DMS ou [[noyau caudé]])
-				- nécessaire pour l'association du but avec un comportement approprié.
-				- idée computationnelle: DMS impliquée dans la représentation de l'ensemble de la séquence de mouvements nécessaire pour atteindre le but.
-			- [[striatum dorso-latéral]] : aspect sensori-moteurs (DLS ou [[putamen]])
+			- [[noyau caudé|striatum dorso-médian]] : [[apprentissage associatif|apprentissages associatifs]]. ([[noyau caudé|DMS]] ou [[noyau caudé]])
+				- nécessaire pour l'[[association]] du but avec un comportement approprié.
+				- idée computationnelle: [[noyau caudé|DMS]] impliquée dans la représentation de l'ensemble de la séquence de mouvements nécessaire pour atteindre le but.
+			- [[putamen|striatum dorso-latéral]] : aspect sensori-moteurs ([[putamen|DLS]] ou [[putamen]])
 
 **Rôle du [[cervelet]]**
-- Connu pour son rôle de control moteur, est aussi impliqué dans les apprentissages associatifs : conditionnement de fermeture de la paupière via optimisation de la réponse motrice (*On se souvient du système de boucle fermé entre régions corticales et cervelet dans le bouquin de neuro-anat).* 
-- Rongeurs avec lésions: implication du cervelet dans l'aspect procédural de la navigation. 
-- Plus tard: Cervelet permet d'optimiser une trajectoire. 
+- Connu pour son rôle de control moteur, est aussi impliqué dans les [[apprentissage associatif|apprentissages associatifs]] : conditionnement de fermeture de la paupière via optimisation de la réponse motrice (*On se souvient du système de boucle fermé entre régions corticales et [[cervelet]] dans le bouquin de neuro-anat).* 
+- Rongeurs avec lésions: implication du [[cervelet]] dans l'aspect procédural de la navigation. 
+- Plus tard: [[Cervelet]] permet d'optimiser une trajectoire. 
 2008, chez l'humain :
-	- rôle sensori-moteur du [[cervelet antérieur]], rôle cognitif et émotionnel du [[cervelet postérieur]] 
+	- rôle sensori-moteur du [[cervelet antérieur]], rôle [[cognition|cognitif]] et [[émotion|émotionnel]] du [[cervelet postérieur]] 
 
 
 ##### *à nouveau pas mal d'infos qui sont dans la note sur le papier de Buszaki, principalement des parallèles entre mémoire déclarative et stratégies navigation*

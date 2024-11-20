@@ -1,0 +1,6 @@
+---
+aliases:
+  - déterminisme
+  - déterministes
+  - déterminismes
+---

@@ -1,1 +1,1 @@
-- Medial forebrain bundle. Transporte de la dopamine du truc cérébral jusqu'au PFC
+- Medial forebrain bundle. Transporte de la [[dopamine]] du tronc cérébral jusqu'au [[cortex préfrontal|PFC]]

@@ -1,0 +1,6 @@
+---
+aliases:
+  - synchronisation
+  - synchrone
+  - synchrones
+---

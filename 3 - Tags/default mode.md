@@ -1,0 +1,5 @@
+---
+aliases:
+  - mode par défaut
+---
+ 

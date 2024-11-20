@@ -9,10 +9,10 @@ Tags:
 
 [[perception|Perception]] = produit final d'un ensemble de mécanisme physiologiques et neuraux complexes.
 
-Psychophysique = description de manière systématique le lien en [[stimulus]] (monde extérieur) et [[perception]] (monde intérieur)
+[[psychophysique]] = description de manière systématique le lien en [[stimulus]] (monde extérieur) et [[perception]] (monde intérieur)
 	-Ex : Lien entre qtité de lumière et sensation de luminosité résultante.
 
-[[attention|Attention]] = Faculté cognitive permettant de sélectionner des informations. Indispensable car impossible de traiter toutes les informations simultanément. 
+[[attention|Attention]] = Faculté [[cognition|cognitive]] permettant de sélectionner des informations. Indispensable car impossible de traiter toutes les informations simultanément. 
 
 Objectif du chapitre : *faire le lien entre [[psychologie]] et [[neurosciences]] en exposant la manière dont l'organisation neurale contraint la [[perception]] et l'[[attention]]*
 
@@ -52,11 +52,11 @@ Attentions endo- & exogène ne dépendent pas exactement des mêmes circuits cé
 
 L'[[attention]] peut se déployer sur des attributs (Ex: couleur rouge), et tous les attributs correspondant seront détectés favorablement (tous les éléments visuels rouge), ou sur des objets (Ex: un tigre) et tous ses attributs seront alors détectés favorablement (mouvement de queue, rayures, texture de fourrure)
 
-Ce phénomène fournit des informations sur la manière dont les données visuelles sont représentées au niveau psychologique & cérébral : les attributs sont indépendants et peuvent être assemblés pour créer des objets. 
+Ce phénomène fournit des informations sur la manière dont les données visuelles sont représentées au niveau [[psychologie|psychologique]] & cérébral : les attributs sont indépendants et peuvent être assemblés pour créer des objets. 
 
 Mécanisme d'[[assemblage]] des attributs en un élément sémantiquement signifiant : encore incertain.
 		- Liage par [[activité]] [[synchronicité|synchrone]] 
-		- cohérence de phase des [[Oscillation neuronale|oscillations neuronales]]
+		- cohérence de phase des [[oscillation neuronale|oscillations neuronales]]
 		- oscillations imbriquées
 
 ### L'attention facilite le traitement de l'information
@@ -82,7 +82,7 @@ L'[[attention]] accentue la [[perception]] du contraste, de la fréquence (appar
 
 Démontré : l'[[attention]] modifie l'[[activité]] neurale dans de nombreuses aires:
 - Traitement précoce (visuel V1)
-- Associatives: lobe [[temporal]] médian.
+- [[association|associatives]]: [[lobe temporal médian]].
 
 Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une couleur, une fréquence, une orientation) dans une partie précise du champ visuel :
 - L'[[attention]] module la courbe d'ajustement des neurones, modulation de la sélectivité par:
@@ -97,7 +97,7 @@ Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une co
 
 ### Enjeux sociétaux 
 
-Déficits attentionnels présents dans beaucoup de troubles neuropsychologiques
+Déficits [[attention|attentionnels]] présents dans beaucoup de troubles neuropsychologiques
 
 Traitement du [[TDAH]] des protocoles de neurofeedback.
 	- Enregistrement cérébral d'un participant réalisant une tâche simple utilisé en temps réel pour ajuster son comportement. 
