@@ -1,0 +1,4 @@
+---
+aliases:
+  - troubles obsessionnels compulsifs
+---

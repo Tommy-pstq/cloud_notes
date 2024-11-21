@@ -262,8 +262,130 @@ La zone centrale la plus souvent identifiée en même temps que le vmPFC & le st
 
 ### IV - 2 Modulation des valeurs et contrôle cognitif
 
+Valeur subjective: issue d'un apprentissage par renforcement, servent de bases pour les choix. Mais: Beaucoup d'aspects subjectifs liés à chaque option devant être prise en compte, par exemple:
+- Etat de satiété pour la nourriture
+- Incertitude de gain monétaire
+- Délai d'obtention 
+- Modulation de probabilité
 
+Observations vmPFC corroborent ce principe:
+- Signaux internes & externes.
+- Intègre des infos de zones corticales & sous-corticales. 
 
+**Cependant**
 
+- Décisions rationnelles & réfléchies = intégrations de valeurs subjectives complexes : cortex préfrontal. 
+
+- Décisions rapides / habituelles = le système habituel court-circuite le système préfrontal. 
+
+On retrouve le même type de comportement lors de la navigation. Si le lieu d'arrivé n'est pas le bon lorsque l'on pensait suivre, de manière habituelle, l'itinéraire retenu est revisité pour établir à quel endroit une erreur a pu se produire.  
+
+[Etude 2009](doi.org/10.1126/science.1168450) : La prise en compte des valeurs nutritives d'aliments modifie l'activité du vmPFC pour les choix alimentaires. -> contrôle cognitif lors de la prise de décision.
+(Et on a vu plus haut que le système habituel était bien plus sensible aux biais cognitifs, donc intéressant de SOUVENT douter.)
+
+### IV - 3 Le choix. 
+
+Etudier les mécanismes de choix proprement dits (et non d'évaluation):
+-  Etude des choix perceptuels permettant le suivi de protocoles strictes (stimuli objectifs)
+	- Bcp sur des primates non humain : Random Dot Motion -> déterminer la direction d'un ensemble de points via une saccade oculaire du côté choisi.
+		- Activité mesurée avant le choix: **confirme les modèles d'accumulation de l'information**.
+			- Plusieurs autres études corroborent ces résultats pour d'autres actions. 
+
+## V - Les troubles de la prise de décision
+
+- Individus sains : il existe déjà de nombreux biais qui expliquent des prises de décisions n'étant pas purement rationnelles. 
+
+-> 
+- Troubles de la prise de décision = Affectent les choix des individus: 
+		- Particulièrement inadaptés
+		- Significativement différents de la popG
+	- Pas systématiquement étudiés lors d'un diagnostique clinique.
+		- Souvent catégorisés comme troubles de la motivation, plus généraux et évalués lors d'évaluation neuropsy.
+
+- l'apathie (diminution pathologique de la motivation) peut être conceptualisée en un trouble de la prise de décision:
+	- Toutes les options ont une valeur similaire et/ou bruitée -> aucune action n'est entreprise. 
+- La dépendance, manie ou impulsivité pourraient être causées par une évaluation aberrante de certains types de comportement. 
+### V - 1 Troubles de la prise de décisions causés par des lésions.
+
+Lésions vmPFC & OFC : affectent de manière assez spécifique les décisions basées sur les valeurs. 
+
+cortex préfrontal dorsal : déficits comportementaux dans les prises de décisions nécessitant du contrôle cognitif. 
+
+### V - II Maladies neurodégénératives. 
+
+#### [[Parkinson]] 
+
+- Pertes neurales focales des neurones dopaminergiques. 
+	- Troubles principalement liés au mouvement (tremblement & initiation de mouvement)
+	- Altération dans l'apprentissage fondé sur la récompense
+		- Ex: choix d'un plat malodorant, peut être reproduit à la prochaine visite au restaurant
+	- Déficit spécifique dans la prise de décision lié au risque
+	- Décision impulsives pathologiques (parfois en lien avec les TTT dopaminergiques)
+
+--> Confirme que la dopamine joue un rôle dans l'apprentissage & la prise de décision.
+
+#### [[Alzheimer]] et démence fronto-temporale 
+
+- Alzheimer : pertes neurales des structures sous corticales (ex: hippocampe)
+- Démence fronto-temporale: pertes neurales des lobes frontaux & temporaux 
+
+-> Déficits dans diverses fonctions cognitives comme:
+	- La mémoire
+	- Le langage 
+	- Les réponses émotionnelles 
+
+- Pertes neurales dans le PFC -> troubles de la prise de décision:
+	- Plus impulsifs/risqués/aléatoires
+	- Altération de l'apprentissage fondé sur la récompense
+
+### V - 3 Maladies psychiatriques 
+
+*Troubles de la motivation & prise de décision observés dans tous le spectre psychiatrique, "le tableau est loin d'être clair"* 
+
+#### Troubles du comportement et de la prise de décision
+
+Addiction & compulsions : ce qui affecte le plus la prise de décision. 
+
+1. Dépendances: **probablement** causées par un dérèglement fronto-striatal (potentiellement dopaminergique).
+2.  [[TOC|Troubles Obsessionnels Compulsif]] : exécution d'action répétitives et fonctionnelles principalement effectuées pour soulager la détresse induite par des pensées intrusives (obsessions)
+
+	- Semblent liés à des perturbations de la prise de décision fondée sur les valeurs:
+		- Impulsivité accrue 
+		- Recherche de risque dans les choix économiques
+		- Déficits dans:
+			- L'apprentissage fondé sur la récompense
+			- La maitrise de soit
+			- Comportement dirigé vers les buts
+
+#### Troubles des émotions et de l'humeur
+
+Troubles anxieux et [[dépression]]:
+- Aspect négatif des émotions et de la perception de soi
+- Augmentation de l'indécision
+- [[anxiété|Anxiété]] uniquement : comportement d'évitement des menaces & aversion au risque
+
+Dépression associée à:
+- L'apathie
+- Surestimation des efforts physique à effectuer
+- Déficit dans la recherche de récompense
+
+Modèles computationnels, déséquilibre dans:
+- L'évaluation des récompenses par rapport aux coûts
+- L'estimation des valeurs liées aux probabilités ou aux a priori
+- Evaluation des aspects positifs vs négatifs. 
+
+#### Troubles du développement
+
+Deux en particulier semblent affecter la prise de décision:
+- [[TSA]]
+- [[schizophrénie]]
+
+Observation d'altération de la prise de décision:
+- Patients schizophrène: difficulté à ajuster le comportement après avoir perdu une récompense par rapport à la popG
+	- Lié à une activité anormale dans l'OFC.
+
+Modèles computationnels, ces troubles peuvent être expliqués par:
+- Processus de traitement de la récompense et motivation aberrants.
+- Perturbation d'apprentissage
 
 ## Refs

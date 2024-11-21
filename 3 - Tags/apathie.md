@@ -1,0 +1,1 @@
+- Incapacité à prendre une décision, toutes les valeurs subjectives apparaissant comme égales / bruités.
