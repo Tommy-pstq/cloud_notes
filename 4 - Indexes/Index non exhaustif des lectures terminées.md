@@ -1,6 +1,6 @@
 
-*Dernier update: 20/11/2024*
-![[Pasted image 20241120184110.png]]
+*Dernier update: 21/11/2024*
+![[Pasted image 20241121152303.png]]
 
 *Les références dont la checkbox est validée sont celles ayant été résumées en une note,  l'absence de checkbox implique une lecture sans note associée dans le vault. (lecture précédant la mise en place de cet environnement ou effectuée sans possibilité de prise de note numérique)
 Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu mais pas encore transcrit en une note*
@@ -16,10 +16,10 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 	- [x] Perception et attention 
 	- [x] Le cerveau, le mouvement et les espace 
 	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation
-	- [ ] Décision et action
+	- [x] Décision et action
 	- [ ] Neurolinguistique
 	- [ ] Conscience et métacognition
-	- [ ] Cognition [[social|sociale]]
+	- [ ] Cognition sociale
 	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 

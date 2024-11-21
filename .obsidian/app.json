@@ -10,7 +10,8 @@
   },
   "userIgnoreFilters": [
     "Templates/",
-    "4 - Indexes/"
+    "4 - Indexes/",
+    "5 - Notes archivées/Chapitres - livre/Neurosciences Cognitives/"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "2 - Source Materials"

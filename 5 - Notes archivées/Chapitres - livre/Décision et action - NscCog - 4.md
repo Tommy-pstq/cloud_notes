@@ -101,7 +101,7 @@ Utilité = [[valeur subjective]] dépendant du contexte et de l'individu, non un
 
 - **Système habituel**
 	- Basé sur les actions. Tous types de comportements appris par des entrainements répétés. 
-	- Attribution d'une valeur à une option par l'association d'un [[stimulus]] à une réponse ([[S-R]]) 
+	- Attribution d'une valeur à une option par l'[[association]] d'un [[stimulus]] à une réponse ([[S-R]]) 
 	- [[Apprentissage procédural]], implicite & automatique. 
 		- Situations familières, par fainéantise ou économie de temps: les décisions peuvent émanées du système habituel: plus rapide & évite les phases de délibérations. 
 		- -> Plus sensible aux biais [[cognition|cognitifs]]. 
@@ -188,9 +188,9 @@ Si valeur subjective = distribution interne de probabilité
 	- Comportements de persévération
 	- Augmentation des comportements d'approche non alimentaire chez les singes.
 		- Quand ils sont mis face à un objet sans aucun valeur particulière, ils le portent à la bouche, comme s'il avait un intérêt alimentaire. 
-			- Etudes suivantes ont montrées que que c'est l'association entre le stimulus et la récompense qui était altérée: le système dirigé vers les buts ne peut plus estimer quel stimulus a des chances d'être suivi de récompense.
+			- Etudes suivantes ont montrées que que c'est l'association entre le [[stimulus]] et la récompense qui était altérée: le système dirigé vers les buts ne peut plus estimer quel stimulus a des chances d'être suivi de récompense.
 
--> OFC = région importante pour l'attribution d'une valeur à un stimulus ou un objet. 
+-> OFC = région importante pour l'attribution d'une valeur à un [[stimulus]] ou un objet. 
 
 #### La [[dopamine]]
 
@@ -213,80 +213,80 @@ Les neurones dopaminergiques (mésencéphale - [[VTA]] ou [[substance noire]]) r
 
 #### Le [[striatum]] 
 
- Pas clairement défini si les signaux  de prédiction & d'erreurs supportés par la dopamine sont utilisés **directement** (plutôt dans l'apprentissage des valeurs à associer à chaque éléments) dans la prise de décision. A priori non, mais une [étude](doi.org/10.3389/fnins.2012.00009) semble indiquer le contraire. 
+ Pas clairement défini si les signaux  de prédiction & d'erreurs supportés par la [[dopamine]] sont utilisés **directement** (plutôt dans l'apprentissage des valeurs à associer à chaque éléments) dans la prise de décision. A priori non, mais une [étude](doi.org/10.3389/fnins.2012.00009) semble indiquer le contraire. 
 
-- Striatum = encodage des valeurs des signaux:
+- [[striatum]] = encodage des valeurs des signaux:
 	- De prédiction de la récompense
 	- Des signaux de valeurs associés à une action
 
-- Principale structure d'entrée des ganglions de la base. 
+- Principale structure d'entrée des [[ganglions de la base]]. 
 - Reçoit la majeure partie des projections dopaminergiques (plus que l'OFC)
 
 - [[striatum ventral]] : calcul des prédictions de récompense envoyés au neurones dopaminergiques permettant le calcul de l'erreur de prédiction de récompense.
-- DLS & DMS : encode la valeur liée aux actions ([[expérimentation animale|rongeurs]]) 
+- [[putamen|DLS]] & [[noyau caudé|DMS]] : encode la valeur liée aux actions ([[expérimentation animale|rongeurs]]) 
 
 #### Le système cérébral d'évaluation : un réseau de régions cérébrales.
 
 - Méta-analyse de signal BOLD (Blood-oxygen-level dependent):
 	- [[cortex préfrontal ventro-médian]] & [[striatum ventral]] & [[cortex cingulaire postérieur]]   corrélés aux valeurs subjectives de différentes options. 
 
-- vmPFC semble réagir plus fortement à l'étape d'**évaluation** par rapport au moment de la réception de la récompense.
+- [[cortex préfrontal ventro-médian|VMPFC]] semble réagir plus fortement à l'étape d'**évaluation** par rapport au moment de la réception de la récompense.
 
-- Chez l'humain : vmPFC répond plus souvent à la valeur que l'OFC, inversement chez le singe.
-	- Récemment: une étude obtient des activités similaires.
+- Chez l'humain : [[cortex préfrontal ventro-médian|VMPFC]] répond plus souvent à la valeur que l'OFC, inversement chez le singe.
+	- Récemment: une étude obtient des [[activité|activités]] similaires.
 		- Les  deux régions étant très proches: variabilité de labélisation ? 
-		- -> OFC + vmPFC = [[cortex orbito-median frontal|OMPFC]] 
+		- -> OFC + [[cortex préfrontal ventro-médian|VMPFC]] = [[cortex orbito-median frontal|OMPFC]] 
 
-- En fonction des dessins expérimentaux, il existe différents partenaires du vmPFC impliqués dans le **[[système d'évaluation]]**:
+- En fonction des dessins expérimentaux, il existe différents partenaires du [[cortex préfrontal ventro-médian|VMPFC]] impliqués dans le **[[système d'évaluation]]**:
 	- [[cortex cingulaire postérieur]]
 	- [[hippocampe]]
 	- [[cortex préfrontal dorso-latéral]] 
 	- [[cortex cingulaire dorso-antérieur]]  
 
 
-La zone centrale la plus souvent identifiée en même temps que le vmPFC & le stratum ventral comme répondant à la valeur subjective est le [[cortex cingulaire postérieur]]:
-- PCC central dans le réseau par défaut, donc quand le sujet se repose dans le scanner.
-- Implication dans mémoire autobiographique & fonctions attentionnelles. 
+La zone centrale la plus souvent identifiée en même temps que le [[cortex préfrontal ventro-médian|VMPFC]] & le stratum ventral comme répondant à la valeur subjective est le [[cortex cingulaire postérieur]]:
+- [[cortex cingulaire postérieur|PCC]] central dans le réseau par défaut, donc quand le sujet se repose dans le scanner.
+- Implication dans [[mémoire]] autobiographique & fonctions [[attention|attentionnelles]]. 
 - -> Plusieurs hypothèses:
 	1. Récupération d'informations sur un item pour estimer sa valeur subjective
 		- En déduire des items préférés et donc focaliser l'attention
 	2. Traite les signaux sensoriels pour reconnaître les objets. 
-		- Connectivité fonctionnelle avec le vmPFC permet d'estimer leur valeur subjective. 
+		- Connectivité fonctionnelle avec le [[cortex préfrontal ventro-médian|VMPFC]] permet d'estimer leur valeur subjective. 
 
-**Contribution de l'[[hippocampe]] au système d'évaluation.**
+**Contribution de l'[[hippocampe]] au [[système d'évaluation]].**
 - Joue un rôle critique dans l'évaluation de récompenses imaginées.
-	- Biaise les décisions en créant des associations entre événements se produisant ensemble. 
+	- Biaise les décisions en créant des [[association|associations]] entre événements se produisant ensemble. 
 		- Réactive la représentation neuronal d'un item A quand un item B, en lien, est présenté. 
-	- Biaise les décisions vers les éléments mémorisés en augmentant la connectivité fonctionnelle entre hippocampe & striatum ventral ( [src](doi.org/10.1016/j.neuron.2015.04.023) )
-- De manière générale: interaction vmPFC & hippocampe quand une anticipation des conséquences est nécessaire. 
+	- Biaise les décisions vers les éléments mémorisés en augmentant la connectivité fonctionnelle entre [[hippocampe]] & [[striatum ventral]] ( [src](doi.org/10.1016/j.neuron.2015.04.023) )
+- De manière générale: interaction [[cortex préfrontal ventro-médian|VMPFC]] & hippocampe quand une anticipation des conséquences est nécessaire. 
 
 ### IV - 2 Modulation des valeurs et contrôle cognitif
 
-Valeur subjective: issue d'un apprentissage par renforcement, servent de bases pour les choix. Mais: Beaucoup d'aspects subjectifs liés à chaque option devant être prise en compte, par exemple:
+Valeur subjective: issue d'un [[apprentissage par renforcement]], servent de bases pour les choix. Mais: Beaucoup d'aspects subjectifs liés à chaque option devant être prise en compte, par exemple:
 - Etat de satiété pour la nourriture
 - Incertitude de gain monétaire
 - Délai d'obtention 
 - Modulation de probabilité
 
-Observations vmPFC corroborent ce principe:
+Observations [[cortex préfrontal ventro-médian|VMPFC]] corroborent ce principe:
 - Signaux internes & externes.
 - Intègre des infos de zones corticales & sous-corticales. 
 
 **Cependant**
 
-- Décisions rationnelles & réfléchies = intégrations de valeurs subjectives complexes : cortex préfrontal. 
+- Décisions rationnelles & réfléchies = intégrations de valeurs subjectives complexes : [[cortex préfrontal]]. 
 
-- Décisions rapides / habituelles = le système habituel court-circuite le système préfrontal. 
+- Décisions rapides / habituelles = le système habituel court-circuite le système [[cortex préfrontal|préfrontal]]. 
 
-On retrouve le même type de comportement lors de la navigation. Si le lieu d'arrivé n'est pas le bon lorsque l'on pensait suivre, de manière habituelle, l'itinéraire retenu est revisité pour établir à quel endroit une erreur a pu se produire.  
+On retrouve le même type de comportement lors de la [[navigation]]. Si le lieu d'arrivé n'est pas le bon lorsque l'on pensait suivre, de manière habituelle, l'itinéraire retenu est revisité pour établir à quel endroit une erreur a pu se produire.  
 
-[Etude 2009](doi.org/10.1126/science.1168450) : La prise en compte des valeurs nutritives d'aliments modifie l'activité du vmPFC pour les choix alimentaires. -> contrôle cognitif lors de la prise de décision.
-(Et on a vu plus haut que le système habituel était bien plus sensible aux biais cognitifs, donc intéressant de SOUVENT douter.)
+[Etude 2009](doi.org/10.1126/science.1168450) : La prise en compte des valeurs nutritives d'aliments modifie l'activité du [[cortex préfrontal ventro-médian|VMPFC]] pour les choix alimentaires. -> contrôle [[cognition|cognitif]] lors de la prise de décision.
+(Et on a vu plus haut que le système habituel était bien plus sensible aux biais [[cognition|cognitifs]], donc intéressant de SOUVENT douter.)
 
 ### IV - 3 Le choix. 
 
 Etudier les mécanismes de choix proprement dits (et non d'évaluation):
--  Etude des choix perceptuels permettant le suivi de protocoles strictes (stimuli objectifs)
+-  Etude des choix perceptuels permettant le suivi de protocoles strictes ([[stimulus|stimuli]] objectifs)
 	- Bcp sur des primates non humain : Random Dot Motion -> déterminer la direction d'un ensemble de points via une saccade oculaire du côté choisi.
 		- Activité mesurée avant le choix: **confirme les modèles d'accumulation de l'information**.
 			- Plusieurs autres études corroborent ces résultats pour d'autres actions. 
@@ -300,16 +300,16 @@ Etudier les mécanismes de choix proprement dits (et non d'évaluation):
 		- Particulièrement inadaptés
 		- Significativement différents de la popG
 	- Pas systématiquement étudiés lors d'un diagnostique clinique.
-		- Souvent catégorisés comme troubles de la motivation, plus généraux et évalués lors d'évaluation neuropsy.
+		- Souvent catégorisés comme troubles de la [[motivation]], plus généraux et évalués lors d'évaluation neuropsy.
 
-- l'apathie (diminution pathologique de la motivation) peut être conceptualisée en un trouble de la prise de décision:
+- l'[[apathie]] (diminution pathologique de la motivation) peut être conceptualisée en un trouble de la prise de décision:
 	- Toutes les options ont une valeur similaire et/ou bruitée -> aucune action n'est entreprise. 
 - La dépendance, manie ou impulsivité pourraient être causées par une évaluation aberrante de certains types de comportement. 
 ### V - 1 Troubles de la prise de décisions causés par des lésions.
 
-Lésions vmPFC & OFC : affectent de manière assez spécifique les décisions basées sur les valeurs. 
+Lésions [[cortex préfrontal ventro-médian|VMPFC]] & OFC : affectent de manière assez spécifique les décisions basées sur les valeurs. 
 
-cortex préfrontal dorsal : déficits comportementaux dans les prises de décisions nécessitant du contrôle cognitif. 
+cortex préfrontal dorsal : déficits comportementaux dans les prises de décisions nécessitant du contrôle [[cognition|cognitif]]. 
 
 ### V - II Maladies neurodégénératives. 
 
@@ -329,12 +329,12 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 - Alzheimer : pertes neurales des structures sous corticales (ex: hippocampe)
 - Démence fronto-temporale: pertes neurales des lobes frontaux & temporaux 
 
--> Déficits dans diverses fonctions cognitives comme:
+-> Déficits dans diverses fonctions [[cognition|cognitives]] comme:
 	- La mémoire
 	- Le langage 
-	- Les réponses émotionnelles 
+	- Les réponses [[émotion|émotionnelles]] 
 
-- Pertes neurales dans le PFC -> troubles de la prise de décision:
+- Pertes neurales dans le [[cortex préfrontal|PFC]] -> troubles de la prise de décision:
 	- Plus impulsifs/risqués/aléatoires
 	- Altération de l'apprentissage fondé sur la récompense
 
@@ -359,13 +359,13 @@ Addiction & compulsions : ce qui affecte le plus la prise de décision.
 
 #### Troubles des émotions et de l'humeur
 
-Troubles anxieux et [[dépression]]:
-- Aspect négatif des émotions et de la perception de soi
+Troubles [[anxiété|anxieux]] et [[dépression]]:
+- Aspect négatif des émotions et de la [[perception]] de soi
 - Augmentation de l'indécision
 - [[anxiété|Anxiété]] uniquement : comportement d'évitement des menaces & aversion au risque
 
 Dépression associée à:
-- L'apathie
+- L'[[apathie]]
 - Surestimation des efforts physique à effectuer
 - Déficit dans la recherche de récompense
 
@@ -381,7 +381,7 @@ Deux en particulier semblent affecter la prise de décision:
 - [[schizophrénie]]
 
 Observation d'altération de la prise de décision:
-- Patients schizophrène: difficulté à ajuster le comportement après avoir perdu une récompense par rapport à la popG
+- Patients [[schizophrénie|schizophrène]]: difficulté à ajuster le comportement après avoir perdu une récompense par rapport à la popG
 	- Lié à une activité anormale dans l'OFC.
 
 Modèles computationnels, ces troubles peuvent être expliqués par:
