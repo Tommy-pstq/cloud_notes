@@ -1,0 +1,1 @@
+"Une capacité plus large et plus profonde à comprendre son environnement"

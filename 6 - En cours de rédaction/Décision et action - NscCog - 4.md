@@ -213,6 +213,57 @@ Les neurones dopaminergiques (mésencéphale - [[VTA]] ou [[substance noire]]) r
 
 #### Le [[striatum]] 
 
+ Pas clairement défini si les signaux  de prédiction & d'erreurs supportés par la dopamine sont utilisés **directement** (plutôt dans l'apprentissage des valeurs à associer à chaque éléments) dans la prise de décision. A priori non, mais une [étude](doi.org/10.3389/fnins.2012.00009) semble indiquer le contraire. 
+
+- Striatum = encodage des valeurs des signaux:
+	- De prédiction de la récompense
+	- Des signaux de valeurs associés à une action
+
+- Principale structure d'entrée des ganglions de la base. 
+- Reçoit la majeure partie des projections dopaminergiques (plus que l'OFC)
+
+- [[striatum ventral]] : calcul des prédictions de récompense envoyés au neurones dopaminergiques permettant le calcul de l'erreur de prédiction de récompense.
+- DLS & DMS : encode la valeur liée aux actions ([[expérimentation animale|rongeurs]]) 
+
+#### Le système cérébral d'évaluation : un réseau de régions cérébrales.
+
+- Méta-analyse de signal BOLD (Blood-oxygen-level dependent):
+	- [[cortex préfrontal ventro-médian]] & [[striatum ventral]] & [[cortex cingulaire postérieur]]   corrélés aux valeurs subjectives de différentes options. 
+
+- vmPFC semble réagir plus fortement à l'étape d'**évaluation** par rapport au moment de la réception de la récompense.
+
+- Chez l'humain : vmPFC répond plus souvent à la valeur que l'OFC, inversement chez le singe.
+	- Récemment: une étude obtient des activités similaires.
+		- Les  deux régions étant très proches: variabilité de labélisation ? 
+		- -> OFC + vmPFC = [[cortex orbito-median frontal|OMPFC]] 
+
+- En fonction des dessins expérimentaux, il existe différents partenaires du vmPFC impliqués dans le **[[système d'évaluation]]**:
+	- [[cortex cingulaire postérieur]]
+	- [[hippocampe]]
+	- [[cortex préfrontal dorso-latéral]] 
+	- [[cortex cingulaire dorso-antérieur]]  
+
+
+La zone centrale la plus souvent identifiée en même temps que le vmPFC & le stratum ventral comme répondant à la valeur subjective est le [[cortex cingulaire postérieur]]:
+- PCC central dans le réseau par défaut, donc quand le sujet se repose dans le scanner.
+- Implication dans mémoire autobiographique & fonctions attentionnelles. 
+- -> Plusieurs hypothèses:
+	1. Récupération d'informations sur un item pour estimer sa valeur subjective
+		- En déduire des items préférés et donc focaliser l'attention
+	2. Traite les signaux sensoriels pour reconnaître les objets. 
+		- Connectivité fonctionnelle avec le vmPFC permet d'estimer leur valeur subjective. 
+
+**Contribution de l'[[hippocampe]] au système d'évaluation.**
+- Joue un rôle critique dans l'évaluation de récompenses imaginées.
+	- Biaise les décisions en créant des associations entre événements se produisant ensemble. 
+		- Réactive la représentation neuronal d'un item A quand un item B, en lien, est présenté. 
+	- Biaise les décisions vers les éléments mémorisés en augmentant la connectivité fonctionnelle entre hippocampe & striatum ventral ( [src](doi.org/10.1016/j.neuron.2015.04.023) )
+- De manière générale: interaction vmPFC & hippocampe quand une anticipation des conséquences est nécessaire. 
+
+### IV - 2 Modulation des valeurs et contrôle cognitif
+
+
+
 
 
 ## Refs

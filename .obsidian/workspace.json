@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Index non exhaustif des lectures terminées"
             }
+          },
+          {
+            "id": "d4142a60c2402d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - En cours de rédaction/Décision et action - NscCog - 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Décision et action - NscCog - 4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +179,23 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6b0ef60d63e9e645",
+  "active": "d4142a60c2402d9c",
   "lastOpenFiles": [
+    "3 - Tags/système d'évaluation.md",
+    "6 - En cours de rédaction/Décision et action - NscCog - 4.md",
+    "3 - Tags/hippocampe.md",
+    "3 - Tags/[[Décision.md",
+    "3 - Tags/cortex cingulaire postérieur.md",
+    "3 - Tags/cortex cingulaire dorso-antérieur.md",
+    "3 - Tags/cortex préfrontal dorso-latéral.md",
+    "3 - Tags/cortex orbito-median frontal.md",
+    "3 - Tags/cortex préfrontal ventro-médian.md",
+    "3 - Tags/striatum ventral.md",
+    "doi.org/10.3389/fnis.2012.00009.md",
+    "doi.org/10.3389",
+    "doi.org",
+    "3 - Tags/temporalité.md",
+    "3 - Tags/activité.md",
     "2 - Source Materials/Pasted image 20241120184110.png",
     "3 - Tags/MFB.md",
     "3 - Tags/putamen.md",
@@ -179,18 +210,6 @@
     "3 - Tags/ondes gamma.md",
     "5 - Notes archivées/Mémoire/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "3 - Tags/perception visuelle.md",
-    "3 - Tags/circuit neuronaux.md",
-    "5 - Notes archivées/Chapitres - livre/Neurobiologie des émotions.md",
-    "3 - Tags/temporalité.md",
-    "3 - Tags/raisonnement.md",
-    "3 - Tags/cortex préfrontal ventro-médian.md",
-    "3 - Tags/Untitled.md",
-    "3 - Tags/tempo.md",
-    "3 - Tags/VMPFC.md",
-    "5 - Notes archivées/TND/Sensorialité chez les personnes TSA.md",
-    "3 - Tags/neurotransmetteurs.md",
-    "3 - Tags/évolution.md",
-    "3 - Tags/déterministe.md",
     "2 - Source Materials/Pasted image 20241118171405.png",
     "2 - Source Materials/Pasted image 20241113170136.png",
     "2 - Source Materials/Pasted image 20241113170043.png",
@@ -201,7 +220,6 @@
     "2 - Source Materials/Pasted image 20241113163542.png",
     "2 - Source Materials/Pasted image 20241113163529.png",
     "2 - Source Materials/Pasted image 20241113162719.png",
-    "2 - Source Materials/Pasted image 20241113155647.png",
     "PDF/Discussions TCA avec Marie.pdf",
     "5 - Notes archivées/Shorts - Discussions",
     "5 - Notes archivées/Untitled",
@@ -209,8 +227,6 @@
     "Untitled",
     "5 - Notes archivées/Fonctionnement neural",
     "5 - Notes archivées/TND",
-    "5 - Notes archivées/IA",
-    "5 - Notes archivées/Mémoire",
-    "5 - Notes archivées"
+    "5 - Notes archivées/IA"
   ]
 }
