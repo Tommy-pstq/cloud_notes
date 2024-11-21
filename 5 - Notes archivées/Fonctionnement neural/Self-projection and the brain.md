@@ -19,7 +19,7 @@ Ces aptitudes apparaissent à un âge similaire (4 ans ~) et implique les systè
 
 ## Introduction 
 
-Self-projection = capacité à changer de perspective (passé, future). 
+[[projection de soi|Self-projection]] = capacité à changer de perspective (passé, future). 
 Permet des inférences [[social|sociales]] & prédictions.
 
 Etude : cherche à faire le lien entre prespection, accès au passé, [[théorie de l'esprit|ToM]]  et [[navigation]]. 
@@ -27,7 +27,7 @@ Etude : cherche à faire le lien entre prespection, accès au passé, [[théorie
 ## Prospection et autres self-projections connexes.
 
 - Prospection = penser au future. cas précis étudié ici:
-	- prospection épisodique, se projeter soit même dans le futur. 
+	- [[prospection]] épisodique, se projeter soit même dans le futur. 
 
 - (1) Prospection implique deux perspectives, première personne & troisième pour points de vus. 
 - Peut impliquer des concepts & état affectifs
@@ -54,7 +54,7 @@ Eval neuropsy :
 		-  [[planification]] de tâche impliquant une vision long terme
 		- Ajustement comportementaux à des règles changeantes
 
-En reliant ces processus à la self-projection (SP): le [[cortex préfrontal]] aurait un rôle (entre autres) dans le "transfert d'un point de référence effectif de soit à autrui, d'ici à là-bas, de maintenant à plus tard" (2). 
+En reliant ces processus à la [[projection de soi|self-projection]] (SP): le [[cortex préfrontal]] aurait un rôle (entre autres) dans le "transfert d'un point de référence effectif de soit à autrui, d'ici à là-bas, de maintenant à plus tard" (2). 
 
 D'autre études confirment que le lobe [[frontal]] profère la capacité de se détacher de l'immédiateté présente, [[temporalité|temporelle]] & spatiale. 
 
