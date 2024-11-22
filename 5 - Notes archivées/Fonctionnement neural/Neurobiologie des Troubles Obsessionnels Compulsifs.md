@@ -6,8 +6,8 @@ Tags: [[Neurobiologie]] [[TOC]] [[expérimentation animale]] [[sérotoninergique
 
 # Neurobiologie des Troubles Obsessionnels Compulsifs
 ### Abstract: 
-Décennies de recherche : le complexe cortico-striato-thalamo-cortical ([[CSTS]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement répétitifs-compulsifs. 
-[[expérimentation animale]] : permet des modifications [[génétique]] & chirurgie invasives (pauvre bébous :( ) permettant des avancées majeures. 
+Décennies de recherche : le complexe cortico-striato-thalamo-cortical ([[CSTC]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement répétitifs/compulsifs. 
+[[expérimentation animale]] : permet des modifications [[génétique]] & chirurgie invasives *(pauvre bébous :( )* permettant des avancées majeures. 
 
 ### Intro:
 - Prévalence des TOC au cours de la vie : **1-3%** 
@@ -35,7 +35,7 @@ Ces deux effets ont disparus après incorporation virale de SAPAP3 dans le [[str
 - Particulièrement pour trouver identifier des gènes augmentant la sensibilité ou générant des TOC.
 ## Refs
 Principale (systematique)
-- Neurobiology of obsessive–compulsive disorder: insights into neural circuitry dysfunction through mouse geneticsJonathan T Ting and Guoping Feng. Current Opinion in Neurobiology (2011). DOI 10.1016/j.conb.2011.04.0100
+- Neurobiology of obsessive–compulsive disorder: insights into neural circuitry dysfunction through mouse genetics. Jonathan T Ting and Guoping Feng. Current Opinion in Neurobiology (2011). DOI 10.1016/j.conb.2011.04.0100
 
 1 - A review of pharmacologic treatments for obsessive-compulsive disorder. A. Kaplan, E. Hollander · 1 août 2003, Psychiatric services - DOI:[10.1176/APPI.PS.54.8.1111](https://doi.org/10.1176/APPI.PS.54.8.1111)
 2 - High-frequency stimulation of deep brain structures in

@@ -1,0 +1,1 @@
+- Supporte les mécanismes basés sur le "soi"

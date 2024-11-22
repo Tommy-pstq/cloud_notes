@@ -1,0 +1,1 @@
+- Impliqué dans le rappel d'information sémantique 

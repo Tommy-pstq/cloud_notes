@@ -64,6 +64,9 @@ En utilisant l' [[activation likelihood estimation]], établir s'il y a une corr
 
 ### Résultats 
 
+![[Pasted image 20241122174032.png]]
+
+
 Tous les domaines montrent des correspondances avec :
 - Lobe médian temporal
 - Régions pariétales médianes
@@ -76,6 +79,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 
 ![[Pasted image 20241121180858.png]]
 
+*Pas repris tous les éléments du papier, à relire si nécessaire*
 #### Lobe temporal médian 
 
 - Tous les domaines présentent une activation du lobe gauche
@@ -84,6 +88,60 @@ Si on omet la navigation, les régions suivantes sont communes:
 - Mémoire autobiographique : montre des clusters plus étendus côté gauche que les autres tâches. 
 - Navigation : activation bilatérale, extension postérieure supérieure à la mémoire autobiographique. 
 - Prospection : parahippocampe & hippocampe en bilatéral. 
+
+#### Régions pariétales médianes
+
+- Tous les domaines: precuneus, [[cortex cingulaire postérieur]], cortex rétrospinal 
+#### TPJ et lobe occipitale
+
+- Tous les domaines: TPJ
+	- Hémisphère droit: tous les domaines activent la TPJ.
+	- Hémisphère gauche: tous sauf navigation. 
+- ToM : extension antérieur à partir de la TPJ ([[BA40]])
+- Autre domaines : extension postérieure jusqu'au cortex occipital ([[BA19]])  
+#### Cortex préfrontal latéral
+
+- All : cortex préfrontal gauche
+- Tous sauf default mode: convergence vers le  [[cortex préfrontal ventro-latéral]] gauche ([[BA47]])
+
+
+#### Cortex préfrontal médian
+
+- mémoire autobiographique + ToM + default mode : [[cortex préfrontal médian]] 
+
+#### Lobe temporal latéral
+
+- mémoire autobio + ToM + default mode : lobe temporaux latéraux bilatéraux ([[BA21]] et [[BA22]]). Prospection : unilatéral gauche. 
+
+
+### Discussions
+
+- Moins d'$1/4$ des clusters étaient spécifiques à un domaine spécifique. 
+- La mémoire autobiographique, ToM, prospection et navigation utilisent les circuits neuronaux du mode par défaut. (conformément à ce qui était prédit par [[Self-projection and the brain]])
+- Utilisent également d'autres zones non prédites:
+	- cortex préfrontal
+	- cortex occipital 
+
+- Potentiellement: 
+	- cortex préfrontal latéral permet le maintien et la manipulation d'information en continu
+		- -> Simulation mentale /  de scène.
+	- cortex occipital supporte les processus d'imagerie mentaux utiles à la simulation et à l'imagination 
+
+- Mémoire autobiographique, ToM et prospection montre des correspondances fonctionnelles supplémentaires:
+	- cortex préfrontal médian et régions temporales latérales. 
+
+**<font size=4, color='lightgreen'><b> Pourquoi moins de correspondances sont observés avec la navigation ? </b> </font> 
+
+- Navigation implique principalement de retrouver des contextes visuospatiaux détaillés, sans implication directe du "soi" ou d'éléments sémantiques. 
+
+	- Les mécanismes dépendant du "soi" sont soutenus par le [[cortex préfrontal médian]] et apparaissent dans les procédés de mémoire autobiographique, prospection, ToM et mode par défaut. 
+
+- Similairement: navigation semble moins impliquer des procédés de récupération d'information sémantique, un procédé lié aux [[cortex temporal latéral|cortex temporaux latéraux]]. 
+
+<font color='lightgreen'> ------- </font> 
+
+- Un autre domaine pouvant se reposer sur le circuit neuronal présenté ici est la narration fictive. Une revue des études sur ce sujet montre que des régions similaires sont impliqués dans cette tâche et dans la ToM & mémoire autobiographique.
+
 
 
 ## Refs
