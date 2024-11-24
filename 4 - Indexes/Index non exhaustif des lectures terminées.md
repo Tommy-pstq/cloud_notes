@@ -1,6 +1,6 @@
 
-*Dernier update: 21/11/2024*
-![[Pasted image 20241121152303.png]]
+*Dernier update: 24/11/2024*
+![[Pasted image 20241124200047.png]]
 
 *Les références dont la checkbox est validée sont celles ayant été résumées en une note,  l'absence de checkbox implique une lecture sans note associée dans le vault. (lecture précédant la mise en place de cet environnement ou effectuée sans possibilité de prise de note numérique)
 Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu mais pas encore transcrit en une note*
@@ -48,6 +48,7 @@ Si un titre de chapitre apparait mais n'est pas checké, c'est qu'il a été lu 
 - [x] High intelligence: A risk factor for psychological and physiological overexcitabilities, Ruth I. Karpinski, Audrey M. Kinase Kolb , Nicole A. Tetreault , Thomas B. Borowski  doi.org/10.1016/j.intell.2017.09.001 11-2024
 
  - [x] [[Self-projection and the brain]]. Buckner RL, Carroll DC. Trends Cogn Sci. 2007 Feb;11(2):49-57. doi: 10.1016/j.tics.2006.11.004. Epub 2006 Dec 22. PMID: 17188554. 11-2024
+ - [x] The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode: a quantitative meta-analysis. Spreng RN, Mar RA, Kim AS. J Cogn Neurosci. 2009 Mar. 21(3):489-510. DOI: 10.1162/jocn.2008.21029. PMID: 18510452.
 # Psycho/Psychia
 
 ## Livres
