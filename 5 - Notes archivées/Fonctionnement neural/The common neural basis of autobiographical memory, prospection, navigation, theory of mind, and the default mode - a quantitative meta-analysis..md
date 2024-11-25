@@ -152,7 +152,7 @@ Par conséquent, un réseau central permettant la simulation de temporalité/esp
 	- Arguments selon lesquels la pression [[social|sociale]] aurait influencé les processus [[évolution|évolutifs]].
 		- Naissance de processus [[social|sociaux]] complexes: mensonges, prises de perspective, formation d'alliance. 
 	-  Un composant [[évolution|évolutif]] probable permettant ces phénomènes:
-		- la capacité de mémoriser des rencontres [[social|sociales]] spécifiques et l'évolution des liens [[social|sociaux]] entre individus. 
+		- la capacité de mémoriser des rencontres [[social|sociales]] spécifiques et l'[[évolution]] des liens [[social|sociaux]] entre individus. 
 
 - La [[mémoire sémantique]] et les actions en réponse aux [[stimulus|stimuli]] ne seraient pas suffisants pour permettre des comportements adaptatifs se basant sur des décisions de coopérations/compétitions rapides.
 	- Cela pourrait expliquer pourquoi les souvenirs autobiographiques et [[planification]] sont caractérisés par des interactions [[social|sociales]]. 

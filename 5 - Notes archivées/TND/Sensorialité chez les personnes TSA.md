@@ -9,7 +9,7 @@ Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] [[social]]
 D'après 1) (2017):
   Paradigmes préexistants : 
 	 -  "Top-down" -> [[fonctions supérieures]] altérées ([[théorie de la cohérence centrale]])  générant des particularités sensorielles.
-	- "Sensory first" -> particularités sensorielles entrainent des déficits dans les [[fonctions supérieures]]. (difficultés sensorielles rendent les situations [[social|sociales]] difficilement supportable, donc évitées donc fonction [[social|sociales]] impactées pendant le dev.)
+	- "Sensory first" -> particularités [[sensorialité|sensorielles]] entrainent des déficits dans les [[fonctions supérieures]]. (difficultés sensorielles rendent les situations [[social|sociales]] difficilement supportable, donc évitées donc fonction [[social|sociales]] impactées pendant le dev.)
 
 De plus, l'[[TSA|autisme]] est principalement considéré comme impactant et défini par des inaptitudes [[social|sociales]], avec sensorialité  altérée en "bonus" 
 
@@ -39,7 +39,7 @@ i.e : Un [[stimulus]] tactile à intensité constante sera perçu comme de moins
 En population [[TSA]] enfant, difficulté à distinguer deux sons [[temporalité|temporellement]] proches. (également prédictif de la sévérité du [[TSA]]).
 Valable pour des sons purs - une note précise - comme pour des signaux complexes. 
 --> La [[fenêtre d'intégration temporelle]] est allongée. 
--> Produit fort probablement un impact dans la [[communication]] et donc [[sociabilisation]]. 
+-> Produit fort probablement un impact dans la [[communication]] et donc [[social|sociabilisation]]. 
 
 ##### Association [[mutlisens]]orielle 
 L'association audio-visuelle est plus longue: un son et un signal visuel seront perçus comme [[synchronicité|synchrone]] pendant un intervalle [[temporalité|temporel]] plus long que dans la population générale. 

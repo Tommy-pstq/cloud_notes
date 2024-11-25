@@ -2,7 +2,7 @@
 
 Status: Closed.  
 
-Tags: [[Neurobiologie]] [[émotion]] [[génétique]] [[empathie]] [[conscience]]
+Tags:  [[émotion]] [[génétique]] [[empathie]] [[conscience]]
 # Neurobiologie des émotions
 
 #### Emotions : nature ou culture ? 
@@ -21,7 +21,7 @@ Aujourd'hui :
 
 #### Emotions, un chaos empêchant l'objectivité ?
 
-- Les émotions modulent la [[perception]]s sensorielle
+- Les émotions modulent la [[perception]]s [[sensorialité|sensorielle]]
 	- L'[[amygdale]] projette une sorte d'[[attention]] de survie sur les aires sensorielle de sorte à amplifier les éléments considérer comme dangereux.
 		- Ces projections sont altérés en cas troubles [[anxiété|anxieux]] ou dépressif, entrainant un focus sur des éléments négatifs, créant ainsi un cercle vicieux. 
 -  Les émotions influent sur l'[[apprentissage]]. Courbe en "U" : trop d'émotions = morts de cellules neuronales et trauma (Ex PTSD de viols ou la victime se souvient uniquement des yeux de sont agresseur) altérant la [[mémoire]]. Pas assez d'[[émotion]] = mise en [[mémoire]] quasi nulle (trajet quotidien au travail)
@@ -56,7 +56,7 @@ Souvent considéré que les émotions empêchent la [[prise de décision]] ratio
 Des *émotions anticipées(1)* et *émotions anticipatoires(2)* influent nos décisions et leur confère une rationalité. 
 - 2) Ex: Le risque entraine l'apparition de marqueurs somatique de la peur qui influent la [[prise de décision]].
 - 1) Plaisirs ou joie anticipée à l'idée d'une [[activité]] -> influence sur la [[prise de décision]].
-Pas uniquement théorique, des lésions au niveau du [[cortex préfrontal ventro-médian]] ([[VMPFC]]) entraine l'incapacité de prise en comptes des marqueurs somatiques des émotions lors des prises de décisions. Entrainant de fait des comportements irrationnels. 
+Pas uniquement théorique, des lésions au niveau du [[cortex préfrontal ventro-médian]] (VMPFC) entraine l'incapacité de prise en comptes des marqueurs somatiques des émotions lors des prises de décisions. Entrainant de fait des comportements irrationnels. 
 Ex: patients avec lésion à cet endroit ne présentant aucune altération des capacité mentale (QI stable) mais prenait systématique des décisions menant à l'échec dans un jeu ou il était nécessaire de prendre en compte le risque (pioche de cartes à espérance négative mais gros gains potentiels contre espérance positive mais petits gains). Les patients étaient néanmoins capable d'expliquer quel paquet de carte était le plus bénéfiques lorsque cela leur était demandé. 
 
 #### Emotions esthétiques

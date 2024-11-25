@@ -5,7 +5,7 @@ Tags:
 
 *Rien qu'à travers le titre, beaucoup de concepts seront communs à [[Memory, Navigation and theta rythm in the hippocampal-entorhinal system|l'article de Buszaki]] et donc non explicités dans cette note*
 
-# Neurosciences Cognitives - ch3 - Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation
+# Etude des systèmes de mémoire dans le cadre d'un comportement - la navigation
 
 ## [[Apprentissage]] & mémoires : définitions
 
@@ -85,7 +85,7 @@ Navigation = fonction [[cognition|cognitive]] complexe faisant appel à, en plus
 
 ## IV L'information multisensorielle
 
-Deux sources d'info sensorielles:
+Deux sources d'info [[sensorialité|sensorielles]]:
 - Environnement
 - Nos déplacements
 
@@ -108,7 +108,7 @@ Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant
 
 - [[hippocampe]] = mise en relation de différents [[stimulus]] (S-S). Non impliqué dans la procédurale
 - [[striatum]] = [[apprentissage par renforcement]], relation [[stimulus]] - réponse 
-- [[cervelet]] = [[apprentissage supervisé]] grâce à sa capacité à prédire l'état sensoriel & à la corriger à partir d'un signal d'erreur 
+- [[cervelet]] = [[apprentissage supervisé]] grâce à sa capacité à prédire l'état [[sensorialité|sensoriel]] & à la corriger à partir d'un signal d'erreur 
 - [[amygdale]] = [[apprentissage par renforcement]], [[association]] [[stimulus]] - récompense.
 
 - Certaine tâche de [[navigation]] (indicée) peuvent être résolue sans utilisation de stratégie [[allocentrique]] ou [[égocentrique]] mais simplement de manière procédurale. Découvert via modèle computationnel et validé par l'[[expérimentation animale]]. 

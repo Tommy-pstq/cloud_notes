@@ -98,8 +98,8 @@ $\theta$ = paramètres.
 
 Dynamique de potentiel neuronal sans [[spike]]: $$\frac{dx}{dt}(t) = -g_l(t) + s(t)$$
 $g_l$ = "leakage [[conductance]]".
-$s(t)$ = somme des inputs [[synaptique]] sur la node. En prenant compte des non-linéarités: $$s(t) = f(x(t), I(t), (A-x(t)))$$ 
-$A$ = potentiel [[synaptique]] entre deux nodes. 
+$s(t)$ = somme des inputs [[synapses|synaptique]] sur la node. En prenant compte des non-linéarités: $$s(t) = f(x(t), I(t), (A-x(t)))$$ 
+$A$ = potentiel [[synapses|synaptique]] entre deux nodes. 
 
 --> $$\frac{dx}{dt}(t) = -g_l(t) + f(x(t), I(t), (A-x(t))$$
 --> $$\frac{dx}{dt}(t) = -\frac{x(t)}{\tau} + f(x(t), I(t), \theta, (A-x(t)))$$
@@ -114,7 +114,7 @@ In fine, on se retrouve avec des fonctions pour :
 - Les inputs externes
 - l'auto-[[régulation]]
 - les interactions synaptiques entre neurones
-- Paramètres d'interaction [[synaptique]].
+- Paramètres d'interaction[[synapses|synaptique]].
 -> Pleins de trucs qui peuvent être résolu numériquement. 
 
 ![[{F791808C-6E51-40F7-BC1C-5A2AD249318F}.png]]
@@ -132,7 +132,7 @@ Cas 2:  RLC non linéaire.
 
 Res :
 
-	- LNN = 75% précision
+	- [[LNN]] = 75% précision
 	- GLNN = 95% précision
 
 ![[{9EDA6CFC-8099-4A4E-8BA7-36A385595D38} 1.png]]

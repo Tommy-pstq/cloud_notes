@@ -16,7 +16,7 @@
 HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrité systémique) selon des études, d'autres cependant font des liens entre HQI (particulièrement des aptitudes verbales très supérieures) et troubles immunologiques/mentaux (trouble bipolaire/[[dépression|depression]]/[[anxiété]]/allergies/asthme/trouble immunitaires/[[TSA|autisme]].)
 
 	-> Relativement contradictoire.
---> Peut être réconcilié en s'intéressant à la psychoneuroimmunologie [[PNI]] (=comment le stress, particulièrement chronique influence la [[communication]] entre cerveau & système [[immunitaire]]) ?
+--> Peut être réconcilié en s'intéressant à la psychoneuroimmunologie [[PNI]] (=comment le [[stress]], particulièrement chronique influence la [[communication]] entre cerveau & système [[immunitaire]]) ?
 
 	-> Investiguation des prévalences entre HQI & trouble mentionnés ci-dessus. (+lien entre sur-excitabilité intellectuel & ceux-ci.)
 
@@ -30,7 +30,7 @@ Enfants HPI (6-11 ans) ont montrés des réactions émotives significativement p
 #### Surexcitabilité intellectuelle (overexcitability (OE))
 
 Dabrowski, 1964-76 : "neurotically allergic or nervous" en pop HQI.
-	-> OE psychomoteur, sensorielle, intellectuelle, imaginative, [[émotion]]nelle.  Associées à des dev de personnalités et [[anxiété]]/[[dépression|depression]]/tics. 
+	-> OE psychomoteur, [[sensorialité|sensorielle]], intellectuelle, imaginative, [[émotion]]nelle.  Associées à des dev de personnalités et [[anxiété]]/[[dépression|depression]]/tics. 
 
 #### Psychological OE : troubles affectifs & [[TDAH|ADHD]]
 
@@ -48,7 +48,7 @@ Individus "s'inquiétant" plus souvent = meilleures perfs aux test de QI
 #### Psychological OE: [[Psychoneuroimmunologie]].
 
 HQI + OE : [[stimulus|stimuli]] normaux peuvent devenir douloureux. 
-	-> génère un stress chronique léger.
+	-> génère un [[stress]] chronique léger.
 		-> sensation de danger pour le corps.
 			-> [[activité|activation]] chronique du [[système nerveux]] [[sympathique]].
 				-> Dérégulation [[immunitaire]]. 
@@ -62,7 +62,7 @@ HQI + OE : [[stimulus|stimuli]] normaux peuvent devenir douloureux.
 Psychiatrist Genetics Consortium: 
 - 9863 individus : risque polygénique du [[TSA]] corrélé positivement avec des [[capacités cognitives]] supérieures. 
 	- Notamment : [[mémoire]] logique, fluence verbale, vocabulaire.
-- Porteurs des [[gènes]] associés au [[TSA]] mais pas de [[TSA]] déclaré -> meilleur score aux tests que le groupe de contrôle.
+- Porteurs des [[génétique|gènes]] associés au [[TSA]] mais pas de [[TSA]] déclaré -> meilleur score aux tests que le groupe de contrôle.
 Seconde étude sur 1522 individus:
 *  risque polygénique pour le [[TSA]] -> score plus élevés aux tests de QI
 
@@ -95,8 +95,8 @@ Troubles psy: évalués selon le DSM-IV. Donc gros changement pour le [[TSA]] li
 
 ![[{306ADC30-C9FD-4013-92C8-0C10656A48F3}.png]]
 
-- Stress  (env. & psycho) impact l'axe hypothalamo-pituitaire-adrenale (HPA), principalement le [[stress]] chronique. 
-- HPA prépare le corps pour une réponse "fight, flight or freeze". Pas de distinction entre menaces réelles & percues. [[Eloge de la fuite - Henri Laborit]]
+- [[Stress]]  (env. & psycho) impact l'axe hypothalamo-pituitaire-adrenale (HPA), principalement le [[stress]] chronique. 
+- HPA prépare le corps pour une réponse "fight, flight or freeze". Pas de distinction entre menaces réelles & percues.
 	- [[activité|activation]] chronique de cette réponse: détériore l'organisme. 
 
  OE --> [[activité|activation]] continue du HPA/

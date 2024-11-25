@@ -1,0 +1,2 @@
+[[cervelet]]
+- rôle sensori-moteur

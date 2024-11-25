@@ -2,7 +2,7 @@
 
 Status: Closed
 
-Tags: [[oscillation neuronale]] [[réseaux corticaux]] [[EEG]] 
+Tags: [[oscillation neuronale]]  [[EEG]] 
 
 # Neuronal oscillations in cortical networks.
 
@@ -59,14 +59,14 @@ Comportement de résonance, permet la sélection d'input à partir de leur carac
 Résonateurs/oscillateur à seuil réduit: détection & amplification de signaux faibles. Ex: cortical feedback jusqu'au [[thalamus]] --> amplification des oscillations thalamo-corticale. 
 
 De manière générale: Les oscillations des réseaux permettent la mise en place de "[[fenêtre d'opportunité]]", en abaissant le voltage nécessaire à la [[perception]] d'un signal en modifiant le [[potentiel membranaire|potentiel de la membrane]] cellulaire. un input bien timé nécessite donc une énergie plus faible pour entrainer une réponse --> [[efficacité énergétique]]. 
-Ex : Dans l'[[hippocampe]], les [[spike]] ([[spiking]]) en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via [[activité]] [[NMDA]] ?) alors qu'une [[activité|activation]] en décalage de phase amoindri des inputs renforcés préalablement (3). 
+Ex : Dans l'[[hippocampe]], les [[spike]]  en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via [[activité]] [[NMDA]] ?) alors qu'une [[activité|activation]] en décalage de phase amoindri des inputs renforcés préalablement (3). 
 De manière analogue, des signaux déphasés peuvent supprimé les oscillations d'un réseau, comme c'est le cas dans l'[[hippocampe]], lorsque que [[gyrus denté]] [[spike|décharge]] en déphasage des [[oscillations gamma]]  présentent dans l'[[hippocampe]], les annulant. 
 
 #### Liaison des [[assemblage]]s cellulaires
 
 Il semblerait que l'information soit traitée/transférée/stockée par des [[assemblage]]s dynamique de cellules, synchronisés par des connections dynamique. 
 - Le mécanisme induisant de telles coalition temporaires est encore inconnu (papier = 2004). 
-- Un mécanisme possible serait un changement dynamique de la puissance [[synaptique]] entre assemblages. Cependant, un tel procédé serait très énergivore. 
+- Un mécanisme possible serait un changement dynamique de la puissance [[synapses|synaptique]] entre assemblages. Cependant, un tel procédé serait très énergivore. 
 - Un autre processus serait la [[synchronisation oscillatoire]] (4), bien plus énergétiquement efficace. La [[synchronicité|synchronisation]] dépend de la force de couplage et la distribution de fréquences propres entre les assemblages.
 	Tant que les fréquences des oscillateurs couplés demeurent similaires, la [[synchronicité]] peut être assurée même avec des liens synaptiques faibles.  Par conséquent, cette propriété des oscillations permets à des groupes neuronaux distant, reliés par des liens synaptiques éparses d'être [[temporalité|temporellement]] reliés 
 --> Par exemple, un [[stimulus]] visuel peut être traité de plusieurs manières par des assemblages distinct dans des régions corticales différentes mais reliés par des oscillation à fréquence gamma. Les décharges conditionnées par la phase de ces oscillations permettrait la constitution d'un concept [[cognition|cognitif]] cohérent à partir des variables générées par les différent assemblages (5). Plusieurs expérimentation confirment ce "lien-gamma".
@@ -85,7 +85,7 @@ Les oscillations sont une caractéristique intrinsèque des systèmes à l'équi
 
 #### Représentation par information de phase
 
-Le [[spiking]] des neurones dans un système oscillant est sous l'influence de (8):
+Le spiking des neurones dans un système oscillant est sous l'influence de (8):
 
 *  Input externes - un input faible entrainera un input tardif par rapport à un input puissant entrainent une [[dépolarisation]] plus forte, rapprochant plus fortement le [[potentiel membranaire]] de son seuil et donc une [[activité|activation]] en avance de phase. 
 
@@ -102,7 +102,7 @@ Exemple de la première expérimentation permettant de conclure sur l'utilisatio
 	- Déplacement du timing des [[spike|spikes]] de cette cellule, plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'[[oscillations theta|onde Theta]].
 				- ![[Pasted image 20241029113942.png]]
 
---> La position future des places fields peut être prédite à partir d'une seule séquence de [[spiking]] dans un cycle theta.
+--> La position future des places fields peut être prédite à partir d'une seule séquence de spiking dans un [[oscillations theta|cycle theta]].
 
 
 ## Refs

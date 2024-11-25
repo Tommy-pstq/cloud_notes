@@ -135,7 +135,7 @@ Important pour:
 Cette région est impliqué dans les phénomène d'autoscopie (se voir soit même de face) & de sortie de corps (se perçoit au plafond entrain de se regarder)
 
 Station corticales des projections du [[système vestibulaire]]
-	- [[système vestibulaire]]: référentiel fondamental pour l'unification des données sensorielles et la construction du schéma corporel. 
+	- [[système vestibulaire]]: référentiel fondamental pour l'unification des données [[sensorialité|sensorielles]] et la construction du schéma corporel. 
 	
 Expérience de la main de caoutchouc:
 - Le cerveau est capable d'attribuer un existence à des membres artificiels. 

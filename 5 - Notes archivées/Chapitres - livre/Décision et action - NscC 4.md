@@ -4,7 +4,7 @@ Alizée Lopez-Persem, Mehdi Khamassi
 
 Tags:
 
-# Décision et action - NscCog - 4
+# Décision et action - NscC 4
 
 
 ## Introduction 
@@ -250,14 +250,14 @@ La zone centrale la plus souvent identifiée en même temps que le [[cortex pré
 - -> Plusieurs hypothèses:
 	1. Récupération d'informations sur un item pour estimer sa valeur subjective
 		- En déduire des items préférés et donc focaliser l'attention
-	2. Traite les signaux sensoriels pour reconnaître les objets. 
+	2. Traite les signaux [[sensorialité|sensoriels]] pour reconnaître les objets. 
 		- Connectivité fonctionnelle avec le [[cortex préfrontal ventro-médian|VMPFC]] permet d'estimer leur valeur subjective. 
 
 **Contribution de l'[[hippocampe]] au [[système d'évaluation]].**
 - Joue un rôle critique dans l'évaluation de récompenses imaginées.
 	- Biaise les décisions en créant des [[association|associations]] entre événements se produisant ensemble. 
 		- Réactive la représentation neuronal d'un item A quand un item B, en lien, est présenté. 
-	- Biaise les décisions vers les éléments mémorisés en augmentant la connectivité fonctionnelle entre [[hippocampe]] & [[striatum ventral]] ( [src](doi.org/10.1016/j.neuron.2015.04.023) )
+	- Biaise les décisions vers les éléments mémorisés en augmentant la connectivité fonctionnelle entre [[hippocampe]] & [[striatum ventral]] ( (doi.org/10.1016/j.neuron.2015.04.023) )
 - De manière générale: interaction [[cortex préfrontal ventro-médian|VMPFC]] & hippocampe quand une anticipation des conséquences est nécessaire. 
 
 ### IV - 2 Modulation des valeurs et contrôle cognitif
@@ -280,7 +280,7 @@ Observations [[cortex préfrontal ventro-médian|VMPFC]] corroborent ce principe
 
 On retrouve le même type de comportement lors de la [[navigation]]. Si le lieu d'arrivé n'est pas le bon lorsque l'on pensait suivre, de manière habituelle, l'itinéraire retenu est revisité pour établir à quel endroit une erreur a pu se produire.  
 
-[Etude 2009](doi.org/10.1126/science.1168450) : La prise en compte des valeurs nutritives d'aliments modifie l'activité du [[cortex préfrontal ventro-médian|VMPFC]] pour les choix alimentaires. -> contrôle [[cognition|cognitif]] lors de la prise de décision.
+(doi.org/10.1126/science.1168450) : La prise en compte des valeurs nutritives d'aliments modifie l'activité du [[cortex préfrontal ventro-médian|VMPFC]] pour les choix alimentaires. -> contrôle [[cognition|cognitif]] lors de la prise de décision.
 (Et on a vu plus haut que le système habituel était bien plus sensible aux biais [[cognition|cognitifs]], donc intéressant de SOUVENT douter.)
 
 ### IV - 3 Le choix. 

@@ -2,7 +2,7 @@
 
 Status: Closed 
 
-Tags: [[Neurobiologie]] [[TOC]] [[expérimentation animale]] [[sérotoninergique]] ([[SRI]]) [[striatum]] [[thalamus]] 
+Tags:  [[TOC]] [[expérimentation animale]] [[sérotoninergique]] ([[SRI]]) [[striatum]] [[thalamus]] 
 
 # Neurobiologie des Troubles Obsessionnels Compulsifs
 ### Abstract: 
@@ -17,7 +17,7 @@ Décennies de recherche : le complexe cortico-striato-thalamo-cortical ([[CSTC]]
 
 - 25 ans d'imagerie: patterns d'[[activité]]s anormaux dans la boucle CSTC. 
 - Même temps: Fonctions des [[ganglions de la base]] : boucles fermées dédiées à des fonctions motrices ou cognitives discrètes (maths).  Apparition du modèle dichotomique de projections directes/indirectes des [[ganglions de la base]]. 
-	- --> Hypothèse :  Une hyperactivité des boucles [[orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'[[activité|activation]] excessive  du chemin direct, entraine des TOC.
+	- --> Hypothèse :  Une hyperactivité des boucles [[cortex orbito-frontal| orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'[[activité|activation]] excessive  du chemin direct, entraine des TOC.
 		* Article : affirme que c'est une simplification abusive des phénomène neurobiologique mais qui permet de mettre en place un cadre d'étude théorique. 
 	* Léger "soucis" : pas d'avancée ou argument réfutant cette théorie au cours des 20 dernières années, certainement dû à des considération éthique concernant les procédures invasives sur des patient humain.
 ### Elements récents des modèles génétique chez la souris

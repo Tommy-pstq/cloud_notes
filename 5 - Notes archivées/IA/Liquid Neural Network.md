@@ -11,7 +11,7 @@ Tags: [[intelligence artificielle]] [[neurone]] [[attention]] [[circuit neuronau
 	(Finalement, j'vais prendre des notes à partir de la vidéo.)
 
 - Besoin de nouvelles idées, au risque de voir les futurs résultats n'être plus qu'incrémentaux. 
-- LNN : plus compact, explicable, durable.
+- [[LNN]] : plus compact, explicable, durable.
 
 ### Différences fondamentales en cerveaux & [[ANN]]
 
@@ -57,7 +57,7 @@ Avantages:
 
 ### Implémentation
 
-#### Entrainement 
+#### [[Entrainement]] 
 
 ![[Pasted image 20241104145511.png]]
 

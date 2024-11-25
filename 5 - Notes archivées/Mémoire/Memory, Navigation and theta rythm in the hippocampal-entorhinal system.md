@@ -3,7 +3,7 @@
 Status: Closed
 
 
-Tags: [[mémoire]] [[navigation]] [[hippocampe]] [[Neurobiologie]] [[expérimentation animale]]
+Tags: [[mémoire]] [[navigation]] [[hippocampe]]  [[expérimentation animale]]
 
 
 # Memory, Navigation and theta rythm in the hippocampal-entorhinal system
@@ -15,7 +15,7 @@ Fonction de l'[[hippocampe]] ?
 * Patient HM (lésion bilatérale de l'[[hippocampe]] suite chirurgie épilepsie) : amnésie antérograde.
 * Chez les rats : [[activité|activation]] en fonction de la position spatial.
 -> Les deux ne semblent, a priori pas vraiment corrélés. 
-Sauf si, hypothèse : **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les bases & [[algorithmes neuronaux]] les supportant sont les mêmes.**
+Sauf si, hypothèse : **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les bases & [[mécanismes neuronaux|algorithmes neuronaux]] les supportant sont les mêmes.**
 
 La [[navigation]] se base sur **2** méchanismes:
 - "Map-based" ou [[allocentrique]] : utilisation de points de repères extérieurs fixes. "Prendre à l'Est"
@@ -129,11 +129,11 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[oscillations gamma|ondes gamma]] par les [[oscillations theta]]. 
-[[activité]] neuronale à multi-échelle [[temporalité|temporelle]] observable via le [[spiking]] de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
+[[activité]] neuronale à multi-échelle [[temporalité|temporelle]] observable via le spiking de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
 - [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le [[neurone]] reader.
 - Les [[spike]]s d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
-- la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  [[récepteurs]] [[GABA]].a [[AMPA]] , dont les interactions génèrent le rythme [[gamma]] (14).  
+- la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  [[récepteurs]] [[GABA]].a [[AMPA]] , dont les interactions génèrent le [[oscillations gamma|rythme gamma]] (14).  
 - Assemblages dans l'[[hippocampe]], durée de vie = 10-30ms --> 5-9 [[assemblage]], chacun contenu dans un cycle gamma, durant un cycle theta. 
 
 --> Double fonctionnalité des [[oscillations theta|ondes theta]]:
@@ -146,15 +146,15 @@ durant un cycle [[gamma]].
 			
 2. Délais d'[[activité|activation]] maximal entre deux [[place cells]] proportionnel à la distance physique entre les deux éléments/lieu encodés. 
 	* -> 1 & 2 : distance traversée pendant le déplacement sont exprimé dans le domaine [[temporalité|temporel]] via un format compressé [[temporalité|temporellement]] dans les [[oscillations theta|ondes theta]].
-3.  Les [[place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'[[activité|activation]]  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les [[oscillations theta|ondes theta]] (en partie dû aux délais de l'ordre de la miliseconde entre [[spiking]] the [[place cells]] adjacente) : [[phase precession]].
+3.  Les [[place cells]] d'intérêt (encodant un item "important" de l'environnement) ont une fréquence d'[[activité|activation]]  plus importante que celles représentant le second plan (background), créant ainsi un pattern d'interférence avec les [[oscillations theta|ondes theta]] (en partie dû aux délais de l'ordre de la miliseconde entre [[spike|spiking]] the [[place cells]] adjacente) : [[phase precession]].
 	- Ce phénomène engendre une avance de phase croissante pour les populations de cellules impliquées. 
 	- La pente de cette avance de phase représente la taille du place field impliqué, plus la pente est élevée, plus le champ sera de petite taille. 
 	-  Le même phénomène serait observé dans le [[cortex entorhinal]] dans le fonctionnement des [[grid cells]](15)
 
 Le mécanisme de compression [[temporalité|temporelle]] des [[oscillations theta]] contraint les représentation d'espaces et de mémoires:
-* Délai entre [[place cells]] --> limite le nombre d'[[assemblage]] par cycle theta. 
-* Durée d'un cycle theta --> Limite les distances encodables par les séquences d'[[activité|activation]].
-	* -> Lien sigmoïdale distance maximale représentable et intervale de temps en [[spiking]] de deux [[place cells]]. 
+* Délai entre [[place cells]] --> limite le nombre d'[[assemblage]] par [[oscillations theta|cycle theta]]. 
+* Durée d'un [[oscillations theta|cycle theta]] --> Limite les distances encodables par les séquences d'[[activité|activation]].
+	* -> Lien sigmoïdale distance maximale représentable et intervalle de temps en [[spike|spiking]] de deux [[place cells]]. 
 				 ![[Pasted image 20241029193528.png]]
 
 --> Location proches représentées plus fortement, celles lointaines de manières plus éparses.

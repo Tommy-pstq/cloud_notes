@@ -9,7 +9,7 @@ Tags: [[perception]] [[mutlisens]] [[TSA]] [[social]]
 ### Intro
 
 - Premier papier faisant état de liens entre [[intégration multisensorielle]] et [[perception]] de la parole à partir de preuves comportementales
-* Difficultés [[sensor]]ielles rapportées par 87% des personnes [[TSA]] 
+* Difficultés [[sensorialité|sensorielles]] rapportées par 87% des personnes [[TSA]] 
 * Peu d'études réalisées pour établir des liens entre comportements et perceptions atypiques
 
 - Concept bien établis: si deux signaux sont reçus à un intervalle inférieur à la [[fenêtre d'intégration temporelle]] (FIT), ils sont perçus comme [[synchronicité|synchrones]]. la largeur de cette fenêtre est propre à chaque individu. ([[synchronicité]])
@@ -35,7 +35,7 @@ Cohorte : 76 enfants, 38 [[TSA]] / 38 TD
 1) [[perception]] de la parole via tâche de reconnaissance de mots dans un signal bruité.
 	- Female speaker, 66db signal in 72db noise
 	- Score = nb de phonème correctes.
-Intégration sensorielles:
+Intégration [[sensorialité|sensorielles]]:
 3) Visual ([[social]]/non-[[social]])
 4) Audiovisual ([[social]]/non-[[social]])
 ![[Pasted image 20241102165518.png]]
@@ -60,7 +60,7 @@ Focus sur la [[perception]] de parole. || [[reconnaissance vocale]]
 - Audiovisual [[reconnaissance vocale|speech perception]] : TSA performent significativement moins bien. (p=0.002, F=3.16, d=0.73).
 - Audio uniquement : pas de différence significative.
 
-### Relation entre intégration temporelle et [[perception]] de parole 
+### Relation entre [[intégration temporelle]] et [[perception]] de parole 
 
 ![[Pasted image 20241102171843.png]]
 

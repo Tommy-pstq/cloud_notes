@@ -6,4 +6,7 @@ aliases:
   - onde theta
   - ondes theta
   - ondes thetas
+  - cycle theta
+  - cycles thetas
+  - cycles theta
 ---
