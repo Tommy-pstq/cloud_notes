@@ -6,5 +6,21 @@
       ],
       "key": "U"
     }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-underline": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1732896433917": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

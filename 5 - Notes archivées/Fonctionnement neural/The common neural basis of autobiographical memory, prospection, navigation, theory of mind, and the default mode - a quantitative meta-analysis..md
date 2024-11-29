@@ -157,7 +157,7 @@ Par conséquent, un réseau central permettant la simulation de temporalité/esp
 - La [[mémoire sémantique]] et les actions en réponse aux [[stimulus|stimuli]] ne seraient pas suffisants pour permettre des comportements adaptatifs se basant sur des décisions de coopérations/compétitions rapides.
 	- Cela pourrait expliquer pourquoi les souvenirs autobiographiques et [[planification]] sont caractérisés par des interactions [[social|sociales]]. 
 
-- Les théories de la perception de soi et de construction de scène exposent le rôle des lobes temporaux médians. 
+- Les théories de la perception de soi et de construction de scène exposent le rôle des [[lobe temporal médian|lobes temporaux médians]]. 
 	- Leur implication dans ce réseau central peut exposer une base commune entre processus mémoriel et relationnel. 
 
 - La fonction du [[lobe temporal médian]] pourrait s'appliquer également à la construction de scènes cohérentes, événements, modèles mentaux. 
