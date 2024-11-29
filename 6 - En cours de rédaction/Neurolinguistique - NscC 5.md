@@ -18,7 +18,7 @@ Perrine Brusini, Elodie Cauvet
 
 Rencontre de trois disciplines: 
 - Linguistique
-- Psychologie
+- [[psychologie]]
 - Biologie
 
 Domaine récent: première apparition du terme dans les 70s. Développement grâce à la neuro-imagerie. 
@@ -28,7 +28,7 @@ Domaine récent: première apparition du terme dans les 70s. Développement grâ
 Initialement : deux courants de penser s'oppose concernant l'acquisition du langage : behaviorisme & générativisme.
 
 - Behaviorisme : les enfants naissent sans connaissances particulières. Ils apprennent peu à peu par renforcement. 
-- Générativisme : l'apprentissage du langage est sous-tendu par des biologiques innées. 
+- Générativisme : l'[[apprentissage]] du langage est sous-tendu par des biologiques innées. 
 	- Le langage est donc une fonction biologique qui se développe à travers l'expérience. 
 
 <font size=2> Générativisme proposé par Chomsky, utra important dans le domaine de la psycholinguistique, cependant toutes ses théories sont loin de faire l'unanimité chez ses linguistes contemporains. Mais ce fut le premier à apporter ces idées.  </font>
@@ -47,10 +47,10 @@ Defs selon Saussure:
 - Parole : réalisation effective d'un individu donné, un acte de langue. 
 
 Conséquences:
-- Le langage est fondamentalement humain. Les autres êtres vivants peuvent possédé des systèmes de communication mais pas de langage tel que défini ici. 
+- Le langage est fondamentalement humain. Les autres êtres vivants peuvent possédé des systèmes de [[communication]] mais pas de langage tel que défini ici. 
 - Le langage ne peut être étudié qu'à travers un medium: l'utilisation d'une langue ou un fait de langue. 
 	- L'étude des bases neurologiques du langage ne se fait qu'à travers l'étude d'une sous spécialité de cette faculté. 
-- La langue est régit par une communauté, c'est donc un produit social. Les **signes**  qu'un individu utilise n'ont de sens que celui donné à ces signes par sont interlocuteur. 
+- La langue est régit par une communauté, c'est donc un produit [[social]]. Les **signes**  qu'un individu utilise n'ont de sens que celui donné à ces signes par sont interlocuteur. 
 	- -> Implique des spécificités / biais lors d'analyse propre à chaque langue. 
 
 ### Niveau d'analyse linguistique
@@ -104,7 +104,7 @@ Proche de la grammaire.
 - Sémantique = étude de la signification.  niveau d'étude doublement ambiguë:
 	- Le sens dépend de l'interprétation.
 		- Se calcul au niveau du mot mais également de l'énoncé. 
-			- Problématique: rien ne prouve que les mécanismes de mémoire pour retrouver le concept lié à un mot soient identiques à ceux permettant d'extraire le sens d'un énoncé à partir de ses éléments
+			- Problématique: rien ne prouve que les mécanismes de [[mémoire]] pour retrouver le concept lié à un mot soient identiques à ceux permettant d'extraire le sens d'un énoncé à partir de ses éléments
 	- Difficile de placer précisément la sémantique parmi les autres niveaux d'interprétation.
 
 - Possible de différencier ces deux niveaux d'interprétation de la parole:
@@ -130,7 +130,7 @@ Proche de la grammaire.
 
 - Lichteim, 1885 : réseau cérébral linguistique
 
-- Geswind, 1970 : réseau fonctionnel = ensemble de régions à usage spécifique activées de façons synchrones : Air de Broca & Wernicke reliées par le faisceau arqué.
+- Geswind, 1970 : réseau fonctionnel = ensemble de régions à usage spécifique activées de façons [[synchronicité|synchrones]] : Air de Broca & Wernicke reliées par le faisceau arqué.
 
 Aujourd'hui : modèles dépassées car trop simplistes. Perception de la parole = perception des sons, reconnaissances  des phonèmes, segmentation en mots etc.
 ### Apport des études lésionnelles
@@ -144,7 +144,7 @@ Aphasies primaires progressives (neuro degen):
 
 
 - Morh, 1976-8 : rôle de la partie postérieur du gyrus frontale (aire de Broca):
-	- Après quelques mois, aucun des patients ne présentait les signes cliniques d'une aphasie de Broca (apraxie (manque de contrôle moteur fin) du langage).
+	- Après quelques mois, aucun des patients ne présentait les signes cliniques d'une aphasie de Broca (apraxie (manque de [[contrôle moteur]] fin) du langage).
 		- -> La seule lésion de l'air de Broca ne produit pas de déficit à long terme.
 	- Autre études sur des patients présentant des signes cliniques plusieurs mois post AVC d'une aphasie de Broca : d'autres régions adjacentes à l'artère cérébrale moyenne étaient touchées (insula, gyri pré- post-centraux)
 
@@ -167,13 +167,13 @@ Neuro-imagerie : on parle parfois de 2 voix de traitement (ref système visuel)
 * Voie ventrale = système de compréhension
 * Voie dorsale = système de production 
 
-Ici : focus sur le réseau de perception du langage, dont l'architecture cognitive s'apparente aux niveaux d'analyse linguistique:
+Ici : focus sur le réseau de perception du langage, dont l'architecture [[cognition|cognitive]] s'apparente aux niveaux d'analyse linguistique:
 * Niveau d'analyse de la forme : son de la langue, graphème pour le texte, gestes en LDS
 * Niveau d'analyse de la structure syntaxique
 * Niveau d'intégration du sens
 #### Processus d'analyse des sons - phonologie
 
-Premières étapes de perception du son (changement de pression -> signal électrique) marqué par un potentiel nommé <font color='red'>ABR</font> (auditory brainstem response) présent <font color='red'>10ms</font> après le début d'un stimulus auditif. 
+Premières étapes de perception du son (changement de pression -> signal électrique) marqué par un potentiel nommé <font color='red'>ABR</font> (auditory brainstem response) présent <font color='red'>10ms</font> après le début d'un [[stimulus]] auditif. 
 ABR : non spécifique au langage, présent dès la perception d'un son. 
 Etudes récentes : formes de l'ABR = spécifique pour chaque son de la langue. 
 
@@ -182,7 +182,7 @@ Etudes récentes : formes de l'ABR = spécifique pour chaque son de la langue.
 		- -> Certaines variations sonores ne sont pas utiles à la différenciation des phonèmes mais peuvent l'être pour la reconnaissance du locuteur.
 		- Les signaux permettant de reconnaitre les individus et les phonèmes  sont isolés en quelques ms. 
 
-- <font color='red'>Identification des phonèmes</font> : **100 ms** après début d'un stimulus auditif -> onde négative marqueur (?)  (<font color='red'>N1</font> en EEG et <font color='red'>M100</font> en magnétoencéphalographie).
+- <font color='red'>Identification des phonèmes</font> : **100 ms** après début d'un stimulus auditif -> onde négative marqueur (?)  (<font color='red'>N1</font> en [[EEG]] et <font color='red'>M100</font> en magnétoencéphalographie).
 	- Populations de neurones générant la <font color='red'>N1</font> sont positionnées:
 		- [[gyrus temporal supérieur||Gyrus temporal supérieur]]
 		- [[sillon temporal supérieur|Sillon temporal supérieur]] 
@@ -190,10 +190,10 @@ Etudes récentes : formes de l'ABR = spécifique pour chaque son de la langue.
 
 - <font color='red'>Identification des mots</font> : **200-300 ms**
 	- gyrus temporal supérieur, partie médiane
-	- Les règles régissant une langue sont majoritairement inconscientes. Cependant, elles rendent le phénomène langagier déterministe.
+	- Les règles régissant une langue sont majoritairement inconscientes. Cependant, elles rendent le phénomène langagier [[déterministe]].
 		- Des prédictions peuvent donc être effectuées et augmenter l'efficacité du traitement. 
 			- Recherche dans le lexique de mot = incrémental. Dès les premiers phonèmes du mot, des candidats sont sélectionnés et leur nombre diminue avec la perceptions des phonèmes successifs. 
-				- Plus des mots sont proches, plus la prise de décision est complexe et longue. 
+				- Plus des mots sont proches, plus la [[prise de décision]] est complexe et longue. 
 
 #### Processus d'identification lexico-sémantique
 
@@ -205,12 +205,12 @@ Etudes récentes : formes de l'ABR = spécifique pour chaque son de la langue.
 	- Partie postérieure du [[lobe temporal moyen]] (=surface externe, entre les sillons inférieurs et supérieurs), de manière bilatérale.
 		- Interface computationnelle assignant les représentations phonologique aux représentations conceptuelles. *(Similaire à des espaces latents alignés pour les IA génératives multimodales ? )*
 			- Etudes récentes : la base de donnée servant à cette tâche serait uniquement constitué de liens entre sons et concepts. 
-				- Ex: le mot "chat". Le son \ $\int$a\ ne donne pas d'information sur le concept du chat. Cependant, il existe une représentation conceptuelle du chat qui se trouverait dans des régions dédiées à la mémoire sémantique, dans la partie inférieure du lobe temporal. 
+				- Ex: le mot "chat". Le son \ $\int$a\ ne donne pas d'information sur le concept du chat. Cependant, il existe une représentation conceptuelle du chat qui se trouverait dans des régions dédiées à la [[mémoire sémantique]], dans la partie inférieure du [[lobe temporal]]. 
 				- la partie postérieure du gyrus temporal moyen se contente d'activer une connexion entre le son perçu et la représentation associée. 
 
 - En EEG on associe fortement les processus lexico-sémantiques avec la <font color='red'>N400</font> (magnétique : <font color='red'>M250-350</font>) , signaux apparaissant lors de la présentation de mots ou phrases dont la sémantique est absurde.  **400 ms après stimulus**.
 	- Amplitude dépendante de l'incohérence. 
-	- [[sillon temporal supérieur]], lobe temporal moyen (principalement gauche), [[hippocampe]] et [[cortex préfrontal]].
+	- [[sillon temporal supérieur]], [[lobe temporal moyen]] (principalement gauche), [[hippocampe]] et [[cortex préfrontal]].
 	- *ça ressemble pas mal à un signal d'erreur de prédiction*
 
 ## IV - Eléments de neurosciences développementales
