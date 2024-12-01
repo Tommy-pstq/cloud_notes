@@ -1,6 +1,6 @@
 ---
 aliases:
-  - décisions perceptives
+  - décisions [[perception|perceptives]]
 ---
 
 

@@ -21,7 +21,7 @@ HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrit
 	-> Investiguation des prévalences entre HQI & trouble mentionnés ci-dessus. (+lien entre sur-excitabilité intellectuel & ceux-ci.)
 
 #### Revue de littérature
-52 chercheurs en cognitions s'accordent sur une def de l'intelligence : "Une capacité plus large et plus profonde à comprendre son environnement"
+52 chercheurs en cognitions s'accordent sur une def de l'[[intelligence]] : "Une capacité plus large et plus profonde à comprendre son environnement"
 	-> permet la création artistique ou mène à la [[dépression]]. (et ?)
 
 Enfants HPI (6-11 ans) ont montrés des réactions émotives significativement plus marquées que ceux ayant un QI moyen.  (1-1) 
@@ -107,7 +107,7 @@ Troubles psy: évalués selon le DSM-IV. Donc gros changement pour le [[TSA]] li
 - Autre théorie (mentionné dans un podcast de Huberman sur le [[TDAH]]) :
 	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'[[activité]] environnementale. Permet la projection [[temporalité|temporelle]] dans le future et de réagir à nos jugements & expériences (1-4,5). 
 		- Normalement actif quand l'esprit divague sans but précis et s'arrête lorsque l'individu se focus sur une tâche. 
-			- Individus avec trouble de l'humeur ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
+			- Individus avec [[trouble de l'humeur]] ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
 - [[dépression]] & [[anxiété]] liés à des réponses inflammatoires majorées. 
 - Brain cytokine augmentation dans les cas de [[dépression]] (rats)
 - Mood/anxiety disorder impacte les réponses immunitaires.
@@ -121,10 +121,10 @@ Troubles psy: évalués selon le DSM-IV. Donc gros changement pour le [[TSA]] li
 
 -> Introduction de facteurs environnemental nouveau mid 80s.
 
-Lien avec l'étude: certains facteur environnementaux précis, couplés avec des prédispositions génétiques déclenchent des réactions inflammatoires/immunitaires chez certains individus. 
+Lien avec l'étude: certains facteur environnementaux précis, couplés avec des prédispositions [[génétique|génétiques]] déclenchent des réactions inflammatoires/immunitaires chez certains individus. 
 -> Pas encore de consensus sur les raisons précises de telles réactions.
 
-Etude : Peut être des composants génétiques du HQI entrainant une réponse physiologique importantes à certains éléments ("insults" dans le texte) résultant dans le développement d'un [[TSA]]. 
+Etude : Peut être des composants [[génétique|génétiques]] du HQI entrainant une réponse physiologique importantes à certains éléments ("insults" dans le texte) résultant dans le développement d'un [[TSA]]. 
 
 ### *Intense world theory* : la surexcitabilité dans le TSA
 
@@ -149,7 +149,7 @@ La [[régulation]] [[immunitaire]] est un équilibre entre réactions pro- et an
 Dans le cas d'individus présentant des OEs, y compris [[TSA|ASD]], cette [[régulation]] ne trouve pas d'équilibre et entraine des [[activité|activations]] inflammatoires chroniques.
 	-> On trouve dans des cerveaux de [[TSA]], au niveau des cellules astro[[gliales]] et microgliales, des conséquences de cette dysrégulations:
 		- Ces cellules sont plus grosses que la normales en réponses à des [[activité|activations]] chroniques en réponse à des influx des signaux pro-inflammatoires (2 études citées)
-- Les gènes impliqués dans cette dysrégulation semble s'activer en réponse à un antigène ou à un stade précoce du développement (1-3 ans).
+- Les [[génétique|gènes]] impliqués dans cette dysrégulation semble s'activer en réponse à un antigène ou à un stade précoce du développement (1-3 ans).
 
 	--> Pas mal d'éléments supplémentaires concernant la théorie autoimmune du [[TSA]]. Dont 1 citant un transfère mère -> enfant mâle expliquant la prévalence du [[TSA]] masculin. Sauf qu'on est vraiment sûr de ça ou c'est juste dû à la méconnaissance du [[TSA]] féminin ? 
 	
@@ -202,6 +202,6 @@ Cependant, ces études montrent en général un lien positif également entre in
 	3. Penney, A. M., Miedema, V. C., & Mazmanian, D. (2015). Intelligence and emotional disorders: Is the worrying and ruminating mind a more intelligent mind? Personality and Individual Differences, 74, 90–93. http://dx.doi.org/10.1016/j.paid.2014.10.005.
 	4. Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. Biological Psychiatry, 78, 224–230. http://dx.doi.org/10.1016/j.biopsych.2015.02.020. 
 	5. Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A [[default mode]] of brain function. Proceedings of the National Academy of Sciences of the United States of America, 98, 676–682. http://dx.doi.org/10.1073/pnas. 98.2.676.
-	6. Anticevic, A., Cole, M. W., Murray, J. D., Corlett, P. R., Wang, X. J., & Krystal, J. H. (2012). The role of default network deactivation in cognition and disease. Trends in Cognitive Sciences, 16, 584–592. http://dx.doi.org/10.1016/j.tics.2012.10.008.
+	6. Anticevic, A., Cole, M. W., Murray, J. D., Corlett, P. R., Wang, X. J., & Krystal, J. H. (2012). The role of default network deactivation in cognition and disease. Trends in [[cognition|cognitive]] Sciences, 16, 584–592. http://dx.doi.org/10.1016/j.tics.2012.10.008.
 	7. Velázquez, J. L., & Galán, R. F. (2013). Information gain in the brain's resting state: A new perspective on autism. Frontiers in Neuroinformatics, 7, 1–10. http://dx.doi.org/10.3389/fninf.2013.00037.
 	8. Vargas, D. L., Nascimbene, C., Krishnan, C., Zimmerman, A. W., & Pardo, C. A. (2005). Neuroglial [[activité|activation]] and neuroinflammation in the brain of patients with autism. Annals of Neurology, 57, 67–81. http://dx.doi.org/10.1002/ana.20315.

@@ -6,17 +6,17 @@ Tags:  [[TOC]] [[expérimentation animale]] [[sérotoninergique]] ([[SRI]]) [[st
 
 # Neurobiologie des Troubles Obsessionnels Compulsifs
 ### Abstract: 
-Décennies de recherche : le complexe cortico-striato-thalamo-cortical ([[CSTC]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement répétitifs/compulsifs. 
+Décennies de recherche : le complexe [[CSTC|cortico-striato-thalamo-cortical]] ([[CSTC]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement répétitifs/compulsifs. 
 [[expérimentation animale]] : permet des modifications [[génétique]] & chirurgie invasives *(pauvre bébous :( )* permettant des avancées majeures. 
 
 ### Intro:
-- Prévalence des TOC au cours de la vie : **1-3%** 
+- Prévalence des [[TOC]] au cours de la vie : **1-3%** 
 - Médication : Inhibiteurs de la capture de sérotonine ([[SRI]]). (40-60% de non réponse (1))
 - Procédures de derniers recours pour les cas les plus sévères, comme la stimulation cérébrales profondes : résultats mitigés (d'après (2), sur les "grosses" études environ 50-60% d'amélioration supérieure à 25%). 
 ### Cadre théorique pour les TOC
 
 - 25 ans d'imagerie: patterns d'[[activité]]s anormaux dans la boucle CSTC. 
-- Même temps: Fonctions des [[ganglions de la base]] : boucles fermées dédiées à des fonctions motrices ou cognitives discrètes (maths).  Apparition du modèle dichotomique de projections directes/indirectes des [[ganglions de la base]]. 
+- Même temps: Fonctions des [[ganglions de la base]] : boucles fermées dédiées à des fonctions motrices ou [[cognition|cognitives]] discrètes (maths).  Apparition du modèle dichotomique de projections directes/indirectes des [[ganglions de la base]]. 
 	- --> Hypothèse :  Une hyperactivité des boucles [[cortex orbito-frontal| orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'[[activité|activation]] excessive  du chemin direct, entraine des TOC.
 		* Article : affirme que c'est une simplification abusive des phénomène neurobiologique mais qui permet de mettre en place un cadre d'étude théorique. 
 	* Léger "soucis" : pas d'avancée ou argument réfutant cette théorie au cours des 20 dernières années, certainement dû à des considération éthique concernant les procédures invasives sur des patient humain.
@@ -32,7 +32,7 @@ Ces deux effets ont disparus après incorporation virale de SAPAP3 dans le [[str
 ### Perspectives
 - 30-40% des personnes [[TSA]] ont un diagnostique de [[TOC]]
 - Modèles animaux permettent de faire des parallèles, bien qu'incomplets ils sont très importants.
-- Particulièrement pour trouver identifier des gènes augmentant la sensibilité ou générant des TOC.
+- Particulièrement pour trouver identifier des [[génétique|gènes]] augmentant la sensibilité ou générant des TOC.
 ## Refs
 Principale (systematique)
 - Neurobiology of obsessive–compulsive disorder: insights into neural circuitry dysfunction through mouse genetics. Jonathan T Ting and Guoping Feng. Current Opinion in Neurobiology (2011). DOI 10.1016/j.conb.2011.04.0100

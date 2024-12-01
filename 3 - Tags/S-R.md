@@ -1,6 +1,6 @@
 ---
 aliases:
-  - stimulus-réponse
+  - [[stimulus]]-réponse
 ---
 
 

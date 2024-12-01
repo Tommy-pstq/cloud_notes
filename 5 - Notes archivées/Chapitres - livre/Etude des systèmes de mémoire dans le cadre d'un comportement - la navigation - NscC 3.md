@@ -76,7 +76,7 @@ Plus un chemin est utilisé, moins il demande de réflexion. S'il est indisponib
 
 Navigation = fonction [[cognition|cognitive]] complexe faisant appel à, en plus de la [[mémoire]], les fonctions suivantes:
 	- [[Attention]]
-	- Taitement multi-sensoriel
+	- Taitement multi-[[sensorialité|sensoriel]]
 	- Engagement active
 	- Flexibilté
 	- [[inhibition]]
@@ -92,7 +92,7 @@ Deux sources d'info [[sensorialité|sensorielles]]:
 Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant d'estimer sa position par rapport à une position initiale:
 - -> Intégration de trajet (homing vector)
 	- Implique:
-		- Info idiothétiques
+		- Info [[égocentrique|idiothétiques]]
 		- mouvement:
 			- [[système vestibulaire]]
 			- proprioceptif

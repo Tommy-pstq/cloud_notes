@@ -1,5 +1,5 @@
 ---
 aliases:
-  - speech perception
+  - speech [[perception]]
   - reconnaissance de la parole
 ---

@@ -258,7 +258,7 @@ Le traitement de l'espace n'est pas effectué de la même manière.
 	- Homme : Taux de testostérone (variations journalières mais aussi saisonnières).
 		- Taux de T bas = meilleures performances spatiales. 
 
-Préférence des hommes pour les stratégie allocentriques, plutôt [[égocentrique]], séquentielle & topo-kinésique pour les femmes. **Très grande variabilité de résultats** intra-sexe. 
+Préférence des hommes pour les stratégie [[allocentrique|allocentriques]], plutôt [[égocentrique]], séquentielle & topo-kinésique pour les femmes. **Très grande variabilité de résultats** intra-sexe. 
 
 ### VII - 6 Codage de la mémoire des trajets
 

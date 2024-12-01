@@ -8,8 +8,8 @@ Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] [[social]]
 
 D'après 1) (2017):
   Paradigmes préexistants : 
-	 -  "Top-down" -> [[fonctions supérieures]] altérées ([[théorie de la cohérence centrale]])  générant des particularités sensorielles.
-	- "Sensory first" -> particularités [[sensorialité|sensorielles]] entrainent des déficits dans les [[fonctions supérieures]]. (difficultés sensorielles rendent les situations [[social|sociales]] difficilement supportable, donc évitées donc fonction [[social|sociales]] impactées pendant le dev.)
+	 -  "Top-down" -> [[fonctions supérieures]] altérées ([[théorie de la cohérence centrale]])  générant des particularités [[sensorialité|sensorielles]].
+	- "Sensory first" -> particularités [[sensorialité|sensorielles]] entrainent des déficits dans les [[fonctions supérieures]]. (difficultés [[sensorialité|sensorielles]] rendent les situations [[social|sociales]] difficilement supportable, donc évitées donc fonction [[social|sociales]] impactées pendant le dev.)
 
 De plus, l'[[TSA|autisme]] est principalement considéré comme impactant et défini par des inaptitudes [[social|sociales]], avec sensorialité  altérée en "bonus" 
 

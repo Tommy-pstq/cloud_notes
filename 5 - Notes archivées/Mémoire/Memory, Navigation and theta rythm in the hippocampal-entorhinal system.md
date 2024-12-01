@@ -12,7 +12,7 @@ Tags: [[mémoire]] [[navigation]] [[hippocampe]]  [[expérimentation animale]]
 ### Intro
 
 Fonction de l'[[hippocampe]] ? 
-* Patient HM (lésion bilatérale de l'[[hippocampe]] suite chirurgie épilepsie) : amnésie antérograde.
+* Patient HM (lésion [[bilatérale]] de l'[[hippocampe]] suite chirurgie épilepsie) : amnésie antérograde.
 * Chez les rats : [[activité|activation]] en fonction de la position spatial.
 -> Les deux ne semblent, a priori pas vraiment corrélés. 
 Sauf si, hypothèse : **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les bases & [[mécanismes neuronaux|algorithmes neuronaux]] les supportant sont les mêmes.**
@@ -21,7 +21,7 @@ La [[navigation]] se base sur **2** méchanismes:
 - "Map-based" ou [[allocentrique]] : utilisation de points de repères extérieurs fixes. "Prendre à l'Est"
 - "Path-integration" ou [[égocentrique]]. Centré sur l'individu, le chemin à suivre est une suite d'action à effectuer du point de vue de l'individu. : 'Tourner à gauche'
 
-Ex de composants égocentriques : la vitesse de déplacement, le temps écoulé depuis le départ, la direction de la tête et la position initiale. 
+Ex de composants [[égocentrique|égocentriques]] : la vitesse de déplacement, le temps écoulé depuis le départ, la direction de la tête et la position initiale. 
 
 Ces deux mécanismes sont en permanence utilisés conjointement, en fonction de la disponibilité d'informations externes, l'un ou l'autre peut être favorisé. 
 
@@ -47,7 +47,7 @@ Encodage des coordonnées spatiales implique beaucoup de cellules différentes a
 - "[[place cells]]" dans l'[[hippocampe]] - [[activité|activation]] spécifique en fonction de l'environnement 
 - ''[[grid cells]]" dans le [[cortex entorhinal]] médian -[[activité]] continue dans tous types d'environnement (ACTE). 
 
-* [[cortex entorhinal]] médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur [[activité|activation]], les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances allocentriques + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
+* [[cortex entorhinal]] médian : "[[border cells]]", moins nombreuses (ACTE) : encode, via leur [[activité|activation]], les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances [[allocentrique|allocentriques]] + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 
 
 **[[grid cells]]** :
 	- Map la totalité de l'espace entourant l'individu, avec des patterns haxegonal périodique et fourni une métrique pour la représentation neuronale de l'espace.
@@ -129,12 +129,12 @@ Hypothèse des auteurs: ces deux caractéristiques du rappel mnésique s'expliqu
 à lire avant de s'atteler à cette partie : Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) (c'est fait. )
 
 Capacités mémorielles chez le rat & l'humain corrélées à la modulation des [[oscillations gamma|ondes gamma]] par les [[oscillations theta]]. 
-[[activité]] neuronale à multi-échelle [[temporalité|temporelle]] observable via le spiking de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
+[[activité]] neuronale à multi-échelle [[temporalité|temporelle]] observable via le [[spike|spiking]] de neurones de l'[[hippocampe]]: les [[place cells]] représentant la même position spatiale ou objet forme un [[assemblage]]
 durant un cycle [[gamma]]. 
 - [[assemblage]]: défini par les neurones dans lesquels se déchargent une population de neurones précédente ("defined by downstream readers") ; Si une population de neurones [[spike]] durant un intervale de temps inférieur à la[[ constante de temps]] de la membrane (10-30 ms), ces différents inputs sont considérés comme un événement unique par le [[neurone]] reader.
 - Les [[spike]]s d'autres neurones upstream en dehors de cet intervale seront attribués à d'autre assemblages et considérer conséquemment comme des événements séparés. 
 - la [[fenêtre d'assemblage]] (similarité avec [[fenêtre d'intégration temporelle]] ?) coïncides avec les constantes de temps des  [[récepteurs]] [[GABA]].a [[AMPA]] , dont les interactions génèrent le [[oscillations gamma|rythme gamma]] (14).  
-- Assemblages dans l'[[hippocampe]], durée de vie = 10-30ms --> 5-9 [[assemblage]], chacun contenu dans un cycle gamma, durant un cycle theta. 
+- Assemblages dans l'[[hippocampe]], durée de vie = 10-30ms --> 5-9 [[assemblage]], chacun contenu dans un cycle gamma, durant un [[oscillations theta|cycle theta]]. 
 
 --> Double fonctionnalité des [[oscillations theta|ondes theta]]:
 * Rassemble et lie des assemblages dans la fenêtre [[temporalité|temporelle]] permettant leur modulation par la [[plasticité synaptique]]
@@ -162,7 +162,7 @@ Le mécanisme de compression [[temporalité|temporelle]] des [[oscillations thet
 De plus: la fréquence des [[oscillations theta]] augmente avec la vitesse de déplacement, les mêmes cellules peuvent donc s'activer pour les mêmes références indépendamment de la vitesse de déplacement. 
 
 **Analogie avec la [[mémoire]]:** Si l'on considère des locations comme des items uniques à insérer dans un buffer mémoriel, le mécanisme de compression/expansion theta peut être utilisé de manière similaire:
-- Limitation du nombre d'items pouvant être stockés dans un cycle theta.
+- Limitation du nombre d'items pouvant être stockés dans un [[oscillations theta|cycle theta]].
 	- Limitation de la quantité d'information pouvant être stockée/accédée à un moment donné 
 * Zoom: détails précis autour d'un événement donnés, mais les liens reliant deux éléments éloignés [[temporalité|temporellement]] sont plus éparses.
 * Plus le contenu d'un rappel mémoriel avance dans le temps, plus la quantité d'information (résolution contextuelle) disponible augmente pour les événements suivant.
@@ -171,7 +171,7 @@ De plus: la fréquence des [[oscillations theta]] augmente avec la vitesse de d�
 
 En plus de créer un contexte autour d'une situation donnée, le mécanisme d'oscillations thêta pourrait aider à créer des liens entre des événements [[temporalité|temporellement]] distants. 
 
-Ex: Chez le rat, les assemblages représentant l'environnement actuels sont parfois remplacés par des assemblages complètement différent au sein d'un même cycle theta. Comme si l'individu avait fait un bref saut mental dans un autre environnement.  
+Ex: Chez le rat, les assemblages représentant l'environnement actuels sont parfois remplacés par des assemblages complètement différent au sein d'un même [[oscillations theta|cycle theta]]. Comme si l'individu avait fait un bref saut mental dans un autre environnement.  
 Ces "sauts mentaux" sont fréquents lorsque le rat est "téléporté" (changement de pattern d'illumination) entre différents environnements. 
 
 Dans les cas de tâches mémorielles, lorsque des choix critiques sont à effectuer, on observe des séquences représentant des longue distances. (16,17)

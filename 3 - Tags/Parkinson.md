@@ -1,5 +1,5 @@
 - Pertes neurales focales des neurones dopaminergiques. 
 	- Troubles principalement liés au mouvement (tremblement & initiation de mouvement)
-	- Altération dans l'apprentissage fondé sur la récompense
-	- Déficit spécifique dans la prise de décision lié au risque
+	- Altération dans l'[[apprentissage]] fondé sur la récompense
+	- Déficit spécifique dans la [[prise de décision]] lié au risque
 	- Décision impulsives pathologiques (parfois en lien avec les TTT dopaminergiques)

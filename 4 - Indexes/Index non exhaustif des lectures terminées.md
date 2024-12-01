@@ -1,6 +1,6 @@
 
-*Dernier update: 25/11/2024*
-![[Pasted image 20241125210214.png]]
+*Dernier update: 01/12/2024*
+![[Pasted image 20241201171557.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
@@ -17,9 +17,9 @@
 	- [x] Le cerveau, le mouvement et les espace *11-2024*
 	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation *11-2024*
 	- [x] Décision et action *11-2024*
-	- [ ] Neurolinguistique
+	- [x] Neurolinguistique
 	- [ ] Conscience et métacognition
-	- [ ] Cognition sociale
+	- [ ] Cognition [[social|sociale]]
 	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 
@@ -40,7 +40,7 @@
 
 - Internally generated cell assembly sequences in the rat hippocampus. Pastalkova, E., Itskov, V., Amarasingham, A. & Buzsáki, G.  Science 321, 1322–1327 (2008). 10-2024
 
-- [x] The cascading influence of multisensory processing on speech perception in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 *10-2024* 
+- [x] The cascading influence of multisensory processing on [[reconnaissance vocale|speech perception]] in autism. Stevenson, Segers, 2017. DOI:10.1177/1362361317704413 *10-2024* 
 
 - [x] Neuronal oscillations in cortical networks. Buzsáki, G. & Draguhn, A.  Science 304, 1926–1929 (2004) DOI:10.1126/science.1099745 10-2024
 

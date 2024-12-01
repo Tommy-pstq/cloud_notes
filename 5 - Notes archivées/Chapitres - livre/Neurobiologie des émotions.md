@@ -8,9 +8,9 @@ Tags:  [[émotion]] [[génétique]] [[empathie]] [[conscience]]
 #### Emotions : nature ou culture ? 
 historiquement, débat si tout est prédéfini ou [[déterministe]].
 Aujourd'hui : 
-	- **Il existe des bases génétiques qui sont modulables et modulées par l'environnement**. 
-	- Méthylation d'un gène --> expression diminuée
-		- Ex: [[récepteurs]] glucocorticoïdes, principalement sur l'[[hippocampe]], sensible au cortisol (produit dans des glandes surrénales), un gène code pour leur quantité. L'expression de ce gène peut être modifiée de manière épigénétique ([[attention]] maternelle chez des rats).
+	- **Il existe des bases [[génétique|génétiques]] qui sont modulables et modulées par l'environnement**. 
+	- Méthylation d'un [[génétique|gène]] --> expression diminuée
+		- Ex: [[récepteurs]] glucocorticoïdes, principalement sur l'[[hippocampe]], sensible au cortisol (produit dans des glandes surrénales), un [[génétique|gène]] code pour leur quantité. L'expression de ce [[génétique|gène]] peut être modifiée de manière épigénétique ([[attention]] maternelle chez des rats).
 	
 #### Emotions, corps et [[sentiments]]
 - [[sentiments]]s = Prise de [[conscience]] de sensation physique liées à une [[émotion]]
@@ -22,7 +22,7 @@ Aujourd'hui :
 #### Emotions, un chaos empêchant l'objectivité ?
 
 - Les émotions modulent la [[perception]]s [[sensorialité|sensorielle]]
-	- L'[[amygdale]] projette une sorte d'[[attention]] de survie sur les aires sensorielle de sorte à amplifier les éléments considérer comme dangereux.
+	- L'[[amygdale]] projette une sorte d'[[attention]] de survie sur les aires [[sensorialité|sensorielle]] de sorte à amplifier les éléments considérer comme dangereux.
 		- Ces projections sont altérés en cas troubles [[anxiété|anxieux]] ou dépressif, entrainant un focus sur des éléments négatifs, créant ainsi un cercle vicieux. 
 -  Les émotions influent sur l'[[apprentissage]]. Courbe en "U" : trop d'émotions = morts de cellules neuronales et trauma (Ex PTSD de viols ou la victime se souvient uniquement des yeux de sont agresseur) altérant la [[mémoire]]. Pas assez d'[[émotion]] = mise en [[mémoire]] quasi nulle (trajet quotidien au travail)
 --> On ne perçoit le monde que par le prisme de notre sensorialité, la réalité reconstruite est ainsi modulée par de nombreux éléments dont nos émotions. 

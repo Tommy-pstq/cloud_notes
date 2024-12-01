@@ -5,7 +5,7 @@ Status: 2007
 
 # Self-projection and the brain
 
-Se projeter dans le futur = prospection 
+Se projeter dans le futur = [[prospection]] 
 
 ## Abstract
 De plus en plus de données suggèrent que:
@@ -111,7 +111,7 @@ l'[[activité]] du [[default mode]] est similaire à celle observé dans des [[a
 Petit passage sur des rats ([[expérimentation animale]]) non lue. 
 ## Refs
 Init :
-- Buckner RL, Carroll DC. Self-projection and the brain. Trends Cogn Sci. 2007 Feb;11(2):49-57. doi: 10.1016/j.tics.2006.11.004. Epub 2006 Dec 22. PMID: 17188554.
+- Buckner RL, Carroll DC. [[projection de soi|self-projection]] and the brain. Trends Cogn Sci. 2007 Feb;11(2):49-57. doi: 10.1016/j.tics.2006.11.004. Epub 2006 Dec 22. PMID: 17188554.
 
 1. D’Argembeau, A. and Van der Linden, M. (2004) Phenomenal characteristics associated with projecting oneself back into the past and forward into the future: influence of valence and temporal distance. Conscious. Cogn. 13, 844–858 
 2. Mesulam, M.M. (2002) The human [[frontal]] lobes: transcending the [[default mode]] through contingent encoding. In Principles of [[frontal]] Lobe Function (Stuss, D.T. and Knight, R.T., eds), pp. 8–30, Oxford University Press

@@ -31,9 +31,9 @@ Décision économiques = comparaison de valeurs:
 
 ### II - 2  Les [[décision perceptive|décisions perceptives]]
 
-Concerne principalement les signaux sensoriels ambiguës.
-1. Traités par les cortex sensoriels
-2. Traités par les cortex [[association|associatifs]] (Ex: [[cortex pariétal]] : intégration des différentes informations sensorielles)
+Concerne principalement les signaux [[sensorialité|sensoriels]] ambiguës.
+1. Traités par les cortex [[sensorialité|sensoriels]]
+2. Traités par les cortex [[association|associatifs]] (Ex: [[cortex pariétal]] : intégration des différentes informations [[sensorialité|sensorielles]])
 3. [[Décision perceptive]] : Choix d'une hypothèse sur l'état estimé du monde. 
 
 Ex : Cube de Necker. 

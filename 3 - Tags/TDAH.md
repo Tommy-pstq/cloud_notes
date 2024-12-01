@@ -3,10 +3,10 @@ aliases:
   - ADHD
   - TDA
   - ADD
-  - trouble de l'attention
-  - troubles de l'attention
-  - trouble attentionnel
-  - troubles attentionnels
+  - trouble de l'[[attention]]
+  - troubles de l'[[attention]]
+  - trouble [[attention|attentionnel]]
+  - troubles [[attention|attentionnels]]
 ---
 - Niveaux de [[dopamine]] trop faible.
-- Problèmes de [[motivation]], concentration, mémoire, impulsivité, sur-stimulation
+- Problèmes de [[motivation]], concentration, [[mémoire]], impulsivité, sur-stimulation

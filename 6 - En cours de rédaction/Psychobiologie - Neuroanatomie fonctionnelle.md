@@ -13,7 +13,7 @@ Grande variabilité de taille/architecture
 - Corps cellulaire (grands) ~ 100µm diam.
 - Axones & dendrites ~ 10µm diam.
 - [[synapses|Synapse]] ~ 1µm diam
-- Fente synaptique ~ 20nm
+- Fente [[synapses|synaptique]] ~ 20nm
 - [[Membrane neuronale]] ~ 5nm
 - Canal ionique ~ 0.5 nm
 

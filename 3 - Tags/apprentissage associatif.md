@@ -1,6 +1,6 @@
 ---
 aliases:
-  - apprentissages associatif
-  - apprentissages associatifs
+  - apprentissages [[association|associatif]]
+  - apprentissages [[association|associatifs]]
 ---
 [[apprentissage]]

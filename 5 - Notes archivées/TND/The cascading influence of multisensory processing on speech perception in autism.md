@@ -22,7 +22,7 @@ Tags: [[perception]] [[mutlisens]] [[TSA]] [[social]]
 
 --> *Hypothèse du papier*: 
 	traitement multisensoriel dégradé 
-		-> intégration sensorielle moindre 
+		-> intégration [[sensorialité|sensorielle]] moindre 
 			-> dégradation de la [[perception]] audio-visuelle de la parole en population [[TSA]].
 
 Cohorte : 76 enfants, 38 [[TSA]] / 38 TD
@@ -50,7 +50,7 @@ Focus sur la [[perception]] de parole. || [[reconnaissance vocale]]
 - TD  =  317 +/- 189 ms
 -> Pas de diff significative lors de la mesure de FIT à partir de flash/bip.
 
-**[[perception]] de phonème** :
+**[[perception]] de [[phonème]]** :
 *(p = null hypothesis rejection, F= ratio inter/intra variances, $\eta$ = taille d'effet (0.01 : small, 0.06:merdium, 0.14:large))*
 
 - [[TSA|ASD]] performent moins bien  en moyenne sur toutes les modalité (p=0.008, F=7.47, partial-$\eta$² =0.09)

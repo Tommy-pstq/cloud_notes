@@ -1,5 +1,5 @@
 ---
 aliases:
-  - capacité cognitive
+  - capacité [[cognition|cognitive]]
 ---
 [[cognition]]

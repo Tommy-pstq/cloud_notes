@@ -11,7 +11,7 @@ Recent studies : [[TSA|ASD]] corrélé avec haut QI. --> Etude du lien entre QI 
 Etude de cohorte : 360k individus - avec QI , 309k sans. 193 -> 162K pères. ; nés entre 1984 & 2008.
 
 Diags issus de centre régionaux & nationaux de santé. 
-- QI les plus faibles (50-69) : études familiales suggères qu'ils sont expliqués par des gènes communs à la population générales.
+- QI les plus faibles (50-69) : études familiales suggères qu'ils sont expliqués par des [[génétique|gènes]] communs à la population générales.
 - [[TSA|ASD]] + ID : hérites de plus de gènes associés à des capacité [[cognition|cognitives]] que leurs paires familiaux.
 	- -> diff ID pour pop générale que pour [[TSA|ASD]] ? pas étudié dans l'article
 
@@ -43,8 +43,8 @@ Domaine prépondérant dans les chances d'avoir un enfant [[TSA|ASD]] : compréh
 
 ## Discussions:
 
-- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> Association [[génétique]] ET phénotypique entre intelligence & [[TSA|ASD]].
-- [[TDAH|ADHD]] chances - avec QIp : confirme l'association inverse [[génétique]] entre [[TDAH|ADHD]] & capacité [[cognition|cognitives]]. Etudes récentes. 
+- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> Association [[génétique]] ET phénotypique entre [[intelligence]] & [[TSA|ASD]].
+- [[TDAH|ADHD]] chances - avec QIp : confirme l'[[association]] inverse [[génétique]] entre [[TDAH|ADHD]] & capacité [[cognition|cognitives]]. Etudes récentes. 
 
 ## Refs
 
@@ -53,4 +53,4 @@ Domaine prépondérant dans les chances d'avoir un enfant [[TSA|ASD]] : compréh
 		- Crespi BJ. Autism as a disorder of high intelligence. Front Neurosci. 2016;10:300.
 		- Folstein SE, Santangelo SL, Gilman SE, et al. Predictors of [[cognition|cognitive]] test patterns in autism families. J Child Psychol Psychiatry. 1999;40:1117-1128.
 		- Fombonne E, Bolton P, Prior J, Jordan H, Rutter M. A family study of autism: [[cognition|cognitive]] patterns and levels in parents and siblings. J Child Psychol Psychiatry. 1997;38:667-683.
-		- Gizzonio V, Avanzini P, Fabbri-Destro M, Campi C, Rizzolatti G. Cognitive abilities in siblings of children with autism spectrum disorders. Exp Brain Res. 2014;232: 2381-2390.
+		- Gizzonio V, Avanzini P, Fabbri-Destro M, Campi C, Rizzolatti G. [[cognition|cognitive]] abilities in siblings of children with autism spectrum disorders. Exp Brain Res. 2014;232: 2381-2390.

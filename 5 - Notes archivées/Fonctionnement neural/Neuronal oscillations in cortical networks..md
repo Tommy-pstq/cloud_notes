@@ -23,7 +23,7 @@ Sclap EEG en phase d'éveil montrent des variation de faible amplitudes & désyn
 
 Bandes de fréquence **voisines** dans un même réseau neuronal = marqueurs d'états mentaux différents, sont exclusives ("compete with each other"). Cependant, différents rythmes peuvent êtres observés en même temps et interagir entre eux intra & inter-structures.
 
-Densité de puissance des signaux EEG = F(1/f)
+Densité de puissance des signaux [[EEG]] = F(1/f)
 --> basses fréquences modules les hautes fréquences. 
 <-- résultat de l'architecture des réseaux neuronaux, de la vitesse de [[communication]] limitée ainsi que de la conduction [[synapses|synaptique]] (2004, à moduler post lecture de papiers sur l'importance (potentiellement surévalué) des constantes de temps).
 
@@ -85,7 +85,7 @@ Les oscillations sont une caractéristique intrinsèque des systèmes à l'équi
 
 #### Représentation par information de phase
 
-Le spiking des neurones dans un système oscillant est sous l'influence de (8):
+Le [[spike|spiking]] des neurones dans un système oscillant est sous l'influence de (8):
 
 *  Input externes - un input faible entrainera un input tardif par rapport à un input puissant entrainent une [[dépolarisation]] plus forte, rapprochant plus fortement le [[potentiel membranaire]] de son seuil et donc une [[activité|activation]] en avance de phase. 
 
@@ -102,7 +102,7 @@ Exemple de la première expérimentation permettant de conclure sur l'utilisatio
 	- Déplacement du timing des [[spike|spikes]] de cette cellule, plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'[[oscillations theta|onde Theta]].
 				- ![[Pasted image 20241029113942.png]]
 
---> La position future des places fields peut être prédite à partir d'une seule séquence de spiking dans un [[oscillations theta|cycle theta]].
+--> La position future des places fields peut être prédite à partir d'une seule séquence de [[spike|spiking]] dans un [[oscillations theta|cycle theta]].
 
 
 ## Refs

@@ -15,7 +15,7 @@ Comme vu dans [[Self-projection and the brain]] : un même circuit neuronal semb
 
 La tâche de rappel mémoriel semble impliquer les mécanismes de [[projection de soi]] et construction de scène. Particulièrement lorsque que l'on considère la théorie de la [[conscience]] autonoétique:
 - La [[mémoire déclarative]] se baserait sur deux systèmes correspondant à des états de [[conscience]] distinct : [[noétique]] et autonoétique. 
-	- La conscience [[noétique]] inclue le rappel de faits et de connaissance et supporte la [[mémoire sémantique]] 
+	- La [[conscience]] [[noétique]] inclue le rappel de faits et de connaissance et supporte la [[mémoire sémantique]] 
 	- La conscience autonoétique supporte le rappel d'[[association|associations]] subjectives et de contextes, ou [[mémoire épisodique]].
 	- *On est sur des concepts très proches de l'[[allocentrique|allocentrisme]] et [[égocentrique|égocentrisme]]*
 
@@ -32,7 +32,7 @@ S'imaginer dans le future, ou la [[prospection]], joue un rôle clé dans la [[p
 
 La simulation de futurs possible permet d'éviter les résultats négatifs et maximiser ceux présentant des aspects positifs. 
 Simulation de futurs possible & rappel : deux mécanismes reposant sur des [[circuit neuronaux|circuits neuronaux]] très similaires. 
-Le rappel épisodique  & les tâches de prospection déclinent de manière similaire avec l'âge.
+Le rappel épisodique  & les tâches de [[prospection]] déclinent de manière similaire avec l'âge.
 
 #### Navigation 
 
@@ -43,7 +43,7 @@ Ces mécanisme impliquent probablement une projection du "mind's eye" vers une a
 
 Une [[navigation]] [[social|sociale]] réussie implique de posséder une [[théorie de l'esprit]]: une compréhension que le comportement des autres est motivés par des états internes comme les pensées, émotions et croyances. 
 Comprendre l'autre implique, en partie, de s'approprier sa perspective pour prédire ses actions et réactions. 
-Les études sur la [[Théorie de l'esprit|ToM]] convergent globalement vers l'idée que la [[projection de soi]] est un aspect important de la mentalisation rendue possible grâce à la simulation de l'état d'esprit de l'autre autre du moi. *([[Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome|Papier]] sur l'absence de [[théorie de l'esprit]] spontanée en pop TSA montre que ce n'est pas absolument nécessaire et que cette mentalisation peut être effectuée d'une autre manière, notamment à travers des procédés de [[raisonnement|raisonnements]] conscients)* 
+Les études sur la [[Théorie de l'esprit|ToM]] convergent globalement vers l'idée que la [[projection de soi]] est un aspect important de la mentalisation rendue possible grâce à la simulation de l'état d'esprit de l'autre autre du moi. *([[Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome|Papier]] sur l'absence de [[théorie de l'esprit]] spontanée en pop [[TSA]] montre que ce n'est pas absolument nécessaire et que cette mentalisation peut être effectuée d'une autre manière, notamment à travers des procédés de [[raisonnement|raisonnements]] conscients)* 
 
 #### Mode par défaut
 
@@ -86,7 +86,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 - Overlap direct avec le gyrus parahippocampale gauche
 - Tous sauf le [[default mode|mode par défaut]]: [[hippocampe]] gauche. 
 - Mémoire autobiographique : montre des clusters plus étendus côté gauche que les autres tâches. 
-- Navigation : [[activité|activation]] bilatérale, extension postérieure supérieure à la mémoire autobiographique. 
+- Navigation : [[activité|activation]] [[bilatérale]], extension postérieure supérieure à la mémoire autobiographique. 
 - Prospection : [[parahippocampe]] & hippocampe en bilatéral. 
 
 #### Régions pariétales médianes
@@ -111,7 +111,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 
 #### Lobe temporal latéral
 
-- mémoire autobio + [[Théorie de l'esprit|ToM]] + default mode : lobe temporaux latéraux bilatéraux ([[BA21]] et [[BA22]]). Prospection : unilatéral gauche. 
+- mémoire autobio + [[Théorie de l'esprit|ToM]] + default mode : lobe temporaux latéraux [[bilatérale|bilatéraux]] ([[BA21]] et [[BA22]]). Prospection : unilatéral gauche. 
 
 
 ### Discussions
@@ -146,7 +146,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 		- Pas mal de théories/sujets de recherche argumentent en la faveur d'un lien entre processus narratif & et [[cognition]] [[social|sociale]]
 			- 2005 (Xu, Kemeny, Park, Braun) : observation de ce réseau et hypothèse qu'il représente l'intégration système motivationnel dorso-médian avec le système ventro-latéral dédié au langage et à la caractérisation. 
 
-Par conséquent, un réseau central permettant la simulation de temporalité/espace différents, du points de vu d'autrui, pourrait également être impliqué dans la narration.
+Par conséquent, un réseau central permettant la simulation de [[temporalité]]/espace différents, du points de vu d'autrui, pourrait également être impliqué dans la narration.
 
 - Composante [[évolution|évolutive]] pour les liens fonctionnels entre mémoire autobiographique & [[Théorie de l'esprit|ToM]]. (*que des études pré 2000 de citées*)
 	- Arguments selon lesquels la pression [[social|sociale]] aurait influencé les processus [[évolution|évolutifs]].
