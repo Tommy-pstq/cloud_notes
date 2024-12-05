@@ -190,7 +190,7 @@ Cependant, ces études montrent en général un lien positif également entre in
 	- -> Les corrélations entre intelligence & troubles mentaux trouvées ici ne tiennent pas compte des individus présentant des difficultés plus légères. 
 	- Des pathologies sévères peuvent masquer les vraies compétences intellectuelles.
 	- -> Ces études pourraient sous évaluer les compétences de certains individus dont la "gifted" intelligence serait non détectée.
-* Enfin : Beaucoup d'études entre intelligence & santé se basent sur des critères d'évaluation génériques : pression sanguine, hypertension, cardiologie, cancers, habitude de sommeil, nombre de visite chez un docteur, niveaux d'énergie. Dans le cas de l'étude actuelle il y a un focus sur la PNI (psychoneuroimmunologie), ce qui ne peut pas être comparé aux précédents éléments.
+* Enfin : Beaucoup d'études entre intelligence & santé se basent sur des critères d'évaluation génériques : pression sanguine, hypertension, cardiologie, cancers, habitude de [[sommeil]], nombre de visite chez un docteur, niveaux d'énergie. Dans le cas de l'étude actuelle il y a un focus sur la PNI (psychoneuroimmunologie), ce qui ne peut pas être comparé aux précédents éléments.
 * Certaines études se basent sur le niveau académique plutôt que des scores de QI : pas viable car passe à côté de potentiellement beaucoup d'individus très/sur-doués mais ayant, volontairement ou à cause d'autres troubles, choisi d'autres voies.
 * D'autres études trouvent des conslusions similaire à celle-ci en divisant les individus HQI entre ceux présentant des compétences verbales ou s'orientant vers des domaines artistiques et les autres.
 

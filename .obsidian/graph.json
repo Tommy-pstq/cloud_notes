@@ -39,7 +39,7 @@
       "query": "path:\"6 - En cours de rédaction\"  ",
       "color": {
         "a": 1,
-        "rgb": 10770081
+        "rgb": 14662110
       }
     },
     {
@@ -55,9 +55,16 @@
         "a": 1,
         "rgb": 1710663
       }
+    },
+    {
+      "query": "path:\"5 - Notes archivées/Vidéos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -67,6 +74,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.16807218240818825,
+  "scale": 0.23563432532818532,
   "close": false
 }

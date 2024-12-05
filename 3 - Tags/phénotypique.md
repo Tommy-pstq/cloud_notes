@@ -1,0 +1,6 @@
+---
+aliases:
+  - phénotypiques
+  - phénotype
+  - phénotypes
+---

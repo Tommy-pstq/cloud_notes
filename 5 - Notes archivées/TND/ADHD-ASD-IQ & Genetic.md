@@ -10,9 +10,15 @@ Tags:
  - [[TSA|ASD]] = 18k sujets, 28k contrôles. Sous population d'une cohorte comprenant tous les enfants nés au Danemark entre 1981  & fin 2005.
  - [[intelligence]] = 269k sujets. Cumule de plusieurs cohortes.
  
- **_Results:_** Our results showed that intelligence has a positive and negative genetic correlation with [[TSA|ASD]] and [[TDAH|ADHD]], respectively, including three hub genomic regions showing correlated genetic effects across the three traits. Polygenic overlap analysis indicated that all the risk variants contributing to [[TDAH|ADHD]] are overlapped with half of those for intelligence, and the majority of the shared variants have opposite effect directions between them. The majority of risk variants (80%) of [[TSA|ASD]] are overlapped with almost all the risk variants of intelligence (97%). Notably, some [[TSA|ASD]]/intelligence overlapping variants displayed opposing effects on these two conditions. MR analysis showed that the genetic liability to higher intelligence was associated with an increased risk for [[TSA|ASD]] (OR = 1.12) and a decreased risk for [[TDAH|ADHD]] (OR = 0.78) (**masquage [[TDAH]] par [[capacités cognitives|capacité cognitive]] ++ ?**). Cross-trait meta-analyses identified 170 pleiotropic genomic loci across the three traits, including 12 novel loci. Functional analyses of the novel genes support their potential involvement in neurodevelopment.
-  
- **_Conclusion:_** Our results suggest that [[TDAH|ADHD]] is associated with inheriting a reduced set of low-intelligence alleles, whereas [[TSA|ASD]] results from incongruous effects from a mixture of high-intelligence and low-intelligence contributing alleles summed up with additional, [[TSA|ASD]]-specific risk variants not associated with intelligence. 
+
+*traductions perso*
+
+**Résultats**
+Nos résultats montrent que l'[[intelligence]] à une corrélation positive avec le [[TDAH]] et négative avec le [[TSA]], avec implication de trois hub génomiques corrélés avec les trois traits. Une analyse de superposition polygénique a montré que tous les facteurs de risques contribuant au [[TDAH]] se superposent avec la moitié de ceux corrélés à l'[[intelligence]], la majorité des variant communs ayant des effets opposés entre ces deux traits. 
+80% des des facteurs de risques du [[TSA]] se superposent avec la quasi-totalité de ceux liés à l'[[intelligence]] (97%). Certains variants communs semble produire des effets opposés sur ces deux traits. Selon l'analyse MR, les [[génétique|gènes]] impliqués dans un niveau d'intelligence supérieur sont associés avec une chance plus élevée de [[TSA]] (OR=1.12) et une chance plus faible pour le [[TDAH]] (OR=0.78) *(Masque du TDAH par des capacités cognitives plus importantes ?)*. 
+
+**Conclusion**
+Nos résultats suggèrent que le TDAH est associé avec l'héritage d'une sous-partie d'[[génétique|allèles]] liés à une faible intelligence. Le [[TSA]] résulte quant à lui d'effet incongrus entre [[génétique|allèles]] codant pour une intelligence faible ou élevée et [[génétique|allèles]] spécifiques au TSA sans lien avec le niveau d'intelligence.
 
 ## Ref
 

@@ -194,13 +194,13 @@ Si valeur subjective = distribution interne de probabilité
 
 #### La [[dopamine]]
 
-OFC permet de mémoriser des [[association|associations]] stim-recompense.
+OFC permet de mémoriser des [[association|associations]] stimulus-recompense.
 	-> De quelle partie du cerveau provient l'info sur la valeur de la récompense ?
 	
 Réseau de fibres venant de tronc cérébral (medial forebrain bundle ([[MFB]])) transmet de la [[dopamine]] jusque dans l'OFC.
 
 **Signale** & **quantifie** la récompense, ainsi que sa **probabilité d'occurrence**, ainsi que sa **pertinence de mémorisation $^*$ ***.
-- $*$ Si une association stim-recompense est déjà bien connue : pas besoin de la renforcer d'avantage au niveau neural. 
+- $*$ Si une association stimulus-recompense est déjà bien connue : pas besoin de la renforcer d'avantage au niveau neural. 
 	- -> Il n'est pertinent d'envoyer des signaux de renforcement au [[cortex préfrontal]] uniquement lors de l'obtention d'une nouvelle récompense. 
 	- Le niveau de surprise lié à un récompense est à prendre en compte dans tout signal de renforcement. 
 
@@ -344,7 +344,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 
 #### Troubles du comportement et de la prise de décision
 
-Addiction & compulsions : ce qui affecte le plus la prise de décision. 
+[[Addiction]] & compulsions : ce qui affecte le plus la prise de décision. 
 
 1. Dépendances: **probablement** causées par un dérèglement fronto-striatal (potentiellement dopaminergique).
 2.  [[TOC|Troubles Obsessionnels Compulsif]] : exécution d'action répétitives et fonctionnelles principalement effectuées pour soulager la détresse induite par des pensées intrusives (obsessions)

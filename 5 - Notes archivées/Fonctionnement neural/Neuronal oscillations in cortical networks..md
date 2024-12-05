@@ -79,7 +79,7 @@ Les oscillations sont une caractéristique intrinsèque des systèmes à l'équi
 
 - Etat par défaut du cerveau endormis = système complexe présentant une [[association]] complexe d'oscillation auto-générées. - particulièrement dans le système [[système thalamo-cortical]] -
 - Ces oscillations contiennent des [[spike|spikes]] représentant les [[activité|activités]] effectuées plus tôt dans la journée.
---> Replay durant le sommeil, [[consolidation]] des modifications structurales des [[synapses]].
+--> Replay durant le [[sommeil]], [[consolidation]] des modifications structurales des [[synapses]].
 
 - (7) : Le sommeil permet la restructuration de nouvelle représentations mémorielles, facilitant l'abstraction de connaissances explicites. 
 

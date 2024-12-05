@@ -1,6 +1,6 @@
 
-*Dernier update: 01/12/2024*
-![[Pasted image 20241201171557.png]]
+*Dernier update: 05/12/2024*
+![[Pasted image 20241205192116.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*

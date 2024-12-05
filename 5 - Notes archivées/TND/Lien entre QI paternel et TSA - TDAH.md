@@ -5,19 +5,19 @@ Tags:
 
 # Lien entre QI paternel et TSA - [[TDAH]]
 
-Recent studies : [[TSA|ASD]] corrélé avec haut QI. --> Etude du lien entre QI paternel & [[TSA|ASD]] chances (pourquoi paternel ? --> conscription des hommes = test de QI
-		-> logique, comprehension verbale, abilité spatiale, compréhension technique)
+Etude récente : [[TSA|ASD]] corrélé avec haut QI. --> Etude du lien entre QI paternel & [[TSA|ASD]] chances (pourquoi paternel ? --> conscription des hommes = test de QI
+		-> logique, compréhension verbale, habilité spatiale, compréhension technique)
 
 Etude de cohorte : 360k individus - avec QI , 309k sans. 193 -> 162K pères. ; nés entre 1984 & 2008.
 
 Diags issus de centre régionaux & nationaux de santé. 
 - QI les plus faibles (50-69) : études familiales suggères qu'ils sont expliqués par des [[génétique|gènes]] communs à la population générales.
-- [[TSA|ASD]] + ID : hérites de plus de gènes associés à des capacité [[cognition|cognitives]] que leurs paires familiaux.
+- [[TSA|ASD]] + ID : hérites de plus de [[génétique|gènes]] associés à des capacité [[cognition|cognitives]] que leurs paires familiaux.
 	- -> diff ID pour pop générale que pour [[TSA|ASD]] ? pas étudié dans l'article
 
 ![[{87EB1281-61A8-4922-940D-BF83AC3203AE}.png]]
 
-#### Results:
+#### Résultats:
 
 *Ligne pointillés : résultats non ajustés. Ligne pleine : ajustée avec sex, date de naissance, ordre de naissance, caractéristiques familiales* 
 
@@ -43,7 +43,7 @@ Domaine prépondérant dans les chances d'avoir un enfant [[TSA|ASD]] : compréh
 
 ## Discussions:
 
-- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> Association [[génétique]] ET phénotypique entre [[intelligence]] & [[TSA|ASD]].
+- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> [[association]] [[génétique]] ET [[phénotypique]] entre [[intelligence]] & [[TSA|ASD]].
 - [[TDAH|ADHD]] chances - avec QIp : confirme l'[[association]] inverse [[génétique]] entre [[TDAH|ADHD]] & capacité [[cognition|cognitives]]. Etudes récentes. 
 
 ## Refs

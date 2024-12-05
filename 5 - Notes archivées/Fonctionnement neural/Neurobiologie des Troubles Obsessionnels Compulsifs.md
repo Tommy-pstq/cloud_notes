@@ -11,7 +11,7 @@ Décennies de recherche : le complexe [[CSTC|cortico-striato-thalamo-cortical]] 
 
 ### Intro:
 - Prévalence des [[TOC]] au cours de la vie : **1-3%** 
-- Médication : Inhibiteurs de la capture de sérotonine ([[SRI]]). (40-60% de non réponse (1))
+- Médication : Inhibiteurs de la capture de [[sérotonine]] ([[SRI]]). (40-60% de non réponse (1))
 - Procédures de derniers recours pour les cas les plus sévères, comme la stimulation cérébrales profondes : résultats mitigés (d'après (2), sur les "grosses" études environ 50-60% d'amélioration supérieure à 25%). 
 ### Cadre théorique pour les TOC
 
