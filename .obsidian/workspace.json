@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3f06c5263286f82",
+            "id": "6b0ef60d63e9e645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Index non exhaustif des lectures terminées.md",
+                "file": "6 - En cours de rédaction/Conscience et métacognition - NscC 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index non exhaustif des lectures terminées"
+              "title": "Conscience et métacognition - NscC 6"
             }
           }
         ]
@@ -163,77 +163,40 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "floating": {
-    "id": "686a5dbd21773560",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8f5eea265fc4d29d",
-        "type": "window",
-        "children": [
-          {
-            "id": "34af23d5cee06978",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f3d1310d645c539c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vidéo - Sommeil"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2188,
-        "y": 13,
-        "width": 1517,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d3f06c5263286f82",
+  "active": "6b0ef60d63e9e645",
   "lastOpenFiles": [
-    "2 - Source Materials/Pasted image 20241205192116.png",
-    "5 - Notes archivées/Chapitres - livre/Cerveau, le mouvement et les espaces - NscC 2.md",
-    "3 - Tags/association.md",
-    "5 - Notes archivées/Chapitres - livre/Décision et action - NscC 4.md",
-    "3 - Tags/cortex orbito-frontal.md",
-    "3 - Tags/noyaux accumbens.md",
-    "3 - Tags/NMDA.md",
-    "3 - Tags/méditation.md",
-    "5 - Notes archivées/TND/Lien entre QI paternel et TSA - TDAH.md",
     "3 - Tags/phénotypique.md",
-    "5 - Notes archivées/TND/ADHD-ASD-IQ & Genetic.md",
+    "3 - Tags/noyaux accumbens.md",
+    "3 - Tags/noradénaline.md",
+    "2 - Source Materials/Pasted image 20241206153120.png",
+    "3 - Tags/lobe pariétal.md",
+    "3 - Tags/lobe frontal.md",
+    "3 - Tags/lobe temporal.md",
+    "6 - En cours de rédaction/Conscience et métacognition - NscC 6.md",
+    "5 - Notes archivées/Chapitres - livre/Décision et action - NscC 4.md",
+    "5 - Notes archivées/Chapitres - livre/Neurolinguistique - NscC 5.md",
+    "3 - Tags/conscience.md",
+    "2 - Source Materials/467471666_593321676438658_3791146320466470473_n.jpg",
+    "4 - Indexes/Index non exhaustif des lectures terminées.md",
+    "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
     "5 - Notes archivées/Vidéos/Video -  Porn addiction.md",
     "5 - Notes archivées/Vidéos",
-    "5 - Notes archivées/Untitled.md",
-    "3 - Tags/Ocytocine.md",
-    "3 - Tags/addiction.md",
-    "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
-    "3 - Tags/hypothalamus.md",
+    "3 - Tags/méditation.md",
     "3 - Tags/insomnie.md",
-    "3 - Tags/noradénaline.md",
-    "3 - Tags/sérotonine.md",
+    "3 - Tags/hypothalamus.md",
     "3 - Tags/fatigue.md",
-    "3 - Tags/sommeil.md",
-    "3 - Tags/somnolence.md",
-    "PDF/Vidéo - Sommeil.pdf",
-    "6 - En cours de rédaction/Vidéo - Sommeil (Major Mouvement).md",
-    "4 - Indexes/Index non exhaustif des lectures terminées.md",
+    "3 - Tags/addiction.md",
     "3 - Tags/Thérapie cognitivo- comportementale.md",
+    "3 - Tags/Ocytocine.md",
+    "3 - Tags/NMDA.md",
+    "2 - Source Materials/Pasted image 20241205192116.png",
+    "2 - Source Materials/Pasted image 20241128224237.png",
+    "3 - Tags/émotion.md",
+    "5 - Notes archivées/TND/High intelligence -  A risk factor for psychological and physiological overexcitabilities.md",
     "2 - Source Materials/Pasted image 20241201171557.png",
+    "3 - Tags/phonème.md",
+    "5 - Notes archivées/TND/The cascading influence of multisensory processing on speech perception in autism.md",
+    "3 - Tags/gènes.md",
     "2 - Source Materials/Pasted image 20241201170628.png",
     "2 - Source Materials/Pasted image 20241201134709.png",
     "2 - Source Materials/Pasted image 20241201134645.png",
@@ -243,13 +206,10 @@
     "doi.org/10.1016",
     "doi.org",
     "Untitled.canvas",
-    "2 - Source Materials/Pasted image 20241124200047.png",
-    "2 - Source Materials/Pasted image 20241122174032.png",
-    "2 - Source Materials/Pasted image 20241121180858.png",
-    "2 - Source Materials/Pasted image 20241121152303.png",
     "doi.org/10.3389",
     "PDF/Discussions TCA avec Marie.pdf",
     "5 - Notes archivées/Shorts - Discussions",
+    "5 - Notes archivées/Untitled",
     "5 - Notes archivées/Chapitres - livre",
     "Untitled"
   ]

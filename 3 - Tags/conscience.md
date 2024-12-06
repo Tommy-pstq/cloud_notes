@@ -5,3 +5,19 @@ aliases:
   - Conscient
   - Explicite
 ---
+- **Conscience**:
+	- **Etat de conscience**
+		- Distinction entre l'état d'éveil, différentes phases du sommeil, anesthésie
+		- Coma, état d'éveil non répondant, état de conscience minimale
+	- **Accès conscient**
+		- Prendre conscience <font color='red'>de</font> quelque chose. 
+	- **Conscience de soi** : une expérience à la première personne. 
+		- **Conscience réflective** 
+			- Introspection / métacognition 
+			- Détecter et corriger nos erreurs
+			- Collecte d'information lors du doute
+		- **Volonté consciente** 
+			- Processus liés aux actions et décisions volontaires 
+			- Sensation d'être l'auteur de ces actions et prise de décision
+	- **Conscience phénoménale**
+		- Cela "fait quelque chose" d'être conscient, *qualia*

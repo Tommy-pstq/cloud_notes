@@ -232,7 +232,7 @@ Langage:
 		- partie postérieur du [[lobe temporal]] supérieur gauche ([[sillon temporal supérieur||STS]], [[gyrus temporal supérieur||MTS]] et [[gyrus temporal moyen||MTG]] )
 		- plusieurs petites sous-régions du [[gyrus frontal inférieur]] (aire de Broca) 
 	- Difficile de séparer, à ce niveau, les processus d'interprétation sémantique de ceux d'analyse syntaxique : utilisation de pseudo mots.
-		- Seules les régions postérieures du lobe temporal gauche ([[sillon temporal supérieur|STS]]) et inféro-frontal gauche ([[gyrus frontal inférieur|IFG]]) sont activées. 
+		- Seules les régions postérieures du [[lobe temporal]] gauche ([[sillon temporal supérieur|STS]]) et inféro-frontal gauche ([[gyrus frontal inférieur|IFG]]) sont activées. 
 
 - Signaux EEG associés à l'analyse syntaxique:
 	- ELAN/LAN (Early -/- Left Anterior Negativity)
@@ -255,7 +255,7 @@ Majoritairement latéralisé à gauche.
 #### Processus de production du langage - Voie dorsale
 
 - Structures neurales dorsales :
-	- Lobes frontaux et temporaux de l'hémisphère gauche
+	- [[lobe frontal|Lobes frontaux]] et [[lobe temporal|lobes temporaux]] de l'hémisphère gauche
 	- Signal électrique -> contrôle moteur pour production acoustique
 
 - Préparation conceptuelle -> production motrice : 600ms. 

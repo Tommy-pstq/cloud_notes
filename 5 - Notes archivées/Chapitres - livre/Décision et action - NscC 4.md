@@ -327,7 +327,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 #### [[Alzheimer]] et démence fronto-temporale 
 
 - Alzheimer : pertes neurales des structures sous corticales (ex: hippocampe)
-- Démence fronto-temporale: pertes neurales des lobes frontaux & temporaux 
+- Démence fronto-temporale: pertes neurales des [[lobe frontal|lobes frontaux]] & [[lobe temporal|lobes temporaux]] 
 
 -> Déficits dans diverses fonctions [[cognition|cognitives]] comme:
 	- La mémoire

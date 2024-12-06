@@ -38,7 +38,7 @@ Les 4 processus cherchant à être reliés dans l'étude sont de bons candidats 
 
 ## Mécanismes cérébraux
 
-### Contribution du lobe frontal dans la simulation.
+### Contribution du [[lobe frontal]] dans la simulation.
  Lésions --> 
 * Incapacité à la [[planification]]
 * Structurer [[temporalité|temporellement]] des événements
@@ -74,7 +74,7 @@ Lésions -->
 Patient amnésique suit à une anoxie :  Incapable de faire de prévisions sur son [[activité]] future mais capable de retenir des éléments sémantique concernant le future. 
 
 Etudes plus récentes d'imagerie:
-- Recollection impliquent l'[[activité|activation]] de l'[[hippocampe]] & régions corticales médiales & latérale du lobe pariétal. 
+- Recollection impliquent l'[[activité|activation]] de l'[[hippocampe]] & régions corticales médiales & latérale du [[lobe pariétal]]. 
 	- Hypothèse : Ces régions sont des composants étendus du système temporo-pariétal médian utilisé dans les fonctions mémorielles. 
 	- --> Ces mêmes régions s'activent en cas de [[théorie de l'esprit|ToM]].
 
