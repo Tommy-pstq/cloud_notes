@@ -1,0 +1,7 @@
+- Prise de conscience = étape tardive et optionnelle du traitement cérébral d'un stimulus.
+		- Mise en commun des informations sensorielles au sein d'un plus vaste réseau incluant les aires supra-modales permettant:
+			- Le maintien prolongée de l'information  
+			- La mémorisation explicite 
+			- La verbalisation
+			- La réaction motrice
+			- L'intégrer à la planification.

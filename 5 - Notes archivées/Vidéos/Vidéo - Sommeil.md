@@ -315,7 +315,7 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 - Important d'avoir un sommeil de qualité AVANT la tâche (examen, compétition etc.)
 	- Ne pas arriver en dette de sommeil
 		- Diminue le stress
-		- Permet la métacognition
+		- Permet la [[métacognition]]
 			- Réfléchir à l'action pendant l'action
 			- Penser à ce que l'on pense. 
 			- Annihilée par le stress

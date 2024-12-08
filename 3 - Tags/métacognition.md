@@ -1,0 +1,1 @@
+La [[métacognition]] concerne les processus et représentations mentales qui ont pour objet d'autres processus ou représentations mentales.
