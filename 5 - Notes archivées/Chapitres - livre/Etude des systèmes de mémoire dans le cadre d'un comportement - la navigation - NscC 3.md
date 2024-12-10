@@ -67,20 +67,20 @@ Naviguer, se déplacer = fonction essentielles pour bcp d'être vivants.
 	
 -> [[fonctions cognitives|fonction cognitive]]  étudiable chez de nombreux êtres vivants
 
-Processus mentaux du navigateur:
-- Où suis-je ?
-- Quelle est la direction à prendre ?
-- Comment faire pour y aller le plus rapidement possible ?
+- Processus mentaux du navigateur:
+	- Où suis-je ?
+	- Quelle est la direction à prendre ?
+	- Comment faire pour y aller le plus rapidement possible ?
 
 Plus un chemin est utilisé, moins il demande de réflexion. S'il est indisponible, un temps de réflexion est nécessaire pour décider du nouvel itinéraire.
 
-Navigation = fonction [[cognition|cognitive]] complexe faisant appel à, en plus de la [[mémoire]], les fonctions suivantes:
+Navigation = [[fonctions cognitives|fonction cognitive]] complexe faisant appel à, en plus de la [[mémoire]], les fonctions suivantes:
 	- [[Attention]]
-	- Taitement multi-[[sensorialité|sensoriel]]
-	- Engagement active
-	- Flexibilté
+	- Traitement multi-[[sensorialité|sensoriel]]
+	- Engagement actif
+	- Flexibilité
 	- [[inhibition]]
-	- Contrôle moteur
+	- [[contrôle moteur]]
 	- [[Apprentissage]] & mémoires 
 
 ## IV L'information multisensorielle
@@ -114,21 +114,22 @@ Sens du mouvement : nos déplacements engendrent des infos dynamiques permettant
 - Certaine tâche de [[navigation]] (indicée) peuvent être résolue sans utilisation de stratégie [[allocentrique]] ou [[égocentrique]] mais simplement de manière procédurale. Découvert via modèle computationnel et validé par l'[[expérimentation animale]]. 
 
  **Des systèmes de mémoires distincts sont impliqués dans les deux types de [[navigation]]**:
-	1. Système de [[mémoire déclarative]], associé au système hippocampique et à un encodage des informations selon un mode de traitement S-S 
-	2. Système de [[mémoire procédurale]] associé au système striatal et à un mode de traitement de des informations de type [[S-R|stimulus-réponse]]. [[S-R]].
-		- Important de dissocier deux régions du [[striatum]] dorsal:
-			- [[noyau caudé|striatum dorso-médian]] : [[apprentissage associatif|apprentissages associatifs]]. ([[noyau caudé|DMS]] ou [[noyau caudé]])
-				- nécessaire pour l'[[association]] du but avec un comportement approprié.
-				- idée computationnelle: [[noyau caudé|DMS]] impliquée dans la représentation de l'ensemble de la séquence de mouvements nécessaire pour atteindre le but.
-			- [[putamen|striatum dorso-latéral]] : aspect sensori-moteurs ([[putamen|DLS]] ou [[putamen]])
+ 
+1. Système de [[mémoire déclarative]], associé au système hippocampique et à un encodage des informations selon un mode de traitement S-S 
+2. Système de [[mémoire procédurale]] associé au système striatal et à un mode de traitement de des informations de type [[S-R|stimulus-réponse]]. [[S-R]].
+	- Important de dissocier deux régions du [[striatum]] dorsal:
+		- [[noyau caudé|striatum dorso-médian]] : [[apprentissage associatif|apprentissages associatifs]]. ([[noyau caudé|DMS]] ou [[noyau caudé]])
+			- nécessaire pour l'[[association]] du but avec un comportement approprié.
+			- idée computationnelle: [[noyau caudé|DMS]] impliquée dans la représentation de l'ensemble de la séquence de mouvements nécessaire pour atteindre le but.
+		- [[putamen|striatum dorso-latéral]] : aspect sensori-moteurs ([[putamen|DLS]] ou [[putamen]])
 
 **Rôle du [[cervelet]]**
-- Connu pour son rôle de control moteur, est aussi impliqué dans les [[apprentissage associatif|apprentissages associatifs]] : conditionnement de fermeture de la paupière via optimisation de la réponse motrice (*On se souvient du système de boucle fermé entre régions corticales et [[cervelet]] dans le bouquin de neuro-anat).* 
-- Rongeurs avec lésions: implication du [[cervelet]] dans l'aspect procédural de la navigation. 
+- Connu pour son rôle de [[contrôle moteur]], est aussi impliqué dans les [[apprentissage associatif|apprentissages associatifs]]:  conditionnement de fermeture de la paupière via optimisation de la réponse motrice (*On se souvient du système de boucle fermé entre régions corticales et [[cervelet]] dans le bouquin de neuro-anat).* 
+- Rongeurs avec lésions: implication du [[cervelet]] dans l'aspect procédural de la [[navigation]]. 
 - Plus tard: [[Cervelet]] permet d'optimiser une trajectoire. 
-2008, chez l'humain :
-	- rôle sensori-moteur du [[cervelet antérieur]], rôle [[cognition|cognitif]] et [[émotion|émotionnel]] du [[cervelet postérieur]] 
 
+- 2008, chez l'humain :
+	- rôle sensori-moteur du [[cervelet antérieur]], rôle [[cognition|cognitif]] et [[émotion|émotionnel]] du [[cervelet postérieur]] 
 
 ##### *à nouveau pas mal d'infos qui sont dans la note sur le papier de Buszaki, principalement des parallèles entre mémoire déclarative et stratégies navigation*
 *tags pour la cohérence du graph : [[head direction cells]], [[border cells]], [[grid cells]], [[place cells]] [[cortex entorhinal]] * 
@@ -142,7 +143,6 @@ Réalité virtuelle + IRMf :
 
 
 **[[apprentissage]] = réorganisation du réseau neuronal**
-
 
 
 ## Refs

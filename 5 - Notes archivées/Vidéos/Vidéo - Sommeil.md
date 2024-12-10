@@ -45,7 +45,7 @@ Repos d'une durée inférieure au besoin (à partir de <font color='red'>20 minu
 - **Augmentation du risque de maladies graves**:
 	- cardiovasculaires (8ème facteur)
 	- [[cognition|cognitifs]] : <font color='red'>apparition de marqueurs similaires à la maladie d'Alzheimer</font>.
-		- Le sommeil permet l'[[activité|activation]] du système lymphatique et son équivalent cérébral qui vient nettoyer les cellules et espaces inter-cellulaires.
+		- Le [[sommeil]] permet l'[[activité|activation]] du système lymphatique et son équivalent cérébral qui vient nettoyer les cellules et espaces inter-cellulaires.
 	- immunitaires
 - Impact sur le métabolisme (prise/perte de poids)
 
@@ -213,7 +213,7 @@ Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'
 2. **Régularité des horaires** : L’organisme fonctionne mieux avec un rythme stable, très bénéfique pour l'horloge interne.
 
 3. **Écouter son corps** : Aller se coucher quand on a envie = présence des signaux de fatigue.
-	- Signaux présent qu'en cas de détente/absence de stress, activité calme et permettant de s'écouter vers l'heure du coucher. 
+	- Signaux présent qu'en cas de détente/absence de [[stress]], activité calme et permettant de s'écouter vers l'heure du coucher. 
 	- Pours ceux qui n'ont pas ces signaux/n'arrivent pas à se coucher tôt:
 		- Dédramatiser, accepter, s'apaiser. sans écran.
 			- sortir de la chambre
@@ -314,11 +314,11 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 
 - Important d'avoir un sommeil de qualité AVANT la tâche (examen, compétition etc.)
 	- Ne pas arriver en dette de sommeil
-		- Diminue le stress
+		- Diminue le [[stress]]
 		- Permet la [[métacognition]]
 			- Réfléchir à l'action pendant l'action
 			- Penser à ce que l'on pense. 
-			- Annihilée par le stress
+			- Annihilée par le [[stress]]
 
 
 ---- 

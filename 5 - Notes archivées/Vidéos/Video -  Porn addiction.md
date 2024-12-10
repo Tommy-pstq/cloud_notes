@@ -47,7 +47,7 @@ Dopamine:
 
 Emotions primitives, ex: [[anxiété]]/peur/tristesse.
 
-- Anxiété/stress + procréation potentielle ?
+- Anxiété/[[stress]] + procréation potentielle ?
 	- moins de [[stress]]
 	"Sex override everything"
 

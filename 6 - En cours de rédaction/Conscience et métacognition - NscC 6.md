@@ -16,7 +16,7 @@ Louise Goupile, Claire Sergent
 
 - **Conscience**:
 	- **Etat de conscience**
-		- Distinction entre l'état d'éveil, différentes phases du sommeil, anesthésie
+		- Distinction entre l'état d'éveil, différentes phases du [[sommeil]], anesthésie
 		- Coma, état d'éveil non répondant, état de conscience minimale
 	- **Accès [[conscience|conscient]]**
 		- Prendre conscience <font color='red'>de</font> quelque chose. 
@@ -129,7 +129,7 @@ Protocole permettant de comparer le déroulement temporel des traitements consci
 
 Cependant : <font color='red'>pas de consensus</font> sur les mécanismes neuronaux propres à la prise de conscience. Opposition entre deux grand types d'option théorique:
 	1. Espace de travail conscient et <u>modèles d'ordres supérieurs</u>  : la prise de conscience est un phénomène tardif impliquant une communication entre aires sensorielles et fonctionnelles de plus haut niveau. 
-	2. <u>Modèles sensoriels</u> : récurrences locales ou théorie de l'information intégrée : la prise de conscience est liée à une communication en différentes aires sensorielles sans association nécessaire avec des fonctions cognitives plus abstraites.
+	2. <u>Modèles sensoriels</u> : récurrences locales ou théorie de l'information intégrée : la prise de conscience est liée à une communication en différentes aires sensorielles sans association nécessaire avec des [[fonctions cognitives]] plus abstraites.
 		- La prise de conscience se ferait donc entre 100 et 200 ms après le stimuli, quand une communication récurrente se mets en place entre les aires primaires et les suivante.
 
 Certains résultats, comme ceux montrés ci avant favorisent les premiers modèles. Cependant, d'autres expériences, notamment celles impliquant l'utilisation de visages masqués entrainant des activations différentes dès 100ms post stimulus en cas de reconnaissance déclarée. Ces résultats corroborent la seconde théorie. 
