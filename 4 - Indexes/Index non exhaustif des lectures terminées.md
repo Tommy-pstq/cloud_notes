@@ -1,6 +1,6 @@
 
-*Dernier update: 05/12/2024*
-![[Pasted image 20241205192116.png]]
+*Dernier update: 15/12/2024*
+![[Pasted image 20241215185455.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
@@ -12,18 +12,18 @@
 - Où est le sens, Stephan Bohler. *2022*
 - Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) *09-2024*
 
-- [ ] Neurosciences [[cognition|cognitives]] (De boeck) *10-2024*:  
+- [ ] Neurosciences cognitives (De boeck) *10-2024*:  
 	- [x] Perception et attention *11-2024*
 	- [x] Le cerveau, le mouvement et les espace *11-2024*
 	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation *11-2024*
 	- [x] Décision et action *11-2024*
 	- [x] Neurolinguistique
-	- [ ] Conscience et métacognition
-	- [ ] Cognition [[social|sociale]]
+	- [x] Conscience et métacognition
+	- [ ] Cognition sociale
 	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 
-- [x] [[Neurobiologie des émotions]], 2022, Catherine Belzung *10-2024* 
+- [x] Neurobiologie des émotions, 2022, Catherine Belzung *10-2024* 
 
 ## Articles
 - [x] Sensory [[perception]] in autism - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - *09-2024* 
