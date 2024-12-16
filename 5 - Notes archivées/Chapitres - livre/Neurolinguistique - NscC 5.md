@@ -145,7 +145,7 @@ Aphasies primaires progressives (neuro degen):
 - Morh, 1976-8 : rôle de la partie postérieur du gyrus frontale (aire de Broca):
 	- Après quelques mois, aucun des patients ne présentait les signes cliniques d'une aphasie de Broca (apraxie (manque de [[contrôle moteur]] fin) du langage).
 		- -> La seule lésion de l'air de Broca ne produit pas de déficit à long terme.
-	- Autre études sur des patients présentant des signes cliniques plusieurs mois post AVC d'une [[aphasie]] de Broca : d'autres régions adjacentes à l'artère cérébrale moyenne étaient touchées (insula, gyri pré- post-centraux)
+	- Autre études sur des patients présentant des signes cliniques plusieurs mois post AVC d'une [[aphasie]] de Broca : d'autres régions adjacentes à l'artère cérébrale moyenne étaient touchées ([[insula]], gyri pré- post-centraux)
 
 - Shapiro & Caramazza, 2000 : Deux patients pouvant conjuguer les verbes mais pas accorder les noms & inversement. 
 	1. Soit il existe un système d'accord/conjugaison spécifique pour les noms/verbes.

@@ -65,7 +65,7 @@ Focus sur la [[perception]] de parole. || [[reconnaissance vocale]]
 ![[Pasted image 20241102171843.png]]
 
 TSA  : 
-- corrélation négative significative entre  FIT & intégration des stimuli sociaux audiovisuels. FIT (-) --> int. [[social]] AV. (+)
+- corrélation négative significative entre  FIT & intégration des [[stimulus social|stimuli sociaux]] audiovisuels. FIT (-) --> int. [[social]] AV. (+)
 - Speech in noise: corrélé avec int. [[social]] AV.
 
 --> Régression hiérarchique pour prédire le score de speech-in-noise. 

@@ -109,7 +109,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 
 - mémoire autobiographique + [[Théorie de l'esprit|ToM]] + default mode : [[cortex préfrontal médian]] 
 
-#### Lobe temporal latéral
+#### [[Lobe temporal latéral]]
 
 - mémoire autobio + [[Théorie de l'esprit|ToM]] + default mode : lobe temporaux latéraux [[bilatérale|bilatéraux]] ([[BA21]] et [[BA22]]). Prospection : unilatéral gauche. 
 

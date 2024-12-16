@@ -186,7 +186,7 @@ La [[métacognition]] concerne les processus et représentations mentales qui on
 		- Ajustable aux réponses métacognitives
 				- Soit : Ajout d'un second critère
 				- Soit : Confiance estimée à partir de la distance entre le critère et les distributions internes de [[stimulus|stimuli]].
-			- Permet de mieux comprendre comment certains facteurs (vieillissement, troubles psychiatriques, lésions cérébrales) impactent la métacognition. 
+			- Permet de mieux comprendre comment certains facteurs (vieillissement, [[troubles psychiatriques]], lésions cérébrales) impactent la métacognition. 
 
 
 #### Détection d'erreurs

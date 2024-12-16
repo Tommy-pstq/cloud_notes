@@ -340,7 +340,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 
 ### V - 3 Maladies psychiatriques 
 
-*Troubles de la motivation & prise de décision observés dans tous le spectre psychiatrique, "le tableau est loin d'être clair"* 
+*Troubles de la motivation & prise de décision observés dans tous le spectre [[troubles psychiatriques|psychiatrique]], "le tableau est loin d'être clair"* 
 
 #### Troubles du comportement et de la prise de décision
 

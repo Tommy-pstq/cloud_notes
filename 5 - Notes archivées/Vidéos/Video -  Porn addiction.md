@@ -54,7 +54,7 @@ Emotions primitives, ex: [[anxiété]]/peur/tristesse.
 - Observé en population addicte à la PG: manque de contrôle [[émotion|émotionnel]].
 
 - <u>"Emotions dormantes"</u>
-	- Quand le système limbique + [[amygdale]] sont désactivés, les émotions négatives évitées ne sont pas supprimées mais stockées et s'accumulent.
+	- Quand le [[système limbique]] + [[amygdale]] sont désactivés, les émotions négatives évitées ne sont pas supprimées mais stockées et s'accumulent.
 		- Utilisation de l'alcool/weed/porno/JV/etc. pour fuir des problèmes -> les émotions refoulées doivent être inhiber en permanence:
 			- "Si on a esprit est libre, toute la merde ressort"
 		- Faut faire le ménage pour diminuer ce phénomène. 

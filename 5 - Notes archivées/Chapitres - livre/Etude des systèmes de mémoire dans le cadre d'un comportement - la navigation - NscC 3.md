@@ -52,7 +52,7 @@ Tags:
 	* Des souvenirs personnels
 	* Mémoire du "quoi, où & quand"
 	* Contexte peut également être associé à une [[émotion]]
-- [[mémoire perceptive]] ou [[mémoire sensorielle]].
+- [[mémoire perceptive]] ou mémoire sensorielle.
 	- Mémoire de nos sens
 	- En interaction avec la [[mémoire]] épisodique & sémantique
 	- Peut être le déclencheur pour le rappel de souvenirs

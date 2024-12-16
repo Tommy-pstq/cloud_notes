@@ -143,7 +143,7 @@ Autistic animals : pas de déficit des fonctions inhibitrices mais trop de conne
 Dr. Michael J. Goldberg (chercheur & pédiatre) a suggéré : 
 - Ce que l'on appelle "[[TSA|autisme]]" aujourd'hui n'est pas la même chose que ce qui a été défini en 1943 par Kanner. 
 - Cela correspond plutôt à un Syndrome de dysfonction neuro-immune (NIDS). 
-	- -> Classification médicale pour les troubles ou maladies qui ont des impacts psychiatrique ou développementaux causé par une atteinte neuro-immune, affectant les [[fonctions cognitives]] et corporelles. Certains individus, de par leur profil [[génétique]] y sont plus sensibles. (1-8)
+	- -> Classification médicale pour les troubles ou maladies qui ont des impacts [[troubles psychiatriques|psychiatrique]] ou développementaux causé par une atteinte neuro-immune, affectant les [[fonctions cognitives]] et corporelles. Certains individus, de par leur profil [[génétique]] y sont plus sensibles. (1-8)
 
 La [[régulation]] [[immunitaire]] est un équilibre entre réactions pro- et anti-inflammatoires. Idéalement nulles en absence d'inflammation, intense lorsque nécessaire et retournant à un état de repos rapidement.   
 Dans le cas d'individus présentant des OEs, y compris [[TSA|ASD]], cette [[régulation]] ne trouve pas d'équilibre et entraine des [[activité|activations]] inflammatoires chroniques.
