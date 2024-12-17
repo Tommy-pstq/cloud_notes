@@ -110,7 +110,52 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 #### --- 
 --> Le traitement des émotions n'est pas absolu mais est influencé par notre état interne, le contexte, nos a priori.
 
-### La distinction entre soi et autrui.
+## La distinction entre soi et autrui.
+
+- Principaux mécanismes sous-jacents de la perception de soi
+- Ce qui permet de se distinguer des autres 
+	- Plasiticité de cette distinction
+- Mécanismes influençant notre perception d'autrui (perspective, empathie)
+
+### Perception de soi et distinction soi - autrui
+
+- Semble trivial mais : <u>distinction automatique et intuitive des limites du corps</u>.
+	- Cette perception peut être altérée
+		- Psychopathologies : schizophrénie, anorexie
+		- Lésions aires temporo-pariétales de l'hémisphère droit
+			- Apparition de Somatoparaphrénie contra-lésionnelle
+					- Sensation de non appartenance des parties (ici) gauche du corps 
+					- Attribution de membre à d'autres personnes (docteur ou proche par exemple)
+
+<u>Qu'est-ce que le soi ?</u> 
+- Construction multidimensionnelle s'appuyant sur un réseau d'aires cérébrales distribué.
+	- Englobe des représentations de soi & d'autre personnes 
+	- Repose principalement sur **l'hémisphère droit**, ensemble de zones interconnectées permettant l'expérience subjective du **soi**:
+		- préfrontales
+		- temporales postérieures
+		- pariétales inférieures 
+	- Vision du soi : repose largement sur le concept de représentation en le soi et les autres
+		- Notion phénoménologique : le soi ne peut être conceptualisé indépendamment de la conceptualisation des autres. 
 
 
+<u>Théorie des neurones miroirs</u>: la perception et la compréhension d'autrui se fait via le [[système miroir]].
+- Primates non humain : cortex prémoteur et lobe pariétal inférieur. 
+- Humain : pas démontré.
+	- Mais : activité dans des zones cérébrales similaires lors de l'acte moteur ou de l'observation. 
+		- Zones cérébrales et traitements computationnels similaires lors de la représentation de sa propre action et des actions des autres.
+		- De même lors de l'évaluation des traits et du raisonnement de l'état mental d'autrui.
+
+<u>Biais de perception lié à l'expérience</u>: 
+- Action:
+	- Lors de l'observation d'un mouvement, nos expériences passées influence notre jugement. 
+		- Au niveau de la prédiction de sa conséquence, ainsi que de son appréciation
+			- Ex: Un joueur pro prédit bien mieux un tir qu'un néophyte 
+	- Apprentissage de nouveaux mouvements corporels:
+		- Modifie l'activité cérébrale & les réponses physiologiques (électrodermales et activité muscles fasciaux) lorsque ce mouvement est effectué par autrui. 
+			- -> L'expérience acquise avec le mouvement observé modifie l'activation des aires prémotrices et pariétales : plus l'observateur à acquis d'expérience, plus elles sont activées. *(l'individu dispose d'un espace latent plus "dense" ou "étendu" pour représenter ce qu'iel observe puisqu'il l'a travaillé)*
+
+<u>Chevauchement entre représentation de soi et autrui</u>
+- Psychologie sociale & développementale:
+	- On considère d'abord l'autre comme un autre-soi
+		- Mode par défaut de l'esprit humain : prendre le soi comme référence pour interpréter les actions et émotions d'autrui
 ## Refs
