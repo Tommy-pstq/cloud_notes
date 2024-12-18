@@ -1,0 +1,5 @@
+---
+aliases:
+  - coopérations
+  - coopérer
+---

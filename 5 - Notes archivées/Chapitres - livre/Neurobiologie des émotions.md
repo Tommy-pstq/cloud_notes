@@ -28,7 +28,7 @@ Aujourd'hui :
 --> On ne perçoit le monde que par le prisme de notre sensorialité, la réalité reconstruite est ainsi modulée par de nombreux éléments dont nos émotions. 
 
 #### Empathie
-La coopération intra et inter espèce est extrêmement répandue dans la "nature", mais est-ce que tous les animaux sont capables "d'[[empathie]]" ? 
+La [[coopération]] intra et inter espèce est extrêmement répandue dans la "nature", mais est-ce que tous les animaux sont capables "d'[[empathie]]" ? 
 - On peut distinguer 3 types d'[[empathie]] différente:
 	- 1) Contagion [[émotion|émotionnelle]]
 		- Baillements contagieux, bébé pleurant à la chaine. On parle ici de [[synchronicité|synchronisation]] corporelle (représentation interne de son propre corps mimant un autre individu) sans nécessité de [[conscience]]. Ex: je pleure car l'autre pleure, donc il a du chagrin. Car je ressens du chagrin par mes pleurs.

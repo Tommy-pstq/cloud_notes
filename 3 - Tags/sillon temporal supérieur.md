@@ -8,3 +8,5 @@ aliases:
 	- Traitement des émotions 
 	- Regard 
 Non impliqué dans l'identification du visage, se basant sur des traits non variables.
+
+- Augmentation de l'activité lors d'erreur de prédiction dans des tâches coopératives

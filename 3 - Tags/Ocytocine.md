@@ -1,0 +1,4 @@
+- Relations sociales
+- [[noyaux accumbens|noyau accumbens]] -> récompenses sociales
+- Hypothèse en psychologie du développement et psychopathologie 
+	- Serait responsable des atypicalités les plus fondamentales liées au [[TSA]] 

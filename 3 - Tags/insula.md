@@ -1,0 +1,1 @@
+- Distinction entre représentation de soi et autrui

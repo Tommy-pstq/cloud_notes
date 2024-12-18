@@ -1,0 +1,2 @@
+- Activé lors de la trahison 
+- 

@@ -1,0 +1,1 @@
+- Considérer que le choix de la majorité des membres du groupe [[social]] constitue la meilleure option

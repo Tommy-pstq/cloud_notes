@@ -1,0 +1,1 @@
+- Modulation de l'activité de l'[[insula]] si le participant reçoit des récompenses perçues comme plus ou moins équitables

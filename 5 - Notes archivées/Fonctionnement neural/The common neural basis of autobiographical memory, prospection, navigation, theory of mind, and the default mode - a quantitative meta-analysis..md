@@ -154,7 +154,7 @@ Par conséquent, un réseau central permettant la simulation de [[temporalité]]
 	-  Un composant [[évolution|évolutif]] probable permettant ces phénomènes:
 		- la capacité de mémoriser des rencontres [[social|sociales]] spécifiques et l'[[évolution]] des liens [[social|sociaux]] entre individus. 
 
-- La [[mémoire sémantique]] et les actions en réponse aux [[stimulus|stimuli]] ne seraient pas suffisants pour permettre des comportements adaptatifs se basant sur des décisions de coopérations/compétitions rapides.
+- La [[mémoire sémantique]] et les actions en réponse aux [[stimulus|stimuli]] ne seraient pas suffisants pour permettre des comportements adaptatifs se basant sur des décisions de [[coopération|coopérations]]/compétitions rapides.
 	- Cela pourrait expliquer pourquoi les souvenirs autobiographiques et [[planification]] sont caractérisés par des interactions [[social|sociales]]. 
 
 - Les théories de la perception de soi et de construction de scène exposent le rôle des [[lobe temporal médian|lobes temporaux médians]]. 

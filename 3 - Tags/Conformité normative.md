@@ -1,0 +1,1 @@
+- Tendance des individus à se conformer au choix de la majorité des membres du groupe [[social]] même s'il ne correspond pas à l'option considérée comme la plus pertinente. 
