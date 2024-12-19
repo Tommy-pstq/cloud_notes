@@ -1,5 +1,5 @@
 
-*Dernier update: 15/12/2024*
+*Dernier update: 19/12/2024*
 ![[Pasted image 20241219172529.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
