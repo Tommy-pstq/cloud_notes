@@ -94,7 +94,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 - Observateur [[anxiété|anxieux]]:
 	- Perception renforcée des visages menaçants
-- Anxiété élevée non pathologique:
+- [[anxiété]] élevée non pathologique:
 	- Traitement des visages menaçants dans les régions motrices 200ms après la présentation des visages 
 		- --> Prépare à l'action
 
@@ -179,11 +179,11 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - Illusions sur la propriété de corps : résultats<u> indépendant des distinctions sociales et perceptuelles</u>. 
 	- Etudes d'illusions de corps entier en VR:
 		- Modifie la perception du corps et d'autrui.
-		- Participants éprouve un [[Sentiments|sentiment]] de propriété sur le corps d'une personne <u>indépendamment de leur niveaux d'attitudes négatives implicites</u> à l'égard du groupe social de l'autre personne. 
+		- Participants éprouve un [[Sentiments|sentiment]] de propriété sur le corps d'une personne <u>indépendamment de leur niveaux d'attitudes négatives implicites</u> à l'égard du groupe [[social]] de l'autre personne. 
 			- Ces expériences entraines <u>une réduction significative des niveaux de  préjugés implicites</u> à l'encontre de ce groupe. 
 
 - [[troubles psychiatriques]]:
-	- Schizophrénie : entraine une frontière corporelle extrêmement floue ou variable entre l'individu et les autres 
+	- [[schizophrénie]] : entraine une frontière corporelle extrêmement floue ou variable entre l'individu et les autres 
 	- [[TSA]] : frontière plus marquée que la moyenne. 
 	- Récentes découvertes en modélisation du comportement: un entrainement multisensoriel axé sur l'affinement ([[schizophrénie]]) ou la réduction ([[TSA|autisme]]) de la limite entre soi et les autres pourrait être bénéfique dans le traitement de ces troubles. 
 
@@ -208,10 +208,10 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 	- Principal domaine de recherche: [[empathie]] envers la douleur d'autrui.
 		- Dans ce cas, on distingue deux composants **indépendants et dissociables** de l'[[empathie]] :
 			- <u>L'empathie affective</u> : partage d'expérience, principalement fondée sur les mécanismes de résonance cérébrales.
-				- Substrat neuronal: régions associées au **système miroir** (cortex prémoteur et lobe pariétal inférieur) et au **système limbique** ([[cortex cingulaire antérieur]] et insula antérieur)
+				- Substrat neuronal: régions associées au **système miroir** (cortex prémoteur et lobe pariétal inférieur) et au **[[système limbique]]** ([[cortex cingulaire antérieur]] et insula antérieur)
 			- <u>L'empathie cognitive</u> : capacité d'attribution de l'état mental.
 				- Bases neuronales: **régions associées à la [[théorie de l'esprit]]** ([[cortex préfrontal médian]], pôles temporaux, précunéus, [[jonction temporo-pariétale]])
-	- Facteurs influençant l'empathie: 
+	- Facteurs influençant l'[[empathie]]: 
 		- Caractéristique de l'observateur et de l'individu souffrant d'une affliction
 		- Relation affective et [[social|sociale]]
 			- Stimulation douloureuse sur la/le partenaire : [[activité|activation]] bien plus importante d'une zone lié à l'empathie que lors de cette même stimulation sur un inconnu.
@@ -242,7 +242,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 <u>Désir mimétique</u>:
 - Tendance des individus à préférer [[prise de décision|un choix]] ayant été déjà fait pas une autre personne ou étant identifié comme le but d'une autre personne.
-	- Repose sur l'interaction entre le système miroir et le système d'encodage des valeurs ([[striatum ventral]] et cortex préfrontal) : le système miroir modulerait l'activité de celui responsable de l'encodage des valeurs, biaisant ainsi la [[prise de décision]] vers ce qui est observé. 
+	- Repose sur l'interaction entre le [[système miroir]] et le système d'encodage des valeurs ([[striatum ventral]] et [[cortex préfrontal]]) : le système miroir modulerait l'activité de celui responsable de l'encodage des valeurs, biaisant ainsi la [[prise de décision]] vers ce qui est observé. 
 
 ### Les autres, une récompense pour apprendre
 
@@ -349,6 +349,41 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 		- Balancement [[synchronicité|synchrone]] sur une chaise 
 		- Sera d'autant plus marqué que les protagonistes sont proches. 
 		- Peut créer un fort [[Sentiments|sentiment]] de satisfaction et d'émotion partagée. 
-
 ### Les décisions sociales et leurs bénéfices
+
+- Décision collective <-> sagesse collective. 
+	- Facteurs nécessaire pour augmenter la performance d'un groupe par rapport à un individu.
+		- 1785, Nicolas de Condorcet, <u>théorème du jury</u>:
+			- "L'agrégation de votes indépendants en suivant une règle de majorité peut produire des décisions presque parfaites seulement sous certaine conditions:
+				- Si la décision est catégorielle (oui/non - inférieur/supérieur) et a une réponse objectivement correcte
+				- Si les votes sont complètements indépendant
+				- Si les réponses des électeurs ont une probabilité plus forte que le hasard d'être correctes "
+		- L'indépendance est quasiment jamais respectée, et biais commun à un groupe fréquent, les conditions sont donc rarement respectées. 
+	- <u>L'amélioration du groupe par rapport à un individu est très fortement dépendante du contexte</u>
+		- Etudes sur la [[perception visuelle]] et diagnostiques médicaux:
+			- L'amélioration du groupe dépend de l'homogénéité des niveaux de compétences au sein du groupe.
+				- La **décision collective sera meilleure** que l'individuelle seulement si les membres du groupes ont le **même niveau de compétence**. 
+				- Dans le cas d'**écart de compétence significatif**, il est préférable de **déléguer la décision à l'expert**.
+		- Indépendance initiale des opinions : cruciale. 
+			- Sauf que : influence [[social|sociale]] omniprésente, donc très rarement le cas. 
+	- La **discussion** entre les membres d'un groupe suite à la formulation d'un avis initial **augmente la performance** collective par rapport à l'agrégation simple.
+
+![[467510456_1009315787916805_157626357787415274_n.jpg]]
+
+
+- Au delà de l'amélioration des performances, la prise de décision collective est également un vecteur de [[Sentiments|sentiment]] d'appartenance au groupe.
+
+- Le phénomène de diffusion de la responsabilité présent dans les décisions collectives peut être utile dans certaines situation:
+	- Conséquences incertaines et potentiellement dommageables 
+	- Conséquences connues et clairement dommageables
+		- Partager la responsabilité peut aider à diminuer le stress et le blâme associé.
+
+![[462572047_2351588785176812_1948013732633798577_n.jpg]]
+
+- Etudes sur les individus ayant une aversion à la responsabilité moindre, expliquant peut être une volonté de devenir leader et d'être responsable d'un grand groupe:
+	- Choix de suivre le groupe:
+		- Active plus fortement la [[jonction temporo-pariétale|TPJ]] que décider seul
+	- Volonté de diriger le groupe:
+		- Connexions entre le [[cortex préfrontal|PFC]] médial, l'[[insula]] et la [[jonction temporo-pariétale|TPJ]].
+
 ## Refs

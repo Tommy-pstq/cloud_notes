@@ -1,6 +1,6 @@
 
 *Dernier update: 15/12/2024*
-![[Pasted image 20241215185455.png]]
+![[Pasted image 20241219172529.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
@@ -19,7 +19,7 @@
 	- [x] Décision et action *11-2024*
 	- [x] Neurolinguistique
 	- [x] Conscience et métacognition
-	- [ ] Cognition sociale
+	- [x] Cognition sociale
 	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 
