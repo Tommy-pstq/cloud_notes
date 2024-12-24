@@ -1,6 +1,6 @@
 
 *Last update: 24/12/2024*
-![[Pasted image 20241224155059.png]]
+![[Pasted image 20241224181707.png]]
 
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
@@ -20,7 +20,7 @@
 	- [x] Neurolinguistique *11-2024*
 	- [x] Conscience et métacognition *12-2024*
 	- [x] Cognition sociale *12-2024* 
-	- [ ] Psychologie et neurosciences, enjeux pour l'éducation
+	- [x] Psychologie et neurosciences, enjeux pour l'éducation
 	- [ ] Initiation à la modélisation computationnelle 
 
 - [x] Neurobiologie des émotions, 2022, Catherine Belzung *10-2024* 

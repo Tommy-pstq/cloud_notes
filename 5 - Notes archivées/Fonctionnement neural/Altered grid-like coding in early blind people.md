@@ -11,7 +11,7 @@ Tags:
 - Réseau neuronal de navigation humain : régions temporales médiales, paritétales et occipitales.
 - Pas de connaissance sur la résilience de l'encodage des places cells et head directions cells ainsi que du développement des [[grid cells]] en absence de vision fonctionnelle.
 - La capacité à générer des cartes mentales est conservées chez les personnes atteintes de [[cécité]].
-	- Une absence précoce de vision peut diminuer les capacités d'encodage spatial [[allocentrique]] 
+	- Une absence précoce de vision peut diminuer les capacités d'[[représentation spatiale|encodage spatial]] [[allocentrique]] 
 		- Moins bonne estimation des distances
 		- Dépendance plus marquée aux informations [[égocentrique|égocentriques]].
 - Quelques études sur les effets d'une privation précoce de la vision sur l'activité du réseau de navigation, sans résultats consistants.

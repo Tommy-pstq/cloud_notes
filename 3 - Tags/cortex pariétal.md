@@ -1,0 +1,2 @@
+- Augmentation de la matière grise en réponse à une période d'[[apprentissage]] intensif pour passer un examen.
+	- Encore observable, bien que légèrement diminué, 3 mois plus tard. 
