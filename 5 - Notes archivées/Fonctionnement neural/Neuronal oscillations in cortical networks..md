@@ -8,7 +8,7 @@ Tags: [[oscillation neuronale]]  [[EEG]]
 
 ### Intro
 Début de l'EEG:
-Sclap [[EEG]] en phase d'éveil montrent des variation de faible amplitudes & désynchronisées. Apparemment antithétique  d'avoir des perturbations des rythmes du cerveau, surtout que ces oscillations étaient encore plus importantes dans le cas d'anesthésies ou d'épisodes épileptiques. Il était donc supposé que ces perturbations n'étaient pas nécessairement liées à des opérations [[cognition|cognitives]].
+Scalp [[EEG]] en phase d'éveil montrent des variation de faible amplitudes & désynchronisées. Apparemment antithétique  d'avoir des perturbations des rythmes du cerveau, surtout que ces oscillations étaient encore plus importantes dans le cas d'anesthésies ou d'épisodes épileptiques. Il était donc supposé que ces perturbations n'étaient pas nécessairement liées à des opérations [[cognition|cognitives]].
 "Recent" (dans le texte, paru en 2004) résurgence d'intérêt pour ces oscillations due à des avancées parallèles :
 - Possibilité de les reproduire
 - Etudes [[biophysique]]s : même des neurones uniques font preuve de grande variations de dynamiques et peuvent oscillés et résonner à différentes fréquences, suggérant ainsi que le timing précis de leur [[activité]] au sein d'un réseau serait porteur d'information.

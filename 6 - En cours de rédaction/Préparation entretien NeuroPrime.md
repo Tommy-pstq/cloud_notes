@@ -6,85 +6,86 @@ Primates non humain.
 	- Impact d'éléments socio-spatiaux en contexte territorial 
 		- hiérarchie 
 		- affiliation
-- Régulation de l'activité neuronale et comportementale par l'ocytocine en situation territoriale.
+- [[Régulation]] de l'activité neuronale et comportementale par l'[[Ocytocine]] en situation territoriale.
 
 <font color='red'>Ocytocine</font>:
 - Méta-étude sur des administrations ponctuelle chez l'humain:
-	- Modification de l'activité neurale en réponse à des stimuli sociaux.
+	- Modification de l'activité neurale en réponse à des [[stimulus|stimuli]] [[social|sociaux]].
 		- Lobe temporaux
-		- Insula 
-			- hyperactivation côté gauche : traitement émotionnel impacté. 
+		- [[insula]] 
+			- hyperactivation côté gauche : traitement [[émotion|émotionnel]] impacté. 
 - Oiseaux:
 	- Joue un rôle dans les comportements d'agression.
-		- Perturbe l'axe HPA (hypothalamus-pituitary-adrénal) responsable de la régulation des hormones de stress (corticosterone)
-	- Blocage de récepteurs OT:
+		- Perturbe l'axe HPA ([[hypothalamus]]-pituitary-adrénal) responsable de la [[Régulation]] des hormones de [[stress]] (corticosterone)
+	- Blocage de [[récepteurs]] OT:
 		- Diminution des comportements agressifs.
 			- Peut être pour des raisons hormonales plutôt que neuronales. pas sûr. 
 
 - Oscillations (hippocampe) sur des slices de souris in-vitro: doi.org/10.1111/ejn.13412
-	- Effets de l'OT sur deux patterns majeurs dans l'activité de l'hippocampe 
+	- Effets de l'OT sur deux patterns majeurs dans l'activité de l'[[hippocampe]] 
 		- Oscillations gammas
-			- Formation de la mémoire
+			- Formation de la [[mémoire]]
 			- Non affectée par OT 
 		- Sharpe wave-ripple complexes (SPW-R)
-			- Consolidation mémoire
+			- [[consolidation]] mémoire
 			- Rapidement et puissamment supprimées
-		- Précision temporelle des couplages oscillations-spike améliorée 
+		- Précision [[temporalité|temporelle]] des couplages oscillations-[[spike]] améliorée 
 	
-	- Fort effet de régulation. probablement via l'inhibition d'interneurones inhibiteurs. 
+	- Fort effet de [[Régulation]]. probablement via l'[[inhibition]] d'[[interneurones]] inhibiteurs. 
 
 - <u>Lien entre OT & comportement territorial</u>: (Article de l'équipe 10.1016/j.tics.2021.06.005)
-	- OT influence les comportement sociaux:
+	- OT influence les comportement [[social|sociaux]]:
 		- Emotions, attachement, distanciation, agression, affiliation 
 			- Entraine des différences comportementales entre espèces:
 				- Campagnols monogames & territoriaux VS polygames et non-territoriaux 
-					- Patterns d'OT récepteur différents.
-		- Pourrait contribuer à la régulation de l'espace personnel proche, impliquant dans la définition du soi.
+					- Patterns d'OT [[récepteurs|récepteur]] différents.
+		- Pourrait contribuer à la [[Régulation]] de l'espace personnel proche, impliquant dans la définition du soi.
 	
 	- Administration nasale:
-		- Augmente l'attention portée aux régions oculaires 
+		- Augmente l'[[attention]] portée aux régions oculaires 
 		- Macaques: diminue les comportements de regard hiérarchique entre dominants et dominés
 			- -> Suggère que l'OT augmente la tolérance entre les niveaux de hiérarchie.
 		- Humain : 
 			- Augmente la confiance en l'autre 
 			- Altère la distance social dans l'espace personnel
 			- Facilite la lecture des émotions
-	- --> Augmente l'importance des éléments sociaux. 
+	- --> Augmente l'importance des éléments [[social|sociaux]]. 
 		- Dans un contexte de compétition spatiale : renforce les comportement territoriaux
-			- Augmentation des biais de stéréotypes 
-			- Augmentation de la coopération intra-groupe lors d'attaque d'individus étrangers
+			- Augmentation des biais de [[stéréotype|stéréotypes]] 
+			- Augmentation de la [[coopération]] intra-groupe lors d'attaque d'individus étrangers
 			- --> Promeut l'ethnocentrisme. 
 
 
 	- <u>Action centrale de l'OT dans l'hippocampe</u> 
 		- Focus sur les effets spatial & social lié à la territorialité 
-		- Rongeurs: présence d' OTR dans tous l'hippocampe et majoritairement dans les zones CA3 & CA2 et dans le cortex entorhinal. 
+		- Rongeurs: présence d' OTR dans tous l'[[hippocampe]] et majoritairement dans les zones [[CA3]] & CA2 et dans le cortex entorhinal. 
 			- Campagnols de prairie (monogames & territorial) : le schéma d'expression des OTR dans l'hippocampe est prédictif du type de comportement territorial. 
 		
-		- Expression d'OTR dans l'hippocampe/cortex entorhinal observée également chez des primates
+		- Expression d'OTR dans l'hippocampe/[[cortex entorhinal]] observée également chez des primates
 			- OTR dépend de l'expérience parentale
-			- Gène responsable de l'expression d'OTR trouvé dans l'hippocampe humain.
+			- [[génétique|gène]] responsable de l'expression d'OTR trouvé dans l'hippocampe humain.
 			- IRMf : administration nasale modifie l'activité de l'hippocampe 
 
 	- Hypothèse:
-		- Présence de "territory cells" se basant sur des stimuli sociaux et spatiaux dont l'activité est modulée par l'OT
+		- Présence de "territory cells" se basant sur des [[stimulus|stimuli]] [[social|sociaux]] et spatiaux dont l'activité est modulée par l'OT
 
 
 <font color='red'>Manipulation DREADD</font> (Designer Receptor Exclusively Activated by Designer Drug)
+[[DREADD]]
 
-- Introduction de gènes codant pour des récepteurs spécifiques.
+- Introduction de [[génétique|gènes]] codant pour des récepteurs spécifiques.
 	- Dans des zones précises via vecteur viral (ici neurones sensibles OT)
 
 - Récepteurs spécifiques :
-	- Pas de réponse aux neurotransmetteurs naturels 
-		- Activation/Inhibition contrôlée
+	- Pas de réponse aux [[neurotransmetteurs]] naturels 
+		- [[activité|activation]]/Inhibition contrôlée
 	- Modulent l'activité neuronale:
-		- Excitation : DREADD hM3Dq -> augmente l'activité des neurones ciblés (ici ocytocine)
+		- Excitation : DREADD hM3Dq -> augmente l'activité des neurones ciblés (ici [[Ocytocine]])
 		- Inhibition : DREADD hM4Di -> Bloque l'activité des neurones ciblés. 
-		- Temporellement contrôlée via inoculation de molécule active
+		- [[temporalité|temporellement]] contrôlée via inoculation de molécule active
 
 - Points à surveiller:
-	- Métabolisation des molécules d'activation.
+	- Métabolisation des molécules d'[[activité|activation]].
 		- Produit de effets hors cible à identifier / mesurer 
 	- Taux d'expression des récepteurs : variation entre individus. 
 
@@ -96,7 +97,7 @@ Primates non humain.
 			- Adrénergique
 		- Pas mal d'effets secondaires:
 			- Cardiovasculaires
-			- SNC
+			- [[SNC]]
 				- Sédation
 				- Epilepsie
 				- Troubles de la concentration / étourdissement

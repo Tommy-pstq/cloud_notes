@@ -1,0 +1,1 @@
+- Reçoit des informations des [[grid cells]] via le [[gyrus denté]] 

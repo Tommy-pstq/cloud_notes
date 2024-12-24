@@ -4,17 +4,20 @@
 
 ### Intro
 
-Fonction de l'[[hippocampe]] ? 
-* Patient HM (lésion [[bilatérale]] de l'[[hippocampe]] suite chirurgie épilepsie) : amnésie antérograde.
-* Chez les rats : [[activité|activation]] en fonction de la position spatial.
--> Les deux ne semblent, a priori pas vraiment corrélés. 
-Sauf si, hypothèse : **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les bases & [[mécanismes neuronaux|algorithmes neuronaux]] les supportant sont les mêmes.**
+- Fonction de l'[[hippocampe]] ? 
+	* Patient HM (lésion [[bilatérale]] de l'[[hippocampe]] suite chirurgie [[épilepsie]]) : [[amnésie antérograde]].
+	* Chez les rats : [[activité|activation]] en fonction de la position spatiale.
+- Les deux ne semblent, a priori pas vraiment corrélés. 
+
+- Sauf si, hypothèse :
+	- **Les mécanismes de [[mémoire]] et [[planification]] ont évolués à partir des mécanismes de [[navigation]] et les structures neuronales et [[mécanismes neuronaux|algorithmes neuronaux]] les supportant sont les mêmes.**
 
 La [[navigation]] se base sur **2** mécanismes:
 - "Map-based" ou [[allocentrique]] : utilisation de points de repères extérieurs fixes. "Prendre à l'Est"
-- "Path-integration" ou [[égocentrique]]. Centré sur l'individu, le chemin à suivre est une suite d'action à effectuer du point de vue de l'individu. : 'Tourner à gauche'
+- "[[intégration de trajectoire|Path integration]]" ou [[égocentrique]]. Centré sur l'individu, le chemin à suivre est une suite d'action à effectuer du point de vue de l'individu. : 'Tourner à gauche'
 
-Ex de composants [[égocentrique|égocentriques]] : la vitesse de déplacement, le temps écoulé depuis le départ, la direction de la tête et la position initiale. 
+Ex de composants [[égocentrique|égocentriques]] :
+- Vitesse de déplacement, le temps écoulé depuis le départ, la direction de la tête et la position initiale. 
 
 Ces deux mécanismes sont en permanence utilisés conjointement, en fonction de la disponibilité d'informations externes, l'un ou l'autre peut être favorisé. 
 
