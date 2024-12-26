@@ -95,7 +95,7 @@ Cependant, un élément clé diffère: le système de [[navigation]] se base sur
 
 --> Deux mécanismes de génération de séquences d'[[assemblage]]:
 	- Input externe (environnement, infos corporelles)
-	- Génération spontanées --> supportent le "voyage interne"
+	- Génération [[spontanéité|spontanées]] --> supportent le "voyage interne"
 Il existe probablement des interaction entre ces deux mécanismes.
 
 #### Chunking de mémoires / chemins

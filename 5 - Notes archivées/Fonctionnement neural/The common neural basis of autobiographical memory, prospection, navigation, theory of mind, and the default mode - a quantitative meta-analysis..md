@@ -43,7 +43,7 @@ Ces mécanisme impliquent probablement une projection du "mind's eye" vers une a
 
 Une [[navigation]] [[social|sociale]] réussie implique de posséder une [[théorie de l'esprit]]: une compréhension que le comportement des autres est motivés par des états internes comme les pensées, émotions et croyances. 
 Comprendre l'autre implique, en partie, de s'approprier sa perspective pour prédire ses actions et réactions. 
-Les études sur la [[Théorie de l'esprit|ToM]] convergent globalement vers l'idée que la [[projection de soi]] est un aspect important de la mentalisation rendue possible grâce à la simulation de l'état d'esprit de l'autre autre du moi. *([[Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome|Papier]] sur l'absence de [[théorie de l'esprit]] spontanée en pop [[TSA]] montre que ce n'est pas absolument nécessaire et que cette mentalisation peut être effectuée d'une autre manière, notamment à travers des procédés de [[raisonnement|raisonnements]] conscients)* 
+Les études sur la [[Théorie de l'esprit|ToM]] convergent globalement vers l'idée que la [[projection de soi]] est un aspect important de la mentalisation rendue possible grâce à la simulation de l'état d'esprit de l'autre autre du moi. *([[Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome|Papier]] sur l'absence de [[théorie de l'esprit]] [[spontanéité|spontanée]] en pop [[TSA]] montre que ce n'est pas absolument nécessaire et que cette mentalisation peut être effectuée d'une autre manière, notamment à travers des procédés de [[raisonnement|raisonnements]] conscients)* 
 
 #### Mode par défaut
 

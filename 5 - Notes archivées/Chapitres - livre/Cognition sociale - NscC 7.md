@@ -345,7 +345,7 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 			- <u>biais d'auto-complaisance</u> : s'attribuer les mérites d'une réussite et différer la responsabilité d'un échec.
 
 	- Permet également l'apparition du <u>we-mode</u>: 
-		- [[synchronicité|synchronisation]] spontanée d'un orchestre 
+		- [[synchronicité|synchronisation]] [[spontanéité|spontanée]] d'un orchestre 
 		- Balancement [[synchronicité|synchrone]] sur une chaise 
 		- Sera d'autant plus marqué que les protagonistes sont proches. 
 		- Peut créer un fort [[Sentiments|sentiment]] de satisfaction et d'émotion partagée. 

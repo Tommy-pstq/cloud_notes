@@ -81,7 +81,7 @@ Il semblerait que l'information soit traitée/transférée/stockée par des [[as
 #### Consolidation et combinaison des informations apprises
 
 Les oscillations sont une caractéristique intrinsèque des systèmes à l'équilibre et sont définies par les constantes de temps de leurs composants.
-- Des réseaux construits à partir de cellules pyramidale sans oscillations (reproduction d'un réseau [[feed-forward]] in vitro à partir d'une slice de cortex de rat) produisent spontanément et maintiennent des oscillations (6). 
+- Des réseaux construits à partir de cellules pyramidale sans oscillations (reproduction d'un réseau [[feed-forward]] in vitro à partir d'une slice de cortex de rat) produisent [[spontanéité|spontanément]] et maintiennent des oscillations (6). 
 - Le pattern d'activité neuronale dépend non seulement de son architecture précise mais aussi de ses conditions initiales, et, en l'absence de perturbation, la séquence d'activité neuronale se répète indéfiniment dans un système sans bruit. 
 --> les conditions générant un rythme sont "gelées" dans la nature [[déterministe]] de la dynamique oscillatoire. (affirmation puissante, à vérifier à l'avenir)
 

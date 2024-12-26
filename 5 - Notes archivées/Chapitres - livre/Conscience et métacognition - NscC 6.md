@@ -141,7 +141,7 @@ Certains résultats, comme ceux montrés ci avant favorisent les premiers modèl
 				- Inclus les événements précédant la prise de conscience pouvant la favoriser avant qu'elle ne se produise. 
 					- Ex: petites fluctuations dans l'efficacité du traitement [[sensorialité|sensoriel]] peuvent, ou non, permettre une prise de conscience ultérieure 
 						- Ces fluctuations feront partis des corrélats observés dans les différences entre activité consciente ou non.
-				- Des fluctuations spontanées d'activité cérébrale ([[Oscillation neuronale|oscillations neurales]] ?) se produisant <font color='red'>avant </font> la présentation du stimulus peuvent avoir une influence sur la prise de conscience du dit stimulus.
+				- Des fluctuations [[spontanéité|spontanées]] d'activité cérébrale ([[Oscillation neuronale|oscillations neurales]] ?) se produisant <font color='red'>avant </font> la présentation du stimulus peuvent avoir une influence sur la prise de conscience du dit stimulus.
 			- Les corrélats observés pourraient être ceux du résultat de l'activité consciente plutôt que de la prise de conscience elle même.
 - Débat encore ouvert, des expériences sont en train d'être inventées pour avancer sur ce point. 
 
