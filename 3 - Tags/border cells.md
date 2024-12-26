@@ -1,0 +1,2 @@
+dans le [[cortex entorhinal]]
+encode, via leur activation, les orientations géométriques précise des limites de l'environnement. participe à l'approximation des distances [[allocentrique|allocentriques]] + (peut-être) mise à l'échelle des grid size selon la surface de l'environnement. 

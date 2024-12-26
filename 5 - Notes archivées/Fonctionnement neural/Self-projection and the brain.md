@@ -71,10 +71,10 @@ Lésions -->
 
 *Pas si surprenant qu'en absence de [[place cells]], la notion de référence egocentrée soit altérée IMO*
 
-Patient amnésique suit à une anoxie :  Incapable de faire de prévisions sur son [[activité]] future mais capable de retenir des éléments sémantique concernant le future. 
+Patient amnésique suit à une anoxie :  Incapable de faire de prévisions sur son activitéure mais capable de retenir des éléments sémantique concernant le future. 
 
 Etudes plus récentes d'imagerie:
-- Recollection impliquent l'[[activité|activation]] de l'[[hippocampe]] & régions corticales médiales & latérale du [[lobe pariétal]]. 
+- Recollection impliquent l'activation de l'[[hippocampe]] & régions corticales médiales & latérale du [[lobe pariétal]]. 
 	- Hypothèse : Ces régions sont des composants étendus du système temporo-pariétal médian utilisé dans les fonctions mémorielles. 
 	- --> Ces mêmes régions s'activent en cas de [[théorie de l'esprit|ToM]].
 
@@ -85,12 +85,12 @@ La réalité doit nécessairement être séparées des autres simulations. Pas e
 Cependant : cortex fronto-polaire & régions midline antérieure frontale ont un rôle dans les changements entre perspectives. 
 
 - Cortex frontopolaire (principalement droit) s'active lors de la recollection. 
-- [[activité]] frontopolaire souvent corrélée à un haut niveau de [[régulation]] & de contrôle exécutif/
-	- [[activité]] non sélective
+- activité frontopolaire souvent corrélée à un haut niveau de [[régulation]] & de contrôle exécutif/
+	- activité non sélective
 
-- [[activité]] frontropolaire présente quand il est nécessaire de considérer un objectif tout en effectuant des sous-tâches.
+- activité frontropolaire présente quand il est nécessaire de considérer un objectif tout en effectuant des sous-tâches.
 - Contribue à la [[théorie de l'esprit|ToM]]:
-	- cortex paracingulaire, section la plus antérieure de la midline frontale : [[activité]] lors de la simulation de la perspective d'autrui
+	- cortex paracingulaire, section la plus antérieure de la midline frontale : activité lors de la simulation de la perspective d'autrui
 		- Précisé plus tard : "détermine l'état mental de l'autre, qui est séparé de la réalité et permet la gestion simultanée de ces deux perspectives sur le monde"
 ## Convergence entre prospection, recollection & [[théorie de l'esprit|ToM]]
 
@@ -106,7 +106,7 @@ Cependant : cortex fronto-polaire & régions midline antérieure frontale ont un
 
 Ces régions ne s'activant pas dans toutes les tâches impliquant la résolution de problèmes complexes ou l'imagination, cela suggère que ce réseau est spécialisé dans le changement de perspective. 
 
-l'[[activité]] du [[default mode]] est similaire à celle observé dans des [[activité|activités]] dépendant de SP.
+l'activité du [[default mode]] est similaire à celle observé dans des  dépendant de SP.
 
 Petit passage sur des rats ([[expérimentation animale]]) non lue. 
 ## Refs

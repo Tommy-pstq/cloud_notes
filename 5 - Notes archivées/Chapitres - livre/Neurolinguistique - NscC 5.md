@@ -227,7 +227,7 @@ Langage:
 
 - Etudes IRMf attribue le  siège des processus syntaxiques à quelques régions de l'hémisphère gauche:
 	- Ces régions sont plus activés par l'écoute de phrases que de listes de mots. 
-	- Leur [[activité]] augmente avec la longueur de la phrase
+	- Leur activitémente avec la longueur de la phrase
 		- pôle temporal antérieur 
 		- partie postérieur du [[lobe temporal]] supérieur gauche ([[sillon temporal supérieur||STS]], [[gyrus temporal supérieur||MTS]] et [[gyrus temporal moyen||MTG]] )
 		- plusieurs petites sous-régions du [[gyrus frontal inférieur]] (aire de Broca) 
@@ -276,7 +276,7 @@ bébé = (3-12 mois), nouveau-né = (0-3 mois), bambin =(1 - 3 ans).
 ### Perception du langage prénatale: des informations parcellaires
 
 - Système auditif du fœtus fonctionnel avant la naissance.
-	- IRMf: [[activité|activation]] du cortex temporal gauche pendant le troisième trimestre de gestation.
+	- IRMf: activation du cortex temporal gauche pendant le troisième trimestre de gestation.
 	- Sons reçus par le fœtus = hautes fréquences filtrées. (un peu comme sous l'eau)
 	- Bruits internes du corps de la mère présents.
 
@@ -309,7 +309,7 @@ Apprentissage des caractéristiques fréquentielles d'une langue si tôt  = supp
 
 *rappel : 4 jours = reconnaissance de la langue maternelle*
 
-3 mois : [[activité|activation]] d'un réseau frontal-temporal-pariétal quand la parole est présentée à l'endroit par rapport à l'envers.
+3 mois : activation d'un réseau frontal-temporal-pariétal quand la parole est présentée à l'endroit par rapport à l'envers.
 
 - Distinction des syllabes : possible, mêmes pour les plus prématurés (29 semaines.)
 - Plus encore : exploitation de la plausibilité d'une succession de syllabes via les indices de séparation.

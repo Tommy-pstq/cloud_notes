@@ -41,7 +41,7 @@ Deuxième : " Si les majorité des interactions avec l'individu son centrées su
 
 Ce que j'ai compris en lisant les extraits du bouquin (1) à propos de la stratégie:
 - Les parents et proches, en exprimant leur inquiétude, angoisse, essayant de forcer la personne à manger entretienne le TCA de deux manières:
-	- Beaucoup d'interactions à propos du TCA, donc l'[[activité]] neural y étant lié est régulière, il devient donc un sujet de rumination quasi permanent.
+	- Beaucoup d'interactions à propos du TCA, donc l'activité neural y étant lié est régulière, il devient donc un sujet de rumination quasi permanent.
 	- Ces interactions sont majoritairement perçues comme positives car empathique  (*on essaie de s'occuper de moi),* l'individu peut donc associer cette [[attention]] positive à son trouble, ce qui va nécessairement [[consolidation|le renforcer]] (on rappel le besoin de reconnaissance). 
 * Solution: 
 	* Diminution drastique de la fréquence de mention du TCA. on invisibilise cet aspect de la personne (commun à la [[thérapie narrative]]). 

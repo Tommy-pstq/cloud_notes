@@ -233,7 +233,7 @@ Les neurones dopaminergiques (mésencéphale - [[VTA]] ou [[substance noire]]) r
 - [[cortex préfrontal ventro-médian|VMPFC]] semble réagir plus fortement à l'étape d'**évaluation** par rapport au moment de la réception de la récompense.
 
 - Chez l'humain : [[cortex préfrontal ventro-médian|VMPFC]] répond plus souvent à la valeur que l'OFC, inversement chez le singe.
-	- Récemment: une étude obtient des [[activité|activités]] similaires.
+	- Récemment: une étude obtient des  similaires.
 		- Les  deux régions étant très proches: variabilité de labélisation ? 
 		- -> OFC + [[cortex préfrontal ventro-médian|VMPFC]] = [[cortex orbito-median frontal|OMPFC]] 
 

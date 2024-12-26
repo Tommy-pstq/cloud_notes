@@ -21,7 +21,7 @@ Tags: [[perception]] [[mutlisens]] [[TSA]] [[social]]
 	* [[reconnaissance vocale|Reconnaissance de la parole]] plus précise et moins fatigante si le visage est visible pour les individus TD. Moins de bénéfices dans les populations [[TSA]].
 
 --> *Hypothèse du papier*: 
-	traitement multisensoriel dégradé 
+	traitement [[multisensoriel]] dégradé 
 		-> intégration [[sensorialité|sensorielle]] moindre 
 			-> dégradation de la [[perception]] audio-visuelle de la parole en population [[TSA]].
 

@@ -83,7 +83,7 @@ Navigation = [[fonctions cognitives|fonction cognitive]] complexe faisant appel 
 	- [[contrôle moteur]]
 	- [[Apprentissage]] & mémoires 
 
-## IV L'information multisensorielle
+## IV L'information [[multisensoriel|multisensorielle]]
 
 Deux sources d'info [[sensorialité|sensorielles]]:
 - Environnement

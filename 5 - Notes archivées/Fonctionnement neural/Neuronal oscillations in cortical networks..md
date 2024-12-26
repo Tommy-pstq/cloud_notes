@@ -11,10 +11,10 @@ Début de l'EEG:
 Scalp [[EEG]] en phase d'éveil montrent des variation de faible amplitudes & désynchronisées. Apparemment antithétique  d'avoir des perturbations des rythmes du cerveau, surtout que ces oscillations étaient encore plus importantes dans le cas d'anesthésies ou d'épisodes épileptiques. Il était donc supposé que ces perturbations n'étaient pas nécessairement liées à des opérations [[cognition|cognitives]].
 "Recent" (dans le texte, paru en 2004) résurgence d'intérêt pour ces oscillations due à des avancées parallèles :
 - Possibilité de les reproduire
-- Etudes [[biophysique]]s : même des neurones uniques font preuve de grande variations de dynamiques et peuvent oscillés et résonner à différentes fréquences, suggérant ainsi que le timing précis de leur [[activité]] au sein d'un réseau serait porteur d'information.
-* Découverte que des assemblages de structures corrélées aux [[activité]] de la journée précédente s'activent en fonctions des pattern d'oscillations. Conjecture : utilité dans la mémorisation.
+- Etudes [[biophysique]]s : même des neurones uniques font preuve de grande variations de dynamiques et peuvent oscillés et résonner à différentes fréquences, suggérant ainsi que le timing précis de leur activité au sein d'un réseau serait porteur d'information.
+* Découverte que des assemblages de structures corrélées aux activité de la journée précédente s'activent en fonctions des pattern d'oscillations. Conjecture : utilité dans la mémorisation.
 
--> L'[[activité]] [[synchronicité|synchrones]] des réseaux oscillants désormais perçue comme le lien critique liant l'[[activité]] de neurones unitaires pour générer des comportements.
+-> L'activité [[synchronicité|synchrones]] des réseaux oscillants désormais perçue comme le lien critique liant l'activité de neurones unitaires pour générer des comportements.
 -> [[oscillation neuronale|oscillations neurales]] nouveau domaine de recherche interdisciplinaire.
 
 ### Un système d'oscillateurs cérébraux
@@ -35,7 +35,7 @@ Localité des connexion neuronale
 
 l'intégration d'information repose sur la [[synchronicité]] , dépendante de la [[fenêtre d'intégration temporelle]].
 
-Bien que des [[stimulus|signaux externes]] irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'[[activité|activation]] [[synchronicité|synchrone]] de réseaux (=[[synchronicité]]), le mécanisme physique le plus énergétiquement efficace de générer une telle coordination [[temporalité|temporelle]] est l'utilisation des oscillations (1,2).
+Bien que des [[stimulus|signaux externes]] irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'activation [[synchronicité|synchrone]] de réseaux (=[[synchronicité]]), le mécanisme physique le plus énergétiquement efficace de générer une telle coordination [[temporalité|temporelle]] est l'utilisation des oscillations (1,2).
 
 Les oscillateurs cérébraux présentent des caractéristiques propres aux oscillateurs harmoniques et de relaxation (=deux états d'équilibre instable).
 
@@ -44,7 +44,7 @@ Ex: [[oscillations theta]] dans l'[[hippocampe]] ressemblent aux variations sinu
 **Gros avantage**: le comportement à long terme peut être prédit à partir d'une courte observation de leur phase. 
 **Problème**: Des groupe d'oscillateurs harmoniques montrent une faible capacité à synchroniser leur phases (ils sont indep, donc même si très petite différence de phase --> [[phase drift]])
 
-En revanche, ces oscillations macros (theta) sont issues de neurones, dont les patterns d'[[activité|activation]] ressemble quant à eux à des oscillateurs de relaxation. Ces derniers présentent une excitabilité dépendante de leur phase, permettant la définition d'une phase de transfert et d'une phase de réception tout en offrant une [[synchronicité|synchronisation]] robuste et stable.
+En revanche, ces oscillations macros (theta) sont issues de neurones, dont les patterns d'activation ressemble quant à eux à des oscillateurs de relaxation. Ces derniers présentent une excitabilité dépendante de leur phase, permettant la définition d'une phase de transfert et d'une phase de réception tout en offrant une [[synchronicité|synchronisation]] robuste et stable.
 
 ### Fonctions des oscillateurs cérébraux
 
@@ -53,20 +53,20 @@ Les bénéfices spécifiques liés à chacun de ces deux types d'oscillateur dé
 
 Input puissant -> réponse des neurones & réseaux par des oscillations transitoires.
 - [[Membrane neuronale]] : [[conductance]] et [[capacitance]] de fuite --> filtre passe bas. 
-- Courants dirigés par un seuil de tension, dont la l'[[activité|activation]] est proche du potentiel au repos de la membrane --> filtre passe haut. Permet au [[neurone]] de répondre à des arrivés rapides de signaux proches.
+- Courants dirigés par un seuil de tension, dont la l'activation est proche du potentiel au repos de la membrane --> filtre passe haut. Permet au [[neurone]] de répondre à des arrivés rapides de signaux proches.
 --> **passe bas & passe haut : résonateurs, coupe bande, oscillateurs à seuil réduit, passe bande**.  
 
 Comportement de résonance, permet la sélection d'input à partir de leur caractéristique fréquentielle. Changement de potentiel/[[conductance]] de la membrane = changement de fréquence de préférence. 
 
 - [[Interneurones]] corticaux: capacité à modifier leur fréquence et modifient ainsi la dynamique de leur réseau. 
-	- Ex: [[cellule pyramidale]] dont les décharges haute fréquence entraine les basket cells (cellules de Purkinje) en résonnance, supprimant ainsi l'[[activité]] des autres [[cellule pyramidale|cellules pyramidales]] avoisinante. 
+	- Ex: [[cellule pyramidale]] dont les décharges haute fréquence entraine les basket cells (cellules de Purkinje) en résonnance, supprimant ainsi l'activité autres [[cellule pyramidale|cellules pyramidales]] avoisinante. 
 
 - Résonateurs/oscillateur à seuil réduit: détection & amplification de signaux faibles.
 	- Ex: cortical feedback jusqu'au [[thalamus]] --> amplification des oscillations thalamo-corticale. 
 
 De manière générale: 
 - Les oscillations des réseaux permettent la mise en place de "[[fenêtre d'opportunité]]", en abaissant le voltage nécessaire à la [[perception]] d'un signal en modifiant le [[potentiel membranaire|potentiel de la membrane]] cellulaire. un input bien timé nécessite donc une énergie plus faible pour entrainer une réponse --> [[efficacité énergétique]]. 
-	- Ex : Dans l'[[hippocampe]], les [[spike]]  en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via [[activité]] [[NMDA]] ?) alors qu'une [[activité|activation]] en décalage de phase amoindri des inputs renforcés préalablement (3). 
+	- Ex : Dans l'[[hippocampe]], les [[spike]]  en phase avec les [[oscillations theta]] entraine une potentialisation à long terme [[LTP]] (via activité [[NMDA]] ?) alors qu'une activation en décalage de phase amoindri des inputs renforcés préalablement (3). 
 
 De manière analogue, des signaux déphasés peuvent supprimé les oscillations d'un réseau, comme c'est le cas dans l'[[hippocampe]], lorsque que [[gyrus denté]] [[spike|décharge]] en déphasage des [[oscillations gamma]]  présentes dans l'[[hippocampe]], les annulant. 
 
@@ -82,11 +82,11 @@ Il semblerait que l'information soit traitée/transférée/stockée par des [[as
 
 Les oscillations sont une caractéristique intrinsèque des systèmes à l'équilibre et sont définies par les constantes de temps de leurs composants.
 - Des réseaux construits à partir de cellules pyramidale sans oscillations (reproduction d'un réseau [[feed-forward]] in vitro à partir d'une slice de cortex de rat) produisent spontanément et maintiennent des oscillations (6). 
-- Le pattern d'[[activité]] neuronale dépend non seulement de son architecture précise mais aussi de ses conditions initiales, et, en l'absence de perturbation, la séquence d'[[activité]] neuronale se répète indéfiniment dans un système sans bruit. 
+- Le pattern d'activité neuronale dépend non seulement de son architecture précise mais aussi de ses conditions initiales, et, en l'absence de perturbation, la séquence d'activité neuronale se répète indéfiniment dans un système sans bruit. 
 --> les conditions générant un rythme sont "gelées" dans la nature [[déterministe]] de la dynamique oscillatoire. (affirmation puissante, à vérifier à l'avenir)
 
 - Etat par défaut du cerveau endormis = système complexe présentant une [[association]] complexe d'oscillation auto-générées. - particulièrement dans le système [[système thalamo-cortical]] -
-- Ces oscillations contiennent des [[spike|spikes]] représentant les [[activité|activités]] effectuées plus tôt dans la journée (complexe K)
+- Ces oscillations contiennent des [[spike|spikes]] représentant les  effectuées plus tôt dans la journée (complexe K)
 	-  Replay durant le [[sommeil]] , [[consolidation]] des modifications structurales des [[synapses]].
 		- Répétition des expériences : sommeil profond.
 
@@ -97,18 +97,18 @@ Les oscillations sont une caractéristique intrinsèque des systèmes à l'équi
 
 Le [[spike|spiking]] des neurones dans un système oscillant est sous l'influence de (8):
 
-*  Input externes - un input faible entrainera un input tardif par rapport à un input puissant entrainent une [[dépolarisation]] plus forte, rapprochant plus fortement le [[potentiel membranaire]] de son seuil et donc une [[activité|activation]] en avance de phase. 
+*  Input externes - un input faible entrainera un input tardif par rapport à un input puissant entrainent une [[dépolarisation]] plus forte, rapprochant plus fortement le [[potentiel membranaire]] de son seuil et donc une activation en avance de phase. 
 
 - Dynamique interne du réseau - Couplage rythmique d'[[inhibition]] somatique (frein) et [[dépolarisation]] dendritique (accel.)
 
-Si l'oscillation d'[[inhibition]] somatique est stable mais que la [[dépolarisation]] dendritique augmente, le seuil d'[[activité|activation]] sera atteint plus tôt lors des cycles d'[[inhibition]].
+Si l'oscillation d'[[inhibition]] somatique est stable mais que la [[dépolarisation]] dendritique augmente, le seuil d'activation sera atteint plus tôt lors des cycles d'[[inhibition]].
 
 -  Input <font color='red'>puissant</font> = [[spike]] <font color='red'>plus tôt</font> - propriété universelle des système oscillants.
  
 Avance de phase croissant (phase-shift) des potentiels d'action élevé peut être exploité pour du stockage d'information à cours terme (9).
 
 Exemple de la première expérimentation permettant de conclure sur l'<u>utilisation de la phase comme vecteur d'information</u>:
-- Mesure de l'[[activité]] d'<font color='red'>une</font> [[cellule pyramidale]] ([[place cells]]) dans l'[[hippocampe]] d'un rat:
+- Mesure de l'activité d'<font color='red'>une</font> [[cellule pyramidale]] ([[place cells]]) dans l'[[hippocampe]] d'un rat:
 	- Déplacement du timing des [[spike|spikes]] de cette cellule: plus le rat se rapproche de la zone activant cette cellule, plus elle s'exprime dans un creux de l'[[oscillations theta|onde Theta]].
 ![[Pasted image 20241029113942.png]]
 

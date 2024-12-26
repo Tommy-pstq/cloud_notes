@@ -2,4 +2,5 @@
 aliases:
   - bilatérales
   - bilatéraux
+  - bilatéral
 ---

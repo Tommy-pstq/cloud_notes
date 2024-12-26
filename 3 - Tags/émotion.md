@@ -4,6 +4,7 @@ aliases:
   - émotionnelle
   - émotionnels
   - émotionnelles
+  - émotions
 ---
 7 émotions basiques universelles:
 - Colère

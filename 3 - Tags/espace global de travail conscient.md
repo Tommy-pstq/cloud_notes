@@ -4,4 +4,4 @@
 			- La mémorisation explicite 
 			- La verbalisation
 			- La réaction motrice
-			- L'intégrer à la planification.
+			- L'intégrer à la [[planification]].

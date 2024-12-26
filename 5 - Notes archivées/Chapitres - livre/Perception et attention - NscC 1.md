@@ -55,7 +55,7 @@ L'[[attention]] peut se déployer sur des attributs (Ex: couleur rouge), et tous
 Ce phénomène fournit des informations sur la manière dont les données visuelles sont représentées au niveau [[psychologie|psychologique]] & cérébral : les attributs sont indépendants et peuvent être assemblés pour créer des objets. 
 
 Mécanisme d'[[assemblage]] des attributs en un élément sémantiquement signifiant : encore incertain.
-		- Liage par [[activité]] [[synchronicité|synchrone]] 
+		- Liage par activité [[synchronicité|synchrone]] 
 		- cohérence de phase des [[oscillation neuronale|oscillations neuronales]]
 		- oscillations imbriquées
 
@@ -80,7 +80,7 @@ Lorsque l'on porte son [[attention]] sur un objet: la sensibilité au contraste 
 L'[[attention]] accentue la [[perception]] du contraste, de la fréquence (apparence + détaillée), plus coloré (saturation +), direction d'un nuage de points plus marquée/cohérente
 ### Bases neurales de la facilitation attentionnelle
 
-Démontré : l'[[attention]] modifie l'[[activité]] neurale dans de nombreuses aires:
+Démontré : l'[[attention]] modifie l'activité neurale dans de nombreuses aires:
 - Traitement précoce (visuel V1)
 - [[association|associatives]]: [[lobe temporal médian]].
 
@@ -92,7 +92,7 @@ Ex pour les neurones visuels, répondant à un [[stimulus]] précis (ex : une co
 
 ![[20241109_181913.jpg|400]]
 
-- Focalisation sur une région spécifique du champ visuel -> modulation de l'[[activité]] dans les aires rétinotopiques associées.
+- Focalisation sur une région spécifique du champ visuel -> modulation de l'activité dans les aires rétinotopiques associées.
 	- A priori via des connections feedback venant des aires supérieures. (2)
 
 ### Enjeux sociétaux 

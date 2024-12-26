@@ -84,9 +84,9 @@ En plus : "neurones pauseurs" dans le tronc cérébral peuvent bloquer l'exécut
 
 Comment passe-t-on d'un geste nouveau à un geste automatisé ?
 
-- [[apprentissage]] de séquences de mouvement = [[activité|activation]] d'aires spécialisées dans le [[cortex préfrontal]].
+- [[apprentissage]] de séquences de mouvement = activation d'aires spécialisées dans le [[cortex préfrontal]].
 	- Valable pour des gestes de la main comme pour les mouvement oculaires.
-- Une fois le geste appris, disparition de l'[[activité]] dans le [[cortex préfrontal|PFC]] (-> capacité d'[[apprentissage]] disponible à nouveau) au profit de celle dans l'[[aire motrice supplémentaire]]. 
+- Une fois le geste appris, disparition de l'activités le [[cortex préfrontal|PFC]] (-> capacité d'[[apprentissage]] disponible à nouveau) au profit de celle dans l'[[aire motrice supplémentaire]]. 
 
 ### II - 5 Lois du mouvement naturel
 
@@ -109,7 +109,7 @@ On ne décrit comme se déplaçant à vitesse constante qu'un objet se déplaça
 Il existe une loi entre les angles d'élévation (co-variation planaire) des différents segments mis en jeux lors de la réalisation d'un mouvement.
 Elle s'applique peu important l'amplitude du mouvement. La gestion de la coordination fine est reléguée à la moëlle épinière, évitant ainsi le contrôle individuel de chacun des muscles impliqué dans un geste.
 
-Cette variation co-planaire est programmée génétiquement mais nécessite l'[[activité]] pour se mettre en place (Si on immobilise un bébé, cela peut par conséquent entrainer des problèmes de locomotion plus tard). 
+Cette variation co-planaire est programmée génétiquement mais nécessite l'activité pour se mettre en place (Si on immobilise un bébé, cela peut par conséquent entrainer des problèmes de locomotion plus tard). 
 	- > Exemple de la relation complémentaire entre [[génétique]] & expérience dans la spécialisation des fonctions sensori-motrices. 
 
 Comme précédemment, ces lois ne contraignent pas uniquement la production du mouvement, mais aussi sa [[perception]]. 
@@ -199,11 +199,11 @@ Les relations vitesse/courbures, les formes du dessin manuel & de la marche sont
 [[psychologie]] : utilisation de simulation & imagerie mentale.
 réhabilitation : imagerie motrice
 
-Découverte initiale : mesure de l'[[activité]] neurale d'un singe mangeant une cacahuète. Le chercher a décidé d'en manger une également et une [[activité]] identique a été observée. 
+Découverte initiale : mesure de l'activité neurale d'un singe mangeant une cacahuète. Le chercher a décidé d'en manger une également et une activité identique a été observée. 
 
 Les neurones que l'on pensait pré-moteurs sont en fait responsable du codage de l'action elle-même. Ils s'activent lors de l'observations d'une action ou de son exécution.
 
-l'[[activité|activation]] du [[système miroir]] pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
+l'activation du [[système miroir]] pour les aires en étant doté est d'autant plus grande que l'on est familier du phénomène observé.
 	- Un sportif pro regardant son sport aura bien plus l'impression de le pratique, de manière plus précise qu'un amateur ou un non-initié. 
 
 - Peut d'études neuropharmacologiques de cette simulation.
@@ -250,7 +250,7 @@ Cerveau droit : catégorisation globale, représentation cartographique
 
 ### VII - 5 Différences entre les sexes
 
-Tâche de [[navigation]] virtuelle: [[activité|activation]] de zones cérébrales différentes. 
+Tâche de [[navigation]] virtuelle: activation de zones cérébrales différentes. 
 Le traitement de l'espace n'est pas effectué de la même manière. 
 
 - Neuropharmacologie:

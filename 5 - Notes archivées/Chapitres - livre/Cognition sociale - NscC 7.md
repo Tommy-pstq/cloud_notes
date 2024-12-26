@@ -80,7 +80,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 	- Méta-analyses:
 		- Traitement des émotions = <u>de manière distribuée</u> dans des réseaux de régions cérébrales plutôt que dans des régions spécifiques. 
-			- Différents réseaux neuronaux sont [[activité|activités]] en fonction des différentes émotions perçues.
+			- Différents réseaux neuronaux sont  en fonction des différentes émotions perçues.
 		- Quelques régions clés:
 			-  [[perception]] des émotions du visages : [[sillon temporal supérieur]]
 			- Identification visage : [[gyrus fusiforme]] 
@@ -152,7 +152,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 			- Ex: Un joueur pro prédit bien mieux un tir qu'un néophyte 
 	- [[apprentissage]] de nouveaux mouvements corporels:
 		- Modifie l'activité cérébrale & les réponses physiologiques (électrodermales et activité muscles fasciaux) lorsque ce mouvement est effectué par autrui. 
-			- -> L'expérience acquise avec le mouvement observé modifie l'[[activité|activation]] des aires prémotrices et pariétales : plus l'observateur à acquis d'expérience, plus elles sont activées. *(l'individu dispose d'un espace latent plus "dense" ou "étendu" pour représenter ce qu'iel observe puisqu'il l'a travaillé)*
+			- -> L'expérience acquise avec le mouvement observé modifie l'activation des aires prémotrices et pariétales : plus l'observateur à acquis d'expérience, plus elles sont activées. *(l'individu dispose d'un espace latent plus "dense" ou "étendu" pour représenter ce qu'iel observe puisqu'il l'a travaillé)*
 
 <u>Chevauchement entre représentation de soi et autrui</u>
 - [[psychologie]] [[social|sociale]] & développementale:
@@ -164,7 +164,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - Zones cruciales: [[insula]] et [[cortex pariétal inférieur droit]]. 
 	- Lobe pariétal inférieur droit: 
 		- Sens subjectif d'agentivité dans l'action.
-		- [[activité|activation]] lors d'une imitation réciproque
+		- activation lors d'une imitation réciproque
 		- TMS : expérience de sortie de corps (dissociation du soi et de son propre corps)
 
 ### Plasticité de la représentation de soi-autrui
@@ -185,7 +185,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - [[troubles psychiatriques]]:
 	- [[schizophrénie]] : entraine une frontière corporelle extrêmement floue ou variable entre l'individu et les autres 
 	- [[TSA]] : frontière plus marquée que la moyenne. 
-	- Récentes découvertes en modélisation du comportement: un entrainement multisensoriel axé sur l'affinement ([[schizophrénie]]) ou la réduction ([[TSA|autisme]]) de la limite entre soi et les autres pourrait être bénéfique dans le traitement de ces troubles. 
+	- Récentes découvertes en modélisation du comportement: un entrainement [[multisensoriel]] axé sur l'affinement ([[schizophrénie]]) ou la réduction ([[TSA|autisme]]) de la limite entre soi et les autres pourrait être bénéfique dans le traitement de ces troubles. 
 
 ### Perception d'autrui : prise de perspective et empathie
 
@@ -214,7 +214,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 	- Facteurs influençant l'[[empathie]]: 
 		- Caractéristique de l'observateur et de l'individu souffrant d'une affliction
 		- Relation affective et [[social|sociale]]
-			- Stimulation douloureuse sur la/le partenaire : [[activité|activation]] bien plus importante d'une zone lié à l'empathie que lors de cette même stimulation sur un inconnu.
+			- Stimulation douloureuse sur la/le partenaire : activation bien plus importante d'une zone lié à l'empathie que lors de cette même stimulation sur un inconnu.
 			- Phénomène similaire si une relation de confiance ou méfiance a été établis entre l'observateur de l'autre individu 
 			- Groupes ethniques 
 	- -> Dépend de la nature des relations [[social|sociales]]. 

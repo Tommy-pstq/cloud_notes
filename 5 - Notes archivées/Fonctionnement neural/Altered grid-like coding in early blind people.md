@@ -31,7 +31,7 @@ Tags:
 		- Réponses  dépendant d'inférences basés sur les relations entre les positions des différents nombres à l'intérieur de l'horologe
 	- Comparaison navigations VS tâches arithmétique
 		- Vérification que les [[circuit neuronaux|circuits neuronaux]] liés à la [[navigation]] sont les mêmes pour les deux groupes. 
-		- Tâche arithmétique : permet d'avoir une référence sans [[activité|activation]] de l'[[hippocampe]]. 
+		- Tâche arithmétique : permet d'avoir une référence sans activation de l'[[hippocampe]]. 
 	- Tâche de navigation:
 		- Position de départ + position cible, participants doivent s'imaginer effectuer ce trajet.
 			- Ensuite : Annonce d'une position supplémentaire, les participants doivent répondre si elle se trouve à gauche ou droite de leur position d'arrivée.
@@ -92,7 +92,7 @@ Tags:
 
 #### Comparé aux individus contrôles, les personnes atteintes de cécité précoce se reposent davantage sur les informations égocentriques dans les activités de tous les jours et sont moins performantes dans les tâches de navigation réelles. 
 
-- Pour étudier les performances dans des [[activité|activités]] hors laboratoire: questionnaire. 
+- Pour étudier les performances dans des stionnaire. 
 	- Calcul d'un score de confiance dans la navigation
 	- Usage relatif des stratégies allocentrique ou égocentrique
 		- score dRS : valeur positive = favorise les stratégies [[égocentrique|égocentriques]].

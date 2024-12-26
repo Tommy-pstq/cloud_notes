@@ -1,7 +1,6 @@
 
-*Last update: 24/12/2024*
-![[Pasted image 20241224181707.png]]
-
+*Last update: 26/12/2024*
+![[Pasted image 20241226132203.png]]
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
@@ -12,7 +11,7 @@
 - Où est le sens, Stephan Bohler. *2022*
 - Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) *09-2024*
 
-- [ ] Neurosciences cognitives (De boeck) *10-2024*:  
+- [x] Neurosciences cognitives (De boeck) *10-2024*:  
 	- [x] Perception et attention *11-2024*
 	- [x] Le cerveau, le mouvement et les espace *11-2024*
 	- [x] Etudes des systèmes de mémoire dans le cadre d'un comportement : la navigation *11-2024*
@@ -20,8 +19,8 @@
 	- [x] Neurolinguistique *11-2024*
 	- [x] Conscience et métacognition *12-2024*
 	- [x] Cognition sociale *12-2024* 
-	- [x] Psychologie et neurosciences, enjeux pour l'éducation
-	- [ ] Initiation à la modélisation computationnelle 
+	- [x] Psychologie et neurosciences, enjeux pour l'éducation *12-2024*
+	- [x] Initiation à la modélisation computationnelle *12-2024*
 
 - [x] Neurobiologie des émotions, 2022, Catherine Belzung *10-2024* 
 

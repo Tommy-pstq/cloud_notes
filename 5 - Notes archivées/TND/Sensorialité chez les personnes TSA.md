@@ -1,6 +1,6 @@
 2024-10-14 21:13
 
-Status: Closed
+
 
 Tags: [[TSA]] [[inhibition]] [[stimulus|stimuli]] [[social]] 
 
@@ -23,7 +23,7 @@ Nécessite des études sur d'autres motif neuronaux basique impactés dans le [[
 ##### Différence de [[perception visuelle]].
 
 - Biais (inexpliqué) en faveur des caractéristiques locales par rapport aux globales.
-	- Détection plus rapide de détails unique dans des visuels complexes // individus non [[TSA]]
+	- Détection plus rapide de détails uniques dans des visuels complexes // individus non [[TSA]]
 	- Mesure des schémas d'observation par mesure du regard associé à du machine learning --> les personnes avec [[TSA]] favorisent les régions présentant une saillance de pixel élevée, alors que la population générale se concentre sur les zones contenant des objets ou ayant une valeur sémantique.
  - [[Rivalité binoculaire]] moins efficace que dans la population générale. 
 Cependant: l'acuité visuelle, la discrimination de contraste ou d'orientation ne sont pas impactés, les performances  sont semblable à la population globale.
@@ -41,30 +41,29 @@ Valable pour des sons purs - une note précise - comme pour des signaux complexe
 --> La [[fenêtre d'intégration temporelle]] est allongée. 
 -> Produit fort probablement un impact dans la [[communication]] et donc [[social|sociabilisation]]. 
 
-##### Association [[mutlisens]]orielle 
+##### Association mutlisensorielle 
 L'association audio-visuelle est plus longue: un son et un signal visuel seront perçus comme [[synchronicité|synchrone]] pendant un intervalle [[temporalité|temporel]] plus long que dans la population générale. 
 En plus : pop G. voit ses performances de détection d'un [[stimulus]] visuel amélioré quand il est précédé d'un son, cet effet bénéfique de la multisensorialité est réduit en pop [[TSA]].
 
--> [[stimulus|stimuli]] asynchrone perçu comme [[synchronicité|synchrones]] et leur [[association]] n'est pas aussi bénéfique qu'en popG.
+-> [[stimulus|stimuli]] asynchrones perçus comme [[synchronicité|synchrones]] et leur [[association]] n'est pas aussi bénéfique qu'en popG.
 
-Le déficit d'[[association]] est particulièrement observé lors de l'étude de modalité audio-visuelles et peuvent constitué un frein conséquent au développement du langage et de la [[communication]] ([[The cascading influence of multisensory processing on speech perception in autism|Note ici]]) 
-
+Le déficit d'[[association]] est particulièrement observé lors de l'étude de modalité audio-visuelles et peut constituer un frein conséquent au développement du langage et de la [[communication]] ([[The cascading influence of multisensory processing on speech perception in autism|Note ici]]) 
 
 ##### Neuro-Imagerie
 Signature neuronale de l'[[TSA|autisme]] visible dans les zones traitements primaires de l'information, voire dans les zone [[perception|perceptives]].
--> Les [[fonctions supérieures]] sont peut être impactées, mais cela ne suffit à expliquer pas la différence d'[[activité]] dans ces zones.
+-> Les [[fonctions supérieures]] sont peut être impactées, mais cela ne suffit à expliquer pas la différence d'activités ces zones.
 
 ###### Vision 
 - La [[régulation]] des fonctions visuelles via les [[GABA]] n'est pas effectuée de manière aussi performante que dans la population générale. Cela explique le déficit de [[Rivalité binoculaire]].
-- La population neuronale responsable des champs [[récepteurs]] est différentes. La vision périphérique est plus représentée que dans la pop G.
+- La population neuronale responsable des [[champ récepteur||champs récepteurs]] est différentes. La [[vision périphérique]] est plus représentée que dans la pop G.
 - Les potentiels évoqués sont moins pertinents ("reliable" dans l'article)
 ###### Général
 Déficience similaire [[GABA]] observée également dans les cortex auditifs & somatosenseur 
-	--> Déficit d'[[activité]] inhibitrice dans plusieurs régions corticales
+	--> Déficit d'activité inhibitrice dans plusieurs régions corticales
 	Cependant : pas d'explication claire & certaine à ces observations.
 		- Manque de [[neurotransmetteurs]] [[GABA]] ?
 		- Manque de présence ou intégrité altérée des [[récepteurs]] [[GABA]] ?
-		- Polarisation altérée de l'[[activité]] GABAergic lors du neurodéveloppement ?
+		- Polarisation altérée de l'activité GABAergic lors du neurodéveloppement ?
 		- Densité en [[interneurones inhibiteurs]] réduite dans les régions corticales ?
 
 

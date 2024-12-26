@@ -1,6 +1,0 @@
----
-aliases:
-  - activation
-  - activations
-  - activités
----

@@ -5,7 +5,7 @@ aliases:
   - régions limbiques
   - région limbique
 ---
-perception, régulation et [[mémoire émotionnelle]]
+perception, [[régulation]] et [[mémoire émotionnelle]]
 
 composé de :
 - [[hippocampe]]

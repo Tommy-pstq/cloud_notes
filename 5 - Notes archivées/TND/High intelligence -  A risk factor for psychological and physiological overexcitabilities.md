@@ -50,7 +50,7 @@ Individus "s'inquiétant" plus souvent = meilleures perfs aux test de QI
 HQI + OE : [[stimulus|stimuli]] normaux peuvent devenir douloureux. 
 	-> génère un [[stress]] chronique léger.
 		-> sensation de danger pour le corps.
-			-> [[activité|activation]] chronique du [[système nerveux]] [[sympathique]].
+			-> activation chronique du [[système nerveux]] [[sympathique]].
 				-> Dérégulation [[immunitaire]]. 
 		-> réponse [[immunitaire]] innapropriée. 
 
@@ -97,15 +97,15 @@ Troubles psy: évalués selon le DSM-IV. Donc gros changement pour le [[TSA]] li
 
 - [[Stress]]  (env. & psycho) impact l'axe hypothalamo-pituitaire-adrenale (HPA), principalement le [[stress]] chronique. 
 - HPA prépare le corps pour une réponse "fight, flight or freeze". Pas de distinction entre menaces réelles & percues.
-	- [[activité|activation]] chronique de cette réponse: détériore l'organisme. 
+	- activation chronique de cette réponse: détériore l'organisme. 
 
- OE --> [[activité|activation]] continue du HPA/
+ OE --> activation continue du HPA/
 
   - Surconnection au sein de [[circuit neuronaux]] --> favorise la rumination.
-	  - Individus en état de [[dépression]] majeure présente des [[synchronicité]] au travers toute les fréquences d'[[activité]] neuronale
-		  - Connectivité supérieures entre aires du cerveaux dont l'[[activité]] semble ne pas s'arrêter, particulièrement le [[cortex préfrontal]] 
+	  - Individus en état de [[dépression]] majeure présente des [[synchronicité]] au travers toute les fréquences d'activitéronale
+		  - Connectivité supérieures entre aires du cerveaux dont l'activité semble ne pas s'arrêter, particulièrement le [[cortex préfrontal]] 
 - Autre théorie (mentionné dans un podcast de Huberman sur le [[TDAH]]) :
-	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'[[activité]] environnementale. Permet la projection [[temporalité|temporelle]] dans le future et de réagir à nos jugements & expériences (1-4,5). 
+	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'activité environnementale. Permet la projection [[temporalité|temporelle]] dans le future et de réagir à nos jugements & expériences (1-4,5). 
 		- Normalement actif quand l'esprit divague sans but précis et s'arrête lorsque l'individu se focus sur une tâche. 
 			- Individus avec [[trouble de l'humeur]] ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
 - [[dépression]] & [[anxiété]] liés à des réponses inflammatoires majorées. 
@@ -146,9 +146,9 @@ Dr. Michael J. Goldberg (chercheur & pédiatre) a suggéré :
 	- -> Classification médicale pour les troubles ou maladies qui ont des impacts [[troubles psychiatriques|psychiatrique]] ou développementaux causé par une atteinte neuro-immune, affectant les [[fonctions cognitives]] et corporelles. Certains individus, de par leur profil [[génétique]] y sont plus sensibles. (1-8)
 
 La [[régulation]] [[immunitaire]] est un équilibre entre réactions pro- et anti-inflammatoires. Idéalement nulles en absence d'inflammation, intense lorsque nécessaire et retournant à un état de repos rapidement.   
-Dans le cas d'individus présentant des OEs, y compris [[TSA|ASD]], cette [[régulation]] ne trouve pas d'équilibre et entraine des [[activité|activations]] inflammatoires chroniques.
+Dans le cas d'individus présentant des OEs, y compris [[TSA|ASD]], cette [[régulation]] ne trouve pas d'équilibre et entraine des activations inflammatoires chroniques.
 	-> On trouve dans des cerveaux de [[TSA]], au niveau des cellules astro[[gliales]] et microgliales, des conséquences de cette dysrégulations:
-		- Ces cellules sont plus grosses que la normales en réponses à des [[activité|activations]] chroniques en réponse à des influx des signaux pro-inflammatoires (2 études citées)
+		- Ces cellules sont plus grosses que la normales en réponses à des activations chroniques en réponse à des influx des signaux pro-inflammatoires (2 études citées)
 - Les [[génétique|gènes]] impliqués dans cette dysrégulation semble s'activer en réponse à un antigène ou à un stade précoce du développement (1-3 ans).
 
 	--> Pas mal d'éléments supplémentaires concernant la théorie autoimmune du [[TSA]]. Dont 1 citant un transfère mère -> enfant mâle expliquant la prévalence du [[TSA]] masculin. Sauf qu'on est vraiment sûr de ça ou c'est juste dû à la méconnaissance du [[TSA]] féminin ? 
@@ -160,7 +160,7 @@ Dans le cas d'individus présentant des OEs, y compris [[TSA|ASD]], cette [[rég
 
 - Etude 2014 (Van Elst et al) via spectroscopie à résonance magnétique :
 	- Autoimmune process & instabilité de réseaux neuronaux 
-		- -> Sur-[[activité|activation]] cingulaire
+		- -> Sur-activation cingulaire
 			- -> Processus de [[régulation]] d'[[inhibition]] neuronale
 				- -> symptômes [[TSA]]
 	--> Rôle d'une dysrégulation des processus  immunorégulatoire et neuroinflammatoire dans le [[SNC]] dans le [[TSA]] .(?)
@@ -169,7 +169,7 @@ Cerveau d'individus [[TSA]] : montre des signes d'inflammation chronique dans le
 Zones présentant une hyper-production de matière blanche montrent aussi des signes d'inflammation et une production accrue de cytokines pro- et anti-inflammatoire par les neuroglie.
 
 Etude de tissus de cerveau d'individus [[TSA]] post-mortem : traces de neuroinflammation dans le cortex cérébral  et [[cervelet]]. 
-	- [[activité|activation]] cellulaire des cellules [[gliales|astrogliales]] et microgliales présentant un pattern de cytokine altéré.
+	- activation cellulaire des cellules [[gliales|astrogliales]] et microgliales présentant un pattern de cytokine altéré.
 
 --> Réponse [[immunitaire]] aberrante des cellules [[gliales]] pourrait influencer les fonctions et le développement neuronal, induisant un [[TSA]].
 
@@ -204,4 +204,4 @@ Cependant, ces études montrent en général un lien positif également entre in
 	5. Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A [[default mode]] of brain function. Proceedings of the National Academy of Sciences of the United States of America, 98, 676–682. http://dx.doi.org/10.1073/pnas. 98.2.676.
 	6. Anticevic, A., Cole, M. W., Murray, J. D., Corlett, P. R., Wang, X. J., & Krystal, J. H. (2012). The role of default network deactivation in cognition and disease. Trends in [[cognition|cognitive]] Sciences, 16, 584–592. http://dx.doi.org/10.1016/j.tics.2012.10.008.
 	7. Velázquez, J. L., & Galán, R. F. (2013). Information gain in the brain's resting state: A new perspective on autism. Frontiers in Neuroinformatics, 7, 1–10. http://dx.doi.org/10.3389/fninf.2013.00037.
-	8. Vargas, D. L., Nascimbene, C., Krishnan, C., Zimmerman, A. W., & Pardo, C. A. (2005). Neuroglial [[activité|activation]] and neuroinflammation in the brain of patients with autism. Annals of Neurology, 57, 67–81. http://dx.doi.org/10.1002/ana.20315.
+	8. Vargas, D. L., Nascimbene, C., Krishnan, C., Zimmerman, A. W., & Pardo, C. A. (2005). Neuroglial activation and neuroinflammation in the brain of patients with autism. Annals of Neurology, 57, 67–81. http://dx.doi.org/10.1002/ana.20315.

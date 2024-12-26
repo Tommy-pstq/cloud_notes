@@ -1,6 +1,5 @@
 - Détection de menace
 - Rôle de "détecteur de la pertinence" :
 	- Menace
-	- Info émotionnelles
+	- Info [[émotion|émotionnelles]]
 	- signaux sociaux
-	- 

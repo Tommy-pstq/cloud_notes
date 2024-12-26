@@ -1,5 +1,8 @@
 [
   "obisidian-note-linker",
   "obsidian-wrap-with-shortcuts",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "mathlive",
+  "global-search-and-replace",
+  "tag-wrangler"
 ]

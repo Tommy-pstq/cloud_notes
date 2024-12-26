@@ -52,7 +52,7 @@ En se basant sur un mode de [[cognition]] interne plutôt que basé sur l'enviro
 
 #### Objectif du papier
 
-En utilisant l' [[activation likelihood estimation]], établir s'il y a une correspondance dans l'[[activité]] neuronale lors des différents processus mentaux mentionnés ci-dessus, à travers les données de multiples études (Revues par les paires : 1985 - 2007).
+En utilisant l' [[activation likelihood estimation]], établir s'il y a une correspondance dans l'activité neuronale lors des différents processus mentaux mentionnés ci-dessus, à travers les données de multiples études (Revues par les paires : 1985 - 2007).
 *(spoiler, on sait déjà que c'est le cas pour certains d'entre eux à partir des papiers qu'on a déjà lus hehe)* 
 
 
@@ -82,12 +82,12 @@ Si on omet la navigation, les régions suivantes sont communes:
 *Pas repris tous les éléments du papier, à relire si nécessaire*
 #### Lobe temporal médian 
 
-- Tous les domaines présentent une [[activité|activation]] du lobe gauche
+- Tous les domaines présentent une activation du lobe gauche
 - Overlap direct avec le gyrus parahippocampale gauche
 - Tous sauf le [[default mode|mode par défaut]]: [[hippocampe]] gauche. 
 - Mémoire autobiographique : montre des clusters plus étendus côté gauche que les autres tâches. 
-- Navigation : [[activité|activation]] [[bilatérale]], extension postérieure supérieure à la mémoire autobiographique. 
-- Prospection : [[parahippocampe]] & hippocampe en bilatéral. 
+- Navigation : activation [[bilatérale]], extension postérieure supérieure à la mémoire autobiographique. 
+- Prospection : [[parahippocampe]] & hippocampe en [[bilatérale|bilatéral]]. 
 
 #### Régions pariétales médianes
 

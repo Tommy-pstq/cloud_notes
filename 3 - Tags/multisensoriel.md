@@ -1,0 +1,6 @@
+---
+aliases:
+  - multisensorielle
+  - multisensoriels
+  - multisensorielles
+---

@@ -45,13 +45,13 @@ Repos d'une durée inférieure au besoin (à partir de <font color='red'>20 minu
 - **Augmentation du risque de maladies graves**:
 	- cardiovasculaires (8ème facteur)
 	- [[cognition|cognitifs]] : <font color='red'>apparition de marqueurs similaires à la maladie d'Alzheimer</font>.
-		- Le [[sommeil]] permet l'[[activité|activation]] du système lymphatique et son équivalent cérébral qui vient nettoyer les cellules et espaces inter-cellulaires.
+		- Le [[sommeil]] permet l'activation du système lymphatique et son équivalent cérébral qui vient nettoyer les cellules et espaces inter-cellulaires.
 	- immunitaires
 - Impact sur le métabolisme (prise/perte de poids)
 
 #### **Sommeil et immunité**
 
-Pendant le sommeil : [[activité|activation]] de certaines cellules immunitaires.
+Pendant le sommeil : activation de certaines cellules immunitaires.
 
 - <font color='red'>UNE</font> nuit de 4h réduit l’efficacité des lymphocytes T de<font color='red'> 70 %</font>.
 - Manque de sommeil associé à une fragilité [[immunitaire]] accrue.
@@ -98,7 +98,7 @@ Quand consulter ?
 
 - Eviter de s'en inquiéter/culpabiliser mais plutôt chercher des solutions:
 	- Se considérer en situation "de crise" ou de vulnérabilité (analogie batterie téléphone, il fonctionne avec 80% mais peut pas tout faire)
-			- Réduction des [[activité|activités]] / charge de travail
+			- Réduction des  / charge de travail
 			- Sieste courte 
 	- Chercher à revenir à son équilibre
 
@@ -177,7 +177,7 @@ Potentiellement présents toute la journée en cas de dette de sommeil, majorés
 
 #### **Les neurotransmetteurs et le sommeil**
 
-Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'équilibre de leurs [[activité|activités]] antagonistes. 
+Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'équilibre de leurs  antagonistes. 
 
 - **[[sérotonine|Sérotonine]]** : apaisement, [[Régulation]] de l’humeur et du [[stress]], convertie en mélatonine.
 - **[[noradénaline||Noradrénaline]]** : éveil, [[motivation]]. (dérivé de la dopamine)
@@ -226,7 +226,7 @@ Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'
 		- Autre [[stimulus|stimuli]] (faim, pipi ...)
 	- Evite de prolonger le décalage sur les jours suivants
 
- **Rituel apaisant avant le coucher** : [[activité|activités]] calmes sans écran.
+ **Rituel apaisant avant le coucher** :  calmes sans écran.
 
 <u>Objectif</u> : trouver un équilibre qui te permet d'avoir des événements festifs.
 <u>Lâcher prise</u>: "Celui qui dort bien c'est celui qui n'a pas à s'en soucier"

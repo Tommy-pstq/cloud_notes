@@ -53,7 +53,7 @@
 
 	- <u>Action centrale de l'OT dans l'hippocampe</u> 
 		- Focus sur les effets spatial & social lié à la territorialité 
-		- Rongeurs: présence d' OTR dans tous l'[[hippocampe]] et majoritairement dans les zones [[CA3]] & CA2 et dans le cortex entorhinal. 
+		- Rongeurs: présence d' OTR dans tous l'[[hippocampe]] et majoritairement dans les zones [[CA3]] & CA2 et dans le [[cortex entorhinal]]. 
 			- Campagnols de prairie (monogames & territorial) : le schéma d'expression des OTR dans l'hippocampe est prédictif du type de comportement territorial. 
 		
 		- Expression d'OTR dans l'hippocampe/[[cortex entorhinal]] observée également chez des primates

@@ -70,7 +70,7 @@ Conscience = matériau subjectif par excellence, la donnée la plus privée qui 
 			- Le déficit relève d'une difficulté à orienter l'[[attention]] vers la moitié gauche du monde plutôt que d'un problème [[sensorialité|sensoriel]] 
 				- Les infos [[sensorialité|sensorielles]] sont probablement encore traitées, mais de manière implicite, validé par IRMf:
 					- Maison du côté [[conscience|conscient]], et soit rien soit un visage du côté aveugle. 
-						- Soustraction des [[activité|activités]] cérébrales mesurées: lorsqu'un visage est présent, il y a une activité dans les aires visuelles primaires et celles spécialisé dans la reconnaissance des visage ([[gyrus fusiforme]])
+						- Soustraction des  cérébrales mesurées: lorsqu'un visage est présent, il y a une activité dans les aires visuelles primaires et celles spécialisé dans la reconnaissance des visage ([[gyrus fusiforme]])
 
 
 Le traitement inconscient d'information n'est pas exclusif à des cas pathologiques. 
@@ -92,7 +92,7 @@ Le traitement inconscient d'information n'est pas exclusif à des cas pathologiq
 Pas mal d'autres études -->
 
 Prise de conscience d'un stimulus est <u>systématique accompagné</u> de:
-1. Augmentation des [[activité|activations]] des aires [[sensorialité|sensorielles]] spécialisées dans le traitement de ce type de [[stimulus|stimuli]].
+1. Augmentation des activations des aires [[sensorialité|sensorielles]] spécialisées dans le traitement de ce type de [[stimulus|stimuli]].
 2. Extension du réseau cérébral traitant cette information
 	- Notamment : [[lobe pariétal|lobes pariétaux]], [[lobe frontal|lobes frontaux]], cingulaires. 
 3. Augmentation de la connexion entre les régions cérébrales activées 
@@ -132,7 +132,7 @@ Cependant : <font color='red'>pas de consensus</font> sur les [[mécanismes neur
 	2. <u>Modèles sensoriels</u> : récurrences locales ou théorie de l'information intégrée : la prise de conscience est liée à une communication en différentes aires [[sensorialité|sensorielles]] sans association nécessaire avec des [[fonctions cognitives]] plus abstraites.
 		- La prise de conscience se ferait donc entre 100 et 200 ms après le [[stimulus|stimuli]], quand une communication récurrente se mets en place entre les aires primaires et les suivante.
 
-Certains résultats, comme ceux montrés ci avant favorisent les premiers modèles. Cependant, d'autres expériences, notamment celles impliquant l'utilisation de visages masqués entrainant des [[activité|activations]] différentes dès 100ms post stimulus en cas de reconnaissance déclarée. Ces résultats corroborent la seconde théorie. 
+Certains résultats, comme ceux montrés ci avant favorisent les premiers modèles. Cependant, d'autres expériences, notamment celles impliquant l'utilisation de visages masqués entrainant des activations différentes dès 100ms post stimulus en cas de reconnaissance déclarée. Ces résultats corroborent la seconde théorie. 
 
 - Impossible de trancher entre les deux théories. 
 	- Le problème serait mal posé ? 
@@ -140,7 +140,7 @@ Certains résultats, comme ceux montrés ci avant favorisent les premiers modèl
 			- Différences entre traitement [[conscience|conscient]] et non [[conscience|conscient]] reflètent <font color='red'>TOUS</font> les événements qui ont menés à la prise de conscience.
 				- Inclus les événements précédant la prise de conscience pouvant la favoriser avant qu'elle ne se produise. 
 					- Ex: petites fluctuations dans l'efficacité du traitement [[sensorialité|sensoriel]] peuvent, ou non, permettre une prise de conscience ultérieure 
-						- Ces fluctuations feront partis des corrélats observés dans les différences entre [[activité|activités]] consciente ou non.
+						- Ces fluctuations feront partis des corrélats observés dans les différences entre activité consciente ou non.
 				- Des fluctuations spontanées d'activité cérébrale ([[Oscillation neuronale|oscillations neurales]] ?) se produisant <font color='red'>avant </font> la présentation du stimulus peuvent avoir une influence sur la prise de conscience du dit stimulus.
 			- Les corrélats observés pourraient être ceux du résultat de l'activité consciente plutôt que de la prise de conscience elle même.
 - Débat encore ouvert, des expériences sont en train d'être inventées pour avancer sur ce point. 
@@ -266,7 +266,7 @@ La [[métacognition]] concerne les processus et représentations mentales qui on
 		- Changement de comportement vers <u>18 mois</u>:
 			- Avant : les enfants tentent de jouer avec le reflet 
 			- Après : touchent la tâche. 
-		- Correspond au début de  l'utilisation des pronoms personnels et à l'apparition des émotions secondaires (gêne, fierté).
+		- Correspond au début de  l'utilisation des pronoms personnels et à l'apparition des [[émotion|émotions]] secondaires (gêne, fierté).
 
 #### Rôle de la métacognition dans l'apprentissage
 

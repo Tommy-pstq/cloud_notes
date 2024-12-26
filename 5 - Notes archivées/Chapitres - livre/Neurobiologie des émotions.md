@@ -17,7 +17,7 @@ Aujourd'hui :
 - Historiquement : débat sur la sources des émotions, sont-elles dues à des états physiologique (fréquence cardiaque élevée, respiration, mains moites) ou sont-elles génératrices de ces stigmates ?
 - Pour changer : combo des deux.  
 	- La contraction de certains muscles fasciaux modifie le score d'amusement donné à un jeu : Contraction similaire à ce qui est observé dans la colère --> score d'amusement moindre comparé à des contractions des zygomatiques semblable au sourire de joie. --> l'engagement corporel contribue au ressenti [[émotion|émotionnel]]
-	- Il existe des schéma d'[[activité|activation]] neuronale propre à chaque [[émotion]], on peut associer une signature complexe à chacun d'elle.
+	- Il existe des schéma d'activation neuronale propre à chaque [[émotion]], on peut associer une signature complexe à chacun d'elle.
 
 #### Emotions, un chaos empêchant l'objectivité ?
 
@@ -45,7 +45,7 @@ La [[coopération]] intra et inter espèce est extrêmement répandue dans la "n
 		- Changement de perspective sur le monde: 1ere --> 3eme personne. Processus [[cognition|cognitif]] très élevé. [[théorie de l'esprit]].
 		- Présente uniquement chez certains grands singes, de manière limitée
 
- - Le [[système miroir]] est largement activé lors des mesures d'[[empathie]], on observe une [[synchronicité|synchronisation]] des [[activité|activités]] cérébrales entre observateur et sujet. 
+ - Le [[système miroir]] est largement activé lors des mesures d'[[empathie]], on observe une [[synchronicité|synchronisation]] des  cérébrales entre observateur et sujet. 
  - Concernant la [[théorie de l'esprit]] le [[cortex préfrontal]] ([[cortex préfrontal|PFC]])et la [[jonction temporo-pariétale]] ([[jonction temporo-pariétale|TPJ]]) sont impliqués. Ces zones sont aussi reliés à l'[[altruisme]] et la compréhension de l'autre. Pour assister l'autre il est semble être nécessaire de le comprendre et changer de perspective.
 	 - la [[jonction temporo-pariétale|TPJ]] est également impliquée dans les expérience de sortie de corps et notion de "bien" et "mal".
 Cependant, une bonne partie de la [[conscience]] de l'[[empathie]] n'est pas encore totalement comprise ni conceptualisée par les [[neurosciences]].
@@ -55,13 +55,13 @@ Pascal : *"Le cœur a ses raisons que la [[raisonnement|raison]] ne connait pas"
 Souvent considéré que les émotions empêchent la [[prise de décision]] rationnelle. C'est faux (travaux récents: Loewenstein et al. 2001)
 Des *émotions anticipées(1)* et *émotions anticipatoires(2)* influent nos décisions et leur confère une rationalité. 
 - 2) Ex: Le risque entraine l'apparition de marqueurs somatique de la peur qui influent la [[prise de décision]].
-- 1) Plaisirs ou joie anticipée à l'idée d'une [[activité]] -> influence sur la [[prise de décision]].
+- 1) Plaisirs ou joie anticipée à l'idée d'une activitée sur la [[prise de décision]].
 Pas uniquement théorique, des lésions au niveau du [[cortex préfrontal ventro-médian]] ([[cortex préfrontal ventro-médian|VMPFC]]) entraine l'incapacité de prise en comptes des marqueurs somatiques des émotions lors des prises de décisions. Entrainant de fait des comportements irrationnels. 
 Ex: patients avec lésion à cet endroit ne présentant aucune altération des capacité mentale (QI stable) mais prenait systématique des décisions menant à l'échec dans un jeu ou il était nécessaire de prendre en compte le risque (pioche de cartes à espérance négative mais gros gains potentiels contre espérance positive mais petits gains). Les patients étaient néanmoins capable d'expliquer quel paquet de carte était le plus bénéfiques lorsque cela leur était demandé. 
 
 #### Emotions esthétiques
 
 Un seul "cas d'étude" présenté ici, celui du frisson [[émotion|émotionnel]] pouvant être ressenti à l'écoute d'une musique. 
-Les individus pouvant le ressentir présentaient une [[activité]] cérébrales bien plus étendue que ceux ne le pouvant. (pers.: similaire au marqueur d'une prise de [[conscience]] ?)
+Les individus pouvant le ressentir présentaient une activité cérébrales bien plus étendue que ceux ne le pouvant. (pers.: similaire au marqueur d'une prise de [[conscience]] ?)
 ## Refs
 Neurobiologie des émotions, 2022, Catherine Belzung

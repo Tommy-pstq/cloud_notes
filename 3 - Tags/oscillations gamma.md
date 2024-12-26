@@ -6,4 +6,6 @@ aliases:
   - onde gamma
   - ondes gamma
   - ondes gammas
+  - cycle gamma
+  - cycles gammas
 ---
