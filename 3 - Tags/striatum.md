@@ -5,3 +5,4 @@
 			- Calcul de l'erreur de prédiction. 
 				- Signal renvoyé au striatum où il module la [[plasticité synaptique]]. 
 					- Renforcement des connexions cortico-striatales qui soutiennent [[prise de décision|un choix]] menant à une récompense, diminution des autres.
+- contient une densité de récepteurs dopaminergiques D1 et D2 jusqu'à un ordre de grandeur plus important quand les autres structures cérébrales

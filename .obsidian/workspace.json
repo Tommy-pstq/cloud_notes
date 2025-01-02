@@ -11,10 +11,15 @@
             "id": "00cd1fbf3651eabd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 - En cours de rédaction/Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia"
             }
           }
         ]
@@ -161,8 +166,12 @@
   },
   "active": "00cd1fbf3651eabd",
   "lastOpenFiles": [
-    "4 - Indexes/Index non exhaustif des lectures terminées.md",
+    "2 - Source Materials/Pasted image 20250102181551.png",
+    "3 - Tags/striatum.md",
+    "6 - En cours de rédaction/Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia.md",
+    "2 - Source Materials/Pasted image 20250102165917.png",
     "5 - Notes archivées/TND/Information gain in the brain's resting state - A new perspective on autism.md",
+    "4 - Indexes/Index non exhaustif des lectures terminées.md",
     "2 - Source Materials/Pasted image 20241226171636.png",
     "3 - Tags/spontanéité.md",
     "2 - Source Materials/Pasted image 20241226170456.png",
@@ -193,9 +202,6 @@
     "3 - Tags/régulation.md",
     "3 - Tags/putamen.md",
     "3 - Tags/VTA.md",
-    "3 - Tags/troubles psychiatriques.md",
-    "3 - Tags/Théorie de l'esprit.md",
-    "2 - Source Materials/images.png",
     "Excalidraw",
     "PDF/The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode - a quantitative meta-analysis..pdf",
     "5 - Notes archivées/Vidéos",
