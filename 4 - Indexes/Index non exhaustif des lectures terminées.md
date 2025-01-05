@@ -1,6 +1,6 @@
 
-*Last update: 26/12/2024*
-![[Pasted image 20241226171636.png]]
+*Last update: 05/01/2025*
+![[Pasted image 20250105163105.png]]
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
@@ -25,6 +25,9 @@
 - [x] Neurobiologie des émotions, 2022, Catherine Belzung *10-2024* 
 
 ## Articles
+
+- [x]  Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia, Mark D. Humphries, Mehdi Khamassi, Kevin Gurney, Front. Neurosci.,  06 February 2012, https://doi.org/10.3389/fnins.2012.00009 
+
 - [x] **Information gain in the brain's resting state: A new perspective on autism.** Velázquez, J. L., & Galán, R. F. (2013). Frontiers in Neuroinformatics, 7, 1–10. http://dx.doi.org/10.3389/fninf.2013.00037. *12-2024* 
 
 - [x] **Altered grid-like coding in early blind people**. _Nature Communications_, 15. Sigismondi, F., Xu, Y., Silvestri, M., & Bottini, R. (2023). . https://doi.org/10.1038/s41467-024-47747-x. *12-2024*
