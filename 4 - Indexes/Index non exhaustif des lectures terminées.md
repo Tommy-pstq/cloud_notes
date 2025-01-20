@@ -1,15 +1,18 @@
 
-*Last update: 05/01/2025*
-![[Pasted image 20250105163105.png]]
+*Last update: 20/01/2025*
+![[Pasted image 20250120181545.png]]
 - [x] *Référence lue & résumée en une note dans le vault*
 - [ ] *Référence lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
-# Neurosciences
 
 ## Livres
 - L'homme Thermomètre, Laurent Cohen. *2021*
 - Où est le sens, Stephan Bohler. *2022*
 - Bases de neurosciences, neuroanatomie fonctionnelle (De boeck) *09-2024*
+- Psychopathologie de la vie quotidienne, Sigmund Freud. *2022*
+- Diagnostiques des TND chez l'adulte, Maëva Rollin. *02-2024*
+- Thérapie des Schémas, Jeffrey E. Young. *08-2024*
+- Une nouvelle voie pour guérir, Dr. Jean-Marc Benhaiem *12-2024*
 
 - [x] Neurosciences cognitives (De boeck) *10-2024*:  
 	- [x] Perception et attention *11-2024*
@@ -25,6 +28,10 @@
 - [x] Neurobiologie des émotions, 2022, Catherine Belzung *10-2024* 
 
 ## Articles
+
+### Neurosciences
+
+- [x] **Editorial Perspective: Delayed circadian rhythm phase: a cause of late-onset attention-deficit/hyperactivity disorder among adolescents?** Lunsford-Avery JR, Kollins SH.  J Child Psychol Psychiatry. 2018 Dec;59(12):1248-1251. doi: 10.1111/jcpp.12956. Epub 2018 Sep 3. PMID: 30176050; PMCID: PMC6487490.
 
 - [x]  Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia, Mark D. Humphries, Mehdi Khamassi, Kevin Gurney, Front. Neurosci.,  06 February 2012, https://doi.org/10.3389/fnins.2012.00009 
 
@@ -56,21 +63,11 @@
 
 - [x] **Sensory perception in autism** - Caroline E. Robertson, Simon Baron-Cohen, Nature Neuroscience, 2017. DOI:10.1038/nrn.2017.112 - *09-2024* 
 
-
-# Psychologie/Psychiatrie 
-
-## Livres
-- Psychopathologie de la vie quotidienne, Sigmund Freud. *2022*
-- Diagnostiques des TND chez l'adulte, Maëva Rollin. *02-2024*
-- Thérapie des Schémas, Jeffrey E. Young. *08-2024*
-- Une nouvelle voie pour guérir, Dr. Jean-Marc Benhaiem *12-2024*
-
-## Articles
+### Psycho
 
 - [x] The Association of Paternal IQ With Autism Spectrum Disorders and Its Comorbidities: A Population-Based Cohort Study Gardner, Renee M. et al. Journal of the American Academy of Child & Adolescent Psychiatry, Volume 59, Issue 3, 410 - 421 11-2024 *11-2024*
-# Intelligence Artificielle 
+### Intelligence Artificielle 
 
-## Articles
 - [x] Generalized Framework for [[Liquid Neural Network]] upon Sequential and Non-Sequential Tasks, Prakash Kumar Karn, Iman Ardekani, Iman Ardekani, Mathematics 2024. DOI: https://doi.org/10.3390/math12162525 *11-2024*
 
 
