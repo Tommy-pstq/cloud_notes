@@ -26,23 +26,42 @@
 
 - <u>Concepts clés</u> proposés par Piaget:
 	- 4 stades : caractérisés par une forme d'intelligence spécifique. Ordre linéaire & identique pour tous les individus. Intégratif, les précédents stades sont nécessaires au dev du suivant. 
-		- **Sensori-moteur**
+		- **Sensori-moteur** (0-2 ans) *action effective*
+			- Intelligence Pratique
 			- Permanence de l'objet 
-		- **Pré-opératoire**
-			- Pensée intuitive : égocentrique, confusion du moi et du monde 
-				- Finalisme, Animisme, Artificialisme, Phénoménisme 
-				- Egocentrisme intellectuel : impossibilité de décentrer son point de vue de soi même  jusqu'à la décentration cognitive vers 8-9 ans
-		- **Opératoire concret** 
-			- Conservation : la propriété d'un objet est conservée même si son apparence, elle, change. Le raisonnement s'abstrait de la perception 
-			- Sériation : mise en relation ordonnée d'éléments. 
-				- Elle devient **opératoire** quand elle s'abstrait de la perception. Grâce à la réversibilité et l'anticipation.
-		- **Opératoire formel** : émergence de la pense hypothético-déductive
+			- 6 sous stades 
+		- **Pré-opératoire** (2-7 ans) *action effective & intériorisée sous forme de pensée*
+			- Egocentrisme intellectuel : impossibilité de décentrer son point de vue de soi même  jusqu'à la décentration cognitive vers 8-9 ans
+			- Notion d'espace & de temps 
+			- Fonction symbolique 
+			1. Pensée symbolique & pré conceptuelle (2-4 ans)
+				- Pensée égocentrique (confusion du moi et du monde
+				- Pré causale (croyance enfantine: Finalisme, Animisme, Artificialisme, Phénoménisme )
+				- Raisonnement transductif (cas particulier -> cas particulier)
+			2. Pensée intuitive  (4 -> 6/7ans)
+				- Intuition : appréhension perceptive du monde
+				- Centration : 1 seul aspect de la situation au dépend des autres
+				- Opérations de classification simple ou additive: sur les propriétés perceptives des objets
+		- **Opératoire concret**  (7-11 ans) *Opérations concrètes: opération mentales portant uniquement sur des objets concrets (présents ou représentés*
+			- Conceptualisation de situations concrètes 
+			- Relations spatiales / liens de causalité
+			- Raisonnement inductif (Généralités à partir d'observations discrètes)
+			- Décentration (considérer plusieurs points de vue)
+			- Opérations infra-logiques portant sur les objets continus 
+				-  **Conservation** : la propriété d'un objet est conservée même si son apparence, elle, change. Le raisonnement s'abstrait de la perception 
+			- Opération logico-mathématiques sur des objets continus 
+				- **Sériation** : mise en relation ordonnée d'éléments. 
+					- Elle devient **opératoire** quand elle s'abstrait de la perception. Grâce à la réversibilité et l'anticipation.
+		- **Opératoire formel** : émergence de la pense hypothético-déductive. *Opérations formelles : opérations mentales pouvant porter sur des propositions*
+			- Raisonnement sur l'abstrait et le possible (détachement du réel)
+			- Situer le réel dans un ensemble de possibilité
+			- Résolution systématique de problèmes nécessitant un raisonnement sur des énoncés verbaux
 			- Combinatoire : généralisation des logique de classification et sériation à des proposition verbale permettant la construction d'un raisonnement hypothético-déductif -> formulation et tests d'hypothèses.
 			- INRC (identité, négative, réciproque, corrolaire)
 	- Adaptation : Dev de l'intelligence pour Piaget
 		- Equilibration = réaction à une perturbation cognitive lors d'interaction avec l'environnement
-			- Assimilation = intégrer de nouvelles info dans un scheme 
-			- Accommodation = modification du scheme 
+			- Assimilation = intégrer de nouvelles info dans un schème 
+			- Accommodation = modification du schème 
 	- Schèmes (structure/organisation d'une action) = pattern d'action physique ou mentale s'appliquant à de nombreuse situation
 	- Action
 

@@ -191,7 +191,7 @@ Ces 3 points sont supposés permettre à l'individu, via un contexte rassurant, 
 		- Premier cas connu de patient traité une méthode de thérapie comportementale. 
 - Skinner, 1953 :
 	- La plupart des comportements sont appris et se maintiennent parce qu'ils sont suivis d'une conséquence positive. 
-		- -> Suggère des méthode de renforcement pour traiter des troubles psychologiques 
+		- -> Suggère **des méthode de renforcement** pour traiter des troubles psychologiques 
 			- -> Thérapies du comportement
 - Ivaar Lovaas : application des thérapies du comportement à des enfants présentant un TSA sévère. 
 	- Bon résultats : apprentissage d'un langage fonctionnel & diminution de la fréquence des comportement problématiques.
