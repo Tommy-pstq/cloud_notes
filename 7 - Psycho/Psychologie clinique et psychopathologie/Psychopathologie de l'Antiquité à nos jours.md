@@ -34,7 +34,7 @@ Antiquité romaine : Galien ( de 131 à 201 ). dev des conceptions psychopatho
 
 - Interaction syphilis - malaria :
 	- Si atteint des deux, potentielle guérison de la syphilis : disparition des symptômes psychotiques.
-		- --> les symptomes psychotiques peuvent être traités par des méthodes biologiques. 
+		- --> les symptômes psychotiques peuvent être traités par des méthodes biologiques. 
 
 - Individus "Possédés", montrant des symptômes de délire : utilisation du "choc", comme l'hydrothérapie (plonger un patient en crise dans un bain d'eau glacée) jusqu'au XXieme (ou est suspendu au dessus d'une fosse de serpent venimeux).
 	- Evolution vers des bains tièdes plus long par la suite. Disparu du répertoire de la psychiatrie mais les bienfaits des bains sont encore mentionnés

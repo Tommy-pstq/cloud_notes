@@ -118,11 +118,138 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 #### Expliquer son propre comportement
 
 - 3 théories marquantes:
-	- Théorie de la labilité émotionnelle (Schachter 1964)
+	- <u>Théorie de la labilité émotionnelle</u> (Schachter 1964)
 		- Question de l'attribution au champ des émotions.
 			- Les épisodes émotionnels s'appuient sur deux composantes distinctes:
-				- Etat général d'activation physiologique (relativement similaire entre émotions)
+				- Etat général d'activation physiologique (relativement similaire entre émotions) *( -> Aujourd'hui clairement contredit. Les émotions ont des activités physiologiques en partie spécifiques)*
+					- En général, les cognitions précèdent les émotions. Mais il arrive que les personnes ressentent un état d'activation de manière inattendue, ils cherchent alors une explication dans leur environnement. 
+						- -> *paradigme de mésattribution* : reconsidérer et renommer des symptômes cliniques en leur attribuant des causes différentes. (Ex: les difficultés de prises de parole en public sont dues à des causes situationnelles plutôt que personnelles)
 				- Cognition permettant de nommer et donc d'identifier l'émotion ressentie.
-	- Théorie de l'autoperception (Bem, 1967, 1972)
-	- Théorie de l'attribution des performances (Weiner, 1979, 1985)
+	- <u>Théorie de l'autoperception</u> (Bem, 1967, 1972)
+		- L'individu n'est pas nécessairement en position privilégiée pour expliquer son propre comportement. 
+			- Réduit à recourir à une posture d'observateur extérieur et inférer nos états internes sur la base de nos comportements (Ex: "j'aime les mangas car j'en ai une grande collection")
+				- En présence d'incitants externes puissants, l'individu pour douter/ignorer l'existence de désirs internes  et inversement. 
+					- Offre des pistes pour orienter l'attention des gens vers l'études des facteurs internes ou externes qui sous-tendent leurs comportements.
+	- <u>Théorie de l'attribution des performances</u> (Weiner, 1979, 1985)
+		- S'intéresse à la façon dont l'explication d'une performance qui sera privilégiée par l'auteur du comportement va influencer sa motivation
+		- 3 dimensions permettant de caractériser les causes d'un comportement:
+			- *Le locus* : interne ou externe à l'acteur 
+			- *Contrôlabilité*
+			- *Stabilité* 
+		- Influence la motivation via 2 biais:
+			- *Le niveau d'aspiration*
+			- *Les émotions*
+		- Un échec (examen raté) peut être attribué à des causes internes stables et incontrôlables (intelligence insuffisante), ou à des causes externes non stable mais non contrôlable (choix de question de l'examinateurice).
+			- Dans le premier cas, la motivation à continuer des efforts sera fortement impactée 
+			- Dans le second cas, elle ne le sera que faiblement, voire inchangée en s'attendant à une performance futur supérieure. 
+		- Chaque combinaison *locus/stabilité/contrôlabilité* est associé à des émotions spécifiques, affectant à leur manière la motivation. 
 
+#### Du biais de correspondance aux processus d'inférence causale
+
+- Biais de correspondance 
+	- Ex: Un présentateur de programme TV tel que Question pour un Champion sera perçu comment particulièrement intelligent, alors que les candidats le sont bien plus que lui.
+		- Il semble avoir réponse à toutes les questions, ce qui est logique puisqu'il détient les fiches. MAIS:
+			- Les individus on tendance à minimiser les causes situationnelles au profit de celles dispositionnelles quand il s'agit d'inférer le comportement des autres. 
+
+- Modèle des 3C de Gilbert:
+	1. Conduite, observation et inférence spontanée
+	2. Catégorisation du comportement
+	3. Correction du jugement (prise en compte cause situationnelles par ex)
+	- Chaque point demande plus de ressources cognitives que le précédent et est donc de plus en plus  susceptible de ne pas être correctement, ou complètement, réalisé.  
+
+- Bénéfice social d'utiliser des causes dispositionnelles pour expliquer ses échecs plutôt que situationnel.
+	- Apparait plus ou moins tôt dans le développement de l'individu
+	- Dépend des cultures 
+- L'individu - normalement - plus tenté d'attribuer ses échecs à des causes situationnelles et ses réussites à des causes dispositionnelles. *(à moduler avec les états dépressifs et modes de fonctionnement le favorisant, ainsi que l'impact sur la motivation des différentes attributions)*
+
+
+- Etude des médias : certaines cultures mentionnent plus volontairement les facteurs situationnels (Asie de l'Est) que d'autres.
+
+## La perception des groupes
+
+- Définitions:
+	- Stéréotypes = Croyances & opinions des gens concernant les caractéristiques associées à divers groupes et leurs membres.
+	- Préjugés = Réactions affectives, émotions et sentiments que suscitent ces groupes.
+	- Discrimination = Conduites posées par les un.es et les autres dans lesquelles se font jour des différences de traitement envers les membres d'un groupe par à celleux d'un autre groupe. 
+- -> S'accordant aux dimensions : cognitive / affective / comportementale.
+
+### Catégorisation sociale et stéréotypes
+
+- 4 types de groupe:
+	- Intimes (ex: famille)
+	- Association fortuite (ex: file de client devant un magasin)
+	- Orientés sur une tâche (ex : équipe de foot)
+	- Catégories sociales (ex: femmes / coiffeurs)
+
+- Pourquoi mettre les individus dans des groupes ? 
+	- Gestion efficace de l'information. 
+- Mais : 
+	- **Accentuation intercatégorielle**: Si une mesure continue est effectuée entre éléments de catégories différentes, les distances perçues entre éléments de catégories distinctes sont accentuées. 
+
+- Sur quoi se base l'attribution d'un groupe à un/des individus ? 
+	- Le fait de leur reconnaître des caractéristiques communes pertinentes dans le contexte. 
+		- Certaines caractéristiques physiques sont prépondérantes:
+			- Sexe
+			- Âge
+			- "Race"
+
+
+- Premier groupe de facteurs : <u>facteurs d'accessibilité</u> d'une caractéristique.
+	- **Saillance perceptive** : l'individu est plus sensible à ce qui sort du lot. 
+		- Ex : une étudiante au milieu d'un parterre d'étudiant ingénieurs aura tôt fait de favoriser la supposition de son orientation sexuelle. 
+	- **Les besoins/objectifs** à l'instant donné sont également déterminants:
+		- Lors de la rencontre d'un infirmière congolaise aux urgences, son expertise médicale sera plus pertinente que sa nationalité. 
+	- **Accessibilité cognitive**. temporaire ou chronique 
+		- Ex: covid, vacciné ou non, positif/négatif, âgé/jeune.
+	- **Schémas personnels.**
+		- Ex: quelqu'un se définissant lui-même comme fondamentalement honnête aura tendance à catégoriser les individus suivant leur degré d'honnêteté. Un autre individu se déclarant profondément chrétien établira un critère de classification sur l'appartenance ou non à sa religion de l'autre. 
+- Associer un individu à une catégorie se fait aussi selon la distance (<u>Similitude</u>) entre les caractéristiques perçues et la représentation interne de la catégorie. 
+	- Ex : 
+		- Si une personne s'avère très ou peu typique des Noir.es, elle sera respectivement plus ou moins aisément rangée dans cette catégorie.
+		- Une asiatique observée entrain de manger des nouilles à l'aide de baguette sera catégorisée comme "Chinoise", alors que si elle est observée entrain de se remaquiller devant un miroir elle sera catégorisée comme "Femme".
+
+
+- Les caractéristiques propres à définir chacune des catégories - des stéréotypes donc - ne sont pas si évidentes ni indissociables de la catégorie qu'il n'y parait. 
+	- **Adéquation normative** : la signification sociale des caractéristiques permet d'orienter la nature des catégories retenues.
+		- Ex: Des femmes mentionnent le réchauffement climatique et des hommes s'inquiètent des retombées que la prise en compte du dev durable aura sur l'économie, il sera plus tentant d'utiliser des termes politiques par rapport à des termes sexuels pour établir une catégorie. 
+	- **Adéquation comparative** : La pertinence des caractéristiques utilisées dans la définition d'un groupe varient en fonction des catégories choisies.
+		- Ex: Selon que l'on compare des canadiens à des allemands ou à des brésilien, on utilisera dans un premier cas leur jovialité, et leur compétence et sérieux dans le second. *(ça revient à utiliser des métriques maximisant la distance entre catégorie)*
+	- Ces modulations peuvent entrainer des incohérences non prise en compte dans le représentations.
+		- Ex hardcore: dans les groupe néo-nazis, les personnes Noir.es peuvent être assimilés à des grands singes selon leur traits faciaux, alors que les lèvres pincées de ces grands singes sont plus proches des caractéristiques caucasiennes.
+
+
+-> Les schémas personnels et buts forment le contexte du côté observateur, les caractéristiques propres de la cible et les catégories concurrentes constituent la toile de fond environnementale. Ces éléments impactent l'inhibition/activation d'une catégorie particulière. 
+
+
+#### Mesure des stéréotypes. 
+
+- Méthode la plus connue : attribution de traits de personnalité pour décrire un groupe. (TAI : test d'association implicite)
+	- Les stéréotypes ne sont pas immuables. (évolution des stéréotypes sur les Allemands et Japonais entre 1950 et 1967)
+		- Les traits positifs se maintiennent plus fortement que les négatifs. 
+	- De plus en plus difficile d'obtenir des opinions à propos de groupes dont la stigmatisation est connue. (désirabilité sociale)
+		- Contourné en partie en affirmant qu'il est possible de connaitre la véracité des réponses, mais éthique bof.
+- Utilisation d'amorçage visuel et étude de l'impact sur la vitesse de prise de décision.
+			- Mesure du caractère inconscient en prime. 
+
+- Méthode des corrélations inversées 
+	- Ajout de masques de pixels successifs ou de leur négatifs (choisi) à une image de visage.
+		- -> Evaluation de l'image finale.
+			- Les participants les plus racistes produisent des des images jugées les moins positivement par les juges dans le cas d'image de base d'individus Marocains. 
+
+#### Activation de stéréotype 
+
+- Nécessite des ressources cognitives (faibles, mais quand même)
+- Dépendant du contexte
+	- Motivationnel
+	- Environnemental
+	- Emotionnel 
+- Ex : Le recours aux stéréotypes est plus marqués le soir pour les gens du matin et inversement.
+	- Rôle de "béquille cognitive" des stéréotypes. 
+
+#### Attributs des stéréotypes
+
+- [[Stéréotypes descriptifs]] VS [[Stéréotypes prescriptifs]]
+	- <u>Descriptif</u> : Ce que les membres du groupe font ou ne font pas. N'entraine pas de réaction conséquente si contredits (surprise); *ex: une femme n'aimant pas la mode*.
+		- Simplification de l'information et fluidité des interactions 
+	- <u>Prescriptif</u> : Ce que les membres du groupes sont censés faire ou non. Leur contradiction entraine une réaction importante (colère & désapprobation). *Ex: une femme déclarant n'avoir aucun attachement aux enfants.* 
+		- Rôle de justification et rationnalise une hiérarchie sociale. 
