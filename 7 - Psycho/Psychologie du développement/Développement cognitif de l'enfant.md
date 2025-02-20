@@ -39,14 +39,14 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 		- Hétéro & auto évaluations.
 	- Prédictives de la réussite scolaire 
 	- Composantes:
-		- Inhibition
+		- **Inhibition**
 			- attentionnel (des stimuli)
 			- cognitive  (des pensées)
 			- comportementale (des conduites )
-		- Flexibilité cognitive
+		- **Flexibilité cognitive**
 			- Gestion des buts (identification / maintiens)
 			- Bascule 
-		- Maintiens & update mémoire de travail
+		- **Maintiens & update mémoire de travail**
 			- Verbale
 			- Visuo-spatiale 
 

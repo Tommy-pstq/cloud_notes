@@ -1,4 +1,4 @@
-Intro : 
+ Intro : 
 - Psychologie sociale = discipline s'intéressant à comment la présence, réelle ou supposées des autres influence les comportements humains. 
 - Discipline empirique
 	- Nécessaire de faire des expérimentations clean.
@@ -91,7 +91,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 	- Si la causalité du comportement est comprise, alors la prédiction sera possible. 
 		- -> **l'attribution sociale** consiste à décrypter les raisons qui font que les gens agissent comme ils le font. On distinguera alors 2 types de causes:
 			- Les **causes dispositionnelles**, à savoir des facteurs d'influence endogène à l'individu (Ex: quitter un cours car on s'est trompé de classe par étourderie)
-			- Les **causes situationnelles**, des éléments exogène à l'individu. (Ex: quitter un cours car une urgence médicale familiale est survenue).
+			- Les **[[causes situationnelles]]**, des éléments exogène à l'individu. (Ex: quitter un cours car une urgence médicale familiale est survenue).
 	- Le besoin d'établir une causalité explicative est principalement présent pour les comportements ayant des effets soit importants, négatifs ou inattendus (autrement dits, ceux sortant de la norme au sens mathématique).
 - **Modèle de l'inférence correspondante** :
 	- Identifier les intentions qui sous-tendent le comportement. 
@@ -123,7 +123,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 			- Les épisodes émotionnels s'appuient sur deux composantes distinctes:
 				- Etat général d'activation physiologique (relativement similaire entre émotions) *( -> Aujourd'hui clairement contredit. Les émotions ont des activités physiologiques en partie spécifiques)*
 					- En général, les cognitions précèdent les émotions. Mais il arrive que les personnes ressentent un état d'activation de manière inattendue, ils cherchent alors une explication dans leur environnement. 
-						- -> *paradigme de mésattribution* : reconsidérer et renommer des symptômes cliniques en leur attribuant des causes différentes. (Ex: les difficultés de prises de parole en public sont dues à des causes situationnelles plutôt que personnelles)
+						- -> *paradigme de mésattribution* : reconsidérer et renommer des symptômes cliniques en leur attribuant des causes différentes. (Ex: les difficultés de prises de parole en public sont dues à des [[causes situationnelles]] plutôt que personnelles)
 				- Cognition permettant de nommer et donc d'identifier l'émotion ressentie.
 	- <u>Théorie de l'autoperception</u> (Bem, 1967, 1972)
 		- L'individu n'est pas nécessairement en position privilégiée pour expliquer son propre comportement. 
@@ -149,7 +149,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 - Biais de correspondance 
 	- Ex: Un présentateur de programme TV tel que Question pour un Champion sera perçu comment particulièrement intelligent, alors que les candidats le sont bien plus que lui.
 		- Il semble avoir réponse à toutes les questions, ce qui est logique puisqu'il détient les fiches. MAIS:
-			- Les individus on tendance à minimiser les causes situationnelles au profit de celles dispositionnelles quand il s'agit d'inférer le comportement des autres. 
+			- Les individus on tendance à minimiser les [[causes situationnelles]] au profit de celles dispositionnelles quand il s'agit d'inférer le comportement des autres. 
 
 - Modèle des 3C de Gilbert:
 	1. Conduite, observation et inférence spontanée
@@ -160,7 +160,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 - Bénéfice social d'utiliser des causes dispositionnelles pour expliquer ses échecs plutôt que situationnel.
 	- Apparait plus ou moins tôt dans le développement de l'individu
 	- Dépend des cultures 
-- L'individu - normalement - plus tenté d'attribuer ses échecs à des causes situationnelles et ses réussites à des causes dispositionnelles. *(à moduler avec les états dépressifs et modes de fonctionnement le favorisant, ainsi que l'impact sur la motivation des différentes attributions)*
+- L'individu - normalement - plus tenté d'attribuer ses échecs à des [[causes situationnelles]] et ses réussites à des causes dispositionnelles. *(à moduler avec les états dépressifs et modes de fonctionnement le favorisant, ainsi que l'impact sur la motivation des différentes attributions)*
 
 
 - Etude des médias : certaines cultures mentionnent plus volontairement les facteurs situationnels (Asie de l'Est) que d'autres.
@@ -253,3 +253,99 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 		- Simplification de l'information et fluidité des interactions 
 	- <u>Prescriptif</u> : Ce que les membres du groupes sont censés faire ou non. Leur contradiction entraine une réaction importante (colère & désapprobation). *Ex: une femme déclarant n'avoir aucun attachement aux enfants.* 
 		- Rôle de justification et rationnalise une hiérarchie sociale. 
+
+### L'origine des stéréotypes
+
+- Rencontres au quotidien, Expériences personnelles, Accumulation d'information sur autrui, etc : énormément d'information au total, pas possible de tour retenir.
+	- -> De même que l'on ne retient que les traits saillants des individus, on retiendra bien plus aisément les individus dont le comportements ou les caractéristiques sortent du lot par rapport au groupe, auquel on attribuera ses mêmes comportements. 
+
+- Tendance à surestimer les occurrences simultanées d'événements rares.
+	- Ex : Avec les données du tableau ci dessous, les comportement négatifs seront majoritairement attribués au groupe B, même si les deux groupes présentent la même proportion de comportements négatifs.
+
+| Comportements | Groupe A | **Groupe B** |
+| ------------- | -------- | ------------ |
+| Positifs      | 18       | 9            |
+| Négatifs      | 9        | 4            |
+- En outre : les informations moins nombreuses ne sont pas traitées aussi efficacement que celles rencontrées régulièrement 
+	- -> Erreurs d'appréciations favorisant la construction de stéréotypes négatifs.
+
+
+- Lorsque que l'on rencontre un nouveau groupe externe (exogroupe), particulièrement un groupe minoritaire, on dispo déjà d'éléments caractéristiques de notre endogroupe. 
+	- On va donc chercher à trouver les critères les plus efficaces pour séparer les groupes.
+		- Les caractéristiques négatives étant moins nombreuses que les positives, il y a moins de chances pour que les deux groupes les partagent et sont donc de bons critères de distinction. 
+			- -> Les aspects négatifs orientent majoritairement l'image que l'on se fait des exogroupe, il en résulte un puissant biais endogroupe.
+				- -> Potentiels conflits
+
+- Enjeux identitaires : la perception même de l'observateurice est biaisée. 
+	- Ex : Colonisation du Rwanda par la Belgique à la suite de l'Allemagne. 
+		- Deux ethnies principales : Hutus & Tutsis.
+			- Les premiers (minoritaires) semblaient dominés par les second, de manière similaire aux Flamands par les francophones.
+				- Certains Flamands ont donc spontanément attribués des traits stéréotypes de la bourgeoisie francophone (hautains, dominants, méprisants) à l'ethnie majoritaire, les Tutsis. 
+
+- Attention sélective : on est d'autant plus attentif à ce qui confirme nos a priori. Si les faits contredisent ces a priori -> interprétation sélective pour ne pas modifier nos représentations.
+
+- Constitution de stéréotypes via les informations fournies par les pairs également. 
+- Le contexte influence également les stéréotypes et leur formation
+	- Ex: mineurs noirs et blancs ayant une bonne entente dans la mine mais pas dans les quartiers de repos. 
+
+- Influence des :
+	- Médias
+	- Manuels scolaire   
+	- ...
+
+### Poids des rôles, choc des structures
+
+- Modèle du Contenu des stéréotypes (MCS):
+	- Deux questions essentielles préoccupent les gens dans leurs interactions avec autrui :
+		- Savoir ce que les autres veulent ?
+			- Est-ce que les intentions sont bienveillantes ou hostiles ?
+				- -> Notion de "chaleur"
+		- Quels sont les moyens à leurs disposition ?
+					- -> Notion de "compétence"
+	- -> Caractérisation bi-dimensionnelle des groupes.
+		- Phénomène de "compensation dimensionnelle"
+			- Un groupe ne peut pas être jugés comme parfaitement compétent ET chaleureux.
+				- Sauf en cas de conflit, ou l'endogroupe est idéalisé et l'exogroupe dénigré. 
+			- Cette compensation est assumée:
+				- Les membres des groupes les plus compétents concèdent aisément leur manque de chaleur, quand les groupes jugés les moins compétents revendiquent leur aspect chaleureux. 
+
+#### Stéréotypes et légitimation 
+
+- Stéréotypes prescriptifs : justification de l'ordre social.
+	- Encore plus marqué si des groupes sont traités comme des entités significatives dont les comportements résulteraient de "dispositions profondes"
+	- Même en absence de différence de traits psychologiques entre deux groupes, des stéréotypes se forment/influence lorsque l'on cherche une explication à des comportements.
+	- Tendance à considérer les membre d'un groupe comme partageant une "essence" commune (Ex: SDF.) et différente de l'endogroupe. 
+
+- "Essentialisme" : les stéréotypes rendent compte de réelles différences.
+	- Pas de prise de compte de facteurs externes, comme l'essors des technologies de l'information lors de vague d'immigrations de populations asiatiques par exemple.
+
+- Biais de correspondance : se retrouve dans les stéréotypes.
+	- On favorisa l'explication des comportements négatifs de l'exogroupe par des causes dispositionnelles et les comportements positifs par des causes situationnelles. 
+	- Inversement pour l'endogroupe. 
+
+#### Quadrant maudit : déshumanisation et objectification 
+
+- "Quadrant maudit" : sur la représentation bidimensionnelle des groupes (chaleur/compétence), les individus des groupes présent dans le quadrant négatif pour les deux axes sont déshumanisés.
+	- Le fait de sacrifier une vie pour en sauver 5 de ces groupes, dans le dilemme du tramway, est bien acceptés que si les 5 personnes font partie de groupes appartenant à d'autre quadrants.
+	 - Pas d'activation du cortex médian préfrontal (situation sociale) en face d'une photo les représentant.
+
+- Quelques travaux : 
+	- On n'accorde d'essence humaine qu'aux membre de l'endogroupe, les membres des exogroupes sont "infrahumanisés" *(coucou macron gros connard)*
+
+- 2012, Objectification des femmes:
+	- On reconnait plus facilement une personne déjà rencontrée si son image nous présenté la tête en haut plutôt qu'a l'envers. Cette différence d'inversion n'est pas présente pour les objet. 
+		- Les hommes n'ont pas cette inversion pour des femmes sexualisés -> Elles sont littéralement perçues comme des objets. 
+			- Pas le cas pour les hommes sexualisés.
+			- Réversible si on ajouter des caractéristiques aux images comme : "il s'agit d'étudiantes en médecine posant pour une oeuvre caritative".
+			- ENORME impact cognitifs:
+				- Un violeur sera moins blâmé si sa victime est sexualisée 
+				- Une femme sera moins aidée en cas de violence conjugale si elle est sexualisée. 
+				- Une victime de harcèlement sexuel sera davantage blâmée si elle a été vue en situation sexualisée.
+				- *WTF*
+		- Avoir du pouvoir sur autrui supprime cette inversion -> la personne dominée est "instrumentisée".
+
+## Le changement des stéréotypes
+
+- Possible, mais lent.
+	- Nécessite une inertie organisationnelle et institutionnelle. 
+- Ou un phénomène d'ampleur énorme.
