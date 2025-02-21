@@ -1,0 +1,8 @@
+- **Sécure** : détresse au départ de la mère mais rapidement réconforté à son retour
+		- -> Confiance en la disponibilité de la mère 
+- **Insécure évitant** : Pas de signe de détresse évident lors de la séparation. Evite ou ignore la mère au retour
+		- -> Difficulté à exprimer ses émotions ou dépendance.
+- **Insécure ambivalent résistant** : Très angoissé par la séparation et comportements ambivalents lors de la réunion (recherche et évitement du contact)
+		- -> Incertitude quant à la disponibilité de la mère 
+- **Désorganisé** : Comportements confus ou contradictoires sans stratégie cohérente d'attachement 
+		- -> Souvent associé à des situations ou le partenaire d'attachement est à la fois source de réconfort et de peur. 
