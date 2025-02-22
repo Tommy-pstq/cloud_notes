@@ -300,3 +300,152 @@ DSM
 TTT
 - Faire prendre conscience à l'environnement de l'enfant, et aux adultes des causes de ce problème
 - Soutien à l'environnement & encouragement à établir de meilleurs liens avec l'enfant. 
+
+### Trouble d'adaptation 
+
+- Détresse psychologique perdurant plus de 3 mois après un facteur de stresse : perte d'emploi, séparation, déboires financiers, présence permanente d'une personne très malade auprès de soi, mort d'une personne proche.
+
+- Potentiellement accompagné de symptômes dépressifs / anxiété / combinaison des deux.
+
+TTT
+
+- Psychothérapie
+	- individuelle
+	- brève
+	- TCC
+- Méthodes de relaxation
+- Activités sportives / récréatives / hygiène de vie 
+
+### Trouble du deuil prolongé
+
+- Suite à un décès soudain / imprévu.
+
+DSM
+1. Décès datant de plus de 12 mois (6 mois pour les enfants/adolescents) 
+2. Présence d'une ou deux réponses de deuil **presque chaque jour** et particulièrement durant le dernier mois :
+	- Présence intense de nostalgie / désir de la personne décédée 
+	- Préoccupation avec pensées ou souvenirs à propos de la personne décédée 
+		- Peut porter sur les circonstances du décès chez les enfants/adolescents
+3. Au mois 3 des symptômes présents la plupart des jours 
+	- Problème d'identité : idées qu'une partie de soi est décédée 
+	- Fausses croyances marquées à propos de la mort 
+	- Grande souffrance reliée à ce décès 
+	- Difficultés à rétablir des relations et des activités 
+	- Insensibilité, comme une absence de réactions émotionnelles
+	- Impression que la vie n'as plus de sens, en lien avec le décès 
+	- Solitude intense reliée à ce décès 
+4. Détresse cliniquement significative ou altération du fonctionnement
+5. Durée du deuil dépassant la durée attendue dans la culture de référence 
+6. Pas mieux expliqué par un PTSD ou effet de substance ou autre problème médical.
+
+TTT
+- Psychothérapie verbale 
+- Ecoute
+- Information sur l'évolution naturelle d'un deuil
+	- -> Contextualiser le problème 
+- Approche cognitivo-comportementale :
+	- Restructurer les cognitions associées au troubles telle que:
+		- L'avenir est vide
+		- La vie n'a plus de sens 
+		- Croyances reliées à la culpabilité
+	- Exposition douce aux sujets/lieu d'évitement.
+		- Les associer à des souvenirs positifs. 
+	- Encourager à la reprise de contact avec ses intérêts / activités plaisante -> redonner du sens à la vie. 
+
+## Troubles obsessionnels compulsifs & apparentés
+
+- Souvent associés à de la détresse ou anxiété 
+
+### Trouble Obsessionnel Compulsif
+
+- Caractérisé par :
+	- Des **obsessions**
+		- Idées / Images / Envies auxquelles le sujet essaie de résister ou qu'il tente d'éliminer 
+			- Portent souvent sur :
+				- Saleté/germes/microbes/Ordre, rangement/vérifications/religions/idées sexuelles 
+	- Recours à des **compulsions** pour combattre les obsessions / ayant pour but de réduire le malaise associé :
+		- Rituels de lavage, nettoyage, vérification, remise en ordre
+		- Objectif : réduire la détresse anxiété liées aux obsessions mais de manière disproportionnée 
+- Génère une détresse importante + perte de temps.
+
+DSM
+1. Présence d'obsessions / compulsions ou les deux. 
+2. Obsessions / Compulsions durent longtemps tous les jours (au moins 1h) & génère une détresse clinique significative ou une altération du fonctionnement. 
+3. Symptômes non attribuables à une substance ou autre altération médicale
+4. Perturbation par mieux expliquée par un autre trouble mental. 
+
+TTT 
+- *(thérapie stratégique Nardone)*
+- Exposition avec prévention de la réponse :
+	- Exposer le sujet à des situations problématiques (ex: toucher une poignée de porte) 
+		- La réponse compulsive doit être prévenue (ex: plusieurs lavage de main)
+	- -> habituation progressive à tolérer le malaise et l'anxiété (ici à l'idée de la contamination)
+		- -> l'anxiété de contamination diminue 
+			- -> les compulsions s'amoindrissent. 
+- Thérapie sur les inférences
+	- Distinguer le doute obsessionnel du doute normal 
+		- -> Reconnaitre les arguments qui justifient le doute et les compulsions 
+			- -> Construction d'un autre narratif s'appuyant plus sur la réalité des faits ne supportant pas le doute exagéré pour comprendre que le doute obsessionnel est issu de l'imagination. 
+
+- Pharmaco : 
+	- Antideps :
+		- Clomipramine 
+		- Inhibiteur de la recapture (ex : fluoxétine)
+
+### Obsession d'une dysmorphie corporelle 
+
+- Préoccupation pour un/des défauts invisibles aux autres. 
+- Comportements répétitifs : se regarder dans le miroir / être rassuré.e sur son apparence / se compare aux autres 
+DSM 
+1. Préoccupations sur les défauts plus importantes que chez les autres
+2. La personne développe des comportements répétitifs : 
+	- Vérification de la présence de ce qu'elle considère comme des défauts
+		- Se regarder dans le miroir
+		- Se comparer aux autres
+3. Engendre une détresse clinique significative / une altération du fonctionnement 
+4. Problème par mieux expliqué par une insatisfaction concernant le poids corporel ou par un trouble alimentaire.
+
+### Thésaurisation pathologique 
+
+- Anciennement : accumulation compulsive.
+- Difficulté à se débarrasser d'objets qui n'ont pas nécessairement de la valeur.
+- Souffrance & anxiété associé au fait de jeter des objets 
+- -> Jusqu'à ce que le lieu de vie soit insalubre.
+	- -> isolement social. 
+
+DSM 
+1. Difficulté constante & importante à se débarrasser des objets même sans aucune valeur 
+2. Besoin de garder les objets & détresse reliée au fait de s'en débarrasser. 
+3. Le problème entraine un encombrement des lieux d'habitation sans intervention d'un tiers.
+4. Détresse / altération liée au problème 
+5. Non attribuable à une affection médical (ex: lésion cérébrale)
+6. Non attribuable à un autre trouble mental (ex: perte d'énergie liée à une dépression)
+
+TTT
+
+- CC :
+	- Psychoéducation : lien entre renforcement du comportement de conservation et détresse lié au fait de jeter. 
+		- Classement des objets en fonction de leur niveau de difficulté de s'en séparer 
+			- Commencer par ceux classés le plus bas etc.
+	- Psychothérapie de support : vérifier le maintiens des comportements mis en place.
+	- Thérapie basée sur les inférences : 
+		- Le soi n'est pas caractérisé par le besoin de conserver les objets 
+		- S'attaquer au "j'aurai besoin de cet objet un jour"
+			- Biaise la perception de soi : renforce l'importance accordée aux liens "soi-objet" au défaut des liens "soi-autrui", qu'il faut donc renforcer. 
+
+
+### Trichotillomanie 
+-> Arrachage compulsif de ses propres cheveux. 
+
+TTT
+- Approche comportementale.
+	- Identifier les circonstances dans lesquelles il a tendance à s'arracher les cheux. 
+		- Mise en place d'un comportement antagoniste à l'arrachage quand un trigger se présente (ex: baisser les mains le long des hanches et serrer le point fortement)
+			- Possible d'impliquer l'environnement social pour encourager les comportement antagonistes.
+
+### Dermatillomanie 
+-> Triturage pathologique de la peau 
+
+TTT:
+- Renversement des habitudes :
+	- Devenir conscient des circonstances dans lesquelles ce comportement à tendance à se produire etc etc.

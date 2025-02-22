@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie sociale/Partie 1 - La pensée sociale.md",
+                "file": "7 - Psycho/Psychologie sociale/La pensée sociale/Le jugement social.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Partie 1 - La pensée sociale"
+              "title": "Le jugement social"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux liés à des traumatismes ou TOC.md",
+                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles anxieux liés à des traumatismes ou TOC"
+              "title": "Troubles de l'humeur"
             }
           }
         ],
@@ -201,7 +201,12 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "7 - Psycho/Psychologie sociale/Partie 1 - La pensée sociale.md",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/Le soi et l'identité.md",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/La perception des groupes.md",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/Le soi et l'identité",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/Le jugement social.md",
+    "7 - Psycho/Psychologie sociale/La pensée sociale",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux liés à des traumatismes ou TOC.md",
     "7 - Psycho/Psychologie du développement/Le développement émotionnel.md",
     "3 - Tags/Styles d'attachements.md",
@@ -226,9 +231,6 @@
     "3 - Tags/Freud.md",
     "3 - Tags/Tricycliques.md",
     "3 - Tags/Benzodiazépines.md",
-    "3 - Tags/Antipsychotiques.md",
-    "3 - Tags/Antidépresseurs.md",
-    "3 - Tags/Neoroleptiques.md",
     "7 - Psycho/Psychologie du développement",
     "7 - Psycho/Psychologie sociale",
     "7 - Psycho",
@@ -245,8 +247,6 @@
     "Excalidraw",
     "PDF/The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode - a quantitative meta-analysis..pdf",
     "5 - Notes archivées/Vidéos",
-    "doi.org/10.1126",
-    "doi.org/10.1016",
     "Untitled.canvas"
   ]
 }
