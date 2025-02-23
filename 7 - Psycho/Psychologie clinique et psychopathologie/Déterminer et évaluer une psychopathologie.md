@@ -37,7 +37,7 @@
 
 ### Critères pour déterminer le caractère pathologique d'un comportement
 
-*Ouvrage pertinent : "Protocoles et échelles d'évaluation en psychiatrie et psychologie" de Martine Bouvard et Jean Cottraux*
+*[[Ouvrage]] pertinent : "Protocoles et échelles d'évaluation en psychiatrie et psychologie" de Martine Bouvard et Jean Cottraux*
 
 - Association des comportements a une détresse (personnelle ou dans son environnement) importante 
 - Entraine des difficultés dans le fonctionnement quotidien.

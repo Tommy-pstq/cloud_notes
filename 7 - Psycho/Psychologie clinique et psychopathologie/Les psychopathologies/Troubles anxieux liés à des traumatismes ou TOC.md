@@ -129,7 +129,7 @@ TTT -> voir Agoraphobie
 - Peur exagérée et disproportionnée 
 - Evitement des : lieux publics, transports, théâtres, salles de spectacle, centre d'achat, foules etc.
 - Symptômes trigger par plusieurs situations, pas une seule. 
-Ouvrage sur le traitement : "<u>La peur d'avoir peur</u>", Andrée Letarte & Amélie Seidah, 2018.
+[[Ouvrage]] sur le traitement : "<u>La peur d'avoir peur</u>", Andrée Letarte & Amélie Seidah, 2018.
 *(Mention perso : Nardone et thérapie stratégique)*
 
 TTT
