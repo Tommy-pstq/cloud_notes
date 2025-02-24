@@ -1,0 +1,1 @@
+ Identité sociale = partie du soi comprenant notre appartenance à des groupes ainsi que la valeur et les émotions attachées à ces appartenance.

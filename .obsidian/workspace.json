@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
+                "file": "7 - Psycho/Psychologie sociale/L'influence sociale/Sens commun et culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles du sommeil"
+              "title": "Sens commun et culture"
             }
           }
         ],
@@ -201,9 +201,15 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
     "7 - Psycho/Psychologie sociale/La pensée sociale/Le soi et l'identité.md",
+    "7 - Psycho/Psychologie sociale/L'influence sociale/Sens commun et culture.md",
+    "7 - Psycho/Psychologie sociale/L'influence sociale",
+    "3 - Tags/mémoire de travail.md",
+    "3 - Tags/identité sociale.md",
+    "3 - Tags/dépersonnalisation.md",
+    "3 - Tags/auto-objectification.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles des conduites alimentaires.md",
     "3 - Tags/Ouvrage.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
@@ -226,11 +232,6 @@
     "7 - Psycho/Psychologie du développement/Le développement perceptivo-moteur du jeune enfant.md",
     "7 - Psycho/Psychologie du développement/Théorie de Wallon.md",
     "7 - Psycho/Psychologie du développement/Théorie de Vygotski.md",
-    "7 - Psycho/Psychologie du développement/Théorie de Jean Piaget.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Comportements et réactions psychologiques problématiques.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Déterminer et évaluer une psychopathologie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Ch3 - Modèles utilisés en psychopathologie.md",
-    "3 - Tags/trouble à symptomatologie neurologique fonctionnelle.md",
     "7 - Psycho/Psychologie du développement",
     "7 - Psycho/Psychologie sociale",
     "7 - Psycho",
@@ -246,7 +247,6 @@
     "2 - Source Materials/Pasted image 20241226170437.png",
     "Excalidraw",
     "PDF/The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode - a quantitative meta-analysis..pdf",
-    "5 - Notes archivées/Vidéos",
     "Untitled.canvas"
   ]
 }

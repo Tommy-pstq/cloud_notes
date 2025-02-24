@@ -1,0 +1,2 @@
+- Diminuée en situation de stress. 
+		- Stress pouvant être induit par des pensées négatives générées lorsqu'une activité sujette à un stéréotype négatif au groupe est réalisé par un individu. 

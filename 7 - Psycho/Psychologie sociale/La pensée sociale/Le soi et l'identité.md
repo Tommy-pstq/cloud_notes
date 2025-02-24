@@ -201,3 +201,88 @@
 
 ### Conscience de soi & auto-objectification
 
+ - Théorie de la conscience de soi (1972) : 
+	 - Contexte ou une référence est faite à soi (s'entendre dans un vocal, se voir dans une vidéo, entendre une conversation dont on est le sujet) = activation importante de la conscience de soi -> référencement aux normes sociales. 
+		 - Etat désagréable.
+			 - Peut motiver certains individus à se rapprocher de leur idéal. 
+			 - Autre solution : revoir son idéal à la baisse.
+				 - Ex: Il faudra faire comprendre à la jeune fille complexée que les corps des mannequins sont virtuellement impossible à atteindre et que les idéaux présentés par les médias reposent sur des images retouchées. 
+			- Si ces deux stratégies sont improductives / trop difficiles à mettre en place, on peut chercher à éviter la conscience de soi en fuyant les miroirs / pèse-personne 
+				- Egalement la fonction de certaines drogues, dont l'alcool.
+					- Consommation d'alcool -> les gens se focalisent moins sur eux mêmes.
+		- Célébrité = forte conscience de soi forcée.
+			- Usages de drogues très fréquent. 
+			- Corrélation entre utilisation de la première personne du singulier et consommation d'alcool chez certaines célébrité. 
+		- Pour une majorité des 18-25 ans : la célébrité est l'un de leurs objectifs majeurs dans la vie. *(wtf...)*
+- -> Théorie de la conscience de soi = autorégulation guidée par la conscience de soi. 
+
+- <u>Théorie de l'objectification</u> (1997, Barbara Fredrickson & Tomi-Ann Roberts):
+	- Inspiration féministe : le corps des femmes est sans cesse observé & évalué, en particulier par les hommes (ref : objectification sexuelle.)
+		- Etude de la forme de conscience de soi induite par ce regard extérieur porté sur le corps.
+			- Finissant par être intériorisé par les femmes elles-mêmes : à force d'être considérées "comme des morceaux de viandes", elles finissent par se percevoir elles-mêmes comme un "corps destiné à l'usage d'autrui".
+				- Le corps n'est plus envisagé de l'intérieur mais à travers la perspective d'une personne extérieure : [[auto-objectification]].
+
+	- Ex : Une écolière doit lancer une balle / javelot en cours de sport.
+		- Le corps doit être 'sujet' de l'action. Mais, l'attention d'un femme sera partagée dans ce genre de tâche (Ouvrage : "Throwing Like A Girl"):
+			- D'une part sur l'action à accomplir plutôt que sur le but à poursuivre : son attention se dirige sur sa propre action et en particulier sur son corps en action.
+				- "Nous envisageons souvent trop corps comme une gêne plutôt que comme le moyen de réaliser nos objectifs. Nous nous sentons souvent comme si nous devions nous préoccuper de notre corps afin qu'il fasse ce que nous lui demandons plutôt que de nous préoccuper de ce que nous souhaitons faire grâce à notre corps"
+			- D'autre part, la lanceuse peut adopter la perspective d'une observateurice sur son propre corps: elle se demande de quoi elle à l'air aux yeux des autres qui la regardent lancer un javelot -> concentration détournée -> mouvement moins fluide. 
+		- L'attention partagée chez la femme peut nuire à sa performance physique. 
+- Fredrickson : **Auto-objectification responsable de troubles alimentaires et troubles sexuels à travers la honte qu'elle induit.** 
+	- Touche également les performances intellectuelles : expériences ou des étudiants & étudiantes doivent réaliser des exercices de mathématiques en ayant essayé juste avant un maillot de bain ou un pull bouffant.
+		- Pas d'impact sur les performances des hommes.
+		- Moins bons résultats après avoir essayé un maillot de bain qu'un pull chez les femmes.
+			- Attention détournée.
+			- Sentiment de honte corporelle plus important lors de l'essaie du maillot de bain.
+
+## Du soi individuelle à l'identité sociale 
+
+- Henri Tajfel : le soi peut se définir sur un continuum, du pôle interpersonnel à intergroupe. 
+	- Dans certains cas, on se définit comme des individus distincts et le concept de soi correspond aux caractéristiques qui nous distinguent des autres qui nous entourent. 
+	- Dans d'autres cas, on se définira comme membre d'un groupe, on s'envisagera alors comme semblables aux autres personnes qui composent ce groupe, phénomène de [[dépersonnalisation]]. Le soi devient interchangeable avec celui des autres membres du groupe
+		- Les traits nous caractérisant alors ne sont plus ceux qui nous distinguent des membres de notre groupe, mais ceux qui distinguent l'endogroupe de l'exogroupe, l'individu "s'auto-stéréotypise." 
+			- Ce phénomène est accompagné d'un passage de l'identité personnelle à l'[[identité sociale]].
+				- Identité sociale = partie du soi comprenant notre appartenance à des groupes ainsi que la valeur et les émotions attachées à ces appartenance.
+					- Construite, comme l'identité personnelle,  en comparaison à des cibles de références.
+
+### Mettre en scène son identité sociale 
+
+- Contexte inter-groupe : on chercher à présenter son identité sociale plutôt que personnelle (ex: match de foot).
+
+- Performance de l'identité sociale = ensemble des comportements visant à influencer la façon dont autrui appréhende l'identité sociale.  Deux fonctions:
+	1. Construire l'identité sociale , la valider socialement. 
+		- Ex : Femme convertie à l'Islam n'étant saluer par ses "soeurs" que lorsqu'elle porte son hijab.
+	- Favorise la mobilisation collective en suscitant la collaboration.
+
+### La menace du stéréotype
+
+- La perception que l'on de notre niveau de performance (bon.ne ou mauvais.e) influe sur ce même niveau de performance. 
+	- L'appartenance à des groupes influe ces autoperceptions.
+		- Quid des stéréotypes négatifs dirigés vers les groupes auxquels on appartient ? 
+			- 1995, Steel & Aronson : "**Menace du stéréotype**".
+				- En situation d'évaluation de leurs compétences dans le domaine pertinent par rapport au trait stéréotypique, l'**individu craindrait de confirmer le stéréotype.**
+					- **Danger pour l'estime de soi & générateur d'anxiété**. 
+						- Détachement identitaire du domaine concerné possible, met fin à la "menace du stéréotype".
+			- Ex : Test d'intelligence à Stanford, si le test est présenté comme un "diagnostic des compétences verbales", les personnes noires réussissent moins bien que les blancs, alors que ces deus groupe ont des performances similaires si le test est présenté comme servant à "comprendre des facteurs psychologiques intervenant dans la résolutions de problèmes verbaux". Encore pire s'il était demandé de spécifier sa ""race"" sur le questionnaire.
+
+- Facteur explicatif:  **[[mémoire de travail]]**. (souvent supposé être l'anxiété)
+	- Diminuée en situation de stress. 
+		- Stress induit par les pensées négatives générées lorsqu'une activité sujette à un stéréotype négatif au groupe est réalisé par un individu. 
+- Changer la consigne de "L'étude contient des participants jeunes & agés" à : "L'étude contient des participants jeunes & agés mais les tests sont adaptés" suffit à lever l'effet de la menace du stéréotype sur les performances de mémoire des personnes âgées. 
+	- L'effet est variable en fonction des cultures, suivant la négativité avec laquelle les personnes âgées sont perçues.
+
+
+- Effets d'une exposition répétée à des représentations stéréotypées sur certains catégories comme les femmes ou minorités dans les performances du quotidien ? 
+	- 2002 : Des publicités stéréotypées en matière de genre :
+		- Détériorent la performance d'étudiantes sur un test de mathématique 
+		- Orientent leur choix vers des épreuves verbales plutôt que mathématiques
+		- Diminuent leur intérêt pour des filières d'études STIM (Science, Technique, Ingénieurs, Mathématique) au profit de domaines associés aux sciences humaines, sociales, lettres, arts.
+	- Alors qu'elles étaient inscrite dans un cours de mathématiques.
+		- -> La menace du stéréotype à un effet encore plus grand sur les individus attachant une importance au domaine ciblé. 
+	- Pas d'effets sur les étudiants masculins.
+
+- Existence d'un effet inverse "stereotype lift"/ "envolée de stéréotype"
+	- A condition que l'individu endosse l'idée d'un écart entre les groupes. 
+	 - Augmentation des performances dans les domaines sujets à des stéréotypes positifs.
+
+

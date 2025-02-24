@@ -1,0 +1,1 @@
+- Se définir comme membre d'un groupe, on s'envisagera alors comme semblables aux autres personnes qui composent ce groupe
