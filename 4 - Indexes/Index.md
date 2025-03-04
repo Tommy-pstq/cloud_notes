@@ -10,6 +10,7 @@
 - [ ] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
 - [ ] <u>Psychologie clinique et psychopathologie</u>, Gilles Trudel, (DBS)
 - [x] <u>Psychologie du développement</u>, Joanna Lucenet & Cyrille Perchet, (DBS) *02/2025*
+- <u>Stratégie de la thérapie brève</u>, Paul Watzlawick & Giorgio Nardone. *01/2025* 
 - <u>Une nouvelle voie pour guérir</u>, Dr. Jean-Marc Benhaiem *12/2024*
  - [x] <u>Neurosciences cognitives</u> (DBS) *10/2024*
  - [x] <u>Neurobiologie des émotions</u>, Catherine Belzung *10/2024* 
