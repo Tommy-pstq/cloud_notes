@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2047eb7d1dbf208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Psycho/Psychologie sociale/La pensée sociale/Le jugement social.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Le jugement social"
-            }
-          },
-          {
             "id": "3494b063f5fe8ef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Index.md",
+                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Troubles de la personnalité"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
