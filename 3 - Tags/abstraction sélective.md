@@ -1,0 +1,1 @@
+- Mécanisme cognitif : si un aspect minoritaire de ce qu'il fait est moins bon, tout le reste est également moins bon. -> maximise le négatif au dépend du positif.

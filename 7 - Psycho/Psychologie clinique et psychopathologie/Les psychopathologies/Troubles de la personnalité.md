@@ -260,3 +260,153 @@ TTT
 	- Apprendre à régler les ennuis / satisfaire les besoin par d'autres moyens (non histrioniques) est important. 
 
 ### Personnalité narcissique 
+
+- Très haute opinion d'eux-mêmes.
+- Sens excessif et démesuré de leur importance 
+- Veulent toujours se vanter 
+- Leurs réalisations sont toujours les meilleures
+	- s'attendent à ce que les félicitent, admirent, envient.
+- Comme tout est centré sur eux :
+	- Peu sensible/empthique par rapport aux autres.
+	- Tendance à les utiliser, exploiter, contrôler.
+- Fantasme de grandeur:
+	- S'attendent à beaucoup d'attentions spéciales de la part de tous.
+- Arrogants
+- Intolérants à la critique 
+- Veulent toujours avoir raison, même contre l'évidence, qui sera niée de toute manière possible.
+- Amour = manière de manifester leur narcissisme et leur manque d'empathie 
+	- Si la relation met en péril leur estime de soi :
+		- Agressivité/Violence possible, voire homicide.
+
+- Personnes n'ayant pas eu à apprendre le développement de l'empathie et se sont centrées sur elle même.
+	- Enfant roi, élevé dans un contexte d'attention excessive par des parents eux-même narcissiques projettant leurs attentes sur leurs propres enfants: augmente les chances de devenir narcissiques.
+- Contexte social favorise:
+	- L'hédonisme
+	- Valeurs individuelles plutôt que collectives 
+	- Réussite dans le contexte à vouloir être toujours le vainqueur à tout prix dans un contexte compétitif 
+- -> Favoris aussi l'apparition de ce trouble.
+
+- Se considère comme sans aucun défaut -> Pas de remise en question -> pas de recherche de traitement.
+- Dans le cas d'obstacles s'opposant à leurs schémas:
+	- Nier envers et contre tous 
+	- Réaction hostile, potentiellement grave/violente 
+	- Dépression
+		- Augmente la réceptivité à l'idée d'un traitement.
+
+DSM
+1. Début de l'âge adulte: de façon générale des fantaisies ou un manière de se comporter caractérisée par le grandiose. Besoin d'être admirer et manque complet d'empathie. Au moins 5 caractéristiques:
+	- S'attend à être considéré comme supérieur sans accomplissement important. A donc une conception grandiose de sa personne. 
+	- Fantaisies de pouvoir, succès, amour parfait, beauté.
+	- Se considère comme unique, spécial, pense ne pouvoir être compris que par de grande personne 
+	- Besoin exagéré d'admiration
+	- S'attend à être traité de manière spéciale et à ce que ses désirs soient satisfaits 
+	- Exploitation d'autrui, utilisé à ses propre fins
+	- Ne perçoit pas les beoins/sentiments d'autrui par manque d'empathie 
+	- Croit qu'on l'envie et envie les autres
+	- Personne arrogante & hautaine 
+
+TTT
+
+- Objectifs:
+	- Développer l'empathie 
+	- Réduire les attitudes mégalomanes 
+	- Augmenter la sensibilité à la critique 
+- Apprendre à reconnaitre les sentiments des autres
+- Apprécier les plaisirs quotidiens plus réalistes et abordables par rapport à leur ambitions grandioses. 
+- Souvent consulte pour des symptômes dépressifs -> mêmes approches.
+	- Peut débloquer des accessibilité au niveau du narcissisme.
+
+## Personnalités anxieuses et craintives. 
+
+### Personnalité évitante
+
+- Craintives
+- Pensent ne pas être à la hauteur, très sensibles aux: 
+	- Jugements 
+	- Critiques 
+	- Rejet
+- Souvent peu de relations excepté la famille 
+- Evitement des activités de groupe par peur de ne pas être accepté
+- Assez souvent : troubles anxieux/dépressifs 
+- Très associé à l'anxiété sociale 
+	- Au point que certains supposent qu'ils sont les mêmes.
+		- Une forme plus durable
+- Tendance au retrait des activités sociales (comme trouble personnalité schizoïde)
+	- Mais : portent quand même de l'intérêt aux autres.
+		- Peur de ne pas être acceptées -> évites les situations ou les autres pourraient les voir manifester de la nervosité. 
+- Manifestent souvent peu d'émotions mais se présentent souvent comme des personnes "très gentilles" : manière de ne pas être rejetée. 
+- Souvent : célibat, solitude, effacement, faible estime de soi.
+
+- Se souviennent que, dans leur enfance : 
+	- Rejet parentale 
+	- Affection insuffisante. 
+
+DSM
+1. Dès le début de l'âge adulte, et dans différents contextes, une manière générale de se comporter se caractérisant par un mode d'inhibition sociale. Peur du jugement négatif, de ne pas être à la hauteur. au moins 4 manifestations 
+	- Evitement des activités sociales professionnelles étant donné la peur d'être rejeté, désapprouvé et critiqué 
+	- Ne s'implique pas avec les autres à moins d'être certain d'être apprécié 
+	- Peu de relations intimes par crainte de la honte ou d'être ridicule 
+	- A peur d'être critiqué ou rejeté dans les situations sociales 
+	- Peur de ne pas être à la hauteur -> s'inhibe en contexte social
+	- Se perçoit comme n'ayant pas d'attrait, inférieur aux autres, socialement incompétent. 
+	- Ne s'engage pas dans de nouvelles activités et est réticent à prendre des risques personnels par crainte d'être embarrassé
+
+TTT
+- Bonne alliance thérapeutique -> safe place.
+- TTT assez similaire que pour les individu présentant des phobies sociales. 
+- Ouvrage : <u>S'affirmer et communiquer</u>, Madeleine Beaudry & Jean Michel Boisvert
+
+### Personnalité dépendante 
+
+- Personne comptant constamment sur les autres pour prendre des décisions, mêmes banales. 
+	- Des décisions pro aux tenues vestimentaires
+- Très souvent besoin d'être prise en charge tout en ayant peur de perdre le support / d'être abandonnée. 
+- Passives dans les relations 
+- Fréquemment en situation de soumission/d'incompétence/d'impuissance
+- Ruptures / séparation / solitudes = grosse source de détresse et chercher à être évité le plus possible. 
+
+TTT
+
+- Semble souvent être de "bons patients".
+	- L'intervenant doit éviter d'être la personne qui prend la responsabilité de régler les problèmes du patient. 
+	- Important d'éviter la dépendance par rapport aux thérapeutes.
+- Objectif majeur : prise d'indépendance.
+
+### Personnalité obsessionnelle-compulsive
+
+- Très préoccupé.es par la perfection, l'ordre et le contrôle.
+	- S'inquiètent de toutes sortes de détails qui seraient anodins pour la plupart.
+- Rigide à l'extrême, entêté, manque beaucoup de souplesse.
+- Possible préoccupation par l'ordre/le rangement etc.
+- Souvent du doute
+- Exècre l'ambiguïté
+- Difficulté d'expression émotive
+	- + Rigidité -> relations interpersonnelles limitées.
+- Au travail : très méticuleux. 
+	- Difficile de terminer une tâche, il y a toujours quelque chose à améliorer.
+	- Manifestent un dévouement exemplaire que les collègues peuvent trouver exagéré. 
+		- Ex : continuer de travailler pendant les pauses 
+	- Acceptent de travailler avec les autres, en s'assurant que leur manière de faire est acceptée.
+		- Répètent régulièrement et en détail leur manière de voir la tâche à accomplir. 
+- Appliquent leurs valeurs avec le maximum de rigidité 
+- Importance du travail conséquente, peut de place laissée aux loisirs.
+- Non nécessairement relié à des TOC
+
+DSM
+1. Age adulte, divers contextes et dans le fonctionnement général : manque de souplesse, d'ouverture et d'efficacité. Préoccupations pour l'ordre, le contrôle mental et interpersonnel, le perfectionnisme. Au mois 4 manifestations suivantes:
+	- Préoccupé, dans une activité, par : les détails, règles, inventaires, plans, l'organisation, au point que l'objectif de cette activité est perdu de vue.
+	- Difficulté à terminer une tâche car les exigences sont trop élevées / l'individu vise la perfection
+	- Investissement dans le travail à l'exclusion des loisirs et des relations interpersonnelle amicales 
+	- Excessivement scrupuleux et consciencieux sur la morale, l'éthique te les valeurs même sans appartenance à une religion
+	- Incapacité à jeter des objets usés ou inutiles qui n'ont pas une valeur sentimentale.
+	- Ne délègue pas et ne veut pas travailler avec d'autres à moins qu'ils adoptent exactement les mêmes standard 
+	- Avare avec soi-même et les autres, met l'accent sur l'épargne en prévision d'éventuelles catastrophes 
+	- Rigide, entêté, obstiné 
+
+TTT
+
+- Remplacer le perfectionnisme par des habitudes/objectifs plus réalistes.
+- Remplacer la pensée dichotomique par quelque chose de plus nuancé, permettant les objectifs intermédiaires.
+- Changement dans les habitudes excessives dans le domaine du travail ou autre.
+- Travail sur l'[[abstraction sélective]]:
+	- Mécanisme cognitif : si un aspect minoritaire de ce qu'il fait est moins bon, tout le reste est également moins bon. -> maximise le négatif au dépend du positif.

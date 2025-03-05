@@ -54,12 +54,13 @@ Antiquité romaine : Galien ( de 131 à 201 ). dev des conceptions psychopatho
 			- Effet secondaire : fatigue, somnolenc,e diminution de la coordination 
 			- Pb de  tolérance & dépendance 
 	- [[Antipsychotiques]] : traitement des psychoses (Ex: schyzophrénie)
-		- [[Neoroleptiques]] : action sur le système dopaminergique
+		- [[Neuroleptiques]] : action sur le système dopaminergique
 			- Chlorpromazine, thioridazine, fluphénazine, halopéridol. 
-		- Effet secondaire : rigidité musculaire, tremblements 
+		- Effet secondaire : rigidité musculaire, tremblements, similaire Parkinson
 		- Deuxième génération, "atypique", plus vaste spectre de neurotransmetteurs
 			- Clozapine rispéridone, olanzapine, quetiapine
-			- Effet secondaires dangereux, donc sous contrôle médical stricte. 
+			- Effet secondaires dangereux, donc sous contrôle médical stricte.
+				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
 		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
 	- [[Antidépresseurs]] (dépression, phobie sociale, TOC, boulimie)
 		- [[Tricycliques]] (sérotonine et norépinéphrine)
