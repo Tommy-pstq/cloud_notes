@@ -1,0 +1,5 @@
+---
+aliases:
+  - rêve
+  - rêver
+---

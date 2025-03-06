@@ -8,12 +8,12 @@
 ### Phobie spécifique
 
 - Peur/crainte/anxiété très forte et irrationnelle d'un élément (situation, objet, animal).
-	- Entraine un évitement ou la vie avec une peur ou anxiété intense. 
+	- Entraine un [[Evitement|évitement]] ou la vie avec une peur ou anxiété intense. 
 
 DSM
 1. Peur/anxiété intense d'un objet ou d'une situation
 2. La réaction est immédiate 
-3. Evitement ou détresse intense en présence de l'élément
+3. [[Evitement]] ou détresse intense en présence de l'élément
 4. Disproportion par rapport au danger réel
 5. Persistance depuis plus de 6 mois 
 6. Détresse personnelle ou altération du fonctionnement 
@@ -31,7 +31,7 @@ TTT
 Aussi appelée phobie sociale (terme disparu depuis DSM-5-TR 2022).
 
 - Peur d'être exposé à des situations ou elle serait l'objet d'observation d'autrui. 
-	- Evitement ou malaise intense.
+	- [[Evitement]] ou malaise intense.
 	- Peur de montrer des symptômes entrainant un jugement social négatif. 
 	- Souvent associé à des tremblements / rougissements
 
@@ -39,7 +39,7 @@ DSM
 1. Exposition a des situation ou la personne est sujette à une observation attentive où une peur ou anxiété intense est ressentie 
 2. Présence d'une crainte de manifester des symptômes qui entraineraient une opinion négative
 3. Les situations sociales provoquent presque toujours de la peur ou de l'anxiété 
-4. Evitement des situations sociales ou vécues avec forte anxiété 
+4. [[Evitement]] des situations sociales ou vécues avec forte anxiété 
 5. Peur/anxiété disproportionnées par rapport à la situation vécue
 6. Détresse personnelle générée nuit au bon fonctionnement 
 7. Symptômes non attribuables à l'usage de substances 
@@ -127,7 +127,7 @@ TTT -> voir Agoraphobie
 	- Dont il est jugé difficile ou gênant de s'échapper. 
 	- Ou dans lesquels des symptômes de panique ou d'autres malaise de type panique pourraient apparaitre et où aucun secours ne serait disponible pour aider à revenir en lieu sûr (maison/hôpital) 
 - Peur exagérée et disproportionnée 
-- Evitement des : lieux publics, transports, théâtres, salles de spectacle, centre d'achat, foules etc.
+- [[Evitement]] des : lieux publics, transports, théâtres, salles de spectacle, centre d'achat, foules etc.
 - Symptômes trigger par plusieurs situations, pas une seule. 
 [[Ouvrage]] sur le traitement : "<u>La peur d'avoir peur</u>", Andrée Letarte & Amélie Seidah, 2018.
 *(Mention perso : Nardone et thérapie stratégique)*
@@ -225,7 +225,7 @@ Similaire au PTSD mais les symptômes durent moins d'1 mois, tout de même plus 
 - Symptômes:
 	- Envahissant 
 	- Dissociatifs 
-	- D'évitement
+	- D'[[Evitement|évitement]]
 	- D'éveil
 	- Humeur négative
 
@@ -309,7 +309,7 @@ TTT
 
 TTT
 
-- Psychothérapie
+- [[Psychothérapie]]
 	- individuelle
 	- brève
 	- TCC
@@ -348,7 +348,7 @@ TTT
 		- L'avenir est vide
 		- La vie n'a plus de sens 
 		- Croyances reliées à la culpabilité
-	- Exposition douce aux sujets/lieu d'évitement.
+	- Exposition douce aux sujets/lieu d'[[Evitement|évitement]].
 		- Les associer à des souvenirs positifs. 
 	- Encourager à la reprise de contact avec ses intérêts / activités plaisante -> redonner du sens à la vie. 
 

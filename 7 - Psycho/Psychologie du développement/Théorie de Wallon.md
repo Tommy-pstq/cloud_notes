@@ -65,7 +65,7 @@
 	- Acte moteur
 	- Connaissance
 	- Construction de la personne
-- Lois du développement : le devmt de la personnalité est continu (ensemble cohérent) et discontinu (irrégulier, phases d'oscillations, alternance). Les stades et ordres de succession sont définis par 3 lois.
+- Lois du développement : le devmt de la personnalité est continu (ensemble cohérent) et discontinu (irrégulier, [[phase développementale|phases]] d'oscillations, alternance). Les stades et ordres de succession sont définis par 3 lois.
 	- <u>Loi d'intégration fonctionnelle</u>
 		- Toutes les dimension fonctionnelles contribuent conjointement au devmt de la personnalité
 	- <u>Loi de prédominance fonctionnelle</u> 

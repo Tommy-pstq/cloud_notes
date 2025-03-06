@@ -189,7 +189,7 @@ Etudes récentes : formes de l'ABR = spécifique pour chaque son de la langue.
 
 - <font color='red'>Identification des mots</font> : **200-300 ms**
 	- [[gyrus temporal supérieur]], partie médiane
-	- Les règles régissant une langue sont majoritairement inconscientes. Cependant, elles rendent le phénomène langagier [[déterministe]].
+	- Les règles régissant une langue sont majoritairement [[inconscience|inconscientes]]. Cependant, elles rendent le phénomène langagier [[déterministe]].
 		- Des prédictions peuvent donc être effectuées et augmenter l'efficacité du traitement. 
 			- Recherche dans le lexique de mot = incrémental. Dès les premiers phonèmes du mot, des candidats sont sélectionnés et leur nombre diminue avec la perceptions des phonèmes successifs. 
 				- Plus des mots sont proches, plus la [[prise de décision]] est complexe et longue. 

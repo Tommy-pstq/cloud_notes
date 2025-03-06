@@ -252,7 +252,7 @@ DSM
 
 TTT
 
-- Psychothérapies 
+- [[psychothérapie|Psychothérapies]] 
 	- TCC
 		- Favoriser la diminution des comportements visant à attirer l'attention.
 	- Tendance à la manipulation pour obtenir de l'attention : crises émotionnelles, charme, séduction, sexe, jérémiades.
@@ -326,7 +326,7 @@ TTT
 	- Critiques 
 	- Rejet
 - Souvent peu de relations excepté la famille 
-- Evitement des activités de groupe par peur de ne pas être accepté
+- [[Evitement]] des activités de groupe par peur de ne pas être accepté
 - Assez souvent : troubles anxieux/dépressifs 
 - Très associé à l'anxiété sociale 
 	- Au point que certains supposent qu'ils sont les mêmes.
@@ -343,7 +343,7 @@ TTT
 
 DSM
 1. Dès le début de l'âge adulte, et dans différents contextes, une manière générale de se comporter se caractérisant par un mode d'inhibition sociale. Peur du jugement négatif, de ne pas être à la hauteur. au moins 4 manifestations 
-	- Evitement des activités sociales professionnelles étant donné la peur d'être rejeté, désapprouvé et critiqué 
+	- [[Evitement]] des activités sociales professionnelles étant donné la peur d'être rejeté, désapprouvé et critiqué 
 	- Ne s'implique pas avec les autres à moins d'être certain d'être apprécié 
 	- Peu de relations intimes par crainte de la honte ou d'être ridicule 
 	- A peur d'être critiqué ou rejeté dans les situations sociales 

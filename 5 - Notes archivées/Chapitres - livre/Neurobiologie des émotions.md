@@ -32,7 +32,7 @@ La [[coopération]] intra et inter espèce est extrêmement répandue dans la "n
 - On peut distinguer 3 types d'[[empathie]] différente:
 	- 1) Contagion [[émotion|émotionnelle]]
 		- Baillements contagieux, bébé pleurant à la chaine. On parle ici de [[synchronicité|synchronisation]] corporelle (représentation interne de son propre corps mimant un autre individu) sans nécessité de [[conscience]]. Ex: je pleure car l'autre pleure, donc il a du chagrin. Car je ressens du chagrin par mes pleurs.
-		- Contraction inconsciente des muscles nécessaire aux émotions (colère, tristesse, joie) face à des visages expressif. Même des images subliminales provoque ces contractions -> [[conscience]] non requise. 
+		- Contraction [[inconscience|inconsciente]] des muscles nécessaire aux émotions (colère, tristesse, joie) face à des visages expressif. Même des images subliminales provoque ces contractions -> [[conscience]] non requise. 
 		- Très répandue, même chez des mammifères à encéphalisation réduite comme la souris: sensibilité à la douleur ++ quand observation d'un congénère souffrant. 
 		
 	- 2) Assistance contextuelle/se soucier de l'autre

@@ -1,0 +1,1 @@
+- Le regard posé sur le client est sans attente ni jugement

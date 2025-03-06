@@ -1,0 +1,1 @@
+- s'assurer d'avoir parfaitement compris le propos du patient en le reformulant et en s'assurant de l'approbation de ce dernier. 

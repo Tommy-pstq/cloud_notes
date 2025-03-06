@@ -57,7 +57,7 @@ Les règles culturelles, comme cliniques, ont un pouvoir de création.
 - C'est lorsque notre construction de la réalité s'écroule que l'on réalise que la réalité n'est pas ce que l'on pensait.
 - Ce sont les échecs, les angoisses, les effondrements au travail, le désespoir qui arrivent quand l'on se trouve dans un monde qui a perdu, graduellement ou soudainement, son sens. 
 	- On ne peut connaître avec certitude du monde réel uniquement ce qu'il n'est pas, et non ce qu'il est.
-		- La psychothérapie devient l'art de remplacer une construction de la réalité qui n'est plus "adaptée" par une autre qui l'est plus.
+		- La [[psychothérapie]] devient l'art de remplacer une construction de la réalité qui n'est plus "adaptée" par une autre qui l'est plus.
 			- Cette nouvelle construction n'est pas moins fictive que la précédente, mais offre l'illusion (appelée santé mentale) que nous voyons les choses comme elles sont "réellement", le monde retrouve donc son sens et l'individu est en harmonie.
 L'objectif de la psychothérapie est donc de recadrer la vision du monde des individus.
 
@@ -92,7 +92,7 @@ Plus les sources sont variées, meilleure est la capacité de changement de pers
 		- Rhétorique de persuasion:
 			- Etiquetage diagnostique propre au modèle adapté
 			- Endoctrinement théorico-comportemental
-			- Structuration d'un processus thérapeutique rigide en phases et rites de passages et initiation
+			- Structuration d'un processus thérapeutique rigide en [[phase développementale|phases]] et rites de passages et initiation
 - Et: 
 	- Utilisation ouverte de la persuasion à visée stratégique. La position d'autorité de thérapeute implique nécessairement des processus de persuasion même lors de thérapies traditionnelles. 
 	- Approche pragmatique centrée sur les solutions.

@@ -151,7 +151,7 @@ TTT
 	1. Modifier les croyances concernant les cauchemars : le contenu PEUT être modifié.
 	2. Développement de l'imagination & travailler sur la visualisation de scène agréables 
 	3. Choix d'un cauchemar sur lequel travailler en écrivant le récit 
-	4. Modifier le contenu du cauchemar, le réécrire en détail la nouvelle séquence d'image d'un éventuel rêve.
+	4. Modifier le contenu du cauchemar, le réécrire en détail la nouvelle séquence d'image d'un éventuel [[Rêves|rêve]].
 	5. Pratique quotidienne du nouveau scénario, en l'imaginant 5 à 20 minutes par jours. 
 
 ### Trouble de l'éveil en sommeil non-paradoxal : somnambulisme et terreur nocturne 
@@ -192,7 +192,7 @@ TTT
 
 - Verbalisation parfois vulgaires 
 - Mouvements des bras & des jambes potentiellement violent (coups de poings/pieds)
-- Peuvent être l'extériorisation de rêves en cours (conscience au réveil.)
+- Peuvent être l'extériorisation de [[rêves]] en cours (conscience au réveil.)
 
 TTT
 - Hygiène de sommeil

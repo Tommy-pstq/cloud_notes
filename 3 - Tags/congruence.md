@@ -1,0 +1,2 @@
+- Manifester un accord entre sa manière de penser, ressentir et parler. 
+	- Ne pas se cacher derrière une façade professionnelle. 

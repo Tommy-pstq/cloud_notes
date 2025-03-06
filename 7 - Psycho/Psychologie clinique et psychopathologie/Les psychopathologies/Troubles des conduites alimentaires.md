@@ -71,7 +71,7 @@ TTT
 - Suivit alimentaire 
 - Travail cognitif similaire à la boulimie sur les fausses croyances reliées à l'alimentation et au schéma corporel sera effectué. 
 - Potentielle thérapie familiale si le problème semble relié (cas de l'enfant pour qui la seule manière d'avoir un contrôle sur les exigences de ses parents est de manifester des restriction alimentaires)
-## Restriction ou évitement de l'ingestion d'aliments. 
+## Restriction ou [[Evitement|évitement]] de l'ingestion d'aliments. 
 
 - Pas de perception déformée de leur image corporelle. 
 - Sans correspondre aux critères de boulimie 

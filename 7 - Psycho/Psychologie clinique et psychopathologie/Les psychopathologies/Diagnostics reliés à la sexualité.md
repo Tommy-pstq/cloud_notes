@@ -72,7 +72,7 @@ TTT
 - Consultations bien plus fréquentes pour des problèmes d'érection que de désir.
 - La baisse de désir est probablement plus fréquente que ce que disent les statistiques, mais ces messieurs ont beaucoup de mal à l'avouer. 
 - Possiblement associé à d'autres difficultés sexuelles
-- Conceptions exagérées de performance -> évitement car standards perçus comme "obligatoires"
+- Conceptions exagérées de performance -> [[Evitement|évitement]] car standards perçus comme "obligatoires"
 - Facteurs communs avec les femmes : tout ce qui augmente l'anxiété générale, rend le lâcher prise plus difficile. 
 - Difficultés à exprimer leurs sentiments / souhaits au niveau sexuel 
 - Âge (+) -> désir (-)
@@ -98,7 +98,7 @@ TTT
 	- Cas les plus sévère, aversion : 
 		- Expérience dissociative : distanciation au cours de l'activité sexuelle en pensant à autre chose / coupant la perception des sensations sexuelles / utilisation de substances lors des activités. 
 		- Attaque de panique / anxiété extrême / sentiments de terreur / malaises / nausées / palpitations / vertiges / difficultés respiratoires 
-			- Entraine en évitement des rapports / partenaires potentiels.
+			- Entraine en [[Evitement|évitement]] des rapports / partenaires potentiels.
 
 TTT 
 
@@ -108,7 +108,7 @@ TTT
 	- Pleine conscience 
 		- Reprise de contact avec les sensations sexuelles coupées.
 - L'aversion peut être liée à des expériences lointaines, comme lors d'abus durant l'éducation.
-	- Peut être intéressant d'explorer cette aspect dans une psychothérapie 
+	- Peut être intéressant d'explorer cette aspect dans une [[psychothérapie]] 
 - Dimension conjugale. 
 
 
@@ -206,7 +206,7 @@ TTT
 - S'assurer des aspects biomédicaux:
 	- Médicaments (antideps)
 
-- Psychothérapie / Evaluation cognitive 
+- [[Psychothérapie]] / Evaluation cognitive 
 	- Evaluer les facteurs qui empêchent la personne de se laisser aller au plaisir sexuel 
 	- Restructuration cognitives: modifier les cognitions négatives 
 	- Développer un imaginaire érotique / utiliser des fantasmes sexuels très excitants pouvant être utilisés pour augmenter le plus possible l'excitation sexuelle.
@@ -359,7 +359,7 @@ DSM
 	- Jeux sexuels ou fantaisies de jeux sexuels dans lesquels la personne agit ou fantasme comme une personne du sexe opposé. 
 	- Préférences pour des jeux/jouets/activités de l'autre sexe
 	- Relation de camaraderie de préférence avec une personne du sexe opposé. 
-	- Evitement/Rejet des jeux/jouets/activités typiques de l'autre genre. 
+	- [[Evitement]]/Rejet des jeux/jouets/activités typiques de l'autre genre. 
 	- Aversion de sa propre anatomie sexuelle 
 	- Souhait d'avoir des caractéristiques sexuelles correspondant au sexe qu'il considère avoir comme le sien. 
 2. Détresse clinique significative/perturbation des activités sociales/scolaires/considérées comme importantes. 

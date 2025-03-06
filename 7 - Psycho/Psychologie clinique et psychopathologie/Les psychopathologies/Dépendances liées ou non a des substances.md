@@ -145,7 +145,7 @@ DMS
 1. Arrêt récent 
 2. Symptômes $\geq$ 
 	- épuisement
-	- rêves déplaisants 
+	- [[rêves]] déplaisants 
 	- insomnie / hypersomnie 
 	- augmentation de l'appétit 
 	- ralentissement / agitation

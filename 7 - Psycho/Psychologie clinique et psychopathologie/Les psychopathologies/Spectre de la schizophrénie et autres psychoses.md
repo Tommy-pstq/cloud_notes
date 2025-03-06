@@ -219,7 +219,7 @@ TTT
 			- Si un lien de confiance est établit, possible de commencer à semer le doute sur la conviction délirante : "êtes vous certain ?", "D'ou vient cette idée ?"
 			- Puis : Suggérer des croyances intermédiaires *(Nardone: incorporer des éléments supplémentaires dans les idées délirantes)*.
 				- Ex pour le type persécutoire : Peut être que les gens ne rient pas de vous, mais pour d'autres raisons. 
-			- Si le patient n'arrive pas à douter de ses croyances : possible de lui suggérer qu'il dépense trop d'énergie à essayer de convaincre les autres et qu'il est préférable de n'en parler qu'en psychothérapie
+			- Si le patient n'arrive pas à douter de ses croyances : possible de lui suggérer qu'il dépense trop d'énergie à essayer de convaincre les autres et qu'il est préférable de n'en parler qu'en [[psychothérapie]]
 		- Processus très progressif.
 - Hospitalisation possible si danger.
 - Pas de pharmaco précise, [[antipsychotiques]] peuvent être utilisés.

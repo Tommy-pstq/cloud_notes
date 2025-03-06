@@ -171,7 +171,7 @@ Potentiellement présents toute la journée en cas de dette de sommeil, majorés
 	- Etat très différent
 		- Sommeil agité 
 		- Mouvements rapides oculaires
-		- Rêves (peut être pas exclusivement)
+		- [[Rêves]] (peut être pas exclusivement)
 	- Associé à la créativité
 		- [[mémoire procédurale]] améliorée -> répétitions pendant le sommeil profond, [[extrapolation]] pendant le sommeil paradoxal
 

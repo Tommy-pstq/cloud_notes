@@ -62,7 +62,7 @@
 	- De plus en plus difficile d'obtenir des opinions à propos de groupes dont la stigmatisation est connue. (désirabilité sociale)
 		- Contourné en partie en affirmant qu'il est possible de connaitre la véracité des réponses, mais éthique bof.
 - Utilisation d'amorçage visuel et étude de l'impact sur la vitesse de prise de décision.
-			- Mesure du caractère inconscient en prime. 
+			- Mesure du caractère [[inconscience|inconscient]] en prime. 
 
 - Méthode des corrélations inversées 
 	- Ajout de masques de pixels successifs ou de leur négatifs (choisi) à une image de visage.

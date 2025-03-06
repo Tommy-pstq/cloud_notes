@@ -71,7 +71,7 @@
 		- 18 mois : 
 			- rupture : regarde fixement de biais ou se détourne
 			- Jeux de visage
-		- 17 - 24 mois (Zazzo) : fascination/évitement devant un individu n'ayant pas les réactions sociales attendues
+		- 17 - 24 mois (Zazzo) : fascination/[[Evitement|évitement]] devant un individu n'ayant pas les réactions sociales attendues
 	- 24 - 30 mois :
 		- 24 mois : souris 
 		- 27 - 30 mois : 

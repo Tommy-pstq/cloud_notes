@@ -6,7 +6,7 @@ aliases:
 - Parfois utilisé pour le côté [[Anxiolytiques|anxiolytique]]
 - Tricycliques ([[sérotonine]] et [[noradénaline||norépinéphrine]])
 	- Amitriptyline, clomipramine, désipramine, imipramine
-	- E S  : vision floue, yeux secs, constipation, vertiges, [[somnolence]], sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, rêves inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
+	- E S  : vision floue, yeux secs, constipation, vertiges, [[somnolence]], sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, [[rêves]] inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
 - Inhibiteur de la mono-oxydase ; effet sur la sérotonine, [[dopamine]] et [[noradénaline|norépinéphrine]]. 
 	- phenelzine, tranylcypromine
 	- E S : hypotension orthostatique (étourdissement au lever & position debout), crises hypertensives, troubles neurologiques, insomnies 

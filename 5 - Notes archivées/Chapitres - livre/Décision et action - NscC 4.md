@@ -362,7 +362,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 Troubles [[anxiété|anxieux]] et [[dépression]]:
 - Aspect négatif des émotions et de la [[perception]] de soi
 - Augmentation de l'indécision
-- [[anxiété|Anxiété]] uniquement : comportement d'évitement des menaces & aversion au risque
+- [[anxiété|Anxiété]] uniquement : comportement d'[[Evitement|évitement]] des menaces & aversion au risque
 
 Dépression associée à:
 - L'[[apathie]]

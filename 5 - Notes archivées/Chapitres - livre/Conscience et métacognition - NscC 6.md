@@ -73,7 +73,7 @@ Conscience = matériau subjectif par excellence, la donnée la plus privée qui 
 						- Soustraction des  cérébrales mesurées: lorsqu'un visage est présent, il y a une activité dans les aires visuelles primaires et celles spécialisé dans la reconnaissance des visage ([[gyrus fusiforme]])
 
 
-Le traitement inconscient d'information n'est pas exclusif à des cas pathologiques. 
+Le [[traitement inconscient]] d'information n'est pas exclusif à des cas pathologiques. 
 - Images subliminales 
 	- Doivent être "<font color='red'>masquées</font>" en plus d'<font color='red'>être de courte durée</font> (~ dizaines ms)
 		- = Précédées et suivies d'images dont les caractéristique bas niveau sont similaires.
@@ -100,7 +100,7 @@ Prise de conscience d'un stimulus est <u>systématique accompagné</u> de:
 
 ### Dynamique temporelle de l'accès conscient et débats actuels sur les mécanismes sous-jacents.
 
-Protocole permettant de comparer le déroulement [[temporalité|temporel]] des traitements conscients et inconscients : <u>clignement attentionnel</u> ("attentional blink").
+Protocole permettant de comparer le déroulement [[temporalité|temporel]] des traitements conscients et [[inconscience|inconscients]] : <u>clignement attentionnel</u> ("attentional blink").
 - [[stimulus|stimuli]] visuels présentés les uns après les autres (100ms)
 	- Pas de masquage : les participants peuvent repérer un mot au milieux de pseudo-mots.
 	- Mais, dans le cas d'un double tâche : rapporter le mot ET détecter un pseudo-mot particulier précédent le mot, le phénomène de clignement [[attention|attentionnel]] apparaît:

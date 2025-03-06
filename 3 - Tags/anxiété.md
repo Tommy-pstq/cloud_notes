@@ -6,7 +6,7 @@ aliases:
 ---
 - Aspect négatif des [[émotion|émotions]] et de la [[perception]] de soi
 - Augmentation de l'indécision
-- comportement d'évitement des menaces
+- comportement d'[[Evitement|évitement]] des menaces
 - aversion au risque
 
 - Renforce la perception des visages menaçant

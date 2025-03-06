@@ -2,7 +2,7 @@
 - Sans présenter des problèmes psychotiques : altérations importantes dans la perception du soi ou de la réalité. 
 	- Dissocier d'elle même, de ses pensées, de ses émotions, de ses mémoires avec des phénomènes amnésiques. 
 - Dans des états de grande fatigue, de stress, d'anxiété, de panique. 
-- Si la personne se regarde elle même comme si elle était dans un rêve : [[dépersonnalisation]]. 
+- Si la personne se regarde elle même comme si elle était dans un [[Rêves|rêve]] : [[dépersonnalisation]]. 
 - Voir son environnement comme étrange ou se déformant : [[déréalisation]]. 
 - Parfois pas associé à un autre problème comme la panique, mais comme motif principal de consultation. 
 
@@ -54,7 +54,7 @@ DSM
 4. Perturbation pas attribuable à un autre trouble mental (Ex: PTSD, schizophrénie, trouble panique.)
 TTT
 - Rétablissement spontané avec recouvrement de mémoire fréquent. 
-- Psychothérapie : aider à se souvenir d'événements durant la phase d'amnésie. 
+- [[Psychothérapie]] : aider à se souvenir d'événements durant la phase d'amnésie. 
 - Hypnose.
 
 
@@ -82,7 +82,7 @@ DSM
 
 TTT
 - Médication : peut agir sur les symptômes d'anxiété / dépression associés au trouble, mais pas le trouble de l'identité même.
-- Psychothérapie = base du traitement.
+- [[Psychothérapie]] = base du traitement.
 	- Etablir une relation positive avec la/le psychothérapeute 
 	- Fournir un moyen de stabiliser les émotions intenses 
 	- Négocier les rapports entre les différentes identités 
