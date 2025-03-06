@@ -1,6 +1,6 @@
 2024-10-25 12:03
 
-[[NMDA]] : N-méthyl-D-aspartate = antagoniste pharmaco spécifique à ces [[récepteurs]]  
+[[NMDA]] : N-méthyl-D-aspartate = [[antagonisme|antagoniste]] pharmaco spécifique à ces [[récepteurs]]  
 
 impliqués dans : [[mémoire]] & [[plasticité synaptique]] ([[LTP]])  en permettant l'entrée d'ions calcium lors de la détection de coïncidence de sommations de potentiels post-[[synapses|synaptique]]
 

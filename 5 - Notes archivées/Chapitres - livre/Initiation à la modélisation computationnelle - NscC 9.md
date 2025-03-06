@@ -94,7 +94,7 @@ $$V\left(X\right)=\sum_{i=1}^{n}w\left(p_{i}\right)v\left(p_{i}\right)$$
 
 ### Dopamine et [[troubles psychiatriques]]
 
-Les modèles d'apprentissage par renforcement peuvent être vus comme des solutions aux niveux computationnel & algorithmique de Marr. 
+Les modèles d'[[apprentissage par renforcement]] peuvent être vus comme des solutions aux niveux computationnel & algorithmique de Marr. 
 1. Computationnel : l'apprentissage a pour but d'estimer et d'optimiser les renforcements futurs cumulés.
 2. Algorithmique : Proposent une solution simple pour ce calcul, rendant compte de beaucoup de phénomène [[psychologie|psychologiques]]. 
 Une des raisons du succès des algorithmes de RL : le niveau implémentationnel, l'activité physiologiques du cerveau lors des [[apprentissage|apprentissages]] est similaire à ce fonctionnement. 

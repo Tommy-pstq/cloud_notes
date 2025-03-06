@@ -21,7 +21,7 @@ TTT
 - Identifier les croyances erronées concernant les maladies et tenter de trouver des idées alternatives plus réalistes à ce sujet.
 - Diminuer le nombre de fois que la personne tente d'être rassurée à propos de sa santé (auto-inspection, consultation sur internet etc.).
 - Provoquer des situation anxiogènes (identifier comme dangereuses pour l'état de santé), sans impact au final.
-- Relaxation / pleine conscience. 
+- [[Relaxation]] / [[pleine conscience]]. 
 
 ## Crainte excessive d'avoir une maladie 
 
@@ -68,7 +68,7 @@ TTT
 	- Gestion du stress
 	- Identifier / modifier les mode de pensée qui renforcent leurs symptômes 
 	- Hypnose 
-	- Pleine conscience. 
+	- [[Pleine conscience]]. 
 
 ## Trouble factice auto-induit
 

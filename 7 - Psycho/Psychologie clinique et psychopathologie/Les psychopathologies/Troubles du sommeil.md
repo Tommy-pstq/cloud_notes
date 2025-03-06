@@ -43,7 +43,7 @@ DSM
 	- Alcool
 	- Nourriture causant des dérangement digestifs 
 	- Chambre noir + fraiche 
-	- Relaxation
+	- [[Relaxation]]
 
 - Pharmaco :
 	- Stimulants (amphetamines, [[méthylphénidate]])
@@ -136,7 +136,7 @@ TTT
 - Potentiellement associés à :
 	- Traumatismes 
 	- Anxiété
-	- Trouble personnalité limite 
+	- Trouble [[trouble de la personnalité limite|personnalité limite]] 
 	- Trouble spectre de la schizophrénie 
 	- Médicaments
 	- Facteurs génétiques 

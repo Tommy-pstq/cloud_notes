@@ -1,6 +1,6 @@
 
 - Objectifs
-	- Présenter les différentes méthodes d'évaluation des comportements inappropriés et des difficultés psychologiques qui viennent appuyer les diagnostics posés 
+	- Présenter les différentes méthodes d'évaluation des [[comportements inadéquats|comportements inappropriés]] et des difficultés psychologiques qui viennent appuyer les diagnostics posés 
 		- Avantage/Inconvénients des méthodes 
 	- Evaluation = processus continu, avant/pendant/après le TTT
 
@@ -12,34 +12,34 @@
 	- Recherche d'information sur les facteurs explicatifs 
 	- *flexible* , en particulier selon habiletés cliniques du thérapeute 
 	- *Limites*
-		- Mémoire 
-		- Distorsions de perception
+		- [[mémoire]] 
+		- Distorsions de [[perception]]
 		- Habileté du clinicien 
 
 - <u>Questionnaires</u> 
 	- Profil psycho ou spécifiques à certaines psychopathologies
 	- Détection & degré d'impact/de sévérité des problèmes rencontrés
 	- *Limites*:
-		- Mémoire & distorsions 
+		- [[mémoire]] & distorsions 
 	- Ex : 
 		- Minnesota Multiphasic Personality Inventory. 
-			- Pb de personnalité et psychopathologies. 335 items. 
-		- Inventaire de dépression de Beck 
-		- - d'anxiété de Beck 
-		- Echelle d'appréciation de l'anxiété d'Hamilton
+			- Pb de [[personnalité]] et psychopathologies. 335 items. 
+		- Inventaire de [[dépression]] de Beck 
+		- - d'[[anxiété]] de Beck 
+		- Echelle d'appréciation de l'[[anxiété]] d'Hamilton
 		- Questionnaire sur les peurs 
-		- Anxiété sociale de Liebowitz 
-		- Echelle de l'état de stress post-trauma 
+		- [[anxiété sociale]] de Liebowitz 
+		- Echelle de l'état de [[stress]] post-trauma 
 
 - <u>Les tests projectifs</u> <- de la merde. 
-	- Contexte psychanalytique.
+	- Contexte [[psychanalytique]].
 	- Le plus connu = Rorschah *(et c'est de la merde.)*
 	- Les autres mentionnés : de la merde aussi.
 
 - <u>L'observation</u> 
 	- Observation de comportements pour définir la fréquence de certains comportements problématiques 
 		- Grille d'observation
-	- Test d'approche comportementale pour les phobies. 
+	- Test d'[[thérapie comportementale|approche comportementale]] pour les [[phobie|phobies]]. 
 	- Interactions d'un couple sur un thème donné. 
 
 - <u>Auto-observation</u>

@@ -126,7 +126,7 @@ TTT
 	- Augmenter l'adhérence au traitement 
 	- Psychoéducation : voir au dessus. 
 	- Stratégie de résolution des problèmes. 
-	- Suivi du fonctionnement et de l'adaptation de l'individu dans la société. 
+	- Suivi du fonctionnement et de l'[[adaptation]] de l'individu dans la société. 
 	- Traitement d'autres problèmes de santé mentale. 
 
 ## Trouble schizophréniforme

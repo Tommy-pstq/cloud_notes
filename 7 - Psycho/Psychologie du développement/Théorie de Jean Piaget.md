@@ -1,64 +1,64 @@
 [[Constructivisme]] 
 - <u>3 ancrages:</u>
 	- Biologique
-		- intelligence = forme d'adaptation de l'espèce humain à son milieu. Se développe via:
+		- intelligence = forme d'[[adaptation]] de l'espèce humain à son milieu. Se développe via:
 			- L'intégration des éléments nouveaux du milieu (**assimilation**)
-			- Son ajustement à ces nouvelles données (**accomodation**)
+			- Son ajustement à ces nouvelles données (**accommodation**)
 	- Epistémologique
-		- Piaget = "père de l'épistémologie génétique" (génétique de genèse ici)
+		- Piaget = "père de l'épistémologie [[génétique]]" ([[génétique]] de genèse ici)
 		- Intérêt pour les mécanismes de construction de la connaissance. 
 			- Enfant = sujet épistémique 
 				- -> Recherche d'invariants présents chez tous les sujets 
 	- Logico-mathématique
-		- Progrès de l'intelligence reposerait sur le développement d'opérations logico-mathématiques 
-		- Développement de l'intelligence implique la construction d'organisation cognitives à complexité croissante 
-			- Actions 
-			- Opérations concrètes 
-			- Opérations formelles 
+		- Progrès de l'[[intelligence]] reposerait sur le développement d'[[opérations logico-mathématiques]] 
+		- Développement de l'[[intelligence]] implique la construction d'organisation [[cognition|cognitives]] à [[Complexité]] croissante 
+			- Actions
+			- [[Opérations concrètes ]]
+			- [[Opérations formelles ]]
 - <u>Méthode critique-clinique</u> piagétienne:
 	- Processus permettant d'étudier le cheminement intellectuel d'un enfant. 
-		- Sous forme d'entretien clinique.
-			- Le psychologue formule des hypothèses et fait varier les conditions de la situation.
+		- Sous forme d'[[entretien clinique]].
+			- Le [[psychologie|psychologue]] formule des hypothèses et fait varier les conditions de la situation.
 			- Lors d'un **dialogue souple** avec l'enfant. 
 		- Doté d'une dimension critique:
 			- L'enfant doit justifier ses affirmations car le psychologues cherchera a les contester. 
-				- Permet de prendre plus de recule sur les réponses de l'enfants, dont la perception peut être biaisée par la cognition adulte. 
+				- Permet de prendre plus de recule sur les réponses de l'enfants, dont la [[perception]] peut être biaisée par la [[cognition]] adulte. 
 
 - <u>Concepts clés</u> proposés par Piaget:
 	- 4 stades : caractérisés par une forme d'intelligence spécifique. Ordre linéaire & identique pour tous les individus. Intégratif, les précédents stades sont nécessaires au dev du suivant. 
 		- **Sensori-moteur** (0-2 ans) *action effective*
 			- Intelligence Pratique
-			- Permanence de l'objet 
+			- [[Permanence de l'objet ]]
 			- 6 sous stades 
 		- **Pré-opératoire** (2-7 ans) *action effective & intériorisée sous forme de pensée*
-			- Egocentrisme intellectuel : impossibilité de décentrer son point de vue de soi même  jusqu'à la décentration cognitive vers 8-9 ans
+			- [[Egocentrisme intellectuel]] : impossibilité de décentrer son point de vue de soi même  jusqu'à la décentration [[cognition|cognitive]] vers 8-9 ans
 			- Notion d'espace & de temps 
 			- Fonction symbolique 
-			1. Pensée symbolique & pré conceptuelle (2-4 ans)
-				- Pensée égocentrique (confusion du moi et du monde
-				- Pré causale (croyance enfantine: Finalisme, Animisme, Artificialisme, Phénoménisme )
-				- Raisonnement transductif (cas particulier -> cas particulier)
-			2. Pensée intuitive  (4 -> 6/7ans)
-				- Intuition : appréhension perceptive du monde
+			1. <u>Pensée symbolique & pré conceptuelle</u> (2-4 ans)
+				- [[Egocentrisme intellectuel|Pensée égocentrique]] (confusion du moi et du monde
+				- Pré [[causalité|causale]] (croyance enfantine: Finalisme, Animisme, Artificialisme, Phénoménisme )
+				- [[Raisonnement transductif]] (cas particulier -> cas particulier)
+			2. <u>Pensée intuitive</u>  (4 -> 6/7ans)
+				- Intuition : appréhension [[perception|perceptive]] du monde
 				- Centration : 1 seul aspect de la situation au dépend des autres
-				- Opérations de classification simple ou additive: sur les propriétés perceptives des objets
-		- **Opératoire concret**  (7-11 ans) *Opérations concrètes: opération mentales portant uniquement sur des objets concrets (présents ou représentés*
-			- Conceptualisation de situations concrètes 
-			- Relations spatiales / liens de causalité
-			- Raisonnement inductif (Généralités à partir d'observations discrètes)
+				- Opérations de classification simple ou additive: sur les propriétés [[perception|perceptives]] des objets
+		- **Opératoire concret**  (7-11 ans) *[[Opérations concrètes]]: opération mentales portant uniquement sur des objets concrets (présents ou représentés*
+			- [[Conceptualisation]] de situations concrètes 
+			- Relations spatiales / liens de [[causalité]]
+			- [[Raisonnement inductif]] (Généralités à partir d'observations discrètes)
 			- Décentration (considérer plusieurs points de vue)
 			- Opérations infra-logiques portant sur les objets continus 
 				-  **Conservation** : la propriété d'un objet est conservée même si son apparence, elle, change. Le raisonnement s'abstrait de la perception 
 			- Opération logico-mathématiques sur des objets continus 
 				- **Sériation** : mise en relation ordonnée d'éléments. 
 					- Elle devient **opératoire** quand elle s'abstrait de la perception. Grâce à la réversibilité et l'anticipation.
-		- **Opératoire formel** : émergence de la pense hypothético-déductive. *Opérations formelles : opérations mentales pouvant porter sur des propositions*
+		- **Opératoire formel** : émergence de la [[pensée hypothético-déductive]]. *[[Opérations formelles]] : opérations mentales pouvant porter sur des propositions*
 			- Raisonnement sur l'abstrait et le possible (détachement du réel)
 			- Situer le réel dans un ensemble de possibilité
 			- Résolution systématique de problèmes nécessitant un raisonnement sur des énoncés verbaux
-			- Combinatoire : généralisation des logique de classification et sériation à des proposition verbale permettant la construction d'un raisonnement hypothético-déductif -> formulation et tests d'hypothèses.
+			- Combinatoire : généralisation des logique de classification et sériation à des proposition verbale permettant la construction d'un [[raisonnement]] hypothético-déductif -> formulation et tests d'hypothèses.
 			- INRC (identité, négative, réciproque, corrolaire)
-	- Adaptation : Dev de l'intelligence pour Piaget
+	- [[Adaptation]] : Dev de l'intelligence pour Piaget
 		- Equilibration = réaction à une perturbation cognitive lors d'interaction avec l'environnement
 			- Assimilation = intégrer de nouvelles info dans un schème 
 			- Accommodation = modification du schème 

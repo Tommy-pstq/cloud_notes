@@ -21,7 +21,7 @@
 			- Effet secondaires dangereux, donc sous contrôle médical stricte.
 				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
 		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
-	- [[Antidépresseurs]] (dépression, phobie sociale, TOC, boulimie)
+	- [[Antidépresseurs]] (dépression, [[phobie]] sociale, TOC, boulimie)
 		- Tricycliques (sérotonine et [[noradénaline|norépinéphrine]])
 			- Amitriptyline, clomipramine, désipramine, imipramine
 			- E S  : vision floue, yeux secs, constipation, vertiges, somnolence, sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, [[rêves]] inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 

@@ -1,12 +1,12 @@
 - Contrairement à d'autres problèmes de santé mentale:
 	- Les troubles de la personnalité sont une manière d'être qui fait partie de caractéristiques fondamentales d'une personne. Durable.
 		- Souvent, objectif = améliorer le fonctionnement des personnes. 
-	- Certains problèmes de personnalité peuvent donner lieux à de très graves problèmes de santé mentale. 
+	- Certains problèmes de [[personnalité]] peuvent donner lieux à de très graves problèmes de santé mentale. 
 - Répartis en 3 groupes
 	- **A**: Bizarres ou excentriques 
 		- Paranoïaques, schizoïde et schizotypique 
 	- **B**: Dramatique, émotionnel, erratique 
-		- Antisociale, borderline/limite, histrionique, narcissique 
+		- Antisociale, [[trouble de la personnalité limite|borderline]]/limite, histrionique, narcissique 
 	- **C**: Craintives & anxieuses
 		- Evitante, dépendante, obsessive-compulsive
 - Structuration vers la fin de l'adolescence / début de la vie adulte. 
@@ -93,7 +93,7 @@ TTT
 
 DSM
 
-1. Personne non psychotique, vers le début de la vie adulte présente des déficits importants au niveaux social et interpersonnel, une gêne extrême, des difficultés importantes dans les relations avec les proches, des manifestations de distorsions cognitives et dans la perception, une manière d'agir étrange, bizarre et la présence d'au moins 5 des symptômes:
+1. Personne non psychotique, vers le début de la vie adulte présente des déficits importants au niveaux social et interpersonnel, une gêne extrême, des difficultés importantes dans les relations avec les proches, des manifestations de [[distorsions cognitives]] et dans la perception, une manière d'agir étrange, bizarre et la présence d'au moins 5 des symptômes:
 	- Idées de référence : sans être délirantes, donnent un sens particulier et personne à un objet ou une situation. (Ex: un objet est conçu pour lui envoyer un message ou des personnes inconnues lui parlent dans le dos)
 	- Croyances bizarres qui dépassent la norme du milieu (Ex: télépathie, voyance, sixième sens etc)
 	- Perceptions étranges comme des illusions corporelles (Ex: perception du corps qui diffère de la réalité)
@@ -156,7 +156,7 @@ TTT
 - TCC:
 	- Amélioration du tableau clinique & réduction des comportements violents. 
 
-### Personnalité limite (borderline)
+### Personnalité limite ([[trouble de la personnalité limite|borderline]])
 
 
 - Trouble grave
@@ -172,7 +172,7 @@ TTT
 - Finissent souvent dans des urgences psychiatriques. 
 
 - Facteurs biologiques (réseau limbique)
-- Enfants, particulièrement de sexe féminin, victimes d'abus sexuels / négligence durant l'enfance : plus de risque de développer un trouble de personnalité limite.
+- Enfants, particulièrement de sexe féminin, victimes d'abus sexuels / négligence durant l'enfance : plus de risque de développer un trouble de [[trouble de la personnalité limite|personnalité limite]].
 - Combinaison de facteurs probablement :
 	- Réactivité émotionnelle importante à la base.
 	- Vulnérabilité psychologique généralisée / lors d'événements spécifiques reliés à des traumas précoces -> les événements sont souvent perçus comme des menaces.
@@ -199,13 +199,13 @@ DSM
 
  TTT
 
-- Facteurs biologique : dysrégulation émotionnelle prédisposant aux réactions excessives.
+- Facteurs biologique : [[dysrégulation émotionnelle]] prédisposant aux réactions excessives.
 	- Réactions négatives de l'environnement 
 		- Exacerbe le fonctionnement émotionnel négatif.
 
 - Problème complexe : interventions à divers niveaux. 
 - Thérapie comportementale dialectique (Masha Linehan) : combinaison d'intervention
-	- Pleine conscience -> sérénité par rapport aux émotions négatives très fortes
+	- [[Pleine conscience]] -> sérénité par rapport aux émotions négatives très fortes
 	- Apprentissage des habiletés sociales en groupe 
 	- Thérapie individuelle 
 		- Gestion des crises
@@ -327,8 +327,8 @@ TTT
 	- Rejet
 - Souvent peu de relations excepté la famille 
 - [[Evitement]] des activités de groupe par peur de ne pas être accepté
-- Assez souvent : troubles anxieux/dépressifs 
-- Très associé à l'anxiété sociale 
+- Assez souvent : [[troubles anxieux]]/dépressifs 
+- Très associé à l'[[anxiété sociale]] 
 	- Au point que certains supposent qu'ils sont les mêmes.
 		- Une forme plus durable
 - Tendance au retrait des activités sociales (comme trouble personnalité schizoïde)
@@ -353,7 +353,7 @@ DSM
 
 TTT
 - Bonne alliance thérapeutique -> safe place.
-- TTT assez similaire que pour les individu présentant des phobies sociales. 
+- TTT assez similaire que pour les individu présentant des [[phobie|phobies]] sociales. 
 - Ouvrage : <u>S'affirmer et communiquer</u>, Madeleine Beaudry & Jean Michel Boisvert
 
 ### Personnalité dépendante 
@@ -406,7 +406,7 @@ DSM
 TTT
 
 - Remplacer le perfectionnisme par des habitudes/objectifs plus réalistes.
-- Remplacer la pensée dichotomique par quelque chose de plus nuancé, permettant les objectifs intermédiaires.
+- Remplacer la [[pensée dichotomique]] par quelque chose de plus nuancé, permettant les objectifs intermédiaires.
 - Changement dans les habitudes excessives dans le domaine du travail ou autre.
 - Travail sur l'[[abstraction sélective]]:
 	- Mécanisme cognitif : si un aspect minoritaire de ce qu'il fait est moins bon, tout le reste est également moins bon. -> maximise le négatif au dépend du positif.

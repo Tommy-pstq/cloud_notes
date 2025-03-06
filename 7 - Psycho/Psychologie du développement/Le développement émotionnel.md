@@ -132,7 +132,7 @@
 
 - Contexte familial joue un rôle déterminant pour le dev émotionnel de l'enfance à l'adolescence à travers **trois mécanismes principaux**
 	- Observation par les enfants de la régulation émotionnelle chez leurs parents. 
-		- Imitation
+		- [[Imitation]]
 		- Si des stratégies efficaces sont observées, plus probable qu'elles soient imitées 
 		- Rejoint la théorie de l'apprentissage sociale 
 	- Pratique parentale liées aux émotions 

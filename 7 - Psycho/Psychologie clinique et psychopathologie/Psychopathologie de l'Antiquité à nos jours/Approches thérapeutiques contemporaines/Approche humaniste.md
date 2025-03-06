@@ -1,6 +1,6 @@
 
 
-- Approche psychanalytique : l'individu doit surmonter des phases
+- Approche [[psychanalytique]] : l'individu doit surmonter des phases
 - Approche humaniste : l'individu un initialement sain.
 
 - Carl Rogers:

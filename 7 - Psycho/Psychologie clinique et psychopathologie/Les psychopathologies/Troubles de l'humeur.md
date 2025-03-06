@@ -3,7 +3,7 @@
 		- Troubles dépressifs:
 			- Dépressif caractérisé 
 			- Dépressif persistant 
-			- Disruptif avec dysrégulation émotionnelle
+			- Disruptif avec [[dysrégulation émotionnelle]]
 			- Dysphorique prémenstruel
 		- Troubles bipolaires 
 			- Episode maniaque 
@@ -36,10 +36,10 @@ DSM
 - Trouble grave devant être traité aussi rapidement que possible car tendance à la rigidification de l'état avec le temps. 
 
 TTT
-- Thérapie cognitive 
+- [[Thérapie cognitive]] 
 	- Les cognitions portant sur le passé/présent/avenir/soi/les autres/l'environnement sont très négatives et sans espoir.
 	- Présence de fortes distorsions négatives biaisant les perceptions. 
-		- Pensée dichotomique :  "Si ce n'est pas absolument parfait, c'est absolument imparfait", "Si je ne suis pas le meilleur, je suis le pire".
+		- [[Pensée dichotomique]] :  "Si ce n'est pas absolument parfait, c'est absolument imparfait", "Si je ne suis pas le meilleur, je suis le pire".
 			- Découragement facile, augmentation de l'état dépressif. 
 	- **Restructuration cognitive** : modifier les croyances et perceptions en présentant des manières alternatives de penser.  
 - **Augmentation des événement positifs** : favoriser l'humeur en recommandant des activités susceptibles d'avoir des conséquences positives pour le dépressif. 
@@ -67,7 +67,7 @@ TTT
 
 - Similaire au trouble dépressif caractérisé, mais à plus long terme.
 
-### Trouble disruptif avec dysrégulation émotionnelle
+### Trouble disruptif avec [[dysrégulation émotionnelle]]
 
 - Adolescents & enfant de puis de 6 ans : irritabilité, crise de colère fréquente.
 

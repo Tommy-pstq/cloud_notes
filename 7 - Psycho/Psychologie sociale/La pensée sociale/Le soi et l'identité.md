@@ -68,7 +68,7 @@
 - Conceptions que l'on a de soi : influence toutes nos décisions. 
 	- -> Important d'être confiant dans ces conceptions.
 		- Meilleure manière : vivre des expériences nous confirmant ces aspects.
-	- Aussi valable pour les aspects négatifs de la personnalité. 
+	- Aussi valable pour les aspects négatifs de la [[personnalité]]. 
 		- "Le pire des défauts est de les ignorer"
 
 - Illusion de transparence : les émotions que l'on pense afficher ne sont pas toujours aussi visible qu'on pourrait le croire. 
@@ -199,26 +199,26 @@
 	- -> Les voisins d'avantage susceptible de contracter des dettes / rencontrer des difficultés financières.
 
 
-### Conscience de soi & auto-objectification
+### [[Conscience de soi]] & auto-objectification
 
  - Théorie de la conscience de soi (1972) : 
-	 - Contexte ou une référence est faite à soi (s'entendre dans un vocal, se voir dans une vidéo, entendre une conversation dont on est le sujet) = activation importante de la conscience de soi -> référencement aux normes sociales. 
+	 - Contexte ou une référence est faite à soi (s'entendre dans un vocal, se voir dans une vidéo, entendre une conversation dont on est le sujet) = activation importante de la [[conscience de soi]] -> référencement aux normes sociales. 
 		 - Etat désagréable.
 			 - Peut motiver certains individus à se rapprocher de leur idéal. 
 			 - Autre solution : revoir son idéal à la baisse.
 				 - Ex: Il faudra faire comprendre à la jeune fille complexée que les corps des mannequins sont virtuellement impossible à atteindre et que les idéaux présentés par les médias reposent sur des images retouchées. 
-			- Si ces deux stratégies sont improductives / trop difficiles à mettre en place, on peut chercher à éviter la conscience de soi en fuyant les miroirs / pèse-personne 
+			- Si ces deux stratégies sont improductives / trop difficiles à mettre en place, on peut chercher à éviter la [[conscience de soi]] en fuyant les miroirs / pèse-personne 
 				- Egalement la fonction de certaines drogues, dont l'alcool.
 					- Consommation d'alcool -> les gens se focalisent moins sur eux mêmes.
-		- Célébrité = forte conscience de soi forcée.
+		- Célébrité = forte [[conscience de soi]] forcée.
 			- Usages de drogues très fréquent. 
 			- Corrélation entre utilisation de la première personne du singulier et consommation d'alcool chez certaines célébrité. 
 		- Pour une majorité des 18-25 ans : la célébrité est l'un de leurs objectifs majeurs dans la vie. *(wtf...)*
-- -> Théorie de la conscience de soi = autorégulation guidée par la conscience de soi. 
+- -> Théorie de la conscience de soi = autorégulation guidée par la [[conscience de soi]]. 
 
 - <u>Théorie de l'objectification</u> (1997, Barbara Fredrickson & Tomi-Ann Roberts):
 	- Inspiration féministe : le corps des femmes est sans cesse observé & évalué, en particulier par les hommes (ref : objectification sexuelle.)
-		- Etude de la forme de conscience de soi induite par ce regard extérieur porté sur le corps.
+		- Etude de la forme de [[conscience de soi]] induite par ce regard extérieur porté sur le corps.
 			- Finissant par être intériorisé par les femmes elles-mêmes : à force d'être considérées "comme des morceaux de viandes", elles finissent par se percevoir elles-mêmes comme un "corps destiné à l'usage d'autrui".
 				- Le corps n'est plus envisagé de l'intérieur mais à travers la perspective d'une personne extérieure : [[auto-objectification]].
 

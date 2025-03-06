@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche cognitivo-comportementale.md",
+                "file": "4 - Indexes/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Approche cognitivo-comportementale"
+              "title": "Index"
             }
           }
         ]
@@ -176,33 +176,34 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Psychopathologie de l'Antiquité à nos jours.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche cognitivo-comportementale.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche humaniste.md",
-    "3 - Tags/attentes extérieures.md",
-    "3 - Tags/réponse reflet.md",
-    "3 - Tags/congruence.md",
-    "3 - Tags/regard positif inconditionnel.md",
-    "3 - Tags/psychothérapie.md",
-    "3 - Tags/soi idéal.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche psychanalytique.md",
-    "3 - Tags/Rêves.md",
-    "3 - Tags/inconscience.md",
-    "5 - Notes archivées/Chapitres - livre/Conscience et métacognition - NscC 6.md",
-    "3 - Tags/traitement inconscient.md",
-    "3 - Tags/Sublimation.md",
-    "3 - Tags/Rationalisation.md",
-    "3 - Tags/Projection.md",
-    "3 - Tags/Transfert.md",
-    "3 - Tags/Déni.md",
-    "3 - Tags/Evitement.md",
-    "3 - Tags/phase développementale.md",
-    "3 - Tags/association libre.md",
+    "2 - Source Materials/Pasted image 20250306163821.png",
+    "7 - Psycho/Psychologie du développement/Théorie de Jean Piaget.md",
+    "7 - Psycho/Psychologie du développement/Théorie de Wallon.md",
+    "3 - Tags/Lois du développement.md",
+    "3 - Tags/Personnalité.md",
+    "3 - Tags/Méthode comparative.md",
+    "3 - Tags/concepts marxistes.md",
+    "3 - Tags/adaptation.md",
+    "3 - Tags/Dimensions fonctionnelles.md",
+    "3 - Tags/conscience de soi.md",
+    "7 - Psycho/Psychologie du développement/Théorie de Vygotski.md",
+    "3 - Tags/Imitation.md",
+    "3 - Tags/intériorisation.md",
+    "3 - Tags/loi du développement culture.md",
+    "3 - Tags/Instrument psychologique.md",
+    "3 - Tags/fonctions psychiques supérieures.md",
+    "3 - Tags/fonctions psychiques inférieurs.md",
+    "3 - Tags/théorie historico-culturelle.md",
+    "3 - Tags/pensée hypothético-déductive.md",
+    "3 - Tags/Raisonnement inductif.md",
+    "3 - Tags/Conceptualisation.md",
+    "3 - Tags/Raisonnement transductif.md",
+    "3 - Tags/Egocentrisme intellectuel.md",
+    "3 - Tags/Permanence de l'objet.md",
+    "3 - Tags/entretien clinique.md",
+    "3 - Tags/Opérations formelles.md",
+    "2 - Source Materials/Pasted image 20250306153506.png",
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Traitements biologiques contemporains.md",
-    "3 - Tags/Psychostimulants.md",
-    "3 - Tags/méthylphénidate.md",
-    "3 - Tags/amphétamines.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours",
     "PDF/Index.pdf",
     "7 - Psycho/Psychologie sociale/L'influence sociale",
@@ -221,7 +222,6 @@
     "2 - Source Materials/Pasted image 20250102165917.png",
     "2 - Source Materials/Pasted image 20241226171636.png",
     "2 - Source Materials/Pasted image 20241226170456.png",
-    "2 - Source Materials/Pasted image 20241226170437.png",
     "Untitled.canvas"
   ]
 }

@@ -15,10 +15,10 @@ Paul Watzlawick, Giorgio Nardone
 
 - Freud propose une définition de la normalité : "la capacité de travailler et d'aimer". Critères auxquels Hitler correspond, ce qui implique la nécessité d'affiner cette définition.
 
-- **Notion de normalité se lie à "l'adaptation à la réalité"**. Perception de la réalité qui serait biaisée par des troubles, de l'humeur, psychiatrique, émotionnel.
+- **Notion de normalité se lie à "l'[[adaptation]] à la réalité"**. Perception de la réalité qui serait biaisée par des troubles, de l'humeur, psychiatrique, émotionnel.
 	- Ce postulat suppose qu'il existe "une" réalité, accessible aux gens "normaux" (i.e dans la norme) et spécifiquement aux thérapeutes.
 		- D'un point de vue constructiviste cette idée est, pour le moins, contestable.
-			- **Kant** : il est nécessaire de distinguer la description, définition, conceptualisation qui faite des choses, de ces choses elles-mêmes.
+			- **Kant** : il est nécessaire de distinguer la description, définition, [[conceptualisation]] qui faite des choses, de ces choses elles-mêmes.
 				- ***Schopenhauer** à propos de **Kant**: "Telle est la signification de la grande doctrine de Kant, que la téléologie (études des preuves des desseins et buts de la nature) est introduite dans la nature par l'intellect, qui donc s'émerveille d'un miracle par lui-même créé"*
 		- Est-ce un point de vue purement philosophique ? 
 			- Einstein : "La théorie décide de ce que nous allons observer"
@@ -41,7 +41,7 @@ Les règles culturelles, comme cliniques, ont un pouvoir de création.
 - Prédiction auto-réalisante et effet placebo, bien connu, ont des effets énormes.
 	- Ex :  Un hypnotiseur sent des signes de sont allergie au pollen en voyant de nombreux bouquets dans la salle d'un congret, préviens que cela l'empêchera de présenter. UNe fois informé que tous les bouquets sont en plastique, les signes d'allergie disparaissent.
 
--> Le critère d'adaptation à la réalité est valide.   
+-> Le critère d'[[adaptation]] à la réalité est valide.   
 
 ### Réalité de premier et second ordre. 
 
@@ -68,7 +68,7 @@ L'objectif de la psychothérapie est donc de recadrer la vision du monde des ind
 Epictète : "Ce ne sont pas les choses qui nous préoccupent, mais l'opinion que nous avons des choses".
 
 ## La construction de la connaissance
-*Chapitre rédigé par un théoricien majeur du constructivisme radicale, Ernst Von Glasersfeld* 
+*Chapitre rédigé par un théoricien majeur du [[constructivisme]] radicale, Ernst Von Glasersfeld* 
 
 - Tous les signaux envoyés par les organes sensoriels sont similaires. Le codage est indifférencié.
 	- Les récepteurs sensibles au rouge ou au vert dans la rétine envoient des signaux identiques. La différence ne se fait qu'au niveau du cortex.
@@ -112,10 +112,10 @@ Plus les sources sont variées, meilleure est la capacité de changement de pers
 Technique utilisable en fonction du type de patient:
 - Collaboration volontaire avec motivation pour le changement 
 	- rhétorique rationnelle démonstrative
-- Voulant mais ne pouvant collaborer, forte motivation et besoin de changer mais ne se risquent pas à le faire (phobies, obsessions)
+- Voulant mais ne pouvant collaborer, forte motivation et besoin de changer mais ne se risquent pas à le faire ([[phobie|phobies]], obsessions)
 	- Manoeuvres voilées, indirectes, avec grande charge de suggestion.
 		- Conduit le sujet à changer sans s'en rendre compte. 
-- Antagonistes, opposés à la collaboration:
+- [[antagonisme|Antagonistes]], opposés à la collaboration:
 	- Utilisation de la résistance, prescriptions paradoxales
 - Ni en mesure de collaborer, ni de s'opposer ; présentant une narration d'eux-mêmes loin de la réalité "raisonnable" (délire, manie de persécution)
 	- Le thérapeute doit entrer dans la logique de la représentation délirante. 

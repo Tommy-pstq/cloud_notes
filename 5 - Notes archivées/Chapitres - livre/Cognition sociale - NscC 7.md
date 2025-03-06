@@ -135,7 +135,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 		- temporales postérieures
 		- pariétales inférieures 
 	- Vision du soi : repose largement sur le concept de représentation en le soi et les autres
-		- Notion phénoménologique : le soi ne peut être conceptualisé indépendamment de la conceptualisation des autres. 
+		- Notion phénoménologique : le soi ne peut être conceptualisé indépendamment de la [[conceptualisation]] des autres. 
 
 
 <u>Théorie des neurones miroirs</u>: la perception et la compréhension d'autrui se fait via le [[système miroir]].
@@ -164,7 +164,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - Zones cruciales: [[insula]] et [[cortex pariétal inférieur droit]]. 
 	- Lobe pariétal inférieur droit: 
 		- Sens subjectif d'agentivité dans l'action.
-		- activation lors d'une imitation réciproque
+		- activation lors d'une [[imitation]] réciproque
 		- [[Stimulation magnétique transcrânienne|TMS]] : expérience de sortie de corps (dissociation du soi et de son propre corps)
 
 ### Plasticité de la représentation de soi-autrui
@@ -193,7 +193,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - Le traitement de ces informations active, via les [[système miroir|systèmes miroirs]], les mêmes représentations neurales que lorsque que l'on fait soi-même l'expérience de ces événements. 
 	- Ces processus miroir peuvent entrainer des conflits entre les [[représentation de soi|représentations de soi]] et autres représentations pertinentes
 		- Nécessité de mécanismes de contrôle de soi:
-			- Ex: contrôle de l'imitation -> distinguer son propre plan moteur de celui de l'autre. (paradigme d'imitation de Brass)  
+			- Ex: contrôle de l'[[imitation]] -> distinguer son propre plan moteur de celui de l'autre. (paradigme d'[[imitation]] de Brass)  
 			- Adopter le point de vue de quelqu'un d'autre : nécessite d'inhiber sa propre perspective
 				- Visuelle : tâche du directeur
 				- De croyance : tâches de [[théorie de l'esprit]]

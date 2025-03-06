@@ -81,7 +81,7 @@ DSM
 
 ## Trouble neurocognitif fronto-temporal majeur ou léger 
 
-- Développement progressif de la maladie, se manifestant par des changements importants dans les comportements, le lange et la personnalité. 
+- Développement progressif de la maladie, se manifestant par des changements importants dans les comportements, le lange et la [[personnalité]]. 
 	- Comportement socialement inacceptables 
 	- Dit des choses grossières qu'elle ne disait pas avant 
 	- Manque de jugement, devient apathique 

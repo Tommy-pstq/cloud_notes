@@ -1,7 +1,7 @@
 
 
 Objectifs :
-- Concept de personnalité, propre à chaque individu, nous fait croire que l'on est capable de prédire son comportement. 
+- Concept de [[personnalité]], propre à chaque individu, nous fait croire que l'on est capable de prédire son comportement. 
 	- Ces traits ne seraient peut être qu'une illusion et les régularités du comportement le fait des situations rencontrées plutôt que de leur nature profonde ?
 		- Comment nos impressions se cristallisent dans notre esprit ? 
 		- Comment s'organisent-elles ? 
@@ -9,7 +9,7 @@ Objectifs :
 ### La formation d'impression
 
 - Juger les autres est une activité aussi courant qu'indispensable *(et involontaire)*
-- On suppose que, comme son corps, la personnalité d'un individu est immuable et ne change pas en fonction des situations. 
+- On suppose que, comme son corps, la [[personnalité]] d'un individu est immuable et ne change pas en fonction des situations. 
 	- Ex : une personne perçue comme généreuse, on supposera qu'elle aidera son jardin à tailler sa haie et qu'elle donnera l'aumône.
 	- Une personne rancunière maintiendra l'opprobre sur une personne lui ayant posé un lapin, et ne nous surprendra pas en nous apprenant qu'elle ne souhaite plus voir sa cousine suite à un oublis d'anniversaire.
 

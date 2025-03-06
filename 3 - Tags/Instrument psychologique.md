@@ -1,0 +1,5 @@
+---
+aliases:
+  - instruments psychologiques
+---
+ 

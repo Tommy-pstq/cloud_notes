@@ -63,7 +63,7 @@ TTT
 	- Existes de médicaments : wellbutrin / flibansérine 
 		- *(IMO : en dernier recours tout ça quand même)*
 - Appareil de succion spécifique à la femme pour augmenter l'afflux de sang dans la région génitale de la femme. 
-- Pleine conscience :
+- [[Pleine conscience]] :
 	- Eviter les préoccupations / idées négatives / interrogations de performances avant/pendant/après les rapports 
 		- Ca augmente l'anxiété, caca. 
 
@@ -93,7 +93,7 @@ TTT
 - Potentiellement lié à une activité particulière comme la sexualité orale, mais peu aussi être généralisé. 
 
 - Peur prendre la forme de:
-	- Peur / anxiété / dégout / phobie 
+	- Peur / anxiété / dégout / [[phobie]] 
 		- Pouvant être trigger par des situations sexuelles, la vue d'un pénis en érection, idées sexuelles reliées à un événement traumatisant 
 	- Cas les plus sévère, aversion : 
 		- Expérience dissociative : distanciation au cours de l'activité sexuelle en pensant à autre chose / coupant la perception des sensations sexuelles / utilisation de substances lors des activités. 
@@ -102,10 +102,10 @@ TTT
 
 TTT 
 
-- Forte composante d'anxiété -> traitements utilisés dans les contextes de phobies / troubles anxieux transposable. 
+- Forte composante d'anxiété -> traitements utilisés dans les contextes de phobies / [[troubles anxieux]] transposable. 
 	- Exposition 
 		- Imagerie mentale progressive
-	- Pleine conscience 
+	- [[Pleine conscience]] 
 		- Reprise de contact avec les sensations sexuelles coupées.
 - L'aversion peut être liée à des expériences lointaines, comme lors d'abus durant l'éducation.
 	- Peut être intéressant d'explorer cette aspect dans une [[psychothérapie]] 
@@ -250,7 +250,7 @@ TTT
 		- Auto-exploration : trouver les endroits douloureux 
 		- Journal pour relever les variables psychologiques / relationnelles 
 			- -> Mettre en évidence les facteurs d'influence
-		- Thérapie cognitive
+		- [[Thérapie cognitive]]
 		- Thérapie conjugale : recherche d'autres activités sexuelles / objectifs.
 	- Exercices pubococcygiens 
 

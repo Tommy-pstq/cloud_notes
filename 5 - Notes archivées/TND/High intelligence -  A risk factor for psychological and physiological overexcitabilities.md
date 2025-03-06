@@ -107,7 +107,7 @@ Troubles psy: évalués selon le DSM-IV. Donc gros changement pour le [[TSA]] li
 - Autre théorie (mentionné dans un podcast de Huberman sur le [[TDAH]]) :
 	- "Default network" : réseau largement interconnecté à travers le cerveau, utilisant des infos internes pour supposer l'activité environnementale. Permet la projection [[temporalité|temporelle]] dans le future et de réagir à nos jugements & expériences (1-4,5). 
 		- Normalement actif quand l'esprit divague sans but précis et s'arrête lorsque l'individu se focus sur une tâche. 
-			- Individus avec [[trouble de l'humeur]] ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la relaxation du [[système nerveux]] (1-6)
+			- Individus avec [[trouble de l'humeur]] ont des réseaux/connections restant excitable au lieu de s'arrêter, empêchant la [[relaxation]] du [[système nerveux]] (1-6)
 - [[dépression]] & [[anxiété]] liés à des réponses inflammatoires majorées. 
 - Brain cytokine augmentation dans les cas de [[dépression]] (rats)
 - Mood/anxiety disorder impacte les réponses immunitaires.

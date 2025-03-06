@@ -3,7 +3,7 @@
 
 - <u>Théorie de l'objectification</u> (1997, Barbara Fredrickson & Tomi-Ann Roberts):
 	- Inspiration féministe : le corps des femmes est sans cesse observé & évalué, en particulier par les hommes (ref : objectification sexuelle.)
-		- Etude de la forme de conscience de soi induite par ce regard extérieur porté sur le corps.
+		- Etude de la forme de [[conscience de soi]] induite par ce regard extérieur porté sur le corps.
 			- Finissant par être intériorisé par les femmes elles-mêmes : à force d'être considérées "comme des morceaux de viandes", elles finissent par se percevoir elles-mêmes comme un "corps destiné à l'usage d'autrui".
 				- **Le corps n'est plus envisagé de l'intérieur mais à travers la perspective d'une personne extérieure** : [[auto-objectification]].
 

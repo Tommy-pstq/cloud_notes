@@ -38,7 +38,7 @@ TTT
 	- Souvent : traitement des facteurs de stress permet de réduire les symptômes. 
 - TCC
 	- Identifier les situations / cognitions prédisposant à ces problèmes.
-- Méditation / pleine conscience : reconnecter la personne avec ce qu'elle est et avec la réalité. 
+- Méditation / [[pleine conscience]] : reconnecter la personne avec ce qu'elle est et avec la réalité. 
 - Pas de médication efficace.
 	- [[Anxiolytiques]]/Antideps aident à réduire les symptômes de détresse associés. 
 
@@ -67,9 +67,9 @@ TTT
 			- Alter agressif ou avec des conduites criminelles 
 			- Alter impulsif, axé sur la sexualité 
 
-- Forte comorbidité avec le PTSD, borderline, dépression.
+- Forte comorbidité avec le PTSD, [[trouble de la personnalité limite|borderline]], dépression.
 - Problème complexe, la plupart des personnes le présentant ont été abusées (physiquement, sexuelle, émotionnellement) ou victimes de négligences sévères durant leur enfance. 
-	- Maltraitances, physique ou sexuelles, pendant le développement de la personnalité durant l'enfance peuvent avoir des effets à long terme sur la capacité de la personne à former une identité unique, unifiée; en particulier quand les agresseurs sont des parents ou soignants. 
+	- Maltraitances, physique ou sexuelles, pendant le développement de la [[personnalité]] durant l'enfance peuvent avoir des effets à long terme sur la capacité de la personne à former une identité unique, unifiée; en particulier quand les agresseurs sont des parents ou soignants. 
 
 DSM
 1. Perturbation de son identité : 2 ou plusieurs personnalités différentes (expériences parfois décrites comme des état de possessions dans certaines cultures)

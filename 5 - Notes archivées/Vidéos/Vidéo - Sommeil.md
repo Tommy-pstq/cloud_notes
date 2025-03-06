@@ -177,7 +177,7 @@ Potentiellement présents toute la journée en cas de dette de sommeil, majorés
 
 #### **Les neurotransmetteurs et le sommeil**
 
-Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'équilibre de leurs  antagonistes. 
+Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'équilibre de leurs  [[antagonisme|antagonistes]]. 
 
 - **[[sérotonine|Sérotonine]]** : apaisement, [[Régulation]] de l’humeur et du [[stress]], convertie en mélatonine.
 - **[[noradénaline||Noradrénaline]]** : éveil, [[motivation]]. (dérivé de la dopamine)

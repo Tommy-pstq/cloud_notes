@@ -61,7 +61,7 @@ Comportement normal lorsque l'on regarde une cible: saccade oculaire vers la cib
 	-> Le réflex devient non fonctionnel, il faut en inverser le sens.
 		-> Suppose soit une inversion du réflexe, ce qui est difficile car implique la réorganisation d'un circuit automatique & ancien.
 		-> Soit de la [[vicariance]]: utilisation d'une autre solution pour remplir la fonction initiale.
-**Adaptation rapide** (de l'ordre de la seconde), utilisation du principe de [[vicariance]].
+**[[Adaptation]] rapide** (de l'ordre de la seconde), utilisation du principe de [[vicariance]].
 	-> Construction d'un pseudo réflexe par un nouveau mouvement. (série de petites saccades fusionnées ou poursuite volontaire) avec [[inhibition]] du réflexe vestibulo-oculaire.
 
 

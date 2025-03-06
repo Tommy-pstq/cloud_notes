@@ -1,0 +1,4 @@
+---
+aliases:
+  - pensée irrationnelle
+---

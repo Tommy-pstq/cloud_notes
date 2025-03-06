@@ -20,7 +20,7 @@ Louise Goupile, Claire Sergent
 		- Coma, état d'éveil non répondant, état de conscience minimale
 	- **Accès [[conscience|conscient]]**
 		- Prendre conscience <font color='red'>de</font> quelque chose. 
-	- **Conscience de soi** : une expérience à la première personne. 
+	- **[[Conscience de soi]]** : une expérience à la première personne. 
 		- **Conscience réflective** 
 			- Introspection / [[métacognition]] 
 			- Détecter et corriger nos erreurs
@@ -261,7 +261,7 @@ La [[métacognition]] concerne les processus et représentations mentales qui on
 	- 12 mois : présence du potentiel EEG ERN
 
 
-- <u>Relation entre métacognition et conscience de soi </u>
+- <u>Relation entre métacognition et [[conscience de soi]] </u>
 	- Mesurée via la tâche du miroir: un point rouge placé sur le front d'un individu, s'il touche la tâche, on estime qu'il reconnait sa réflexion dans le miroir. (Encore beaucoup de débat à propos de ce que reflète réellement cette expérience)
 		- Changement de comportement vers <u>18 mois</u>:
 			- Avant : les enfants tentent de jouer avec le reflet 

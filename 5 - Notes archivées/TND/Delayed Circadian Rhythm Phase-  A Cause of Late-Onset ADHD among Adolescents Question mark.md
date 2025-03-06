@@ -62,7 +62,7 @@ Publication : 2018, autrice principale: département de psychiatrie et sciences 
 4. Recherche : cause [[génétique|génétiques]] similaires derrière le TDAH & DRCP.
 	- Spécifiquement : polymorphisme de [[génétique|gènes]] régulant l'horloge circadienne interne associés avec des symptômes de TDAH.
 5. La détection visuelle de lumière blanche dans l'environnement est intégrée à la [[Régulation]] et [[synchronicité|synchronisation]] des cycles circadiens avec les jours solaire chez les humains.
-	- Un bon alignement entre exposition à la lumière, rythmes circadiens et comportement diurne est critique pour la survie, la santé et l'adaptation à l'environnement.
+	- Un bon alignement entre exposition à la lumière, rythmes circadiens et comportement diurne est critique pour la survie, la santé et l'[[adaptation]] à l'environnement.
 		- Il existe des liens bien établis entre exposition à la lumière et fonctions [[cognition|cognitives]], incluant l'[[attention]] et les fonctions exécutives.
 			- L'exposition à la lumière résulte en une augmentation *directe* de l'[[attention]], vigilance et sensibilité au [[stimulus|stimuli]].
 				- Des bénéfices indirectes sur les processus [[cognition|cognitifs]] associés sont observés à travers l'effet de l'exposition à la lumière sur la rythmicité circadienne.

@@ -1,1 +1,1 @@
- adj. n.f. Étude ou théorie de la vie psychique dans sa composante intellectuelle (connaissance, pensée, représentation abstraite, conceptualisation) au regard, notamment, de ses aspects affectifs (ou thymiques), et par opposition aux fonctions instrumentales cérébrales.
+ adj. n.f. Étude ou théorie de la vie psychique dans sa composante intellectuelle (connaissance, pensée, représentation abstraite, [[conceptualisation]]) au regard, notamment, de ses aspects affectifs (ou thymiques), et par opposition aux fonctions instrumentales cérébrales.

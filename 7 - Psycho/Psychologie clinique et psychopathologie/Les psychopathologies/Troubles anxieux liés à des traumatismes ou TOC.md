@@ -1,9 +1,9 @@
-- Avant le DSM - 5 de 2013, tous les troubles anxieux étaient répertoriés un seul chapitre. Ils sont désormais séparés en 3:
-	- Troubles anxieux
+- Avant le DSM - 5 de 2013, tous les [[troubles anxieux]] étaient répertoriés un seul chapitre. Ils sont désormais séparés en 3:
+	- [[Troubles anxieux]]
 	- Troubles liés à des traumatismes ou à des facteurs de stress
 	- Troubles obsessionnels compulsifs et apparentés
 
-## Troubles anxieux
+## [[Troubles anxieux]]
 
 ### Phobie spécifique
 
@@ -20,15 +20,15 @@ DSM
 7. Problème pas mieux expliqué par un autre trouble mental. 
 
 TTT
-- Exposition progressive 
+- [[Thérapie d'exposition progressive|Exposition progressive]] 
 	- Habituation -> diminution de l'anxiété 
 - Restructuration positive 
 - Psychothérapies verbales
 - Pharmaco : [[anxiolytiques]], parfois [[Antidépresseurs|antidep]] pour le côté anxiolytique 
 
-### Anxiété sociale 
+### [[Anxiété sociale]] 
 
-Aussi appelée phobie sociale (terme disparu depuis DSM-5-TR 2022).
+Aussi appelée [[phobie]] sociale (terme disparu depuis DSM-5-TR 2022).
 
 - Peur d'être exposé à des situations ou elle serait l'objet d'observation d'autrui. 
 	- [[Evitement]] ou malaise intense.
@@ -47,7 +47,7 @@ DSM
 9. Si existence d'une situation médicale (ex: défiguré suite à un accident), les symptômes ne doivent y être reliés.
 
 TTT
-- Exposition progressive 
+- [[Thérapie d'exposition progressive|Exposition progressive]] 
 - Entrainement aux habiletés sociales 
 	- Exposition 
 	- Sentiment de compétence -> anxiété diminuée 
@@ -84,7 +84,7 @@ TTT
 
 TTT 
 - Amélioration des liens avec les personnes en liens avec le contexte (éducateurs en milieu scolaire par exemple)
-- Exposition progressive au contexte anxiogène 
+- [[Thérapie d'exposition progressive|Exposition progressive]] au contexte anxiogène 
 - Méthodes pour lancer des conversations dans les milieux ou le mutisme est présent.
 
 ### Trouble panique
@@ -133,9 +133,9 @@ TTT -> voir Agoraphobie
 *(Mention perso : Nardone et thérapie stratégique)*
 
 TTT
-- Exposition progressive
+- [[Thérapie d'exposition progressive|Exposition progressive]]
 - Remédiation cognitive
-- Association stimuli antagoniste 
+- Association stimuli [[antagonisme|antagoniste]] 
 
 ### Anxiété généralisée
 
@@ -155,7 +155,7 @@ DSM
 
 - Etat d'anxiété continu.
 - Parfois perçu comme normal voire comme une bonne chose car s'inquiéter permet de prévenir les catastrophes/accidents 
-- Pense que c'est un trait de leur personnalité pas nécessairement négatif voire utile 
+- Pense que c'est un trait de leur [[personnalité]] pas nécessairement négatif voire utile 
 - Retarde la consultation, augmentant le risque pérennisation en trouble chronique.
 
 TTT
@@ -169,7 +169,7 @@ TTT
 -> Restructuration cognitive utilisée pour corriger les biais d'estimation. 
 -> Thérapie pour accepter l'incertitude telle qu'elle existe dans la réalité. 
 	- Apprentissage de gestion des choses incertaines. 
-- Relaxation
+- [[Relaxation]]
 - Méditation
 - Acceptation
 - Pharmaco : [[anxiolytiques]]. Gros risque de dépendance. 
@@ -187,7 +187,7 @@ TTT
 - Altération de la cognition/humeur associé au trauma :
 	- Amnésie partielle 
 	- Idées dépréciatives envers soi, les autres voire le monde.
-	- Distorsions cognitives sur la cause du/des traumas:
+	- [[Distorsions cognitives]] sur la cause du/des traumas:
 		- Se blâme elle même ou les autres. 
 	- Etat émotionnel négatif 
 	- Incapacité d'avoir des émotions positives
@@ -206,7 +206,7 @@ TTT
 - Groupe de parole 
 - TCC
 - Gestion du stress en rapport avec l'exposition aux souvenirs 
-	- Relaxation
+	- [[Relaxation]]
 	- Respiration
 - Thérapie d'exposition
 	- Via imagerie mentale 
@@ -215,7 +215,7 @@ TTT
 - Méthode de contrôle de l'anxiété 
 	- Méditation
 	- Yoga 
-	- Pleine conscience 
+	- [[Pleine conscience]] 
 	- Acceptation
 	- -> Focus sur l'instant présent. 
 
@@ -301,7 +301,7 @@ TTT
 - Faire prendre conscience à l'environnement de l'enfant, et aux adultes des causes de ce problème
 - Soutien à l'environnement & encouragement à établir de meilleurs liens avec l'enfant. 
 
-### Trouble d'adaptation 
+### Trouble d'[[adaptation]] 
 
 - Détresse psychologique perdurant plus de 3 mois après un facteur de stress : perte d'emploi, séparation, déboires financiers, présence permanente d'une personne très malade auprès de soi, mort d'une personne proche.
 
@@ -438,10 +438,10 @@ TTT
 -> Arrachage compulsif de ses propres cheveux. 
 
 TTT
-- Approche comportementale.
+- [[thérapie comportementale|Approche comportementale]].
 	- Identifier les circonstances dans lesquelles il a tendance à s'arracher les cheux. 
-		- Mise en place d'un comportement antagoniste à l'arrachage quand un trigger se présente (ex: baisser les mains le long des hanches et serrer le point fortement)
-			- Possible d'impliquer l'environnement social pour encourager les comportement antagonistes.
+		- Mise en place d'un comportement [[antagonisme|antagoniste]] à l'arrachage quand un trigger se présente (ex: baisser les mains le long des hanches et serrer le point fortement)
+			- Possible d'impliquer l'environnement social pour encourager les comportement [[antagonisme|antagonistes]].
 
 ### Dermatillomanie 
 -> Triturage pathologique de la peau 

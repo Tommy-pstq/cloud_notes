@@ -24,9 +24,9 @@ Domaine récent: première apparition du terme dans les 70s. Développement grâ
 
 ## II - Éléments clés de linguistique
 
-Initialement : deux courants de penser s'oppose concernant l'acquisition du langage : behaviorisme & générativisme.
+Initialement : deux courants de penser s'oppose concernant l'acquisition du langage : [[behaviorisme]] & générativisme.
 
-- Behaviorisme : les enfants naissent sans connaissances particulières. Ils apprennent peu à peu par renforcement. 
+- [[Behaviorisme]] : les enfants naissent sans connaissances particulières. Ils apprennent peu à peu par renforcement. 
 - Générativisme : l'[[apprentissage]] du langage est sous-tendu par des biologiques innées. 
 	- Le langage est donc une [[fonction biologique]] qui se développe à travers l'expérience. 
 
@@ -303,7 +303,7 @@ Apprentissage des caractéristiques fréquentielles d'une langue si tôt  = supp
 --> Le cerveau du nouveau né possède une architecture semblable à celui de l'adulte avec des régions spécialisées mais n'est pas encore optimisé. 
 - Le cerveau du nouveau-né est précablé, mais pas irrémédiablement câblé. 
 - S'il ne comprend pas encore parfaitement la parole, il possède l'outillage nécessaire pour y arriver.
-- le précâblage offre une grande capacité d'adaptation.
+- le précâblage offre une grande capacité d'[[adaptation]].
 
 ### Bases cérébrales fonctionnelles du traitement du langage chez l'enfant 
 

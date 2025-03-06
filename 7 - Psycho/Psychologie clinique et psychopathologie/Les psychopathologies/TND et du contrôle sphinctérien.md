@@ -95,9 +95,9 @@ DSM-5
 2. Le problème provoque une anxiété reliée à la prise de parole ou réduit l'efficience de la communication. Affecte la réussite scolaire/professionnelle 
 3. Apparition précoce dans le développement. 
 
--> Interventions orthophoniques / stratégies d'apprentissage en approche comportementale, l'objectif est de rétablir la fluidité du langage. 
+-> Interventions orthophoniques / stratégies d'apprentissage en [[thérapie comportementale|approche comportementale]], l'objectif est de rétablir la fluidité du langage. 
 
-- Ex d'approche comportementale:
+- Ex d'[[thérapie comportementale|approche comportementale]]:
 	- Renversement d'habitude appliqué au bégaiement. 
 		- Respiration avant & pendant les conversations 
 		- Détente des muscles impliqué dans la parole ainsi que ceux du haut de la poitrine 
@@ -180,10 +180,10 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 	- Le problème n'est pas mieux expliqué par une substance comme la cocaïne, par un autre problème de santé comme une encéphalite ou des problèmes neurologiques tels que la maladie d'Huntington
 
 - Traitements:
-	- Approche comportementale : 
+	- [[thérapie comportementale|Approche comportementale]] : 
 		- Renversement de l'habitude
 			- Apprendre à reconnaitre la séquence de comportement menant au tic.
-				- Provocation d'une contraction musculaire antagoniste au tic. 
+				- Provocation d'une contraction musculaire [[antagonisme|antagoniste]] au tic. 
 		- Considérer le tic comme une manière de relâcher la tension accumulée. 
 			- Réorganisation des comportement pour limiter l'accumulation de tension. 
 		- Minimisation des aspects cognitifs facteurs de tension tels que le perfectionnisme. 

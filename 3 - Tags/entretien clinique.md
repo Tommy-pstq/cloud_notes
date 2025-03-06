@@ -1,0 +1,4 @@
+---
+aliases:
+  - entretiens cliniques
+---

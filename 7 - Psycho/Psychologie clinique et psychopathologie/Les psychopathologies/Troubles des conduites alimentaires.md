@@ -130,5 +130,5 @@ TTT
 TTT 
 - Respiration diaphragmatique + psychothérapie de soutien
 	- Modifier les cycles de contraction abdominales 
-	- Peut constituer un comportement antagoniste au problème. 
+	- Peut constituer un comportement [[antagonisme|antagoniste]] au problème. 
 

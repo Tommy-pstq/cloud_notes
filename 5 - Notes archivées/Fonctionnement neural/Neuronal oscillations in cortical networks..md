@@ -37,14 +37,14 @@ l'intégration d'information repose sur la [[synchronicité]] , dépendante de l
 
 Bien que des [[stimulus|signaux externes]] irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'activation [[synchronicité|synchrone]] de réseaux (=[[synchronicité]]), le mécanisme physique le plus énergétiquement efficace de générer une telle [[coordination]] [[temporalité|temporelle]] est l'utilisation des oscillations (1,2).
 
-Les oscillateurs cérébraux présentent des caractéristiques propres aux oscillateurs harmoniques et de relaxation (=deux états d'équilibre instable).
+Les oscillateurs cérébraux présentent des caractéristiques propres aux oscillateurs harmoniques et de [[relaxation]] (=deux états d'équilibre instable).
 
 Ex: [[oscillations theta]] dans l'[[hippocampe]] ressemblent aux variations sinusoïdales d'un oscillateur harmonique.
 
 **Gros avantage**: le comportement à long terme peut être prédit à partir d'une courte observation de leur phase. 
 **Problème**: Des groupe d'oscillateurs harmoniques montrent une faible capacité à synchroniser leur phases (ils sont indep, donc même si très petite différence de phase --> [[phase drift]])
 
-En revanche, ces oscillations macros (theta) sont issues de neurones, dont les patterns d'activation ressemble quant à eux à des oscillateurs de relaxation. Ces derniers présentent une excitabilité dépendante de leur phase, permettant la définition d'une phase de transfert et d'une phase de réception tout en offrant une [[synchronicité|synchronisation]] robuste et stable.
+En revanche, ces oscillations macros (theta) sont issues de neurones, dont les patterns d'activation ressemble quant à eux à des oscillateurs de [[relaxation]]. Ces derniers présentent une excitabilité dépendante de leur phase, permettant la définition d'une phase de transfert et d'une phase de réception tout en offrant une [[synchronicité|synchronisation]] robuste et stable.
 
 ### Fonctions des oscillateurs cérébraux
 

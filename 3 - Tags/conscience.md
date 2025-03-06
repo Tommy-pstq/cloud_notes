@@ -12,7 +12,7 @@ aliases:
 	- **Accès conscient**
 		- Prendre conscience <font color='red'>de</font> quelque chose. 
 			- *La prise de conscience est associée à l'activité de tout un réseau, fonctionne en "tout ou rien" déclenché à partir de 250ms après un stimulus et se base sur un traitement sensoriel identique. Phénomène de bifurcation similaire observé pour des stimuli auditifs.*
-	- **Conscience de soi** : une expérience à la première personne. 
+	- **[[Conscience de soi]]** : une expérience à la première personne. 
 		- **Conscience réflective** 
 			- Introspection / [[métacognition]] 
 			- Détecter et corriger nos erreurs

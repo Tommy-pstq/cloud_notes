@@ -22,15 +22,17 @@
 
 - Etablir une définition de manière unanime est très difficile
 - Fidélité interjuge : deux cliniciens n'arrivent pas systématique au même diag pour un même patient 
-- Aspect stigmatisant des diag pour les patients : préjugés et perceptions négatives dans la société -> conséquences à long terme, surtout pour les enfants. 
+- Aspect stigmatisant des diag pour les patients :
+	- préjugés et perceptions négatives dans la société
+		- conséquences à long terme, surtout pour les enfants. 
 - Diag : focus sur le négatif sans voir les aspects positifs d'une personne. Il ne faut pas réduire l'individu à un diag
 ### Alternatives au diag médical
 
 - Pas de diag mais une évaluation complète du fonctionnement.
-	- Ex: évaluation fonctionnelle.
+	- Ex: [[évaluation fonctionnelle]].
 		- Enumération des comportements problématiques et positifs, en mettant en évidence les comportements excessifs (ex: délires), déficitaires (ex: déficit dans les habiletés sociales) d'une part et les comportements adéquats d'autres part (ex: occupation d'un emploi régulier etc.).
-		- Evaluation de la fréquence des comportement inadéquats et leur intensité 
-		- Déterminer ce qui initie/maintient les comportements inadéquat et leur intensité 
+		- Evaluation de la fréquence des [[comportements inadéquats]] et leur intensité 
+		- Déterminer ce qui initie/maintient les [[comportements inadéquats]] et leur intensité 
 		- Etude du développement, des relations sociales, capacité de contrôles sur certains comportements difficiles 
 	- Permet d'arriver à une vue détaillée et plus globale d'une personne plutôt qu'une simple étiquette de diag. 
 		- Met en valeur les aspects positifs, permet de déterminer les méthodes d'aide les plus appropriées. 
@@ -43,11 +45,11 @@
 - Entraine des difficultés dans le fonctionnement quotidien.
 - Dangerosité : envers soi ou pour les autres (rare)
 - Violation de normes et/ou règles (rare) - surtout troubles de la personnalité anti-sociale
-- Perception / interprétation erronée de la réalité *(Constructivisme, notion de réalité universelle etc etc )* - principalement dans les cas de psychose 
+- Perception / interprétation erronée de la réalité *([[Constructivisme]], notion de réalité universelle etc etc )* - principalement dans les cas de psychose 
 
 - <u>Concrètement</u>: 
-	- **Approche psychométrique** : rapport à la normalité (stats) via questionnaires / instruments psychométriques. Donne un aspect nuancé sur un continuum. 
-	- **Consensus d'expert** : déterminent des critères qui définissent une psychopathologie -> **DSM** / **CIM** (Classification Internationale des Maladies). Diag = binaire. 
+	- **[[Approche psychométrique]]** : rapport à la normalité (stats) via questionnaires / instruments psychométriques. Donne un aspect nuancé sur un continuum. 
+	- **[[Consensus d'expert]]** : déterminent des critères qui définissent une psychopathologie -> **DSM** / **CIM** (Classification Internationale des Maladies). Diag = binaire. 
 
 - **Etudes remettant en question la valeur des diag en psychopathologie**:
 	- <u>1968</u>, plusieurs facteurs influencent un diag en santé mentale et peuvent compromettre sa validité : film représentant une entrevue dont le texte est représentatif de deux personnes en parfaite santé mentale. Il est visionné par des psychiatres/psychologues/étudiants. 

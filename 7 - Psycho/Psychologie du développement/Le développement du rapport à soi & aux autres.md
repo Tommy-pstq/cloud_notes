@@ -2,7 +2,7 @@
 - Objectifs:
 	- Concepts clés pour appréhender le soi
 	- L'importance des relations aux autres pour le développement de soi
-	- Comment émerge la conscience de soi chez le jeune enfant 
+	- Comment émerge la [[conscience de soi]] chez le jeune enfant 
 	- Connaitre les évolutions des conceptions de soi au cours de l'enfance et de l'adolescence
 
 
@@ -27,7 +27,7 @@
 		- Soi possessif : possession d'objets/personnes 
 	- Soi adaptatif
 		- Valeur de soi : compétence/valeur personnelle 
-		- Activité du soi : stratégies d'adaptation/autonomie/style de vie 
+		- Activité du soi : stratégies d'[[adaptation]]/autonomie/style de vie 
 	- Soi personnel
 		- Image de soi : activités & aspirations / sentiments & émotions / goûts & intérets / capacités & aptitudes 
 		- Identité de soi : rôles et statuts / idéologie / identité abstraite 
@@ -38,7 +38,7 @@
 		- Références aux autres, opinion des autre sur soit. 
 
 - **Intersubjectivité** = capacité à partager des pensées, des émotions et des expériences avec autrui. Construction de l'intersubjectivité : processus progressif qui comment dès la naissance, se développe via interactions sociales et affectives. 
-	- Imitation néonatale -> intentionnelle -> différée -> identification aux autres -> sentiment d'appartenance à un groupe. 
+	- [[Imitation]] néonatale -> intentionnelle -> différée -> identification aux autres -> sentiment d'appartenance à un groupe. 
 		- -> précurseur de l'identité sociale.
 	- Perception sensorielle du corps propre (dès la naissance) -> conscience implicite -> conscient explicite de soi différencié d'autrui. 
 - -> construction de l'identité personnelle.
@@ -50,7 +50,7 @@
 
 ### Emergence de la conscience de soi 
 
-- Emergence de la conscience de soi & affirmation de soi  = préciser et stabiliser les limites du soi & du non-soi.
+- Emergence de la [[conscience de soi]] & affirmation de soi  = préciser et stabiliser les limites du soi & du non-soi.
 	- Se fait en présence d'autrui à travers les processus d'identification & différentiation. 
 	- Affirmation de soi :
 		1. Commence par l'action possessive, au début de la 3eme année. ( "à moi", "le mien")
@@ -113,7 +113,7 @@
 				- Aspirations
 				- Importance des relations aux autres
 		- **Adaptation du soi** (16-20 ans): Accentuation de la concentration sur les dimension du soi : <u>personnel, social, adaptatif</u> 
-			- Acceptation de soi, stratégies d'adaptation et ouvertures des perspectives 
+			- Acceptation de soi, stratégies d'[[adaptation]] et ouvertures des perspectives 
 				- Sentiments forts, positifs ou négatifs 
 				- Valeurs, idéologie, style de vie
 				- Identités abstraites 

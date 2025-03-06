@@ -97,7 +97,7 @@ TTT
 
 - Stratégie = diminution progressive.
 - Pour les insomnies / anxiété : proposition d'alternatives non pharmacologiques 
-	- Relaxation / pleine conscience
+	- [[Relaxation]] / [[pleine conscience]]
 - Suivit psychologique individuel / en groupe.
 - Méthodes de prévention de rechute.
 

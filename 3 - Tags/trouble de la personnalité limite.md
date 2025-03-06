@@ -1,0 +1,5 @@
+---
+aliases:
+  - borderline
+  - personnalité limite
+---

@@ -1,7 +1,7 @@
 
 
 On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalité histrionique]] (DSM). Le trouble de conversion toujours présent sous le nom de [[trouble à symptomatologie neurologique fonctionnelle]]
--> Concepts n'ayant plus de rapport avec leur théorisation psychanalytique (ouf).
+-> Concepts n'ayant plus de rapport avec leur théorisation [[psychanalytique]] (ouf).
 
 
 - [[Freud]] : rupture de la psychiatrie et [[psychologie]] avec des conceptions biologiques.
@@ -21,7 +21,7 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 			- Mode de pensé primaire [[émotion|émotionnel]], irrationnel relié aux pulsions de base.
 			- Principe de base = plaisir. 
 			- Inconscient 
-		- le "**Moi**" = contact avec la réalité et adaptation des pulsions aux exigences de la réalité.
+		- le "**Moi**" = contact avec la réalité et [[adaptation]] des pulsions aux exigences de la réalité.
 			- Pensée rationnelle et logique 
 			- Davantage [[conscience|conscient]] 
 		- le "**Surmoi**" = [[conscience]] et principes moraux. 
@@ -50,4 +50,4 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 		- Lapsus 
 		- Oublis
 	- Les résistances
-		- Réactions/comportements faisant obstacle au traitement psychanalytique
+		- Réactions/comportements faisant obstacle au traitement [[psychanalytique]]
