@@ -105,7 +105,7 @@ TTT
 
 ### Trouble de l'usage de stimulants 
 
-- Amphet : Energie en réduisant la fatigue mais ensuite fatigue et dépression.
+- [[amphétamines|Amphet]] : Energie en réduisant la fatigue mais ensuite fatigue et dépression.
 - Cocaïne : Euphorie, augmentation de l'état d'alerte, insomnie, perte d'appétit, augmentation pression sanguine / rythme cardiaque. 
 	- -> sevrage = apathie + profond sentiment d'ennui.
 

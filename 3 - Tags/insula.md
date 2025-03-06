@@ -1,1 +1,1 @@
-- Distinction entre représentation de soi et autrui
+- Distinction entre [[représentation de soi]] et autrui

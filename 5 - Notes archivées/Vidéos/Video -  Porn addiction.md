@@ -99,7 +99,7 @@ Statistiquement, la plupart des addictions sont gérées en mode DIY.
 9. Trouver une communauté 
 	- éviter l'isolement, faire du lien (ocytocine en plus).
 10. Faire quelque chose dont on est fier
-	- Estime de soi (statut [[social]]).
+	- [[Estime de soi]] (statut [[social]]).
 11. Exercice
 12. Alimentation anti-inflammatoire
 	1. [[Sérotonine]] liée aux bactéries intestinales (produisent du tryptophane, précurseur de la [[sérotonine]])

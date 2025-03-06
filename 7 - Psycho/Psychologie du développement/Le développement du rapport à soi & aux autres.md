@@ -12,7 +12,7 @@
 	- Descriptif
 		- **Image de soi** : ensemble des caractéristiques que l'individu s'attribue
 	- Evaluatif 
-		- **Estime de soi** : degré de satisfaction personnelle à l'égard de soi, valeur qu'une personne s'accorde (globale ou multidimensionnelle)
+		- **[[Estime de soi]]** : degré de satisfaction personnelle à l'égard de soi, valeur qu'une personne s'accorde (globale ou multidimensionnelle)
 	- Intégratif : intégration des **conceptions de soi** issues des niveaux précédents.
 		- **Identité** : recherche d'une cohérence personnelle, sentiment de continuité temporelle. 
 			- Construction dynamique, amenant la personne à se sentir semblable & différentes des autres:

@@ -5,134 +5,9 @@ Objectifs
 - Connaitre les traitements biologiques contemporains
 - Comparer les conceptions et approches thérapeutiques axées sur les facteurs psychologiques : approche psychanalytique, humaniste et cognitivo-comportementale (CC)
 
-### Conceptions religieuses et surnaturelles 
-
-- Comportement psychopathologiques expliqués comme manifestations de forces maléfiques. 
-
-- Identification des sorcières (Innocent VIII) via stigmates corporelles:
-	- grains de beauté
-	- marque de naissance
-	- tâches de vin
-
-- Conception supposant les maladies mentales comment résultantes de la volonté du diable perdure jusqu'au XVII ème. 
-
-### Conceptions naturelles en psychopathologie
-
-Dès l'antiquité, iex des approches se basant ou recherchant des explications biologiques (Ex: Hippocrate de : -460 à -377)
-- Attribution au cerveau de la sagesse et l'intelligence
-- Maladies, trauma et hérédité responsable de certaines afflictions mentales.
-	- Peuvent être traitées comme d'autres patho
-- Considération des effets de l'environnement. 
-- Théorie des humeurs
-	- le corps est composé de 4 éléments :  eau air terre feu. 
-	- et de 4  dim. phy. : chaud, froid, humide, sec
-- Def6 de l'hystérie: trouble somatoforme. Problème de santé physique dont on ne trouve pas la cause. 
-
-Antiquité romaine : Galien ( de 131 à 201 ). dev des conceptions psychopatho
-
--> influences des humeurs sur les fluides corporels, résultant en des pathopsy
-
-- Interaction syphilis - malaria :
-	- Si atteint des deux, potentielle guérison de la syphilis : disparition des [[symptômes psychotiques]].
-		- --> les [[symptômes psychotiques]] peuvent être traités par des méthodes biologiques. 
-
-- Individus "Possédés", montrant des symptômes de délire : utilisation du "choc", comme l'hydrothérapie (plonger un patient en crise dans un bain d'eau glacée) jusqu'au XXieme (ou est suspendu au dessus d'une fosse de serpent venimeux).
-	- Evolution vers des bains tièdes plus long par la suite. Disparu du répertoire de la psychiatrie mais les bienfaits des bains sont encore mentionnés
-
-### Traitements biologiques contemporains
-
-- Sismothérapie pour la dépression sévère et résistante.
-- Pharmaco
-	- Début XXieme : barbiturique pour calmer + sommeil
-		- Maintenant : [[benzodiazépines]] 
-	- [[Psychotropes]] (action SNC)
-		- [[Anxiolytiques]] 
-			- Anxiété et tension musculaire 
-		- [[Benzodiazépines]]:
-			- Diazépam (Valium), aprozalam (Xanax) 
-			- Hypnotique léger : triazolam, fluozépam
-			- Effet secondaire : fatigue, somnolence diminution de la [[coordination]] 
-			- Pb de  tolérance & dépendance 
-	- [[Antipsychotiques]] : traitement des psychoses (Ex: schyzophrénie)
-		- [[Neuroleptiques]] : action sur le système dopaminergique
-			- Chlorpromazine, thioridazine, fluphénazine, halopéridol. 
-		- Effet secondaire : rigidité musculaire, tremblements, similaire Parkinson
-		- Deuxième génération, "atypique", plus vaste spectre de [[neurotransmetteurs]]
-			- Clozapine rispéridone, olanzapine, quetiapine
-			- Effet secondaires dangereux, donc sous contrôle médical stricte.
-				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
-		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
-	- [[Antidépresseurs]] (dépression, phobie sociale, TOC, boulimie)
-		- Tricycliques (sérotonine et norépinéphrine)
-			- Amitriptyline, clomipramine, désipramine, imipramine
-			- E S  : vision floue, yeux secs, constipation, vertiges, somnolence, sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, rêves inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
-		- inhibiteur de la mono-oxydase ; effet sur la sérotonine, dopamine et norépinéphrine. 
-			- phenelzine, tranylcypromine
-			- E S : hypotension orthostatique (étourdissement au lever & position debout), crises hypertensives, troubles neurologiques, insomnies 
-		- inhibiteur de la recapture de la sérotonine
-			- fluoxétine (prozac), sertraline 
-			- E S : nausée, vomissement, diarrhée, prise de poids, sécheresse buccale, céphalées, anxiété, sédation, diminution de la libido 
-	- [[Régulateur d'humeur]] (Ex: [[trouble bipolaire]])
-		- Carbonate de lithium
-		- E S : diarhée, douleurs abdominales, fatigue, nausée, perte d'appétit, vertige, tremblements des mains
-	- Psychostimulants
-- Stimulation magnétique transcranienne 
 
 ## Principales conceptions et approches thérapeutiques contemporaines axées sur les facteurs psychologique. 
 
-### Approche psychanalytique
-
-On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalité histrionique]] (DSM). Le trouble de conversion toujours présent sous le nom de [[trouble à symptomatologie neurologique fonctionnelle]]
--> Concepts n'ayant plus de rapport avec leur théorisation psychanalytique (ouf).
-
-
-- [[Freud]] : rupture de la psychiatrie et psychologie avec des conceptions biologiques.
-	- Plupart des facteurs, selon lui = **conflits inconscients**. 
-		- Méthode basée sur l'association libre, les résistances et le transfert
-			- -> Approche analytique, à long terme. 
-				- Base méthodologique de pas mal de thérapies différentes. 
-
-	- L'individu passe par **différentes phases**, représentés par des conflits typiques. Si les problématiques d'une phase ne sont pas résolues -> développement de psychopathologie en lien.
-		- Phase anal = contrôle de la propreté. 
-			- -> Pb obsessionnels, propreté, surcontrôle de l'environnement.
-		- Stade phallique = autostimulation génitale. 
-			- Complexe d'Oedipe (H) et Electre (F)
-			- Difficultés affectives 
-	- **3 structure psychologiques importantes**
-		- le "**Ca**" = pulsions de vie, de mort, sexuelles et agressives. 
-			- Mode de pensé primaire émotionnel, irrationnel relié aux pulsions de base.
-			- Principe de base = plaisir. 
-			- Inconscient 
-		- le "**Moi**" = contact avec la réalité et adaptation des pulsions aux exigences de la réalité.
-			- Pensée rationnelle et logique 
-			- Davantage conscient 
-		- le "**Surmoi**" = conscience et principes moraux. 
-			- Inconscient / préconscient
-	- Tensions entre le "Ca" et le "Moi", intervention du "Surmoi" -> psychopathologies.
-	- **Mécanismes de défense** - utilisés par le "moi" pour se protéger.
-		1. **Refoulement** : éviter de penser à.
-		2. **Déni**
-		3. **Transfert**  : déplacer des sentiments ou des réaction d'une personne à une autre.
-		4. **Projection** : attribuer à autrui ses propres sentiments 
-		5. **Rationalisation** : dissimuler ses propres sentiments / pensées derrière une explication rationnelle
-		6. **Sublimation** : orienter des pulsions inacceptables vers des comportement socialement acceptable (sport de combat plutôt que d'exprimer colère ou agressivité)
-		7. **Formation réactionnelle** : changer des sentiments/comportements/pensées inacceptables par des réactions diamétralement opposées.
-#### Traitement psychanalytique
-
-- Focus sur l'inconscient 
-	- Donc sur l'enfance car c'en est la base
-- Comment ? 
-	- Association libre 
-		- Déclamer ses pensées comme des associations : semble illogique mais traduirait le fonctionnement de l'inconscient.
-	- Rêves
-		- Images sans lien logique apparent, mais interprétable comme sous influence de l'inconscient. 
-	- Le transfert (relation psychanalyste-patient)
-		- Le patient transfert sur le psychanalyste des concepts associés inconsciemment à ses parents. 
-	- Comportements de la vie quotidienne
-		- Lapsus 
-		- Oublis
-	- Les résistances
-		- Réactions/comportements faisant obstacle au traitement psychanalytique
 
 ### Approche humaniste
 
@@ -144,11 +19,11 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 	- Enfance : 
 		- Conception du soi fondée en bonne partie sur la perceptions que les autres ont de lui.
 		- [[Estime de soi]] basée sur ce qu'il pense de lui-même (évidemment influencée par ce que les autres lui renvoient)
-	- Quand les attentes des autres prennent trop d'importance dans la [[conception du soi]] -> problèmes psychologique
+	- Quand les attentes des autres prennent trop d'importance dans la conception du soi -> problèmes psychologique
 		- Prendre de la distance par rapport aux validations extérieures pour se concentrer sur celles que l'on peut soit même construire est bénéfique : diminution des chances de développer des psychopathologies
 		- Influence catastrophique des médias. 
 		- Société, relations, milieu de vie.
-	- L'individu possède toutes les ressources pour construire une représentation de soi qui correspond à ses attentes personnelles et non extérieures.
+	- L'individu possède toutes les ressources pour construire une [[représentation de soi]] qui correspond à ses attentes personnelles et non extérieures.
 		- Il n'est alors pas replié sur lui même mais déterminera lui-même ce qui correspond à son expérience et ce qu'il veut être. 
 	- Conception fondamentalement positive de l'être humain.
 		- Il sait ce qui est bon pour lui et tend vers un  mieux-être via l'[[actualisation de soi]]. 
@@ -156,7 +31,7 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 	- **Postulats de base**:
 		1. Chaque personne vit dans un champ d'expérience qui évolue et dont il est le centre
 		2. Ce que perçoit une personne dans son champ d'expérience est sa réalité 
-		3. L'organisme à tendance à croitre vers une plus grande actualisation de soi. Les comportements et les émotions qui l'acoompagnent vont dans cette direction de croissance
+		3. L'organisme à tendance à croitre vers une plus grande [[actualisation de soi]]. Les comportements et les émotions qui l'accompagnent vont dans cette direction de croissance
 		4. La meilleure façon de comprendre le comportement d'une personne se fait à partir du cadre de référence interne du client. 
 
 -> Trop grand écart entre le "soi idéal" et le "soi perçu" --> apparition de problèmes psychopathologiques. 
@@ -222,7 +97,7 @@ Ces 3 points sont supposés permettre à l'individu, via un contexte rassurant, 
 		- Beck : les pensées auto-dépréciatrices sont à l'origine de la dépression. 
 			- Elles sont issues de schèmes de pensées acquis. 
 			- Triade cognitive chez le/la depressi.f.ve :
-				- conception négative de soi (faible estime de soi)
+				- conception négative de soi (faible [[estime de soi]])
 				- conception négative de l'environnement (ex: mon environnement me nuit)
 				- conception négative du fut (ex: futur sans espoir)
 	- Distorsions cognitives :

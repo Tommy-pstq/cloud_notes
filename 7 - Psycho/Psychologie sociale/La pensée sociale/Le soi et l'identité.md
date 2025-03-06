@@ -34,7 +34,7 @@
 
 ## Gérer l'image de soi
 
-- Malléabilité des jugements fait sur le soi : favorise le maintien d'une estime de soi positive.
+- Malléabilité des jugements fait sur le soi : favorise le maintien d'une [[estime de soi]] positive.
 	- Biais de confirmation. 
 	- Attribution des succès à des causes internes plutôt qu'externes.
 		- Modulé par la désirabilité sociale : il est bien vu d'attribuer une partie de sa réussite aux autres.
@@ -261,7 +261,7 @@
 		- Quid des stéréotypes négatifs dirigés vers les groupes auxquels on appartient ? 
 			- 1995, Steel & Aronson : "**Menace du stéréotype**".
 				- En situation d'évaluation de leurs compétences dans le domaine pertinent par rapport au trait stéréotypique, l'**individu craindrait de confirmer le stéréotype.**
-					- **Danger pour l'estime de soi & générateur d'anxiété**. 
+					- **Danger pour l'[[estime de soi]] & générateur d'anxiété**. 
 						- Détachement identitaire du domaine concerné possible, met fin à la "menace du stéréotype".
 			- Ex : Test d'intelligence à Stanford, si le test est présenté comme un "diagnostic des compétences verbales", les personnes noires réussissent moins bien que les blancs, alors que ces deus groupe ont des performances similaires si le test est présenté comme servant à "comprendre des facteurs psychologiques intervenant dans la résolutions de problèmes verbaux". Encore pire s'il était demandé de spécifier sa ""race"" sur le questionnaire.
 

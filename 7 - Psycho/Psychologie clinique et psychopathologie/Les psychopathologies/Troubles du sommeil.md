@@ -46,9 +46,9 @@ DSM
 	- Relaxation
 
 - Pharmaco :
-	- Stimulants (amphetamines, méthylphénidate)
+	- Stimulants (amphetamines, [[méthylphénidate]])
 	- Certains antideps (?)
-*(Probablement dû à un déséquilibre des [[neurotransmetteurs]], amphet/mph OK car boost norépinephrine mais antideps ?)*
+*(Probablement dû à un déséquilibre des [[neurotransmetteurs]], [[amphétamines|amphet]]/mph OK car boost norépinephrine mais antideps ?)*
 
 ## Narcolepsie 
 

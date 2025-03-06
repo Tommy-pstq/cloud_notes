@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Antidépresseurs.md",
+                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche psychanalytique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Antidépresseurs"
+              "title": "Approche psychanalytique"
             }
           }
         ]
@@ -174,35 +174,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3494b063f5fe8ef2",
+  "active": "df3bbea2c4f4a176",
   "lastOpenFiles": [
-    "3 - Tags/Tricycliques.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Psychopathologie de l'Antiquité à nos jours.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines/Approche psychanalytique.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Traitements biologiques contemporains.md",
+    "3 - Tags/Psychostimulants.md",
+    "3 - Tags/méthylphénidate.md",
+    "3 - Tags/amphétamines.md",
+    "3 - Tags/Stimulation magnétique transcrânienne.md",
+    "3 - Tags/Electroconvulsivothérapie.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Conceptions Religieuse et Naturelles.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Méthode d'évaluation en psychopathologie.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours",
+    "3 - Tags/actualisation de soi.md",
+    "3 - Tags/représentation de soi.md",
+    "3 - Tags/conception du soi.md",
+    "3 - Tags/Estime de soi.md",
+    "3 - Tags/association libre.md",
     "3 - Tags/Antidépresseurs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours.md",
+    "3 - Tags/TDAH.md",
+    "3 - Tags/noradénaline.md",
+    "3 - Tags/norépinéphrine.md",
+    "3 - Tags/Tricycliques.md",
     "3 - Tags/neurotransmetteurs.md",
     "3 - Tags/Neuroleptiques.md",
     "3 - Tags/Anxiolytiques.md",
     "3 - Tags/Benzodiazépines.md",
     "3 - Tags/coordination.md",
     "3 - Tags/Psychotropes.md",
-    "3 - Tags/symptômes psychotiques.md",
-    "3 - Tags/Discours désorganisé.md",
-    "3 - Tags/Hallucinations.md",
-    "3 - Tags/Délire.md",
-    "4 - Indexes/Index.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles neurocognitifs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autres psychoses.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Psychologie sociale/L'influence sociale/De la présence d'autrui à a la formation des normes.md",
-    "7 - Psycho/Psychologie sociale/L'influence sociale/Sens commun et culture.md",
-    "3 - Tags/abstraction sélective.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux liés à des traumatismes ou TOC.md",
     "PDF/Index.pdf",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances liées ou non a des substances.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Déterminer et évaluer une psychopathologie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles somatiques.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
     "7 - Psycho/Psychologie sociale/L'influence sociale",
     "7 - Psycho/Psychologie sociale/La pensée sociale/Le soi et l'identité",
     "7 - Psycho/Psychologie sociale/La pensée sociale",
@@ -211,7 +213,6 @@
     "7 - Psycho/Psychologie du développement",
     "7 - Psycho/Psychologie sociale",
     "7 - Psycho",
-    "7 - Psycho/Psychologie clinique et psychopathologie",
     "2 - Source Materials/Pasted image 20250120181545.png",
     "2 - Source Materials/Pasted image 20250105163105.png",
     "2 - Source Materials/Pasted image 20250105112657.png",
@@ -221,7 +222,6 @@
     "2 - Source Materials/Pasted image 20241226171636.png",
     "2 - Source Materials/Pasted image 20241226170456.png",
     "2 - Source Materials/Pasted image 20241226170437.png",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }

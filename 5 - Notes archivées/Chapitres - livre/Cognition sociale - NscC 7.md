@@ -129,7 +129,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 <u>Qu'est-ce que le soi ?</u> 
 - Construction multidimensionnelle s'appuyant sur un réseau d'aires cérébrales distribué.
-	- Englobe des représentations de soi & d'autre personnes 
+	- Englobe des [[représentation de soi|représentations de soi]] & d'autre personnes 
 	- Repose principalement sur **l'hémisphère droit**, ensemble de zones interconnectées permettant l'expérience subjective du **soi**:
 		- préfrontales
 		- temporales postérieures
@@ -165,7 +165,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 	- Lobe pariétal inférieur droit: 
 		- Sens subjectif d'agentivité dans l'action.
 		- activation lors d'une imitation réciproque
-		- TMS : expérience de sortie de corps (dissociation du soi et de son propre corps)
+		- [[Stimulation magnétique transcrânienne|TMS]] : expérience de sortie de corps (dissociation du soi et de son propre corps)
 
 ### Plasticité de la représentation de soi-autrui
 
@@ -191,7 +191,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 <u>Interaction avec une autre personne</u>: nécessaire de traiter des informations [[social|sociales]] en constant évolution : actions, perspectives, croyances et émotions. 
 - Le traitement de ces informations active, via les [[système miroir|systèmes miroirs]], les mêmes représentations neurales que lorsque que l'on fait soi-même l'expérience de ces événements. 
-	- Ces processus miroir peuvent entrainer des conflits entre les représentations de soi et autres représentations pertinentes
+	- Ces processus miroir peuvent entrainer des conflits entre les [[représentation de soi|représentations de soi]] et autres représentations pertinentes
 		- Nécessité de mécanismes de contrôle de soi:
 			- Ex: contrôle de l'imitation -> distinguer son propre plan moteur de celui de l'autre. (paradigme d'imitation de Brass)  
 			- Adopter le point de vue de quelqu'un d'autre : nécessite d'inhiber sa propre perspective

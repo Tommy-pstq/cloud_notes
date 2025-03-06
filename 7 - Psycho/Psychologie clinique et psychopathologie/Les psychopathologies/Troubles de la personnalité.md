@@ -275,7 +275,7 @@ TTT
 - Intolérants à la critique 
 - Veulent toujours avoir raison, même contre l'évidence, qui sera niée de toute manière possible.
 - Amour = manière de manifester leur narcissisme et leur manque d'empathie 
-	- Si la relation met en péril leur estime de soi :
+	- Si la relation met en péril leur [[estime de soi]] :
 		- Agressivité/Violence possible, voire homicide.
 
 - Personnes n'ayant pas eu à apprendre le développement de l'empathie et se sont centrées sur elle même.
@@ -335,7 +335,7 @@ TTT
 	- Mais : portent quand même de l'intérêt aux autres.
 		- Peur de ne pas être acceptées -> évites les situations ou les autres pourraient les voir manifester de la nervosité. 
 - Manifestent souvent peu d'émotions mais se présentent souvent comme des personnes "très gentilles" : manière de ne pas être rejetée. 
-- Souvent : célibat, solitude, effacement, faible estime de soi.
+- Souvent : célibat, solitude, effacement, faible [[estime de soi]].
 
 - Se souviennent que, dans leur enfance : 
 	- Rejet parentale 

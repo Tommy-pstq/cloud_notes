@@ -19,7 +19,7 @@ DSM
 	- Manque de contrôle sur le comportement alimentaire, notamment les quantité 
 2. Engagement dans des comportements qui visent à compenser les excès alimentaires. 
 3. Gloutonnerie > 1x/semaine pdt 3 mois 
-4. Estime de soi exagérément influencée par le poids ou la forme physique.
+4. [[Estime de soi]] exagérément influencée par le poids ou la forme physique.
 5. Ce trouble ne survient pas uniquement durant les épisodes d'anorexie.
 
 TTT
@@ -58,7 +58,7 @@ TTT
 DSM
 1. Engagement dans un processus de restriction des apports énergétiques, le poids devient inférieur au poids minimal attendu.
 2. Peur importante de prendre du poids + comportements qui interfèrent avec la prise de poids malgré un poids nettement très bas. 
-3. Altération de la perception de son poids, non reconnaissance de la maigreur extrême, influence de leur situation corporelle sur l'estime de soi
+3. Altération de la perception de son poids, non reconnaissance de la maigreur extrême, influence de leur situation corporelle sur l'[[estime de soi]]
 
 Deux types d'anorexies : celle avec restriction alimentaire et celle avec des périodes hyperphagiques : gloutonneries & purges/vomissement. 
 
@@ -107,7 +107,7 @@ TTT
 	- Aide à entreprendre des changements dans leur vie interpersonnelle par rapport aux éléments de trigger 
 	- Forte prévalence de difficultés interpersonnelle dans ce trouble 
 		- Retrait social
-		- Difficultés majeures d'estime de soi
+		- Difficultés majeures d'[[estime de soi]]
 
 ## Pica 
 

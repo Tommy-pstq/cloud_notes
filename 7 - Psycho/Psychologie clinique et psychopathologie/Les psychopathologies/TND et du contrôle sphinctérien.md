@@ -5,7 +5,7 @@
 	- Déficit d'inhibition (i.e hyperactivité)
 - Apparaissant souvent vers 3-4 ans 
 - Difficultés sociale potentielles. 
-	- -> Estime de soi basse dès l'enfance
+	- -> [[Estime de soi]] basse dès l'enfance
 	- Plus de chances de présenter un trouble de la personnalité antisociale 
 - Difficultés scolaires
 *Prise de note légère, on connait déjà bien le truc ...*

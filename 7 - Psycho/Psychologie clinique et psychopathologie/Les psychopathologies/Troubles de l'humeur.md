@@ -54,7 +54,7 @@ TTT
 		- Ou en combinaison avec les psychothérapie : effet à plus long terme, [[Antidépresseurs|antidep]] seuls = court terme.
 	- Médication souvent nécessaire dans les cas grave avec idées suicidaires
 
-- Electroconvulsivothérapie pour les cas non réceptifs.
+- [[Electroconvulsivothérapie]] pour les cas non réceptifs.
 
 ### Trouble dépressif persistant
 
@@ -139,7 +139,7 @@ TTT
 DSM
 1. Présence d'une humeur élevée ou irritable persistant tous les jours durant au moins une semaine, avec augmentation de l'activité orientée vers un but ou de l'énergie de façon anormale la plupart du temps. Peut nécessiter l'hospitalisation?
 2. Durant cette période, au moins 3 symptômes (4 si irritable) :
-	- Augmentation de l'estime de soi / idées de grandeurs 
+	- Augmentation de l'[[estime de soi]] / idées de grandeurs 
 	- Réduction du besoin de sommeil 
 	- Plus grande communicabilité qu'à l'habitude ou désir constant de parler 
 	- Distractibilité

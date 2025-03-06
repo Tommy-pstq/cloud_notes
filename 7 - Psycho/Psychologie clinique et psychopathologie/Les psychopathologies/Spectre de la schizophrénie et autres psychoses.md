@@ -228,7 +228,7 @@ TTT
 
 - Substances pouvant provoquer des [[symptômes psychotiques]]:
 	- Alcool
-	- Amphétamines 
+	- [[Amphétamines]] 
 	- Cannabis 
 	- Cocaïne
 	- Hallucinogènes
@@ -289,6 +289,6 @@ DSM
 TTT
 - Répondent souvent à des [[benzodiazépines]].
 - Dépend du problème de santé auquel la catatonie est associé.
-- Parfois : Electroconvulsivothérapie
+- Parfois : [[Electroconvulsivothérapie]]
  
 

@@ -1,0 +1,6 @@
+---
+aliases:
+  - psychostimulant
+---
+- [[amphétamines]]
+- [[méthylphénidate]] 
