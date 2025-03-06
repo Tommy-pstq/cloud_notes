@@ -17,7 +17,7 @@ DSM
 
 TTT 
 
-- Souvent : pharmoco (benzodiazépines, hypnotiques, antihistaminiques) mais risque de dépendance + peuvent générer d'autres troubles. 
+- Souvent : pharmoco ([[benzodiazépines]], hypnotiques, antihistaminiques) mais risque de dépendance + peuvent générer d'autres troubles. 
 - Hygiène de vie + contrôle des stimuli 
 	- Réserver la chambre au sex / sommeil.
 	- 1h de break avant 
@@ -48,13 +48,13 @@ DSM
 - Pharmaco :
 	- Stimulants (amphetamines, méthylphénidate)
 	- Certains antideps (?)
-*(Probablement dû à un déséquilibre des neurotransmetteurs, amphet/mph OK car boost norépinephrine mais antideps ?)*
+*(Probablement dû à un déséquilibre des [[neurotransmetteurs]], amphet/mph OK car boost norépinephrine mais antideps ?)*
 
 ## Narcolepsie 
 
 - A ne pas confondre avec l'hypersomnolence, on parle ici d'un besoin incontrôlable de sommeil durant la journée avec endormissement brusque même au milieu d'une activité, parfois avec perte soudaine du tonus musculaire. 
 - Parfois associé à de la paralysie du sommeil 
-- Souvent : hallucinations hypnagogiques en début de sommeil : vécus terrifiants & vifs, très réalistes.
+- Souvent : [[hallucinations]] hypnagogiques en début de sommeil : vécus terrifiants & vifs, très réalistes.
 	- Angoissant. Difficile à distinguer de la réalité 
 	- Potentiellement dû à la survenue bien plus rapide du sommeil paradoxale qu'en popG
 - Problème lié à un dysfonctionnement du SNC.
@@ -105,7 +105,7 @@ TTT :
 TTT
 
 - Appareil O² ++
-- Réduire/éliminer les opioïdes/benzodiazépines et autres psychotropes 
+- Réduire/éliminer les opioïdes/[[benzodiazépines]] et autres [[psychotropes]] 
 - Réduction pondérale 
 - Condition vertébrale 
 

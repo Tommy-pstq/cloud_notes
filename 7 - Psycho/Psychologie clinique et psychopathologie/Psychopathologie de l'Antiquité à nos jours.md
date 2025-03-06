@@ -7,7 +7,7 @@ Objectifs
 
 ### Conceptions religieuses et surnaturelles 
 
-- Comptmt psypatho expliqués commme manifestations de forces maléfiques. 
+- Comportement psychopathologiques expliqués comme manifestations de forces maléfiques. 
 
 - Identification des sorcières (Innocent VIII) via stigmates corporelles:
 	- grains de beauté
@@ -33,8 +33,8 @@ Antiquité romaine : Galien ( de 131 à 201 ). dev des conceptions psychopatho
 -> influences des humeurs sur les fluides corporels, résultant en des pathopsy
 
 - Interaction syphilis - malaria :
-	- Si atteint des deux, potentielle guérison de la syphilis : disparition des symptômes psychotiques.
-		- --> les symptômes psychotiques peuvent être traités par des méthodes biologiques. 
+	- Si atteint des deux, potentielle guérison de la syphilis : disparition des [[symptômes psychotiques]].
+		- --> les [[symptômes psychotiques]] peuvent être traités par des méthodes biologiques. 
 
 - Individus "Possédés", montrant des symptômes de délire : utilisation du "choc", comme l'hydrothérapie (plonger un patient en crise dans un bain d'eau glacée) jusqu'au XXieme (ou est suspendu au dessus d'une fosse de serpent venimeux).
 	- Evolution vers des bains tièdes plus long par la suite. Disparu du répertoire de la psychiatrie mais les bienfaits des bains sont encore mentionnés
@@ -44,26 +44,26 @@ Antiquité romaine : Galien ( de 131 à 201 ). dev des conceptions psychopatho
 - Sismothérapie pour la dépression sévère et résistante.
 - Pharmaco
 	- Début XXieme : barbiturique pour calmer + sommeil
-		- Maintenant : benzodiazépines 
+		- Maintenant : [[benzodiazépines]] 
 	- [[Psychotropes]] (action SNC)
 		- [[Anxiolytiques]] 
 			- Anxiété et tension musculaire 
 		- [[Benzodiazépines]]:
-			- diazépam (Valium), aprozalam (Xanax) 
+			- Diazépam (Valium), aprozalam (Xanax) 
 			- Hypnotique léger : triazolam, fluozépam
-			- Effet secondaire : fatigue, somnolenc,e diminution de la coordination 
+			- Effet secondaire : fatigue, somnolence diminution de la [[coordination]] 
 			- Pb de  tolérance & dépendance 
 	- [[Antipsychotiques]] : traitement des psychoses (Ex: schyzophrénie)
 		- [[Neuroleptiques]] : action sur le système dopaminergique
 			- Chlorpromazine, thioridazine, fluphénazine, halopéridol. 
 		- Effet secondaire : rigidité musculaire, tremblements, similaire Parkinson
-		- Deuxième génération, "atypique", plus vaste spectre de neurotransmetteurs
+		- Deuxième génération, "atypique", plus vaste spectre de [[neurotransmetteurs]]
 			- Clozapine rispéridone, olanzapine, quetiapine
 			- Effet secondaires dangereux, donc sous contrôle médical stricte.
 				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
 		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
 	- [[Antidépresseurs]] (dépression, phobie sociale, TOC, boulimie)
-		- [[Tricycliques]] (sérotonine et norépinéphrine)
+		- Tricycliques (sérotonine et norépinéphrine)
 			- Amitriptyline, clomipramine, désipramine, imipramine
 			- E S  : vision floue, yeux secs, constipation, vertiges, somnolence, sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, rêves inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
 		- inhibiteur de la mono-oxydase ; effet sur la sérotonine, dopamine et norépinéphrine. 

@@ -8,7 +8,7 @@ aliases:
 Symptômes:
 
 - "positifs"
-	- hallucinations
+	- [[hallucinations]]
 	- délires
 - "négatifs":
 	- perte de plaisir

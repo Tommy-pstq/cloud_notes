@@ -25,7 +25,7 @@ DSM
 ### Intoxication
 
 - Discours difficile à comprendre 
-- Manque de coordination motrice 
+- Manque de [[coordination]] motrice 
 - Démarche typique de l'état d'ébriété 
 - Mouvements répétitifs et incontrôlables des yeux (nystagmus)
 - Mémoire / attention diminuée 
@@ -43,7 +43,7 @@ DSM
 	- Tremblement des mains 
 	- Insomnie 
 	- Nausée / vomissement 
-	- Hallucinations, illusions de diverses modalités sensorielles 
+	- [[Hallucinations]], illusions de diverses modalités sensorielles 
 	- Agitation 
 	- Anxiété 
 	- Convulsion
@@ -59,19 +59,19 @@ TTT Alcool
 - Centre spécialisés pour personne souffrant d'alcoolisme 
 	- Sevrage sous surveillance étroite
 		- Traitement peut nécessiter des soins intensifs
-			- Parfois utilisation de benzodiazépines 
+			- Parfois utilisation de [[benzodiazépines]] 
 - Important : prévention de rechute. 
 	- Identifier les croyances inappropriées associées à l'utilisation d'alcool.
 	- Circonstances menant à la conso
 	- Prévoir des comportements alternatifs. (Aller chercher un support vers un membre d'un groupe d'entraide / faire du sport )
 	- Phénomène fréquent, ne pas en faire une catastrophe. 
 
-## Les sédatifs, hypnotiques ou anxiolytiques  (tranquillisants)
+## Les sédatifs, hypnotiques ou [[anxiolytiques]]  (tranquillisants)
 
 ### Trouble de l'usage des sédatifs, hypnotiques 
 
 - Pour contrer l'anxiété. 
-	- Nommément : benzodiazépines (Valium, Ativan, Xanax etc.)
+	- Nommément : [[benzodiazépines]] (Valium, Ativan, Xanax etc.)
 	- Utilisation ponctuelle : Oui. Si régulière, gros risque :
 		- Accoutumance + dépendance
 

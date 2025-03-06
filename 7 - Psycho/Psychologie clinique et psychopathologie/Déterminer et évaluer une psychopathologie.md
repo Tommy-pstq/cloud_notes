@@ -55,10 +55,10 @@
 		- Si une suggestion est faite que le candidat est en santé mentale, 100% le décrivent comme en santé mentale 
 		- Si une suggestion est faite que c'est un patient psychotique, les résultats varient selon le prestige de celui qui fait la suggestion (médecin réputé, PhD ou étudiant)
 	- <u>1973</u> : "Etre sain dans des endroits malsain":
-		- 12 faux patients entrainés à simuler un symptôme psychotique (hallucination auditive) sont envoyés dans des établissements réputés. 
+		- 12 faux patients entrainés à simuler un [[symptômes psychotiques|symptôme psychotique]] ([[Hallucinations|hallucination]] auditive) sont envoyés dans des établissements réputés. 
 		- Ils sont effectivement hospitalisés après avoir été diagnostiqués comme ayant un problème grave de psychose. 
 			- Pour une durée de 7 a 52 jours, malgré le déni de leur maladie car interprété comme un refus de collaborer au traitement.
-				- Une fois hospitalisés, les faux patients devaient expliquer ne plus avoir d'hallucinations et agir de manière normale. 
+				- Une fois hospitalisés, les faux patients devaient expliquer ne plus avoir d'[[hallucinations]] et agir de manière normale. 
 					- Le personnel a interprété cela comme un déni de maladie et signe de trouble mentaux. 
 					- **Ils ne pourront sortir que s'ils acceptent leur diagnostic (schizophrénie ou trouble bipolaire) et acceptent de prendre des médicaments** 
 					- Ont témoignés des situations déshumanisantes vécues, envahissement de la vie privé, ennuie +++

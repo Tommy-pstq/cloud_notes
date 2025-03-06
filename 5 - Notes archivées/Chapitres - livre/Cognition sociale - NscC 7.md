@@ -326,7 +326,7 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 
 ### Synchronie et actions collectives
 
-- Comment se synchronise-t-on lors d'une action collective nécessitant la coordination de plusieurs individus pour atteindre un objectif (Ex: porter un meuble, cuisiner un repas) ? 
+- Comment se synchronise-t-on lors d'une action collective nécessitant la [[coordination]] de plusieurs individus pour atteindre un objectif (Ex: porter un meuble, cuisiner un repas) ? 
 	- Éléments nécessaires à la réussite:
 		- Des représentations partagées
 			- [[attention]] partagé envers l'espace dans lequel se déroule l'action

@@ -11,7 +11,7 @@ Publication : 24/12/2013
 	- L'activité cérébrales [[spontanéité|spontanée]] est considérée comme du bruit/ tâche de fond sans grande importance. 
 - Mais : de plus en plus d'évidences que cette activité spontanée influence le traitement des inputs [[sensorialité|sensoriels]]. 
 	- Le cerveau reçoit des informations [[sensorialité|sensorielles]] en permanence. Et même pendant le sommeil profond, on observe une activité coordonnée dans le réseau thalamo-cortical.
-- Même en cas de privation [[sensorialité|sensorielle]], le cerveau génère [[spontanéité|spontanément]] son propre monde d'hallucination. 
+- Même en cas de privation [[sensorialité|sensorielle]], le cerveau génère [[spontanéité|spontanément]] son propre monde d'[[Hallucinations|hallucination]]. 
 
 - Débat actuel autour de l'[[TSA|autisme]] et des possibles différences de connectivités se reflétant dans les mode [[cognition|cognitifs]] spéciaux des personnes [[TSA]].
 	- Le cerveau des [[TSA]] serait plus "déconnecté": idée venant de mesures PET et IRMf

@@ -17,7 +17,7 @@
 	- Sevrage
 		- Alcoolique
 		- Hypnotique
-		- Anxiolytique 
+		- [[Anxiolytiques|Anxiolytique]] 
 	- Trauma 
 		- Cérébraux 
 		- Crâniens
@@ -96,7 +96,7 @@ DSM
 - Troubles cognitifs provoquant une perte d'autonomie fonctionnelle 
 	- Fluctuations journalières 
 - Progression avec problèmes d'attention/fonction exécutives.
-- Hallucinations visuelles 
+- [[Hallucinations]] visuelles 
 - Symptômes parkinsoniens
 - Comportements problématiques pendant le sommeil paradoxal
 

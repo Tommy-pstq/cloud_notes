@@ -35,7 +35,7 @@ Localité des connexion neuronale
 
 l'intégration d'information repose sur la [[synchronicité]] , dépendante de la [[fenêtre d'intégration temporelle]].
 
-Bien que des [[stimulus|signaux externes]] irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'activation [[synchronicité|synchrone]] de réseaux (=[[synchronicité]]), le mécanisme physique le plus énergétiquement efficace de générer une telle coordination [[temporalité|temporelle]] est l'utilisation des oscillations (1,2).
+Bien que des [[stimulus|signaux externes]] irréguliers puissant (libération dopa/flash lumineux/bruit intense/commande motrice) puisse engendrer l'activation [[synchronicité|synchrone]] de réseaux (=[[synchronicité]]), le mécanisme physique le plus énergétiquement efficace de générer une telle [[coordination]] [[temporalité|temporelle]] est l'utilisation des oscillations (1,2).
 
 Les oscillateurs cérébraux présentent des caractéristiques propres aux oscillateurs harmoniques et de relaxation (=deux états d'équilibre instable).
 

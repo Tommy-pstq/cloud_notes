@@ -23,7 +23,7 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 ### Développement du contrôle exécutif 
 
 - Contrôle exécutif
-	- Régulation et coordination des pensées et actions en vue d'atteindre un but précis. 
+	- Régulation et [[coordination]] des pensées et actions en vue d'atteindre un but précis. 
 	- Nécessaire pour l'attention et la concentration
 	- Emergence vers 12 mois 
 	- Rapide développement préscolaire 3 - 6 ans 

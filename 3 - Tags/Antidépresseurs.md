@@ -1,0 +1,15 @@
+---
+aliases:
+  - antidep
+  - antidépresseur
+---
+- Parfois utilisé pour le côté [[Anxiolytiques|anxiolytique]]
+- Tricycliques (sérotonine et norépinéphrine)
+			- Amitriptyline, clomipramine, désipramine, imipramine
+			- E S  : vision floue, yeux secs, constipation, vertiges, somnolence, sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, rêves inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
+		- inhibiteur de la mono-oxydase ; effet sur la sérotonine, dopamine et norépinéphrine. 
+			- phenelzine, tranylcypromine
+			- E S : hypotension orthostatique (étourdissement au lever & position debout), crises hypertensives, troubles neurologiques, insomnies 
+		- inhibiteur de la recapture de la sérotonine
+			- fluoxétine (prozac), sertraline 
+			- E S : nausée, vomissement, diarrhée, prise de poids, sécheresse buccale, céphalées, anxiété, sédation, diminution de la libido 

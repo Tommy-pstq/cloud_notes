@@ -34,7 +34,7 @@ DSM
 	- Reste rancunier de manière prolongé
 	- Perçoit sans raison des attaques contre elle et contre attaque ou se met en colère 
 	- A des doutes sur la fidélité de son/sa partenaire. 
-2. Problème pas relié à d'autres problèmes grave de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec symptômes psychotiques) ou à une autre affection médicale. 
+2. Problème pas relié à d'autres problèmes grave de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec [[symptômes psychotiques]]) ou à une autre affection médicale. 
 
 TTT
 
@@ -54,7 +54,7 @@ TTT
 - Souvent :
 	- Enfants timides + victimes de pratiques abusives / négligence
 	- Mode de vie en marge de la société. Souhait de le rester.
-- Pas de symptômes psychotiques (délires/hallucinations etc.)
+- Pas de [[symptômes psychotiques]] (délires/hallucinations etc.)
 
 DSM
 1. Début de l'âge adulte : manque d'intérêt / détachement vis à vis des relations sociales. Peu d'expression émotionnelle par rapport à autrui. Au moins 4 manifestations:
@@ -65,7 +65,7 @@ DSM
 	- Pas d'amis/personnes proches à qui se confier, sauf des proches parents 
 	- Indifférence au félicitations / critiques des autres.
 	- Froideur / détachement / appauvrissement ou manque d'émotions.
-2. Pas attribuable à d'autres problèmes graves de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec symptômes psychotiques, TSA) ou autre affection médicale. 
+2. Pas attribuable à d'autres problèmes graves de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec [[symptômes psychotiques]], TSA) ou autre affection médicale. 
 
 TTT
 
@@ -103,7 +103,7 @@ DSM
 	- Agissement et apparence bizarre et étrange
 	- Pas d'amis ou de relations sauf les parents proches
 	- Présence d'anxiété reliée à des situations sociales avec des idées de méfiances qui peuvent s'atténuer par une augmentation de la familiarisation
-2. Pas attribuable à un autre trouble mental (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec symptômes psychotiques, TSA)
+2. Pas attribuable à un autre trouble mental (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec [[symptômes psychotiques]], TSA)
 
 TTT
 
@@ -216,7 +216,7 @@ DSM
 - Développer les habiletés sociales pour ne plus répondre qu'exclusivement par des colères ou de l'agressivité.
 - Aide ponctuelle : téléphonique / visio pour les problèmes urgents.
 - Peut provoquer du stress/de l'épuisement professionnel chez les intervenants.
-- Pharmaco : Anxiolytiques, antidépresseurs, régulateurs de l'humeur, antipsychotiques.
+- Pharmaco : [[Anxiolytiques]], [[antidépresseurs]], régulateurs de l'humeur, antipsychotiques.
 
 ### Personnalité histrionique 
 

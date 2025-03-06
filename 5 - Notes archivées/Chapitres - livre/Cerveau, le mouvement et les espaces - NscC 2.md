@@ -107,7 +107,7 @@ On ne décrit comme se déplaçant à vitesse constante qu'un objet se déplaça
 ### III - 1 La variation coplanaire
 
 Il existe une loi entre les angles d'élévation (co-variation planaire) des différents segments mis en jeux lors de la réalisation d'un mouvement.
-Elle s'applique peu important l'amplitude du mouvement. La gestion de la coordination fine est reléguée à la moëlle épinière, évitant ainsi le contrôle individuel de chacun des muscles impliqué dans un geste.
+Elle s'applique peu important l'amplitude du mouvement. La gestion de la [[coordination]] fine est reléguée à la moëlle épinière, évitant ainsi le contrôle individuel de chacun des muscles impliqué dans un geste.
 
 Cette variation co-planaire est programmée génétiquement mais nécessite l'activité pour se mettre en place (Si on immobilise un bébé, cela peut par conséquent entrainer des problèmes de locomotion plus tard). 
 	- > Exemple de la relation complémentaire entre [[génétique]] & expérience dans la spécialisation des fonctions sensori-motrices. 

@@ -10,7 +10,7 @@
 		- Développement / solidification du soutient social
 	- <u>Techniques de psychothérapies cognitives des psychoses chroniques</u>, Chambon, Perris & Marie-Cardine, 1997
 		- Présentation des schémas cognitifs dans les psychoses chroniques 
-		- Lien entre ces schémas et symptômes de délire/hallucination
+		- Lien entre ces schémas et symptômes de délire/[[Hallucinations|hallucination]]
 		- Méthodes d'intervention pour aller vers des schémas cognitifs plus appropriés
 
 ## Schizophrénie 
@@ -27,7 +27,7 @@
 			 - Croire qu'une personne célèbre est amoureux.se d'elle, les messages amoureux étant transmis dans les chansons. 
 				 - L'entourage de l'artiste empêcherait ce dernier d'entrer en contact.
 			- Thématiques liées à l'informatique ou aux forces occultes. 
-		- **Expériences sensorielles** : hallucinations.
+		- **Expériences sensorielles** : [[hallucinations]].
 			- Auditives - les plus fréquentes.
 				- Entendent des voix ou des sons. Les voix son souvent décrites comme menaçantes.
 			- Visuelles 
@@ -68,8 +68,8 @@
 			- Contact avec les autres difficiles 
 			- Fonctionnement académique / occupationnel diminue 
 		- <u>Phase aiguë</u> : se détériore d'avantage et devient inexplicable pour les autres.
-			- Emergence de symptômes psychotiques 
-				- Hallucinations envahissantes, idées délirantes, attitude de plus en plus bizarre
+			- Emergence de [[symptômes psychotiques]] 
+				- [[Hallucinations]] envahissantes, idées délirantes, attitude de plus en plus bizarre
 		- <u>Phase résiduelle</u> : symptômes moins marquées, similaires à la phase prodromique. 
 
 - Poser le diag avec beaucoup de parcimonie, car il a des conséquences énormes. 
@@ -77,19 +77,19 @@
 DSM
 1. Présence, pendant une durée supérieure à 1 mois d'au moins 2 des symptômes suivants:
 	- Idées délirantes
-	- Hallucinations 
-	- Discours désorganisé 
+	- [[Hallucinations]] 
+	- [[Discours désorganisé]] 
 	- Comportement désorganisé ou catatonique 
 	- Symptômes négatifs 
 2. Doit avoir manifesté une baisse de niveau de fonctionnement par rapport au niveau antérieur. 
 3. Les signes du trouble, incluant la phase prodromique, existent depuis au moins 6 mois.
-4. Tous les autres diagnostiques (trouble schizo-affectif, dépression avec caractéristiques psychotiques, trouble bipolaire avec symptômes psychotiques) ont été exclus 
+4. Tous les autres diagnostiques (trouble schizo-affectif, dépression avec caractéristiques psychotiques, trouble bipolaire avec [[symptômes psychotiques]]) ont été exclus 
 5. Pas attribuable à des substances / autre problème médical
 6. Si présence antérieure de TSA ou trouble de la communication, le diag de schizophrénie est posé seulement si des symptômes importants de la schizophrénie sont présents. 
 
 
 - Autrefois : hospitalisation / ressources psychiatriques à long terme - souvent pour la vie. 
-	- Amélioration de la pharmaco - neuroleptiques atypiques (type 2)
+	- Amélioration de la pharmaco - [[neuroleptiques]] atypiques (type 2)
 	- Changement dans la conception du traitement 
 	- -> Institutionnalisation à long terme intolérable. (à partir des années 70s)
 - Méthodes comportementales pour préparer à la désinstitutionalisation
@@ -97,7 +97,7 @@ DSM
 		- Habiletés sociales 
 		- Habiletés occupationnelles 
 
-- Meilleure manière d'aider ces patients : prise en charge aux premiers signes de la maladie et offrir une intervention s'appuyant à la fois sur la pharmaco (neuroleptiques) et une approche cognitivo-comportementale. 
+- Meilleure manière d'aider ces patients : prise en charge aux premiers signes de la maladie et offrir une intervention s'appuyant à la fois sur la pharmaco ([[neuroleptiques]]) et une approche cognitivo-comportementale. 
 	- Objectif : qu'il n'y est qu'un seul épisode psychotique, le premier et le dernier. 
 		- Prévenir autant que possible l'évolution vers un état chronique. 
 
@@ -105,8 +105,8 @@ DSM
 	- Traitement pharmaco.
 	- Comprendre en quoi consiste leur maladie 
 	- Apprendre à vivre avec leur symptômes, dont certains persisteront.
-		- Accepter que les hallucinations sont des productions de leur cerveau et non des événements réels 
-	- Restructuration cognitive de symptômes psychotiques (délires)
+		- Accepter que les [[hallucinations]] sont des productions de leur cerveau et non des événements réels 
+	- Restructuration cognitive de [[symptômes psychotiques]] (délires)
 	- Amélioration des habiletés sociales 
 	- Amélioration des habiletés socio-sexuelles 
 	- Travailler sur la gestion du temps, des activités quotidiennes et domestiques. 
@@ -116,7 +116,7 @@ DSM
 TTT
 
 - Pharmaco 
-	- Neuroleptiques traditionnels : efficace sur les symptômes positifs mais effets secondaires importants 
+	- [[Neuroleptiques]] traditionnels : efficace sur les symptômes positifs mais effets secondaires importants 
 		- Extrapyramidaux, similaire à Parkinson
 	- Neuroleptique deuxième génération : Réduction des symptômes positifs ET négatifs. Moins d'effets sur le fonctionnement cognitif : pas d'engourdissement intellectuel. 
 		- Mais : Peuvent induire un syndrome métabolique avec résistance à l'insuline, prise de poids et hypertension. 
@@ -143,17 +143,17 @@ TTT
 
 ## Trouble psychotique bref 
 
-- Présence de symptômes psychotiques - dans des situations de stress ou autres - pour une durée inférieure à 1 mois. 
+- Présence de [[symptômes psychotiques]] - dans des situations de stress ou autres - pour une durée inférieure à 1 mois. 
 - Probablement dû à une prédisposition mais sans persistance dans le temps.
 
 DSM
 1. Présence d'au moins un des 4 symptômes 
 	- Idées délirantes 
-	- Hallucinations
-	- Discours désorganisé 
+	- [[Hallucinations]]
+	- [[Discours désorganisé]] 
 	- Comportement désorganisé ou catatonique 
 2. Durée <= 1 mois et retour complet au fonctionnement prémorbide
-3. Autres troubles de santé mentale éliminés (trouble dépressif caractérisé ou bipolaire avec symptômes psychotiques, catatonie, autre psychose.)
+3. Autres troubles de santé mentale éliminés (trouble dépressif caractérisé ou bipolaire avec [[symptômes psychotiques]], catatonie, autre psychose.)
 4. Pas attribuable à des substances / médicaments
 
 - Rechutes fréquentes.
@@ -226,7 +226,7 @@ TTT
 
 ## Trouble psychotique induit par une substance/médicament 
 
-- Substances pouvant provoquer des symptômes psychotiques:
+- Substances pouvant provoquer des [[symptômes psychotiques]]:
 	- Alcool
 	- Amphétamines 
 	- Cannabis 
@@ -252,7 +252,7 @@ TTT
 
 - En général : disparition des symptômes si arrêt de la consommation.
 - TTT varient selon la nature de la substance
-- Anxiolytique / antipsychotique possible. 
+- [[Anxiolytiques|Anxiolytique]] / antipsychotique possible. 
 
 ## Trouble psychotique dû à une autre affection médicale 
 
@@ -287,7 +287,7 @@ DSM
 - **Echopraxie** : répétition des mouvements d'une autre personne. 
 
 TTT
-- Répondent souvent à des benzodiazépines.
+- Répondent souvent à des [[benzodiazépines]].
 - Dépend du problème de santé auquel la catatonie est associé.
 - Parfois : Electroconvulsivothérapie
  

@@ -49,9 +49,9 @@ TTT
 - *Stratégie Nardone: 30 minutes imposées pour se plaindre dans la journée mais interdit de le faire à d'autres moments, Noté l'humeur du jour + prédiction du lendemain avec activité positive le plus tôt possible si note basse prévue* 
 
 - Pharmaco:
-	- Antidépresseurs 
+	- [[Antidépresseurs]] 
 		- Souvent chez les individus ne voulant pas suivre de psychothérapie
-		- Ou en combinaison avec les psychothérapie : effet à plus long terme, antidep seuls = court terme.
+		- Ou en combinaison avec les psychothérapie : effet à plus long terme, [[Antidépresseurs|antidep]] seuls = court terme.
 	- Médication souvent nécessaire dans les cas grave avec idées suicidaires
 
 - Electroconvulsivothérapie pour les cas non réceptifs.
@@ -88,8 +88,8 @@ DSM
 
 TTT 
 - Pareil qu'au dessus 
-- Antidep souvent 
-- Chez les plus jeunes d'abord traitement psychologique adapté à cet âge, antidep dernier recours. 
+- [[Antidépresseurs|Antidep]] souvent 
+- Chez les plus jeunes d'abord traitement psychologique adapté à cet âge, [[Antidépresseurs|antidep]] dernier recours. 
 - Implication de l'environnement familiale & scolaire pour favoriser les comportements adaptés ou déterminer ce qui peut favoriser le développement et le maintiens de ces problèmes. 
 
 ### Trouble dysphorique prémenstruel 
@@ -134,7 +134,7 @@ TTT
 
 ### Episode maniaque 
 
-- Période durant laquelle la personne a un sentiment marqué d'exaltation, de grande euphorie et de joie. Peut être associé a des symptômes psychotiques (délire, hallucination)
+- Période durant laquelle la personne a un sentiment marqué d'exaltation, de grande euphorie et de joie. Peut être associé a des [[symptômes psychotiques]] (délire, [[Hallucinations|hallucination]])
 
 DSM
 1. Présence d'une humeur élevée ou irritable persistant tous les jours durant au moins une semaine, avec augmentation de l'activité orientée vers un but ou de l'énergie de façon anormale la plupart du temps. Peut nécessiter l'hospitalisation?
@@ -201,8 +201,8 @@ TTT
 
  - Thérapie de support.
  - Apprendre à reconnaitre les signes avant coureurs.
- - Antidépresseurs si la dépression est sévère, mais habituellement pas en monothérapie. 
- - Antipsychotiques de deuxième génération si symptômes psychotiques.
+ - [[Antidépresseurs]] si la dépression est sévère, mais habituellement pas en monothérapie. 
+ - Antipsychotiques de deuxième génération si [[symptômes psychotiques]].
 
 ### Trouble cyclothymique 
 

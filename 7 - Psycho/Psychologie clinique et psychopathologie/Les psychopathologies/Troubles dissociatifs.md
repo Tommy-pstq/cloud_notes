@@ -40,7 +40,7 @@ TTT
 	- Identifier les situations / cognitions prédisposant à ces problèmes.
 - Méditation / pleine conscience : reconnecter la personne avec ce qu'elle est et avec la réalité. 
 - Pas de médication efficace.
-	- Anxiolytiques/Antideps aident à réduire les symptômes de détresse associés. 
+	- [[Anxiolytiques]]/Antideps aident à réduire les symptômes de détresse associés. 
 
 ## Amnésie dissociative
 

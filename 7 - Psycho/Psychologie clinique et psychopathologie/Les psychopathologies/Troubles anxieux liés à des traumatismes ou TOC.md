@@ -24,7 +24,7 @@ TTT
 	- Habituation -> diminution de l'anxiété 
 - Restructuration positive 
 - Psychothérapies verbales
-- Pharmaco : anxiolytiques, parfois antidep pour le côté anxiolytique 
+- Pharmaco : [[anxiolytiques]], parfois [[Antidépresseurs|antidep]] pour le côté anxiolytique 
 
 ### Anxiété sociale 
 
@@ -172,7 +172,7 @@ TTT
 - Relaxation
 - Méditation
 - Acceptation
-- Pharmaco : anxiolytiques. Gros risque de dépendance. 
+- Pharmaco : [[anxiolytiques]]. Gros risque de dépendance. 
 
 ## Troubles liés à des traumatismes ou à des facteurs de stress. 
 

@@ -49,7 +49,7 @@
 				- Repères visuels en place partout.
 				- Pictogrammes de communication : activités / comportements.
 		- Objectifs = Favoriser:
-			- la coordination visuomotrice
+			- la [[coordination]] visuomotrice
 			- Le fonctionnement cognitif 
 			- compétences verbales 
 			- l'autonomie
@@ -201,7 +201,7 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 
 - DSM 5 :
 1. 
-	- Coordination motrice nettement inférieure par rapport au niveau d'âge, entrainant la difficultés à réaliser certaines tâches, lenteur, maladresse.
+	- [[Coordination]] motrice nettement inférieure par rapport au niveau d'âge, entrainant la difficultés à réaliser certaines tâches, lenteur, maladresse.
 2. 
 	- En comparaison avec les individu de même âge, les déficiences interfèrent de manière significative avec des activités quotidienne, jeux, sports, activités académique/pro. 
 3. 
