@@ -10,7 +10,7 @@ historiquement, débat si tout est prédéfini ou [[déterministe]].
 Aujourd'hui : 
 	- **Il existe des bases [[génétique|génétiques]] qui sont modulables et modulées par l'environnement**. 
 	- Méthylation d'un [[génétique|gène]] --> expression diminuée
-		- Ex: [[récepteurs]] glucocorticoïdes, principalement sur l'[[hippocampe]], sensible au cortisol (produit dans des glandes surrénales), un [[génétique|gène]] code pour leur quantité. L'expression de ce [[génétique|gène]] peut être modifiée de manière épigénétique ([[attention]] maternelle chez des rats).
+		- Ex: [[récepteurs]] glucocorticoïdes, principalement sur l'[[hippocampe]], sensible au [[cortisol]] (produit dans des glandes surrénales), un [[génétique|gène]] code pour leur quantité. L'expression de ce [[génétique|gène]] peut être modifiée de manière épigénétique ([[attention]] maternelle chez des rats).
 	
 #### Emotions, corps et [[sentiments]]
 - [[sentiments]]s = Prise de [[conscience]] de sensation physique liées à une [[émotion]]

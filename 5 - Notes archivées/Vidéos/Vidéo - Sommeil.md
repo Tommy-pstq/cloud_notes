@@ -115,7 +115,7 @@ Quand consulter ?
 	- Quelques jours / 1 semaine pour le ressenti
 	- 2-3 semaines pour la chronobiologie.
 		- Hormones
-			- Ex: Cortisol
+			- Ex: [[Cortisol]]
 				- Synthétisé le matin après le pic le plus bas de température (en chute durant la nuit)
 				- "Relance la machine"
 				- Prépare le réveil
@@ -180,7 +180,7 @@ Potentiellement présents toute la journée en cas de dette de sommeil, majorés
 Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'équilibre de leurs  [[antagonisme|antagonistes]]. 
 
 - **[[sérotonine|Sérotonine]]** : apaisement, [[Régulation]] de l’humeur et du [[stress]], convertie en mélatonine.
-- **[[noradénaline||Noradrénaline]]** : éveil, [[motivation]]. (dérivé de la dopamine)
+- **[[noradrénaline||Noradrénaline]]** : éveil, [[motivation]]. (dérivé de la dopamine)
 - **Orexine/Hypocrétines** : [[Régulation]] entre éveil et sommeil paradoxal
 		- Narcolepsie
 		- [[insomnie||Insomnie]] 

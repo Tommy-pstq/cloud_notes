@@ -22,10 +22,10 @@
 				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
 		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
 	- [[Antidépresseurs]] (dépression, [[phobie]] sociale, TOC, boulimie)
-		- Tricycliques (sérotonine et [[noradénaline|norépinéphrine]])
+		- Tricycliques (sérotonine et [[noradrénaline|norépinéphrine]])
 			- Amitriptyline, clomipramine, désipramine, imipramine
 			- E S  : vision floue, yeux secs, constipation, vertiges, somnolence, sécheresse buccale, agitation, transpiration excessive, maux de têtes, augmentation de la sensation de faim, maux d'estomac ou nausées, [[rêves]] inhabituels d'apparence réelle, prise de poids, changement de le fonctionnement et les intérêts sexuels. 
-		- inhibiteur de la mono-oxydase ; effet sur la sérotonine, dopamine et [[noradénaline|norépinéphrine]]. 
+		- inhibiteur de la mono-oxydase ; effet sur la sérotonine, dopamine et [[noradrénaline|norépinéphrine]]. 
 			- phenelzine, tranylcypromine
 			- E S : hypotension orthostatique (étourdissement au lever & position debout), crises hypertensives, troubles neurologiques, insomnies 
 		- inhibiteur de la recapture de la sérotonine

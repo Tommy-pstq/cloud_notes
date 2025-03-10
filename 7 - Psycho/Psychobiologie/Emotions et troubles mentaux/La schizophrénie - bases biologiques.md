@@ -1,5 +1,4 @@
 
-## La schizophrénie 
 
 - Prévalence : 0.5 à 2%
 - Chronique 
@@ -11,7 +10,7 @@
 		- Neuréguline 1 : régulation des récepteurs de l'acétylcholine, GABA, glutamate (plus spécifiquement : récepteur NMDA).
 		- Dysbindine, protéine liée à la plasticité synaptique 
 		- Enzyme COMT : dégradation de la dopamine 
-		- Protéine G72 : modulateur potentiel de la neurotransmission glutamatergique. 
+		- Protéine G72 : modulateur potentiel de la neurotransmission [[glutamatergique]]. 
 		- DISC1 : interagit avec bcp bcp de protéines neuronales. Dont une qui est impliquée dans la régulation de la formation des épines dendritiques au niveau des synapses glutamatergiques. 
 
 - 48% de concordance pour les jumeaux homozygotes. 17% pour les hétérozygotes.
@@ -69,7 +68,7 @@
 			- Inattendu si schizophrénie due à un surplus de dopamine 
 	- Il semble que : **compléter les traitements à base de neuroleptiques avec de la L-dopa a un effet vraiment bénéfiques sur les symptômes de schizophrénie.** (Jaskiw & Popli, 2004 : [https://doi.org/10.1007/s00213-003-1672-y](https://psycnet.apa.org/doi/10.1007/s00213-003-1672-y))
 
-- <u>Hypothèse glutamatergique</u>: schizophrénie causée par un déficit d'activation des récepteurs glutamatergique. 
+- <u>Hypothèse glutamatergique</u>: schizophrénie causée par un déficit d'activation des récepteurs [[glutamatergique]]. 
 	- Phencyclidine (PCP): génère des symptômes très similaires aux négatifs et positifs de la schizophrénie.
 		- Est un antagoniste non compétitif du récepteur NMDA. 
 			- Empêche l'effet normal du glutamate. 
