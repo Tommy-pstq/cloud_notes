@@ -1,0 +1,4 @@
+- Synthétisée par les [[adipocytes]] puis libérée dans le sang. 
+	- Sert d'indice d'activité des adipocytes
+		- Utilisé pour calculer & réguler les réserves énergétiques stockées sous forme de graisse.
+			- -> Défaut de production/réceptivité = sous estimation de la masse graisseuse = alimentation ++ et visée sur du sucre/gras.

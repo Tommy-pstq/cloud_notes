@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychobiologie/Emotions et troubles mentaux/Troubles de l'humeur - bases biologiques.md",
+                "file": "7 - Psycho/Psychobiologie/Régulation et comportement/Homéostasie - Régulation active.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles de l'humeur - bases biologiques"
+              "title": "Homéostasie - Régulation active"
             }
           }
         ]
@@ -176,8 +176,16 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "3 - Tags/adénohypophyse.md",
+    "3 - Tags/Peptide YY3-36.md",
+    "7 - Psycho/Psychobiologie/Régulation et comportement/Homéostasie - Régulation active.md",
+    "3 - Tags/Ghréline.md",
+    "3 - Tags/Leptine.md",
+    "3 - Tags/adipocytes.md",
+    "3 - Tags/hypothalamus.md",
     "7 - Psycho/Psychobiologie/Emotions et troubles mentaux/Troubles de l'humeur - bases biologiques.md",
+    "7 - Psycho/Psychobiologie/Régulation et comportement",
+    "7 - Psycho/Psychobiologie/Untitled.md",
+    "3 - Tags/adénohypophyse.md",
     "3 - Tags/Syndrome de Cushing.md",
     "3 - Tags/cortisol.md",
     "3 - Tags/Electroconvulsivothérapie.md",
@@ -201,13 +209,6 @@
     "2 - Source Materials/Pasted image 20250306163821.png",
     "7 - Psycho/Psychologie du développement/Théorie de Jean Piaget.md",
     "7 - Psycho/Psychologie du développement/Théorie de Wallon.md",
-    "3 - Tags/Lois du développement.md",
-    "3 - Tags/Personnalité.md",
-    "3 - Tags/Méthode comparative.md",
-    "3 - Tags/concepts marxistes.md",
-    "3 - Tags/adaptation.md",
-    "3 - Tags/Dimensions fonctionnelles.md",
-    "3 - Tags/conscience de soi.md",
     "2 - Source Materials/Pasted image 20250306153506.png",
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines",
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours",
@@ -217,7 +218,6 @@
     "7 - Psycho/Psychologie sociale/La pensée sociale",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies",
     "2 - Source Materials/Pasted image 20250213182659.png",
-    "7 - Psycho/Psychologie du développement",
     "2 - Source Materials/Pasted image 20250120181545.png",
     "2 - Source Materials/Pasted image 20250105163105.png",
     "2 - Source Materials/Pasted image 20250105112657.png",

@@ -1,2 +1,3 @@
 - Horloge interne
 - Production hormones
+- Joue un rôle critique dans la régulation du métabolisme, de la prise alimentaire et du contrôle de la masse corporelle

@@ -107,5 +107,101 @@
 			- Normalement, si administré tard le soir, elle abolit le pic de cortisol matinal. 
 				- Chez les patients dépressifs : le pic est préservé.
 
-- 
+### Les femmes sont plus touchées 
 
+- En France & US : femmes 2x plus touchées que les hommes par des dépressions majeures
+
+- Implications hormonales
+	- SPM
+	- Pilule
+	- Ménopause 
+- Dépression post-portum
+
+### Perturbation du sommeil dans la dépression
+
+- Difficulté à s'endormir / incapacité à rester normalement endormis 
+	- Dépression unipolaire : réductions importante des phases 3 & 4 du sommeil à ondes lentes. 
+- Altération du sommeil paradoxal 
+	- Entrée beaucoup plus tôt.
+		- Latence corrélée à la gravité de la dépression
+	- Décalé vers la première moitié de nuit
+- Trouble affectif saisonnier : décalage du rythme circadien.
+	- Mangent et dorment beaucoup
+	- Sentiment de ralentissement / déprime 
+	- Quand reviennent les beaux jours:
+		- Augmentation de l'activité
+		- Humeur ++ 
+		- Perte de poids
+	- Probablement lié à un décalage entre production de mélatonine et le sommeil.
+
+### Trouble bipolaire 
+
+- Cycles rapides >= 4 cycles dépression/manie par an. 
+
+- Elargissement des ventricules observé chez les personnes atteintes de trouble bipolaire.
+	- Perte de matière grise - dans d'autres zones que celles de la schizophrénie. 
+	- <u>Plus une personne subie d'épisode maniaque, plus les cavités cérébrales se creusent.</u> 
+		- Aggravation de la dégradation de matière cérébrale 
+		- Éléments sous-corticaux du système limbique : amygdale / hippocampe 
+
+- Lithium : efficace, mais on sais pas comment, a des effets très larges.
+	- Interaction avec une protéine de l'horloge biologique. 
+	- Stimulation de l'activité du BDNF
+		- Pourrait réduire la mort neurale sous jacent à l'érosion de la substance grise. 
+	- Arrête le côté exaltant des épisodes de manie
+		- Pourrait être la cause d'un arrêt de la médication par certains patients. 
+			- Les dépression reviennent aussi
+
+- Stimulation magnétique transcrânienne semble fonctionner également 
+
+## Troubles anxieux 
+
+### Altérations des lobes temporaux dans le trouble panique 
+
+- Attaque de panique à répétition
+	- Anomalies dans le lobe temporal visible à l'IRM. (40% des patients)
+		- Petites lésions dans la substance blanche 
+		- Dilatation des ventricules hémisphériques
+	- -> Réduction du volume globale du lobe temporal. 
+	- Volume de l'hippocampe non affecté.
+	- Modifications structurales très marquées de l'amygdale
+
+- Activité :
+	- Augmentée dans le gyrus parahippocampique 
+	- Diminuée dans le cortex temporal antérieur et l'amygdale 
+		- Notamment hémisphère droit 
+	- Diminué dans le gyrus cingulaire antérieur et cortex frontal. 
+
+### Traitements thérapeutiques des désordres anxieux 
+
+- Benzodiazépines anxiolytiques :
+	- Agonistes non compétitifs des  récepteurs du GABA
+		- Amplification de l'action du GABA au niveau des synapses inhibitrices 
+			- -> L'action inhibitrice du GABA est facilitée.
+		- Principalement GABAa 
+			- Exprimés de manière prédominante dans les régions corticales. 
+
+- Fonction du récepteur GABAa :
+	- Rendre la membrane perméable aux ions CL- 
+		- Hyperpolarisation locale. 
+	- Benzo uniquement : insuffisant, incapables d'ouvrir seuls le canal ionique. 
+		- Mais si GABA présent : ils augmentent la perméabilité aux ions CL- 
+
+- D'autres anxiolytiques : agoniste des récepteurs 5HTA_1a , sérotonine : soulage certaines anxiétés. 
+
+### Syndrome de stress post traumatique : des horreurs inoubliables
+
+- Contribution héréditaire pourrait compter pour 1/3 de la susceptibilité au SSPT.
+
+- Atrophie de l'hippocampe & hémisphère droit par rapport à des sujets contrôle.
+	- Hippocampe plus petit : pas le résultat du SSPT, mais plutôt facteur de risque. (Des jumeaux n'était pas partis à la gerre montraient un hippocampe similaire à celui de leur frère.)
+- Persistance des souvenirs et de la peur :
+	- **Peur conditionnée + sensibilisation comportementale + extinction mnésique**. 
+		- Malades apprennent à éviter une très vaste gamme de stimuli.
+		- Chez l'animal, **peur conditionnée : très persistance et implique l'amygdale**
+	- Peut aussi venir de : <u>défaillance du mécanisme d'oubli</u> 
+		- Perte de capacité à supprimer les peurs apprises. 
+	- Dimension hormonale :
+		- Réduction durable et paradoxale du taux de cortisol dans le SSPT
+			- -> Hypersensibilité au cortisol 
+		
