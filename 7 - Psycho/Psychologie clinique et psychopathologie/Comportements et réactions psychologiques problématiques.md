@@ -5,7 +5,7 @@ Objectifs:
 	- Temporalité et aspect culture du caractère inapproprié d'un comportement.
 	- Rôle de la psychiatrie contemporaine, des sciences biomed, recherche en psychologie pour définir des comportements inapproprié & réactions psychologique problématique. 
 
-1. Notion de "norme sociale" = bien différent de la norme mathématique. Dépend des considérations sociales elles mêmes propres à un instant/lieu donné.
+1. Notion de "[[normes sociales|norme sociale]]" = bien différent de la norme mathématique. Dépend des considérations sociales elles mêmes propres à un instant/lieu donné.
 	- Ex : Homosexualité. Interdit. Puis considéré comme pathologique. Puis supprimé du DSM.
 
 #### Concepts psychopathologiques spécifiques à certaines cultures contemporaines. 

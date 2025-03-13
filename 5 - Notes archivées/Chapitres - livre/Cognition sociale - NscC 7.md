@@ -63,15 +63,15 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 - 7 [[émotion||émotions]] basiques universelles, sous tendues par des combinaisons de contraction des muscles fasciaux(= [[FACS]] ([[FACS|Facial Action Coding System]])):
 	- Colère
-	- Peur
+	- [[Peur]]
 	- Dégout
-	- Surprise
+	- [[Surprise]]
 	- Joie 
 	- Tristesse
 	- [[Mépris]]
 
 - <u>Traitement des émotions</u>:
-	- Principalement sur les visages exprimant de la peur (mais aussi [[colère]], dégout, tristesse, surprise dans une moindre mesure)
+	- Principalement sur les visages exprimant de la peur (mais aussi [[colère]], dégout, tristesse, [[surprise]] dans une moindre mesure)
 		- 100 ms après l'apparition d'un visage
 		- [[amygdale]] et régions fronto-centrales 
 	- **N170** : très impactée par les émotions négatives
@@ -105,7 +105,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 - Influence sur la perception des émotions: éléments contextuels émetteur et observateur, mais aussi contexte non [[social]].
 	- Ex: pas la même perception de la peur dans une ruelle sombre ou en pleine journée dans une rue passante. 
 - Le contexte influence le traitement des émotions:
-	- La perception du dégout est facilité dans un environnement contenant des ordures par rapport à un environnement contenant des fleurs
+	- La perception du [[dégout]] est facilité dans un environnement contenant des ordures par rapport à un environnement contenant des fleurs
 
 #### --- 
 --> Le traitement des émotions n'est pas absolu mais est influencé par notre état interne, le contexte, nos a priori.

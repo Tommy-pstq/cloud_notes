@@ -270,7 +270,7 @@ Encore une fois, bien plus détaillé dans [[Memory, Navigation and theta rythm 
 
 Eudes des pathologie de la [[perception]], du mouvement, relations avec l'espace: besoin de nouveaux paradigmes expérimentaux. 
 
-- Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la [[mémoire]] spatiale, fonctions exécutives, changement de perspective, codage égo- ou allo-centré .
+- Tapis magique: dalles lumineuses tactiles permettant des tâches très variées de locomotion pour faire appel à la [[mémoire]] spatiale, [[fonctions exécutives]], changement de perspective, codage égo- ou allo-centré .
 
 - Tapis virtuel (Virtual Carpet par Mohamed Zaoui): étudier les pathologies de la [[mémoire]] visuo-spatiale locomotrices chez les sujets sains, avec déficit [[attention|attentionnel]] ([[TDAH]]) ou [[TSA]]. 
 - Miroir double : permet d'étudier les déficits d'attribution d'identité, à soi ou autrui lors d'un changement de perspective : difficultés des patients [[schizophrénie|schizophrène]], [[TSA]] ou [[anorexie|anorexiques]] à se détacher d'eux mêmes.

@@ -75,13 +75,13 @@
 
 ## L'autorégulation 
 
-- "C'est plus fort que moi", en justification d'un comportement allant à l'encontre de normes sociales largement partagées. 
+- "C'est plus fort que moi", en justification d'un comportement allant à l'encontre de [[normes sociales]] largement partagées. 
 - Fonction du soi = guider notre comportement de façon à nous confirmer à certains états valorisés, des standards
 
 - [[Autorégulation]] = ensemble de processus impliqué dans cette gestion du comportement, ainsi que les cognitions & émotions précédant ou accompagnant le comportement. 
 	- Particulièrement sollicitée aujourd'hui : société de consommations -> notifs/pubs H24.
 	- Utilité collective de l'autorégulation : évite les comportement nuisibles à autrui.
-	- Mais peut aussi être un vecteur de contrôle sociale lorsque certaines normes sociales arbitraires (1 seul.e partenaire sexuelle, se conformer à une image de minceur, utiliser un langage sans grossiertés) sont internalisées.
+	- Mais peut aussi être un vecteur de contrôle sociale lorsque certaines [[normes sociales]] arbitraires (1 seul.e partenaire sexuelle, se conformer à une image de minceur, utiliser un langage sans grossiertés) sont internalisées.
 		- Contribue en partie à la cohésion sociale. 
 	- Déficit d'autorégulation : souvent la cause des comportements criminels (Etude 2007)
 
@@ -157,7 +157,7 @@
 - Une des fonctions du soi : guider le comportement. 
 	- Nature des audiences / situations sociales : influence le type de comportement que l'on choisi d'adopter. 
 	- Snyder (1974) : Cette influence est susceptible de varier d'un individu à l'autre en fonction d'une dimension qu'il qualifie de "surveillance de soi". 
-		- Certaines personnes auraient tendance à se fonder principalement sur des indices externes, en particulier les normes sociales pour guider leur comportement : 'Haut.e.s surveillant.es de soi'
+		- Certaines personnes auraient tendance à se fonder principalement sur des indices externes, en particulier les [[normes sociales]] pour guider leur comportement : 'Haut.e.s surveillant.es de soi'
 			- Elles sont alors susceptible de se comportement différemment d'un contexte à l'autre en fonction des attentes qu'elles nourrissent par rapport à leur audience ou de la nature de celle-ci.
 		- D'autres individus, "bas.ses surveillant.es de soi", s'appuieraient essentiellement sur des indices internes, en particulier la nature de leurs croyances et attitudes.
 
@@ -202,7 +202,7 @@
 ### [[Conscience de soi]] & auto-objectification
 
  - Théorie de la conscience de soi (1972) : 
-	 - Contexte ou une référence est faite à soi (s'entendre dans un vocal, se voir dans une vidéo, entendre une conversation dont on est le sujet) = activation importante de la [[conscience de soi]] -> référencement aux normes sociales. 
+	 - Contexte ou une référence est faite à soi (s'entendre dans un vocal, se voir dans une vidéo, entendre une conversation dont on est le sujet) = activation importante de la [[conscience de soi]] -> référencement aux [[normes sociales]]. 
 		 - Etat désagréable.
 			 - Peut motiver certains individus à se rapprocher de leur idéal. 
 			 - Autre solution : revoir son idéal à la baisse.
@@ -241,9 +241,9 @@
 	- Dans certains cas, on se définit comme des individus distincts et le concept de soi correspond aux caractéristiques qui nous distinguent des autres qui nous entourent. 
 	- Dans d'autres cas, on se définira comme membre d'un groupe, on s'envisagera alors comme semblables aux autres personnes qui composent ce groupe, phénomène de [[dépersonnalisation]]. Le soi devient interchangeable avec celui des autres membres du groupe
 		- Les traits nous caractérisant alors ne sont plus ceux qui nous distinguent des membres de notre groupe, mais ceux qui distinguent l'endogroupe de l'exogroupe, l'individu "s'auto-stéréotypise." 
-			- Ce phénomène est accompagné d'un passage de l'identité personnelle à l'[[identité sociale]].
+			- Ce phénomène est accompagné d'un passage de l'[[identité personnelle]] à l'[[identité sociale]].
 				- Identité sociale = partie du soi comprenant notre appartenance à des groupes ainsi que la valeur et les émotions attachées à ces appartenance.
-					- Construite, comme l'identité personnelle,  en comparaison à des cibles de références.
+					- Construite, comme l'[[identité personnelle]],  en comparaison à des cibles de références.
 
 ### Mettre en scène son identité sociale 
 

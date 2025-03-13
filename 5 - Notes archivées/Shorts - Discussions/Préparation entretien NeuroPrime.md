@@ -35,7 +35,7 @@ Primates non humain.
 
 - <u>Lien entre OT & comportement territorial</u>: (Article de l'équipe 10.1016/j.tics.2021.06.005)
 	- OT influence les comportement [[social|sociaux]]:
-		- Emotions, attachement, distanciation, agression, affiliation 
+		- Emotions, [[attachement]], distanciation, agression, affiliation 
 			- Entraine des différences comportementales entre espèces:
 				- Campagnols monogames & territoriaux VS polygames et non-territoriaux 
 					- Patterns d'OT [[récepteurs|récepteur]] différents.

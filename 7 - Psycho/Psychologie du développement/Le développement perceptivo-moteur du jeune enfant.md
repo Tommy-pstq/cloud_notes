@@ -11,7 +11,7 @@
 		- Ouïe : 32 semaines
 		- Vue : naissance. 
 
-- Rétrécissement perceptif :
+- [[Rétrécissement perceptif]] :
 	- A partir de 6 mois, les capacités de discriminations perceptives diminuent en fonction de l'environnement dans lequel il évolue. 
 		- Ex: à partir de 10 mois, tous les singes macaques se ressemblent, alors que les visages humains sont perçus comment différents.
 

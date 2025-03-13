@@ -104,7 +104,7 @@ Emmanuel Sander, Hippolyte Gros, Katarina Gvozdic, Calliste Scheibling-Sève
 			- Les régions impliquées dans les fonctions les moins spécifiques, associés à des processus [[cognition|cognitifs]] de bas niveaux, telles que les zones sensori-motrices ([[perception]] et mouvement) sont les premières à arriver à maturation.
 			- Puis : orientation spatiale et langage
 			- Puis : régions préfrontales, associées au fonctionnement [[cognition|cognitif]] de haut niveau.
-				- Siège des fonctions exécutives
+				- Siège des [[fonctions exécutives]]
 					- [[coordination]], [[planification]], maintien de l'[[attention]].
 - Ce processus se poursuit <u>au minimum jusqu'à 21 ans</u>. 
 

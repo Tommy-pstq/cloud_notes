@@ -1,0 +1,4 @@
+---
+aliases:
+  - fonction exécutive
+---

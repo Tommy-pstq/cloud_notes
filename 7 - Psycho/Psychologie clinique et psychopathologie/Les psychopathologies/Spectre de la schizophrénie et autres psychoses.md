@@ -275,7 +275,7 @@ TTT
 DSM
 - **Stupeur** : absence d'activité psychomotrice, pas activement lié à l'environnement.
 - **Catalepsie** : maintien contre la gravité d'une position inconfortable imposée 
-- **Flexibilité** **cireuse** : résistance légère et constante à la mobilisation passive
+- **[[Flexibilité]]** **cireuse** : résistance légère et constante à la mobilisation passive
 - **Mutisme** : Absence ou quasi absence de réponse verbale
 - **Négativisme** : opposition ou absence de réponse à des instruction 
 - **Prise de posture** : maintien contre la gravité d'une posture prise spontanément 

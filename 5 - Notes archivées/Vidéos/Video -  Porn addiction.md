@@ -45,7 +45,7 @@ Dopamine:
 
 ### Amygdale & système limbique
 
-Emotions primitives, ex: [[anxiété]]/peur/tristesse.
+Emotions primitives, ex: [[anxiété]]/[[peur]]/tristesse.
 
 - Anxiété/[[stress]] + procréation potentielle ?
 	- moins de [[stress]]

@@ -4,5 +4,5 @@
 		- -> Difficulté à exprimer ses émotions ou dépendance.
 - **Insécure ambivalent résistant** : Très angoissé par la séparation et comportements ambivalents lors de la réunion (recherche et [[Evitement|évitement]] du contact)
 		- -> Incertitude quant à la disponibilité de la mère 
-- **Désorganisé** : Comportements confus ou contradictoires sans stratégie cohérente d'attachement 
-		- -> Souvent associé à des situations ou le partenaire d'attachement est à la fois source de réconfort et de peur. 
+- **Désorganisé** : Comportements confus ou contradictoires sans stratégie cohérente d'[[attachement]] 
+		- -> Souvent associé à des situations ou le partenaire d'attachement est à la fois source de réconfort et de [[peur]]. 

@@ -1,0 +1,4 @@
+---
+aliases:
+  - norme sociale
+---

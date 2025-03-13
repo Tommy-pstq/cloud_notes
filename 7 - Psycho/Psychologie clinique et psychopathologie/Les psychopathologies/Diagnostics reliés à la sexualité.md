@@ -93,7 +93,7 @@ TTT
 - Potentiellement lié à une activité particulière comme la sexualité orale, mais peu aussi être généralisé. 
 
 - Peur prendre la forme de:
-	- Peur / anxiété / dégout / [[phobie]] 
+	- Peur / anxiété / [[dégout]] / [[phobie]] 
 		- Pouvant être trigger par des situations sexuelles, la vue d'un pénis en érection, idées sexuelles reliées à un événement traumatisant 
 	- Cas les plus sévère, aversion : 
 		- Expérience dissociative : distanciation au cours de l'activité sexuelle en pensant à autre chose / coupant la perception des sensations sexuelles / utilisation de substances lors des activités. 
@@ -232,7 +232,7 @@ TTT
 - Abus sexuels 
 - Réaction de défense 
 - Anxiété 
-- Peur de la douleur 
+- [[Peur]] de la douleur 
 - Hypervigilance à la douleur 
 - Catastropher les relations sexuelles 
 

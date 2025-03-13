@@ -202,7 +202,7 @@ Réseau de fibres venant de tronc cérébral (medial forebrain bundle ([[MFB]]))
 **Signale** & **quantifie** la récompense, ainsi que sa **probabilité d'occurrence**, ainsi que sa **pertinence de mémorisation $^*$ ***.
 - $*$ Si une association stimulus-recompense est déjà bien connue : pas besoin de la renforcer d'avantage au niveau neural. 
 	- -> Il n'est pertinent d'envoyer des signaux de renforcement au [[cortex préfrontal]] uniquement lors de l'obtention d'une nouvelle récompense. 
-	- Le niveau de surprise lié à un récompense est à prendre en compte dans tout signal de renforcement. 
+	- Le niveau de [[surprise]] lié à un récompense est à prendre en compte dans tout signal de renforcement. 
 
 Les neurones dopaminergiques (mésencéphale - [[VTA]] ou [[substance noire]]) répondent spécifiquement selon un principe d'**erreur de prédiction de la récompense**:
 	- Réception de récompense inattendue: augmentation du taux de [[spike|décharge]]. 

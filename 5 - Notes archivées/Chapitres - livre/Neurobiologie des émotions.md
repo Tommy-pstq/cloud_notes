@@ -54,7 +54,7 @@ Cependant, une bonne partie de la [[conscience]] de l'[[empathie]] n'est pas enc
 Pascal : *"Le cœur a ses raisons que la [[raisonnement|raison]] ne connait pas"* 
 Souvent considéré que les émotions empêchent la [[prise de décision]] rationnelle. C'est faux (travaux récents: Loewenstein et al. 2001)
 Des *émotions anticipées(1)* et *émotions anticipatoires(2)* influent nos décisions et leur confère une rationalité. 
-- 2) Ex: Le risque entraine l'apparition de marqueurs somatique de la peur qui influent la [[prise de décision]].
+- 2) Ex: Le risque entraine l'apparition de marqueurs somatique de la [[peur]] qui influent la [[prise de décision]].
 - 1) Plaisirs ou joie anticipée à l'idée d'une activitée sur la [[prise de décision]].
 Pas uniquement théorique, des lésions au niveau du [[cortex préfrontal ventro-médian]] ([[cortex préfrontal ventro-médian|VMPFC]]) entraine l'incapacité de prise en comptes des marqueurs somatiques des émotions lors des prises de décisions. Entrainant de fait des comportements irrationnels. 
 Ex: patients avec lésion à cet endroit ne présentant aucune altération des capacité mentale (QI stable) mais prenait systématique des décisions menant à l'échec dans un jeu ou il était nécessaire de prendre en compte le risque (pioche de cartes à espérance négative mais gros gains potentiels contre espérance positive mais petits gains). Les patients étaient néanmoins capable d'expliquer quel paquet de carte était le plus bénéfiques lorsque cela leur était demandé. 

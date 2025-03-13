@@ -1,6 +1,6 @@
 - Objectifs:
 	- Concepts spécifiques liés à la cognition précoce, au contrôle exécutif et au langage oral
-	- Repères concernant ces aspects du dev cognitif de l'enfant
+	- Repères concernant ces aspects du dev [[cognition|cognitif]] de l'enfant
 	- Liens entre contrôle exécutif, langage oral et autres domaines de dev
 
 
@@ -10,43 +10,43 @@
 	- Ce qui est étrange // normal 
 	- Ce qui en mouvement // immobile
 
-- Le nourrisson (1 mois -> 1 an)  dispose de représentations précoces et complexes à propos de son environnement physique et social. 
+- Le nourrisson (1 mois -> 1 an)  dispose de représentations précoces et complexes à propos de son environnement physique et [[social]]. 
 	- Propriété de base des objets (unité, permanence)
-	- Relations spatiales & liens de causalité 
+	- Relations spatiales & liens de [[causalité]] 
 
 Système hiérarchique de représentations de Lécuyer, 2011:
 1. Représentation analogique: le fœtus -> apprend à mémoriser assez d'information sur un stimulus pour s'y habituer
-2. Représentation relationnelle: fin de la période fœtale -> Traitement des relations causales & corrélations par la forte répétitivité des stimulations et cooccurrences de séquences d'événements.
-3. Représentation transmodale ou perceptive (dès la naissance) ->passage de la sensation à la perception organisée du réel 
-4. Représentation perceptive/objectale (2-3 mois) -> Variation d'une représentation d'un stimulus autour de ses propriétés identifiées. permet la catégorisation, compréhension des objets et leur permanence, connaissance sur ce qui partiellement présent ou absent. 
+2. Représentation relationnelle: fin de la période fœtale -> Traitement des relations [[causalité|causales]] & corrélations par la forte répétitivité des stimulations et cooccurrences de séquences d'événements.
+3. Représentation transmodale ou [[perception|perceptive]] (dès la naissance) ->passage de la sensation à la perception organisée du réel 
+4. Représentation [[perception|perceptive]]/objectale (2-3 mois) -> Variation d'une représentation d'un stimulus autour de ses propriétés identifiées. permet la catégorisation, compréhension des objets et leur permanence, connaissance sur ce qui partiellement présent ou absent. 
 
 ### Développement du contrôle exécutif 
 
 - Contrôle exécutif
-	- Régulation et [[coordination]] des pensées et actions en vue d'atteindre un but précis. 
-	- Nécessaire pour l'attention et la concentration
-	- Emergence vers 12 mois 
+	- [[Régulation]] et [[coordination]] des pensées et actions en vue d'atteindre un but précis. 
+	- Nécessaire pour l'[[attention]] et la concentration
+	- <u>Emergence</u> vers 12 mois 
 	- Rapide développement préscolaire 3 - 6 ans 
-		- Inhibition, MdT et flexibilité 
+		- Inhibition, MdT et [[flexibilité]] 
 	- Période scolaire 7 - 12 ans 
 		- Gros progrès exécutifs surtout vers 7-8 ans
 			- Capacité croissante à identifier et maintenir des buts
 			- Utilisation fréquente des stratégies verbales 
-		- Apparition d'un mécanisme de rafraîchissement attentionnel des traces mnésiques  
+		- Apparition d'un mécanisme de rafraîchissement [[attention|attentionnel]] des traces mnésiques  
 	- Perfectionnement linéaire jusqu'à 25 ans 
-- Fonctions exécutives
+- [[Fonctions exécutives]]
 	- Mesures:
 		- Hétéro & auto évaluations.
 	- Prédictives de la réussite scolaire 
 	- Composantes:
-		- **Inhibition**
-			- attentionnel (des stimuli)
-			- cognitive  (des pensées)
+		- **[[inhibition]]**
+			- [[attention|attentionnel]] (des [[stimulus|stimuli]])
+			- [[cognition|cognitive]]  (des pensées)
 			- comportementale (des conduites )
-		- **Flexibilité cognitive**
+		- **[[Flexibilité]] [[cognition|cognitive]]**
 			- Gestion des buts (identification / maintiens)
 			- Bascule 
-		- **Maintiens & update mémoire de travail**
+		- **Maintiens & update [[mémoire de travail]]**
 			- Verbale
 			- Visuo-spatiale 
 
@@ -56,9 +56,9 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 			- <u>Progrès de la période scolaire & préscolaire</u> :
 				- **Traitement des indices de l'environnement signalant un but** (Ex: froncement de sourcil + regard noir d'un enseignant vers des élèves bavardant)
 				- **Priorisation des informations à traiter lors de la tâche**: avant 7 ans -> orientation de l'attention vers le stimulus à traiter et après, vers les indices de but
-				- **Maintien du but grâce à l'augmentation de la mémoire de travail** :
+				- **Maintien du but grâce à l'augmentation de la [[mémoire de travail]]** :
 					- Avant 6 ans : négligence du but, entrainant des conduites de persévération. 
-					- Vers 7 - 8 ans : utilisation plus fréquente de stratégies verbales (autorépétition) + mécanismes de rafraîchissement attentionnel des tâches mnésiques 
+					- Vers 7 - 8 ans : utilisation plus fréquente de stratégies verbales (autorépétition) + mécanismes de rafraîchissement [[attention|attentionnel]] des tâches mnésiques 
 
 - Développement métacognitif :
 	- Tout au long de la période scolaire & jusqu'à l'adolescence, ce développement contribue à:
@@ -71,21 +71,21 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 
 ### Liens entre développement du contrôle exécutif et autres fonctions cognitives
 
-- Contrôle exécutif : impliqué dans l'émergence de la théorie de l'esprit. 
+- Contrôle exécutif : impliqué dans l'émergence de la [[théorie de l'esprit]]. 
 	- Capacité exécutives vers 3-4 ans prédisent les performances dans les tâches de fausses croyances 1 an plus tard. 
 
-- Mentionnés mais non développés, des liens entre contrôle cognitif et :
+- Mentionnés mais non développés, des liens entre contrôle [[cognition|cognitif]] et :
 	- Langage oral & écrit
-	- mémoire épisodique 
+	- [[mémoire épisodique]] 
 	- créativité 
-	- apprentissage scolaire dont l'écriture 
+	- [[apprentissage]] scolaire dont l'écriture 
 	- lecture 
 	- mathématiques
 
 ### Etapes principales d'acquisition du langage 
 
 - Phase préverbale : 0 -> 11 mois. 
-	- 4-6 mois : sélectivité pour la prosodie de la langue maternelle (sélectivité perceptive)
+	- 4-6 mois : sélectivité pour la prosodie de la langue maternelle (sélectivité [[perception|perceptive]])
 	- 9-10 mois : 20 - 30 mots connus
 - Phase verbale : à partir de ~~ 12 mois. 
 	- 18-20 mois : explosion du vocabulaire 1-10 nvx mots par jours
@@ -98,5 +98,5 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 
 - Conscience phonologique = capacité à isoler et manipuler de manière délibérer les sons de parole.
 
-- Difficultés rencontrés par les enfants lors de l'apprentissage de la lecture lors des premières années d'école élémentaire : liées à leur connaissances sur le langage oral.
-	- Dyslexie : souvent lié à un déficit de conscience phonologique. 
+- Difficultés rencontrés par les enfants lors de l'[[apprentissage]] de la lecture lors des premières années d'école élémentaire : liées à leur connaissances sur le langage oral.
+	- Dyslexie : souvent lié à un déficit de [[conscience phonologique]]. 

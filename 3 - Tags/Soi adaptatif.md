@@ -1,0 +1,2 @@
+- Valeur de soi : compétence/valeur personnelle 
+- Activité du soi : stratégies d'[[adaptation]]/autonomie/style de vie 

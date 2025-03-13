@@ -29,7 +29,7 @@ TTT
 	- Si symptômes : minimes ou vagues. 
 - Crainte de maladie grave -> entraine des consultations de professionnels de santé. 
 - Vérifications constantes de signes de maladies potentiels (pouls/battement cardiaque), préoccupation par la moindre petite toux / manifestation mineure arrivant à toutes et tous. 
-- Certains évitent de se rendre chez le médecin ou à l'hôpital de peur d'apprendre une mauvaise nouvelle. 
+- Certains évitent de se rendre chez le médecin ou à l'hôpital de [[peur]] d'apprendre une mauvaise nouvelle. 
 
 DSM 
 1. Préoccupations de développer éventuellement des maladies. 

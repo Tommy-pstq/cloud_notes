@@ -10,7 +10,7 @@
 		- Les phénomènes de la nature ne peuvent être appréhendés en dehors de leur conditions environnantes en changement perpétuel. (conceptions & interprétation matérialiste et dialectique)
 			- Leurs [[évolution|évolutions]] sont issues d'actions réciproques & opposées.
 		- -> Le développement de la [[personnalité]] individuelle:
-			- Ne peut être appréhender en dehors du milieu social
+			- Ne peut être appréhender en dehors du [[milieu social]]
 			- Est discontinu & graduel
 
 ### Méthodes Employées 
@@ -76,7 +76,7 @@
 - **Crises & Conflits** (terme de "conflit" emprunté à [[Freud]] et "crise" à [[concepts marxistes|Marx]], les crises résultants des contradictions internes du système)
 	- Opposition entre un ancien stade & un nouveau, de nouvelles formes de penser se heurtent aux anciennes.
 		- Ex: conflit entre affectivité et intelligence 
-	- Interactions entre deux forces, deux orientations opposées. Interne (maturation nerveuse) vs Externe (milieu social & physique)
+	- Interactions entre deux forces, deux orientations opposées. Interne (maturation nerveuse) vs Externe ([[milieu social]] & physique)
 	- Deux grandes crises surviennent au cours du devmt:
 		- Crise des 3 ans (stade du personnalisme)
 		- Crise de la puberté 

@@ -7,7 +7,7 @@
 
 ### Phobie spécifique
 
-- Peur/crainte/anxiété très forte et irrationnelle d'un élément (situation, objet, animal).
+- [[Peur]]/crainte/anxiété très forte et irrationnelle d'un élément (situation, objet, animal).
 	- Entraine un [[Evitement|évitement]] ou la vie avec une peur ou anxiété intense. 
 
 DSM
@@ -59,11 +59,11 @@ TTT
 
 - Pathologie si, DSM:
 1. Au mois 3 parmi:
-- Détresse excessive lors de l'éloignement, de la séparation de la maison, des figures d'attachement ou d'anticipation de telles situations 
+- Détresse excessive lors de l'éloignement, de la séparation de la maison, des figures d'[[attachement]] ou d'anticipation de telles situations 
 - Préoccupation d'une éventuelle disparition des figures d'attachement (accident/maladie/catastrophe/mort)
 - Soucis excessifs concernant le fait de vivre un événement pouvant entrainer un éloignement/séparation
 - Ne pas sortir ou être réticent à l'idée de le faire par peur de s'éloigner de la maison en raison de cette peur de la séparation
-- Crainte/réticence excessive à rester seul.e sans figure d'attachement. 
+- Crainte/réticence excessive à rester seul.e sans figure d'[[attachement]]. 
 - Réticence à dormir ailleurs ou d'aller dormir sans être proche d'une figure d'attachement 
 - Cauchemars fréquents centrés sur la séparation
 - Plaintes somatiques lors d'éloignement de la figure d'attachement ou crain de l'éloignement. 
@@ -441,7 +441,7 @@ TTT
 - [[thérapie comportementale|Approche comportementale]].
 	- Identifier les circonstances dans lesquelles il a tendance à s'arracher les cheux. 
 		- Mise en place d'un comportement [[antagonisme|antagoniste]] à l'arrachage quand un trigger se présente (ex: baisser les mains le long des hanches et serrer le point fortement)
-			- Possible d'impliquer l'environnement social pour encourager les comportement [[antagonisme|antagonistes]].
+			- Possible d'impliquer l'[[milieu social|environnement social]] pour encourager les comportement [[antagonisme|antagonistes]].
 
 ### Dermatillomanie 
 -> Triturage pathologique de la peau 

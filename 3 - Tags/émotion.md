@@ -8,9 +8,9 @@ aliases:
 ---
 7 émotions basiques universelles:
 - [[Colère]]
-- Peur
-- Dégout
-- Surprise
+- [[Peur]]
+- [[Dégout]]
+- [[Surprise]]
 - Joie 
 - Tristesse
 - [[Mépris]]

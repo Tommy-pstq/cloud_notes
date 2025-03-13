@@ -48,7 +48,7 @@
 - <u>Sourire social</u> : à partir de 6 - 8 semaines. sourires endogènes dès les premiers jours. 
 
 -  <u>Cas particulier de la peur</u>
-	- 6-8 mois : formes élémentaires de peur
+	- 6-8 mois : formes élémentaires de [[peur]]
 	- 9-12 mois : Peur de l'étranger intense 
 	- 15-18 mois : Peur de la séparation
 --- 
@@ -67,7 +67,7 @@
 - <u>Enfant d'âge scolaire</u> (5/6 -> 10-11 ans)
 	- <u>Expression</u>
 		- Verbale des émotions secondaires plus développée (fierté/honte)
-		- Apprentissage des normes sociales d'expression des émotions 
+		- Apprentissage des [[normes sociales]] d'expression des émotions 
 		- Plus grande habileté à dissimuler ou masquer les réactions émotionnelles négatives. 
 	- <u>Compréhension</u> 
 		- Entre 5 -> 8 ans : <u>Compréhension des dimensions internes des émotions</u>
@@ -118,8 +118,7 @@
 - Déclin temporaire des capacité de régulation émotionnelle durant l'adolescence ? 
 	- Utilisation de stratégies maladaptatives plus fréquente.
 - -> Explication possible de la non linéarité : développement neurobiologique non homogène entre les différentes zones cérébrales. 
-	- -> Forte activation émotionnelle sans que le zones chargées de leur régulation soit encore capable de les gérer efficacement. 
-
+	- -> **Forte activation émotionnelle sans que le zones chargées de leur régulation soit encore capable de les gérer efficacement.** 
 
 - Pas de crise d'adolescence nécessaire. 
 	- Mais une période d'instabilité émotionnelle possible.
@@ -134,11 +133,11 @@
 	- Observation par les enfants de la régulation émotionnelle chez leurs parents. 
 		- [[Imitation]]
 		- Si des stratégies efficaces sont observées, plus probable qu'elles soient imitées 
-		- Rejoint la théorie de l'apprentissage sociale 
+		- Rejoint la théorie de l'[[apprentissage social]]
 	- Pratique parentale liées aux émotions 
 		- Comment les parents accompagnent les enfants dans la gestion de leur émotions 
-			- Direct chez l'enfant : conseil d'application d'une stratégie 
-			- Indirect chez l'adolescent : discutions sur les diff stratégies possible
+			- **Direct** chez l'enfant : conseil d'application d'une stratégie 
+			- **Indirect** chez l'adolescent : discutions sur les diff stratégies possible
 		- Comment les parents réagissent aux émotions de l'enfant 
 			- Invalidant  / Banalisant ?
 			- En discutant/conseillant.
@@ -147,7 +146,7 @@
 
 #### Lien d'attachement : base de sécurité fondamentale pour le dev socio-émotionnel 
 
-- Attachement apporte un sentiment de sécurité & protection.
+- [[Attachement]] apporte un sentiment de sécurité & protection.
 - Considéré comme un besoin inné & fondamental. 
 
 - [[Styles d'attachements]] (via paradigme de la situation étrange (mère/bébé/étrangère dans une pièce avec entrées/sorties))

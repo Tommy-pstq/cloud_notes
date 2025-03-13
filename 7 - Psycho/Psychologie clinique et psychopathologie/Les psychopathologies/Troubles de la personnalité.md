@@ -113,7 +113,7 @@ TTT
 
 ### Personnalité antisociale 
 
-- Ne veulent pas se soumettre à des règles / normes sociales faisant pourtant consensus 
+- Ne veulent pas se soumettre à des règles / [[normes sociales]] faisant pourtant consensus 
 - Commettent des actes considérés comme inacceptables (Voler, voler des proches, s'attaquer à des personnes qui peuvent être des proches.)
 - Parfois:
 	- Manipulateurs/fourbes 
@@ -138,7 +138,7 @@ TTT
 
 DSM
 1. A partir de 15 ans: l'individu ne reconnaît pas et ne respecte pas les droits des autres. Au moins 3 manifestations:
-	- Non conformité aux normes sociales, émissions de comportements pouvant conduire à des arrestations 
+	- Non conformité aux [[normes sociales]], émissions de comportements pouvant conduire à des arrestations 
 	- Tromperies pour son profit personnel, mensonges répétés, utilisation de pseudonymes, escroqueries.
 	- Impulsivité & absence de planification
 	- Irritabilité, agressivité, participation à des bagarres et/ou agressions 
@@ -167,7 +167,7 @@ TTT
 	- Faible image de soi
 	- Impression de vide intérieur 
 	- Emotions non contrôlées
-	- Grande peur de l'abandon
+	- Grande [[peur]] de l'abandon
 	- Automutilation / gestes suicidaires. 
 - Finissent souvent dans des urgences psychiatriques. 
 
@@ -176,7 +176,7 @@ TTT
 - Combinaison de facteurs probablement :
 	- Réactivité émotionnelle importante à la base.
 	- Vulnérabilité psychologique généralisée / lors d'événements spécifiques reliés à des traumas précoces -> les événements sont souvent perçus comme des menaces.
-		- La manière de réagir, depuis tôt dans la vie, est mal perçue par l'environnement social : réagit mal ou invalide ces personnes -> aggravation du problème.
+		- La manière de réagir, depuis tôt dans la vie, est mal perçue par l'[[milieu social|environnement social]] : réagit mal ou invalide ces personnes -> aggravation du problème.
 	- -> Réaction explosives, contres les autres mais aussi contre elles-mêmes par des gestes automutilateurs ou suicidaires.
 
 DSM

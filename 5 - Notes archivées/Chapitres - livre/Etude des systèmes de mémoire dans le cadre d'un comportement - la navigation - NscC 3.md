@@ -24,7 +24,7 @@ Tags:
 	- [[flexibilité]]
 	- [[consolidation]]
 	
-**[[contrôle inhibiteur|Contrôle inhibiteur]]** : constitué de l'[[attention]] et de l'[[inhibition]], fait partie avec la [[flexibilité]] des 3 fonctions exécutives (*le nombre varie suivant les modèles si je me souviens bien, on en énumère bien plus dans un des chapitres suivants)*.
+**[[contrôle inhibiteur|Contrôle inhibiteur]]** : constitué de l'[[attention]] et de l'[[inhibition]], fait partie avec la [[flexibilité]] des 3 [[fonctions exécutives]] (*le nombre varie suivant les modèles si je me souviens bien, on en énumère bien plus dans un des chapitres suivants)*.
 
 [[contrôle inhibiteur]] + [[flexibilité]]
 	-> [[prise de décision]]
@@ -78,7 +78,7 @@ Navigation = [[fonctions cognitives|fonction cognitive]] complexe faisant appel 
 	- [[Attention]]
 	- Traitement multi-[[sensorialité|sensoriel]]
 	- Engagement actif
-	- Flexibilité
+	- [[Flexibilité]]
 	- [[inhibition]]
 	- [[contrôle moteur]]
 	- [[Apprentissage]] & mémoires 

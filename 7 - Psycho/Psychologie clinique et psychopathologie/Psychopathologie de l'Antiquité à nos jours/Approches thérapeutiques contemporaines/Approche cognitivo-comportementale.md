@@ -27,7 +27,7 @@
 	- Reprise des concepts d'[[apprentissage social|apprentissage par imitation]] fortement présents dans l'enfance.
 		- Des comportements psychopathologiques pourraient être appris par ces mêmes mécanismes.
 		- Peuvent être utiliser pour diminuer l'anxiété :
-			- Observer quelqu'un jouer sans la moindre peur avec un gros chien peut diminuer l'anxiété chez un.e phobique ([[apprentissage social]])
+			- Observer quelqu'un jouer sans la moindre [[peur]] avec un gros chien peut diminuer l'anxiété chez un.e phobique ([[apprentissage social]])
 			- 
 
 #### Deuxième vague : les approches cognitivo- comportementales. 
