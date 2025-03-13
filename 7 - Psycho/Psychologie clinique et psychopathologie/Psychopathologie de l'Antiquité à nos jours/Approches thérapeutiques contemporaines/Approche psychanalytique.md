@@ -33,7 +33,7 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 		3. **[[Transfert]]**  : déplacer des [[Sentiments]] ou des réaction d'une personne à une autre.
 		4. **[[Projection]]** : attribuer à autrui ses propres [[Sentiments]] 
 		5. **[[Rationalisation]]** : dissimuler ses propres [[Sentiments]] / pensées derrière une explication rationnelle
-		6. **[[Sublimation]]** : orienter des pulsions inacceptables vers des comportement socialement acceptable (sport de combat plutôt que d'exprimer colère ou agressivité)
+		6. **[[Sublimation]]** : orienter des pulsions inacceptables vers des comportement socialement acceptable (sport de combat plutôt que d'exprimer [[colère]] ou agressivité)
 		7. **[[Formation réactionnelle]]** : changer des [[Sentiments]]/comportements/pensées inacceptables par des réactions diamétralement opposées.
 #### Traitement psychanalytique
 

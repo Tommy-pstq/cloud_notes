@@ -32,7 +32,7 @@ DSM
 	- Ne se confie pas pour ne pas que ses confidences se retournent contre elle 
 	- Donne souvent un sens humiliant à des événements sans importance
 	- Reste rancunier de manière prolongé
-	- Perçoit sans raison des attaques contre elle et contre attaque ou se met en colère 
+	- Perçoit sans raison des attaques contre elle et contre attaque ou se met en [[colère]] 
 	- A des doutes sur la fidélité de son/sa partenaire. 
 2. Problème pas relié à d'autres problèmes grave de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec [[symptômes psychotiques]]) ou à une autre affection médicale. 
 

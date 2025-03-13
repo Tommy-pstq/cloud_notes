@@ -54,7 +54,7 @@
 			- compétences verbales 
 			- l'autonomie
 			- habiletés sociales 
-			- gestion du comportement (inappropriés, destructeurs, automutilatoires, agressivité, colère)
+			- gestion du comportement (inappropriés, destructeurs, automutilatoires, agressivité, [[colère]])
 
 ## Trouble spécifique des apprentissage 
 

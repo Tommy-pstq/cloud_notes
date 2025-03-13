@@ -68,10 +68,10 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 	- Surprise
 	- Joie 
 	- Tristesse
-	- Mépris
+	- [[Mépris]]
 
 - <u>Traitement des émotions</u>:
-	- Principalement sur les visages exprimant de la peur (mais aussi colère, dégout, tristesse, surprise dans une moindre mesure)
+	- Principalement sur les visages exprimant de la peur (mais aussi [[colère]], dégout, tristesse, surprise dans une moindre mesure)
 		- 100 ms après l'apparition d'un visage
 		- [[amygdale]] et régions fronto-centrales 
 	- **N170** : très impactée par les émotions négatives

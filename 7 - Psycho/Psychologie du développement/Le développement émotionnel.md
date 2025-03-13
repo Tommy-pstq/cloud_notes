@@ -87,7 +87,7 @@
 
 - <u>Régulation de la colère chez l'enfant</u>
 	- 2-3 ans : Réactions explosives envers tout ce qui s'oppose à la satisfaction d'un désir immédiat ou ce qui impose une limite (crier/frapper/jeter)
-	- 3-4 ans  : Jeu relationnel -> l'enfant se met en colère en poursuivant un but précis. 
+	- 3-4 ans  : Jeu relationnel -> l'enfant se met en [[colère]] en poursuivant un but précis. 
 	- 4-5 ans : Meilleure compréhension des déclencheurs des colères et des régulations +/6 valorisées socialement.
 	- 5-6 ans: Meilleure capacité à verbaliser ses émotions & mobiliser des stratégies comportementales (Se retirer d'une situation frustrante pour se calmer / rechercher le soutien d'un adulte)
 --- 

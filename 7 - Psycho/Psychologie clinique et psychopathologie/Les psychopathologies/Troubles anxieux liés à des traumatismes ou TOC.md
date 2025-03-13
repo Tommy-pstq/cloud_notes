@@ -196,7 +196,7 @@ TTT
 
 - Variation de l'état d'éveil / réactivité 
 	- Irritabilité
-	- Accès de colère / Agressivité 
+	- Accès de [[colère]] / Agressivité 
 	- Comportements irréfléchis / autodestructeurs 
 	- hypovigilance 
 - Trouble de la concentration

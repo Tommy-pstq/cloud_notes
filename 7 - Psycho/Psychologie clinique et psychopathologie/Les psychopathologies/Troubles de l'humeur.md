@@ -69,7 +69,7 @@ TTT
 
 ### Trouble disruptif avec [[dysrégulation émotionnelle]]
 
-- Adolescents & enfant de puis de 6 ans : irritabilité, crise de colère fréquente.
+- Adolescents & enfant de puis de 6 ans : irritabilité, crise de [[colère]] fréquente.
 
 DSM
 1. Enfant ou adolescent présente des colères ou comportements agressifs fréquents, envers des personnes ou des objets, hors de proportion par rapport à la situation. 

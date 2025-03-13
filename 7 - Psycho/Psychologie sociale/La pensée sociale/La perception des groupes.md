@@ -84,7 +84,7 @@
 - [[Stéréotypes descriptifs]] VS [[Stéréotypes prescriptifs]]
 	- <u>Descriptif</u> : Ce que les membres du groupe font ou ne font pas. N'entraine pas de réaction conséquente si contredits (surprise); *ex: une femme n'aimant pas la mode*.
 		- Simplification de l'information et fluidité des interactions 
-	- <u>Prescriptif</u> : Ce que les membres du groupes sont censés faire ou non. Leur contradiction entraine une réaction importante (colère & désapprobation). *Ex: une femme déclarant n'avoir aucun attachement aux enfants.* 
+	- <u>Prescriptif</u> : Ce que les membres du groupes sont censés faire ou non. Leur contradiction entraine une réaction importante ([[colère]] & désapprobation). *Ex: une femme déclarant n'avoir aucun attachement aux enfants.* 
 		- Rôle de justification et rationnalise une hiérarchie sociale. 
 
 ### L'origine des stéréotypes

@@ -128,7 +128,7 @@ DSM
 DSM 
 1. Usage récent 
 2. Changement comportementaux / psychologiques significatifs sur le plan clinique:
-	- Euphorie / sociabilité / colère / altération du jugement 
+	- Euphorie / sociabilité / [[colère]] / altération du jugement 
 3. Manifestation $\geq$ 2:
 	1. Tachycardie / bradycardie
 	2. Pupille dilatée 
