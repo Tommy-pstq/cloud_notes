@@ -24,7 +24,7 @@ Système hiérarchique de représentations de Lécuyer, 2011:
 
 - Contrôle exécutif
 	- [[Régulation]] et [[coordination]] des pensées et actions en vue d'atteindre un but précis. 
-	- Nécessaire pour l'[[attention]] et la concentration
+	- Nécessaire pour l'[[attention]] et la [[attention|concentration]]
 	- <u>Emergence</u> vers 12 mois 
 	- Rapide développement préscolaire 3 - 6 ans 
 		- Inhibition, MdT et [[flexibilité]] 

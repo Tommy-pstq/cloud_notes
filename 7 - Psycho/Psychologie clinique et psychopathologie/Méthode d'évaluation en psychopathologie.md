@@ -51,7 +51,7 @@
 		- Ex : Colonne de Beck. 
 
 - <u>Jeu de rôle</u>
-	- Evaluation des compétences/habiletés sociales 
+	- Evaluation des compétences/[[habiletés sociales]] 
 - <u>Mesures psychophysiologiques </u>
 	- Rythme cardiaque
 	- Tension musculaire 

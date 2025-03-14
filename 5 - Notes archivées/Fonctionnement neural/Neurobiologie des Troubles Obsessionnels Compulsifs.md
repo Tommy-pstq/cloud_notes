@@ -17,7 +17,7 @@ Décennies de recherche : le complexe [[CSTC|cortico-striato-thalamo-cortical]] 
 
 - 25 ans d'imagerie: patterns d'activités anormaux dans la boucle CSTC. 
 - Même temps: Fonctions des [[ganglions de la base]] : boucles fermées dédiées à des fonctions motrices ou [[cognition|cognitives]] discrètes (maths).  Apparition du modèle dichotomique de projections directes/indirectes des [[ganglions de la base]]. 
-	- --> Hypothèse :  Une hyperactivité des boucles [[cortex orbito-frontal| orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'activation excessive  du chemin direct, entraine des TOC.
+	- --> Hypothèse :  Une hyperactivité des boucles [[cortex orbito-frontal| orbitofrontal]]-subcortical générée par un déséquilibre du modèle ci-dessus, nommément: l'activation [[Disproportion|excessive]]  du chemin direct, entraine des TOC.
 		* Article : affirme que c'est une simplification abusive des phénomène neurobiologique mais qui permet de mettre en place un cadre d'étude théorique. 
 	* Léger "soucis" : pas d'avancée ou argument réfutant cette théorie au cours des 20 dernières années, certainement dû à des considération éthique concernant les procédures invasives sur des patient humain.
 ### Elements récents des modèles génétique chez la souris

@@ -300,7 +300,7 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 	- Saturation de l'emploi du temps pour ajouter du sport
 		- Souvent au détriment du sommeil
 			- Surentrainement encore plus dangereux 
-	- Absence bradycardie au matin. 
+	- Absence [[Symptômes cardiaques|bradycardie]] au matin. 
 		- Diminution fréquence cardiaque pendant la nuit 
 		- Si pas le cas: pb récup.
 

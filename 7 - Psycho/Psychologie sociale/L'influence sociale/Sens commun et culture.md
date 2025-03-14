@@ -86,7 +86,7 @@ Moscivici, 3 modes de communication médiatiques:
 	- L'éducation
 	- L'environnement visuel
 	- La division du travail historique 
-	- Rural -> Urbain => augmentation de l'indépendance du soi
+	- Rural -> Urbain => augmentation de l'[[autonomie|indépendance]] du soi
 ### Souplesse/rigidité des [[normes sociales]] 
 
 

@@ -1,10 +1,10 @@
 ## TDAH 
 
 - 2 types de symptômes:
-	- Déficit d'attention
-	- Déficit d'inhibition (i.e hyperactivité)
+	- Déficit d'[[attention]]
+	- Déficit d'[[inhibition]] (i.e hyperactivité)
 - Apparaissant souvent vers 3-4 ans 
-- Difficultés sociale potentielles. 
+- Difficultés [[social|sociale]] potentielles. 
 	- -> [[Estime de soi]] basse dès l'enfance
 	- Plus de chances de présenter un trouble de la personnalité antisociale 
 - Difficultés scolaires
@@ -13,27 +13,27 @@
 ## TSA 
 
 - Apparition durant l'enfance 
-	- Déficiences dans l'interaction sociale 
+	- Déficiences dans l'interaction [[social|sociale]] 
 		- Préférence pour des jeux solitaires, même en présence d'autrui
-	- Déficiences dans la communication
+	- Déficiences dans la [[communication]]
 		- Peu de parole / monologue sans interaction avec l'autre
 		- Déficit de réciprocité 
 	- Activités/Comportements/Intérêts restreints 
 
 - Diag si TOUS (depuis le DSM V- TR 2022) les éléments de la <u>composante sociale</u> sont présents :
-	- Difficultés au niveau de la réciprocité sociale ou émotionnelle 
-		- Difficultés dans les approches sociales, conversations à sens unique, difficultés à partager ses émotions, incapacité d'entreprendre / réagir à des interactions sociales 
+	- Difficultés au niveau de la réciprocité [[social|sociale]] ou [[émotion|émotionnelle]] 
+		- Difficultés dans les approches [[social|sociales]], conversations à sens unique, difficultés à partager ses [[émotion|émotions]], incapacité d'entreprendre / réagir à des interactions [[social|sociales]] 
 	- Déficits dans la communication non verbale 
 		- non-concordance entre expression verbale et non verbale ou langage corporel,  déficit du contact visuel, difficultés à comprendre et à utiliser des gestes, à la limite : absence d'expression non verbale / de visage / de geste
 	- Difficultés relationnelles en terme de d'établissement, de maintiens et de compréhension. 
-		- Comportements on adaptés à des contextes sociaux variés, jusqu'à l'incapacité d'établir des relations et l'absence d'intérêt pour établir des relations
+		- Comportements on adaptés à des contextes [[social|sociaux]] variés, jusqu'à l'incapacité d'établir des relations et l'absence d'intérêt pour établir des relations
 - <u>Aspect limites et répétitifs des activités</u>
 	- Aspects répétitifs et stéréotypés de comportements/mouvements/utilisation des objets/expression verbale
 	- Routines inflexibles et difficultés à tolérer des changement.
 	- Intérêts très limités dans leur fréquence et leur intensité.
 - <u>Réactions sensorielles altérées</u>:
-	- Hypo/Hyper sensibilité à certains stimuli 
-	- Intérêt pour certaines caractéristiques sensorielles de l'environnement 
+	- Hypo/Hyper sensibilité à certains [[stimulus|stimuli]] 
+	- Intérêt pour certaines caractéristiques [[sensorialité|sensorielles]] de l'environnement 
 - <u>Impact significatif sur la qualité de vie (social/professionnel)</u>
 - <u>N'est pas mieux expliqué par un retard de développement ou trouble du dev intellectuel</u>, auquel il peut être associé
 
@@ -42,18 +42,18 @@
 		- Approche intensive particulièrement efficace si l'enfant est pris en charge après un diag précoce et si l'environnement parental participe à ce traitement intensif plusieurs heures par semaines (idéalement : 40 heures).
 			- Renforcement des comportements appropriés 
 				- Au besoin : méthode de renforcement "de façonnement" pour établir des comportements inexistants comme le langage.
-		- Peut permette une indifférenciation entre enfant TSA et typique à l'entrée à l'école. Mais très demandant, toutes les conditions requises ne sont pas toujours disponibles. 
+		- Peut permette une indifférenciation entre enfant [[TSA]] et typique à l'entrée à l'école. Mais très demandant, toutes les conditions requises ne sont pas toujours disponibles. 
 	- <u>Méthode TEACH</u> (Treatment and Education of Autistic and related Communication handicaped CHildren):
-		- Utilisée tout au long de la vie : promouvoir des stratégies pour soutenir l'individu durant toute sa vie, favoriser l'autonomie sur tous les niveaux de fonctionnement. 
+		- Utilisée tout au long de la vie : promouvoir des stratégies pour soutenir l'individu durant toute sa vie, favoriser l'[[autonomie]] sur tous les niveaux de fonctionnement. 
 			- Organiser, structurer et modifier l'environnement et les activités pour s'adapter aux besoin individuels. 
 				- Repères visuels en place partout.
 				- Pictogrammes de communication : activités / comportements.
 		- Objectifs = Favoriser:
 			- la [[coordination]] visuomotrice
-			- Le fonctionnement cognitif 
+			- Le fonctionnement [[cognition|cognitif]] 
 			- compétences verbales 
-			- l'autonomie
-			- habiletés sociales 
+			- l'[[autonomie]]
+			- [[habiletés sociales]] 
 			- gestion du comportement (inappropriés, destructeurs, automutilatoires, agressivité, [[colère]])
 
 ## Trouble spécifique des apprentissage 
@@ -69,11 +69,11 @@
 			- Chiffre
 			- Sens des nombres
 			- Calculs élémentaires 
-		- Inaptitude au raisonnement mathématique 
+		- Inaptitude au [[raisonnement]] mathématique 
 			- Ne parvient pas à résoudre des problèmes avec des notions mathématiques 
 	2. Compétences académiques nettement inférieures par rapport à l'âge chronologique de la personne. 
 	3. Troubles d'apprentissage débutant pendant la scolarisation
-	4. Non attribuable à une déficience intellectuelle, à des problèmes d'audition, de vision, neurologique, non maitrise de la langue, autre psychopathologie 
+	4. Non attribuable à une déficience intellectuelle, à des problèmes d'[[Perception auditive|audition]], de vision, neurologique, non maitrise de la langue, autre psychopathologie 
 
 ## Trouble de la communication 
 
@@ -81,7 +81,7 @@
 
 
 - Disparait souvent avant l'âge adulte
-	- Dans le cas d'un trouble perdurant : source d'anxiété sociale. 
+	- Dans le cas d'un trouble perdurant : source d'[[anxiété sociale]]. 
 
 DSM-5
 1. Au moins UNE des manifestations suivantes:
@@ -92,22 +92,22 @@ DSM-5
 	- Mots difficiles remplacés 
 	- Augmentation excessive de la tension physique (notamment musculaire) lorsque certains mots doivent être prononcés 
 	- Répétitions des mots monosyllabique
-2. Le problème provoque une anxiété reliée à la prise de parole ou réduit l'efficience de la communication. Affecte la réussite scolaire/professionnelle 
+2. Le problème provoque une [[anxiété]] reliée à la prise de parole ou réduit l'efficience de la [[communication]]. Affecte la réussite scolaire/professionnelle 
 3. Apparition précoce dans le développement. 
 
--> Interventions orthophoniques / stratégies d'apprentissage en [[thérapie comportementale|approche comportementale]], l'objectif est de rétablir la fluidité du langage. 
+-> Interventions orthophoniques / stratégies d'[[apprentissage]] en [[thérapie comportementale|approche comportementale]], l'objectif est de rétablir la fluidité du langage. 
 
 - Ex d'[[thérapie comportementale|approche comportementale]]:
 	- Renversement d'habitude appliqué au bégaiement. 
 		- Respiration avant & pendant les conversations 
 		- Détente des muscles impliqué dans la parole ainsi que ceux du haut de la poitrine 
-		- Prise de courtes pauses volontaires si perception de signes avant coureurs de bégaiement. 
+		- Prise de courtes pauses volontaires si [[perception]] de signes avant coureurs de bégaiement. 
 		- Identification des situations de trigger 
 		- Travail sur l'anxiété
 
 ### Trouble de la communication sociale (pragmatique)
 
-- Déficit de communication verbale / non verbale, sans pour autant rentrer dans le spectre de l'autisme. 
+- Déficit de communication verbale / non verbale, sans pour autant rentrer dans le spectre de l'[[TSA|autisme]]. 
 	- Parlent trop de manière exagérée
 	- Changement de sujet inapproprié 
 	- Déficience de la musicalité de la voix 
@@ -123,18 +123,18 @@ DSM-5
 		- Utilisation des signaux verbaux / non verbaux de base dans une interaction. 
 	- Difficulté à comprendre ce qui est implicite dans la conversation, l'humour par exemple 
 - Deuxièmement:
-	- Ces difficultés entrainent des limitations dans le fonctionnement social au niveau de la communication affective, des relations sociales, de la réussite scolaire/professionnelle. 
+	- Ces difficultés entrainent des limitations dans le fonctionnement social au niveau de la communication affective, des [[relations sociales]], de la réussite scolaire/professionnelle. 
 - Troisièmement:
 	- Apparition durant le dev, possible prise d'ampleur face à des situations sociales plus demandantes
 - 4 :
-	- Le problème n'est pas mieux expliqué par une autre difficulté comme des problèmes d'audition, vision, autres troubles neurologiques ou mentaux. 
+	- Le problème n'est pas mieux expliqué par une autre difficulté comme des problèmes d'[[Perception auditive|audition]], vision, autres troubles neurologiques ou mentaux. 
 
--> Orthophonie & TCC (entrainement aux habiletés sociales)
+-> Orthophonie & [[Thérapie cognitivo- comportementale|TCC]] ([[Entrainement]] aux [[habiletés sociales]])
 
 Chez les enfants, apprentissage des habiletés de base dans la communication:
 	- Comment saluer une autre personne 
 	- Lancer une conversation
-	- Exprimer ses sentiments 
+	- Exprimer ses [[Sentiments]] 
 	- Maitriser la communication non verbale 
 
 ### Trouble du langage 
@@ -165,8 +165,8 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 - Grave. 
 - Apparition fréquente avant 14 ans. 
 - Forte comorbidité avec:
-	- TDAH
-	- TOC
+	- [[TDAH]]
+	- [[TOC]]
 
 - DSM 5:
 1. 
@@ -182,13 +182,13 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 - Traitements:
 	- [[thérapie comportementale|Approche comportementale]] : 
 		- Renversement de l'habitude
-			- Apprendre à reconnaitre la séquence de comportement menant au tic.
+			- [[apprentissage|apprendre]] à reconnaitre la séquence de comportement menant au tic.
 				- Provocation d'une contraction musculaire [[antagonisme|antagoniste]] au tic. 
 		- Considérer le tic comme une manière de relâcher la tension accumulée. 
 			- Réorganisation des comportement pour limiter l'accumulation de tension. 
-		- Minimisation des aspects cognitifs facteurs de tension tels que le perfectionnisme. 
+		- Minimisation des aspects [[cognition|cognitifs]] facteurs de tension tels que le perfectionnisme. 
 	- Pharmaco : 
-		- Légère doses d'antipsychotiques : diminution des tics mais effets secondaire conséquents. 
+		- Légère doses d'[[Antipsychotiques]] : diminution des tics mais effets secondaire conséquents. 
 
 ### Tics moteurs ou vocaux persistants (chroniques)
 
@@ -209,7 +209,7 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 4. 
 	- Problème non attribuable à des difficultés neurologique motrice ou d'autres problème de santé comme des difficultés visuelles ou à un trouble du dev intellectuel. 
  - Traitement:
-	 - Planification d'activités
+	 - [[planification]] d'activités
 	 - Subdivision de tâches complexes en étapes simples 
 	 - Ergothérapeute.
 
@@ -218,25 +218,25 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 - Mouvement sans buts qui semblent être appréciés.
 - Répétitifs 
 - Impact le quotidien
-- Non attribuable à une autre cause, comme l'usage de substances ou autre trouble mental tel que le TOC.
+- Non attribuable à une autre cause, comme l'usage de substances ou autre trouble mental tel que le [[TOC]].
 
 ## Trouble de développement intellectuel (handicap intellectuel)
 
-- Débats sur l'intégration de ce trouble dans des manuels de diag psychiatrique:
+- Débats sur l'intégration de ce trouble dans des manuels de diag [[troubles psychiatriques|psychiatrique]]:
 	- Les personnes présentant une déficience intellectuelle ne sont pas malade, c'est un simple état de fait. 
-	- Cet état de fait n'empêche aucunement de rencontrer des difficultés psychologiques variées, il ne le conditionne pas non plus. 
-	- Il est tout à fait possible pour bon nombre de ces personnes d'atteindre une autonomie au cours de leur vie. 
+	- Cet état de fait n'empêche aucunement de rencontrer des difficultés [[psychologie|psychologiques]] variées, il ne le conditionne pas non plus. 
+	- Il est tout à fait possible pour bon nombre de ces personnes d'atteindre une [[autonomie]] au cours de leur vie. 
 
 - Facteurs d'émergence:
-	- Génétique 
+	- [[génétique]] 
 	- Période prénatale (toxines/substances)
-	- Trauma SNC durant l'enfance
+	- Trauma [[SNC]] durant l'enfance
 	- Intoxication environnementale 
 	- Facteurs environnementaux (ex: carence de maternage)
 
 - DSM5 : diag si, durant la période de dev, on observe des déficits intellectuels et adaptatifs dans différents domaines: conceptuel, sociale, pratique. 
 1. 
-	- Difficultés d'ordre intellectuel : via clinique & tests d'intelligence.
+	- Difficultés d'ordre intellectuel : via clinique & tests d'[[intelligence]].
 		- Jugement
 		- Fonctionnement scolaire 
 		- Apprentissage par l'expérience 
@@ -245,7 +245,7 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 		- Difficultés dans le dev socioculturel (maison/école/société/travail)
 			- Pb fonctionnement tâches quotidiennes
 			- Vie sociale 
-			- Indépendance
+			- [[autonomie|Indépendance]]
 3. 
 	- Apparition pendant le développement. 
 
@@ -263,13 +263,13 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 1. 
 	-  Un enfant urine dans les vêtements ou dans le lit de manière volontaire ou involontaire
 2. 
-	-  Plus de 2x/semaine durant au moins 3 mois consécutifs avec présence de détresse cliniquement significative ou altération du fonctionnement social/professionnel etc. 
+	-  Plus de 2x/semaine durant au moins 3 mois consécutifs avec présence de [[détresse]] cliniquement significative ou altération du fonctionnement social/professionnel etc. 
 3. 
 	- L'enfant à au moins 5 ans. 
 4. 
-	- Le problème n'est pas mieux expliqué par l'effet de substances (ex: diurétiques) ou par une autre affection médicale (diabète, épilepsie ...)
+	- Le problème n'est pas mieux expliqué par l'effet de substances (ex: diurétiques) ou par une autre affection médicale (diabète, [[épilepsie]] ...)
 
-- Approche cognitivo-comportementale:
+- [[Approche cognitivo-comportementale]]:
 	1. Apprentissage de la propreté chez les plus jeunes 
 		- Renforcement positif des comportements adéquats : contrôle urinaire
 		- Correction par l'enfant des conséquences de l'absence de contrôle. (il devra changer lui même les draps de lits etc)

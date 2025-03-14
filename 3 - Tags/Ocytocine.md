@@ -1,4 +1,4 @@
-- Relations sociales
+- [[Relations sociales]]
 - [[noyaux accumbens|noyau accumbens]] -> récompenses sociales
 - Hypothèse en psychologie du développement et psychopathologie 
 	- Serait responsable des atypicalités les plus fondamentales liées au [[TSA]] 
@@ -39,7 +39,7 @@
 	- Administration nasale:
 		- Augmente l'[[attention]] portée aux régions oculaires 
 		- Macaques: diminue les comportements de regard hiérarchique entre dominants et dominés
-			- -> Suggère que l'OT augmente la tolérance entre les niveaux de hiérarchie.
+			- -> Suggère que l'OT augmente la [[tolérance]] entre les niveaux de hiérarchie.
 		- Humain : 
 			- Augmente la confiance en l'autre 
 			- Altère la distance social dans l'espace personnel

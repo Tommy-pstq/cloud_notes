@@ -6,7 +6,7 @@
 DSM 
 1. Problème relié à la quantité et à la quantité du sommeil :
 	- Difficulté d'endormissement, réveils fréquents, réveil matinal trop tôt. 
-2. Entraine de la détresse ou des perturbations du fonctionnement quotidien
+2. Entraine de la [[détresse]] ou des perturbations du fonctionnement quotidien
 3. Problème fréquent >= 3x/semaine 
 4. Depuis au moins 3 mois 
 5. Malgré des conditions adéquates pour le sommeil 
@@ -121,7 +121,7 @@ TTT
 
 DSM
 1. Fractionnement persistant du sommeil dû à une asynchronie des rythmes 
-2. Somnolence excessive & insomnie 
+2. Somnolence [[Disproportion|excessive]] & insomnie 
 3. Détresse / Altération du fonctionnement 
 
 TTT 
@@ -173,7 +173,7 @@ DSM
 1. Périodes de réveil incomplet, habituellement dans le premier tiers du sommeil. Une des deux manifestations:
 	- Somnambulisme : le sujet se lève, marche, regard fixe, en dormant. Pas de réactions aux tentatives de réveil. 
 	- Terreurs nocturne : Crise de terreur, potentiellement accompagnée par des cris d'effrois. Peu de réceptivité à la consolation.
-		- Transpiration, dilatation des pupilles, rythmes cardiaque et respiratoire accéléré 
+		- [[Transpiration]], dilatation des pupilles, rythmes cardiaque et respiratoire accéléré 
 2. Pas ou très peu de souvenirs de rêve.
 3. Amnésie antérograde de l'épisode. 
 4. Génère de la détresse / altération du fonctionnement 

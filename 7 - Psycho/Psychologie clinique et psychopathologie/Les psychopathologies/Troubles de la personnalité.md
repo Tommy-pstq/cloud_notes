@@ -21,7 +21,7 @@
 	- Distantes. 
 	- Ne se confient pas facilement
 	- Peu de relations. 
-	- Peu de tolérance à la critique et très pointues/agressives envers les autres.
+	- Peu de [[tolérance]] à la critique et très pointues/agressives envers les autres.
 - Isolement fréquent -> augmentation du risque suicidaire. 
 - Souvent : Enfance difficile / victimes de mauvais traitement 
 
@@ -57,7 +57,7 @@ TTT
 - Pas de [[symptômes psychotiques]] (délires/hallucinations etc.)
 
 DSM
-1. Début de l'âge adulte : manque d'intérêt / détachement vis à vis des relations sociales. Peu d'expression émotionnelle par rapport à autrui. Au moins 4 manifestations:
+1. Début de l'âge adulte : manque d'intérêt / détachement vis à vis des [[relations sociales]]. Peu d'expression émotionnelle par rapport à autrui. Au moins 4 manifestations:
 	- Ne manifeste pas d'intérêt pour ses proches dont les membres de la famille 
 	- Préfère les activités solitaires 
 	- Pas intéressé.e aux activités sexuelles avec d'autres.
@@ -79,7 +79,7 @@ TTT
 ### Personnalité schizotypique
 
 - Isolement social
-	- Déficit important dans les habiletés sociales 
+	- Déficit important dans les [[habiletés sociales]] 
 	- Caractéristiques bizarres dans leur comportement 
 		- Ex: vêtements recouverts de médailles 
 	- Croyances curieuses
@@ -195,7 +195,7 @@ DSM
 	- Colère inappropriées et intenses, difficulté à contrôle ses colères 
 	- Survenue temporaire dans des situations de stress :
 		- Idées de persécution
-		- Symptômes graves de dissociation (amnésie, fugues, dépersonnalisation)
+		- Symptômes graves de [[dissociation]] (amnésie, fugues, dépersonnalisation)
 
  TTT
 
@@ -212,7 +212,7 @@ DSM
 			- Eviter les comportements automutilateurs / suicidaires 
 		- Régulariser les émotions : méthode des résolutions des problèmes face à des situations difficiles. 
 	- Apprendre à accepter que certains situations difficiles sont inchangeables.
-		- Se débattre à vouloir les changer = détresse supplémentaire -> réactions excessives.
+		- Se débattre à vouloir les changer = [[détresse]] supplémentaire -> réactions [[Disproportion|excessives]].
 - Développer les habiletés sociales pour ne plus répondre qu'exclusivement par des colères ou de l'agressivité.
 - Aide ponctuelle : téléphonique / visio pour les problèmes urgents.
 - Peut provoquer du stress/de l'épuisement professionnel chez les intervenants.
@@ -370,7 +370,7 @@ TTT
 - Semble souvent être de "bons patients".
 	- L'intervenant doit éviter d'être la personne qui prend la responsabilité de régler les problèmes du patient. 
 	- Important d'éviter la dépendance par rapport aux thérapeutes.
-- Objectif majeur : prise d'indépendance.
+- Objectif majeur : prise d'[[autonomie|indépendance]].
 
 ### Personnalité obsessionnelle-compulsive
 

@@ -165,7 +165,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 	- Lobe pariétal inférieur droit: 
 		- Sens subjectif d'agentivité dans l'action.
 		- activation lors d'une [[imitation]] réciproque
-		- [[Stimulation magnétique transcrânienne|TMS]] : expérience de sortie de corps (dissociation du soi et de son propre corps)
+		- [[Stimulation magnétique transcrânienne|TMS]] : expérience de sortie de corps ([[dissociation]] du soi et de son propre corps)
 
 ### Plasticité de la représentation de soi-autrui
 
@@ -260,7 +260,7 @@ En plus de bénéficier des conseils et de l'observation d'autrui, un apprentiss
 - <u>Facteurs influant les récompenses et punitions sociales</u>:
 	- **[[motivation]] [[social|sociale]]** <-> intérêt porté au monde social
 		- Bien que les stimuli sociaux soient ceux perçus de manière largement préférentielle, chez le nourrisson comme chez l'adulte, des variabilité de motivation sociale existe.
-		- Potentiellement lié à **une** hormone: l'[[ocytocine]], impliqué dans les relations sociales:
+		- Potentiellement lié à **une** hormone: l'[[ocytocine]], impliqué dans les [[relations sociales]]:
 			- Relation mère-enfant.
 			- Via le [[noyaux accumbens|noyau accumbens]] : mécanismes cognitifs lié au récompenses sociales. 
 			- Potentiellement lié au différences sociales du [[TSA]]
@@ -303,7 +303,7 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 	- L'équité ne peut être réduite à l'égalité
 		- Dès la prime enfance, le <u>mérite</u> de chacun des partenaires est pris en compte lors de la répartition des gains issus d'une activité coopérative.
 
-- L'humain porte une attention particulière à être bien vu par ses pairs (réputation):
+- L'humain porte une [[attention]] particulière à être bien vu par ses pairs (réputation):
 	- Savoir que l'on est observé augmente la probabilité que des individus coopèrent ou agissent de manière prosociale. 
 		- Montrer une photo ou un dessin d'yeux suffit à engendrer ces modifications comportementales. 
 		- Sensibilité au regard d'autrui = reflet de la motivation sociale. 
@@ -340,7 +340,7 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 - Les actions collectives entrainent une ambiguïté sur les contributions individuelles des différents acteurs
 	- Phénomène de <u>diffusion de la responsabilité</u>:
 		- Une personne se sent moins responsable quand elle se trouve en groupe.
-			- Peut entrainer des comportements anti-[[social|sociaux]] tel que la non assistance à personne en détresse.
+			- Peut entrainer des comportements anti-[[social|sociaux]] tel que la non assistance à personne en [[détresse]].
 		- Peut pousser à demander plus de responsabilité, seulement si cela les arrange, à savoir lorsque l'action collective résulte sur un résultat positif. 
 			- <u>biais d'auto-complaisance</u> : s'attribuer les mérites d'une réussite et différer la responsabilité d'un échec.
 
@@ -364,7 +364,7 @@ Une fois le partenaire de coopération choisi, il faut déterminer comme les bé
 			- L'amélioration du groupe dépend de l'homogénéité des niveaux de compétences au sein du groupe.
 				- La **décision collective sera meilleure** que l'individuelle seulement si les membres du groupes ont le **même niveau de compétence**. 
 				- Dans le cas d'**écart de compétence significatif**, il est préférable de **déléguer la décision à l'expert**.
-		- Indépendance initiale des opinions : cruciale. 
+		- [[autonomie|Indépendance]] initiale des opinions : cruciale. 
 			- Sauf que : influence [[social|sociale]] omniprésente, donc très rarement le cas. 
 	- La **discussion** entre les membres d'un groupe suite à la formulation d'un avis initial **augmente la performance** collective par rapport à l'agrégation simple.
 

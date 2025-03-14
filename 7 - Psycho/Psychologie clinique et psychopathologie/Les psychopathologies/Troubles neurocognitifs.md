@@ -32,7 +32,7 @@ DSM.
 2. Problème d'attention et d'orientation apparait rapidement et dénote avec l'état antérieur. 
 3. Apparition d'un autre problème cognitif : mémoire, langage etc.
 4. Aucun trouble cognitif préexistant ne peux expliquer le point 3.
-5. Relié à une affection médicale/intoxication ou sevrage
+5. Relié à une affection médicale/intoxication ou [[sevrage]]
 
 ## Trouble neurocognitif majeur 
 
@@ -46,7 +46,7 @@ DSM.
 
 DSM 
 1. Diminution du fonctionnement cognitif dans divers domaines caractérisée par 
-	- Baisse de l'attention
+	- Baisse de l'[[attention]]
 	- Des fonctions permettant
 		- la panification
 		- l'organisation
@@ -61,13 +61,13 @@ DSM
 		- Changements perçus par la personne qui les vit, par son environnement ou un clinicien 
 		- Test neuropsychologique 
 		- Evaluation clinique quantifiée 
-2. Les changements cognitifs interfèrent avec l'autonomie dans le fonctionnement quotidien
+2. Les changements cognitifs interfèrent avec l'[[autonomie]] dans le fonctionnement quotidien
 3. Pas lors d'un état confusionnel
 4. Pas un autre trouble mental 
 
 ## Trouble neurocognitif léger 
 
-- Pareil que pour le majeur, mais n'interfèrent pas avec l'autonomie dans le fonctionnement quotidien. 
+- Pareil que pour le majeur, mais n'interfèrent pas avec l'[[autonomie]] dans le fonctionnement quotidien. 
 
 ## Trouble neurocognitif vasculaire majeur ou léger 
 
@@ -93,7 +93,7 @@ DSM
 - La plus fréquente après Alzheimer. 
 - Souvent, début après 55 ans. 
 - Corps de Lewy = inclusions neuronales, sphériques. Filaments neuronaux + alpha-synucléine, protéin présynaptique. 
-- Troubles cognitifs provoquant une perte d'autonomie fonctionnelle 
+- Troubles cognitifs provoquant une perte d'[[autonomie]] fonctionnelle 
 	- Fluctuations journalières 
 - Progression avec problèmes d'attention/fonction exécutives.
 - [[Hallucinations]] visuelles 
@@ -109,7 +109,7 @@ DSM
 	- Quand 50 à 70% sont détruits, apparition des symptômes moteurs :
 		- Raideur
 		- Lenteur du mouvement 
-		- Tremblements au repos 
+		- [[Tremblement|Tremblements]] au repos 
 	- TTT : corrige les symptômes mais pas l'évolution de la maladie.
 
 ## Trouble neurocognitif majeur ou léger dû à une infection par le VIH

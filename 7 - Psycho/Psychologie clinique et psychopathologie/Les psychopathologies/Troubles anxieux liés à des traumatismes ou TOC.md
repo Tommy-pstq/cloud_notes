@@ -1,30 +1,30 @@
 - Avant le DSM - 5 de 2013, tous les [[troubles anxieux]] étaient répertoriés un seul chapitre. Ils sont désormais séparés en 3:
 	- [[Troubles anxieux]]
 	- Troubles liés à des traumatismes ou à des facteurs de stress
-	- Troubles obsessionnels compulsifs et apparentés
+	- [[TOC|troubles obsessionnels compulsifs]] et apparentés
 
 ## [[Troubles anxieux]]
 
 ### Phobie spécifique
 
-- [[Peur]]/crainte/anxiété très forte et irrationnelle d'un élément (situation, objet, animal).
-	- Entraine un [[Evitement|évitement]] ou la vie avec une peur ou anxiété intense. 
+- [[Peur]]/crainte/[[anxiété]] très forte et irrationnelle d'un élément (situation, objet, animal).
+	- Entraine un [[Evitement|évitement]] ou la vie avec une [[Peur]] ou anxiété intense. 
 
 DSM
-1. Peur/anxiété intense d'un objet ou d'une situation
+1. [[Peur]]/anxiété intense d'un objet ou d'une situation
 2. La réaction est immédiate 
 3. [[Evitement]] ou détresse intense en présence de l'élément
-4. Disproportion par rapport au danger réel
+4. [[Disproportion]] par rapport au danger réel
 5. Persistance depuis plus de 6 mois 
-6. Détresse personnelle ou altération du fonctionnement 
+6. [[Détresse]] personnelle ou altération du fonctionnement 
 7. Problème pas mieux expliqué par un autre trouble mental. 
 
 TTT
 - [[Thérapie d'exposition progressive|Exposition progressive]] 
 	- Habituation -> diminution de l'anxiété 
 - Restructuration positive 
-- Psychothérapies verbales
-- Pharmaco : [[anxiolytiques]], parfois [[Antidépresseurs|antidep]] pour le côté anxiolytique 
+- [[psychothérapie|psychothérapies]] verbales
+- Pharmaco : [[anxiolytiques]], parfois [[Antidépresseurs|antidep]] pour le côté [[Anxiolytiques|anxiolytique]] 
 
 ### [[Anxiété sociale]] 
 
@@ -33,24 +33,24 @@ Aussi appelée [[phobie]] sociale (terme disparu depuis DSM-5-TR 2022).
 - Peur d'être exposé à des situations ou elle serait l'objet d'observation d'autrui. 
 	- [[Evitement]] ou malaise intense.
 	- Peur de montrer des symptômes entrainant un jugement social négatif. 
-	- Souvent associé à des tremblements / rougissements
+	- Souvent associé à des [[Tremblement|tremblements]] / rougissements
 
 DSM
 1. Exposition a des situation ou la personne est sujette à une observation attentive où une peur ou anxiété intense est ressentie 
 2. Présence d'une crainte de manifester des symptômes qui entraineraient une opinion négative
-3. Les situations sociales provoquent presque toujours de la peur ou de l'anxiété 
-4. [[Evitement]] des situations sociales ou vécues avec forte anxiété 
+3. Les situations [[social|sociales]] provoquent presque toujours de la peur ou de l'anxiété 
+4. [[Evitement]] des situations [[social|sociales]] ou vécues avec forte anxiété 
 5. Peur/anxiété disproportionnées par rapport à la situation vécue
-6. Détresse personnelle générée nuit au bon fonctionnement 
+6. [[Détresse]] personnelle générée nuit au bon fonctionnement 
 7. Symptômes non attribuables à l'usage de substances 
-8. Symptômes pas mieux expliqués par un autre trouble (dysmorphie, autisme...)
+8. Symptômes pas mieux expliqués par un autre trouble (dysmorphie, [[TSA|autisme]]...)
 9. Si existence d'une situation médicale (ex: défiguré suite à un accident), les symptômes ne doivent y être reliés.
 
 TTT
 - [[Thérapie d'exposition progressive|Exposition progressive]] 
-- Entrainement aux habiletés sociales 
+- [[Entrainement]] aux [[habiletés sociales]] 
 	- Exposition 
-	- Sentiment de compétence -> anxiété diminuée 
+	- [[Sentiments|sentiment]] de compétence -> anxiété diminuée 
 - Intervention cognitive 
 
 ### Anxiété de séparation 
@@ -59,17 +59,17 @@ TTT
 
 - Pathologie si, DSM:
 1. Au mois 3 parmi:
-- Détresse excessive lors de l'éloignement, de la séparation de la maison, des figures d'[[attachement]] ou d'anticipation de telles situations 
-- Préoccupation d'une éventuelle disparition des figures d'attachement (accident/maladie/catastrophe/mort)
-- Soucis excessifs concernant le fait de vivre un événement pouvant entrainer un éloignement/séparation
-- Ne pas sortir ou être réticent à l'idée de le faire par peur de s'éloigner de la maison en raison de cette peur de la séparation
+- Détresse [[Disproportion|excessive]] lors de l'éloignement, de la séparation de la maison, des figures d'[[attachement]] ou d'anticipation de telles situations 
+- Préoccupation d'une éventuelle disparition des figures d'[[attachement]] (accident/maladie/catastrophe/mort)
+- Soucis [[Disproportion|excessifs]] concernant le fait de vivre un événement pouvant entrainer un éloignement/séparation
+- Ne pas sortir ou être réticent à l'idée de le faire par peur de s'éloigner de la maison en [[raisonnement|raison]] de cette peur de la séparation
 - Crainte/réticence excessive à rester seul.e sans figure d'[[attachement]]. 
 - Réticence à dormir ailleurs ou d'aller dormir sans être proche d'une figure d'attachement 
 - Cauchemars fréquents centrés sur la séparation
-- Plaintes somatiques lors d'éloignement de la figure d'attachement ou crain de l'éloignement. 
+- Plaintes somatiques lors d'éloignement de la figure d'[[attachement]] ou crain de l'éloignement. 
 1. Symptomatologie durant depuis au moins 4 semaines chez les enfants/ado et 6 mois chez l'adulte.
 2. Détresse cliniquement significative ou changement de comportement 
-3. Trouble pas mieux expliqué par un autre trouble mental (agoraphobie, autisme...)
+3. Trouble pas mieux expliqué par un autre trouble mental (agoraphobie, [[TSA|autisme]]...)
 
 TTT 
 - Séparation régulière progressive (exposition)
@@ -91,24 +91,24 @@ TTT
 
 - Paroxysme de l'anxiété, expérience décrite comme terrifiante. 
 - Plusieurs symptômes physique, pouvant être confondu avec malaises coronariens (pression/douleur thoracique) /respiratoire
-- 30% des consultations en cardiologie seraient dues à des attaques de panique. 
+- 30% des consultations en [[Symptômes cardiaques|cardiologie]] seraient dues à des attaques de panique. 
 	- Redirigés vers la psychiatrie ou psychologie après beaucoup d'examens
 - Personnes sujettes aux attaques de panique présentent souvent un fonctionnement perso & pro limité. 
 - Les crise de paniques peuvent être isolées et sans suite, on ne parlera pas de trouble panique dans ce cas.
 
 DSM 
 1. Réaction intense atteignant son paroxysme en quelques minutes incluant au moins 4 des symptômes suivants:
-	- Symptômes cardiaques
-	- Transpiration
-	- Tremblements 
+	- [[Symptômes cardiaques]]
+	- [[Transpiration]]
+	- [[Tremblement|Tremblements]] 
 	- Sensation de souffle coupé / étouffement
 	- Sensation d'étranglement 
 	- Douleur / malaise dans la poitrine 
-	- Nausée / malaise abdominal
+	- [[Nausée]] / malaise abdominal
 	- Vertige / instabilité / impression d'évanouissement ou de tête vide 
 	- Frissons / chaleur 
 	- Engourdissement/picotements 
-	- Perception de l'environnement comme étrange ou irréel (déréalisation) / sensation d'étrangeté par rapport à soi-même (dépersonnalisation)
+	- [[perception]] de l'environnement comme étrange ou irréel (déréalisation) / sensation d'étrangeté par rapport à soi-même ([[dépersonnalisation]])
 	- Peur de perdre le contrôle / devenir fou
 	- Peur de mourir. 
 2. Une des attaques à été suivie durant au moins 1 mois par 1 ou plus des symptômes suivants:
@@ -135,7 +135,7 @@ TTT -> voir Agoraphobie
 TTT
 - [[Thérapie d'exposition progressive|Exposition progressive]]
 - Remédiation cognitive
-- Association stimuli [[antagonisme|antagoniste]] 
+- Association [[stimulus|stimuli]] [[antagonisme|antagoniste]] 
 
 ### Anxiété généralisée
 
@@ -148,8 +148,8 @@ DSM
 	- Problèmes de concentrations / oublis 
 	- Irritabilité 
 	- Tension musculaire 
-	- Perturbation du sommeil 
-4. Présence de détresse psychologique ou changement de fonctionnement professionnel/académique ou dans d'autres domaines significatifs. 
+	- Perturbation du [[sommeil]] 
+4. Présence de détresse [[psychologie|psychologique]] ou changement de fonctionnement professionnel/académique ou dans d'autres domaines significatifs. 
 5. Problème non relié à l'utilisation de substances, médicaments ou affections médicales comme l'hyperthyroïdie 
 6. Problème pas mieux explicable par un autre problème mental.
 
@@ -170,7 +170,7 @@ TTT
 -> Thérapie pour accepter l'incertitude telle qu'elle existe dans la réalité. 
 	- Apprentissage de gestion des choses incertaines. 
 - [[Relaxation]]
-- Méditation
+- [[méditation]]
 - Acceptation
 - Pharmaco : [[anxiolytiques]]. Gros risque de dépendance. 
 
@@ -183,14 +183,14 @@ TTT
 - L'expérience traumatique est revécue en cauchemars ou flashback. 
 - Détresse intense provoquée par des triggers liés au trauma
 - Réactions physiologiques intenses par des triggers 
-- Evitement marqué et persistant des situations/souvenirs/conversations liées au trauma. 
+- [[Evitement|évitements]] marqué et persistant des situations/souvenirs/conversations liées au trauma. 
 - Altération de la cognition/humeur associé au trauma :
 	- Amnésie partielle 
 	- Idées dépréciatives envers soi, les autres voire le monde.
 	- [[Distorsions cognitives]] sur la cause du/des traumas:
 		- Se blâme elle même ou les autres. 
-	- Etat émotionnel négatif 
-	- Incapacité d'avoir des émotions positives
+	- Etat [[émotion|émotionnel]] négatif 
+	- Incapacité d'avoir des [[émotion|émotionnelles]] positives
 - Impression de détachement 
 - Sensation d'être étranger aux autres.
 
@@ -199,12 +199,12 @@ TTT
 	- Accès de [[colère]] / Agressivité 
 	- Comportements irréfléchis / autodestructeurs 
 	- hypovigilance 
-- Trouble de la concentration
-- Troubles du sommeil 
+- Trouble de la [[attention|concentration]]
+- [[Troubles du sommeil]] 
 
 TTT
 - Groupe de parole 
-- TCC
+- [[Thérapie cognitivo- comportementale|TCC]]
 - Gestion du stress en rapport avec l'exposition aux souvenirs 
 	- [[Relaxation]]
 	- Respiration
@@ -213,7 +213,7 @@ TTT
 	- Certaines situations peuvent paraître très éloignés du trauma initiale mais peuvent quand même trigger de la détresse.
 	- Possiblement contre productif si l'exposition est faite de manière trop brutale. 
 - Méthode de contrôle de l'anxiété 
-	- Méditation
+	- [[méditation]]
 	- Yoga 
 	- [[Pleine conscience]] 
 	- Acceptation
@@ -241,26 +241,26 @@ TTT
 	- Soins insuffisants 
 - Incapacité chez l'enfant à former un lien sélectif avec une figure d'attachement. 
 - Ne tente pas de se faire consoler en situation de détresse.
-- Retrait émotionnel quand le donneur de soin console l'enfant. 
+- Retrait [[émotion|émotions]] quand le donneur de soin console l'enfant. 
 - Potentiellement 
-	- Diff sociale
-	- Peu d'émotions positives lors des interactions sociales 
-- Déprimé, anxieux, irritable, craintif envers le donneur de soin sans raison apparente. 
+	- Diff [[social|sociale]]
+	- Peu d'[[émotion|émotions]] positives lors des interactions [[social|sociales]] 
+- Déprimé, [[anxiété|anxieux]], irritable, craintif envers le donneur de soin sans [[raisonnement|raison]] apparente. 
 
 DSM
 1. Mode stable de l'enfant par rapport aux adultes:
 	- Pas de recherche de réconfort 
 	- Pas ou peu de réponse au réconfort 
-2. Présence de difficultés émotionnelle et sociale 
+2. Présence de difficultés émotionnelle et [[social|sociale]] 
 	- Baisse de la réactivité sociale / émotionnelle 
 	- Diminution des affects positifs 
-	- Irritabilité/Tristesse/Craintes sans raison même lorsque l'adulte prend soin.
+	- Irritabilité/[[Tristesse]]/Craintes sans [[raisonnement|raison]] même lorsque l'adulte prend soin.
 3. L'enfant à vécu des formes extrêmes de manque de soin:
 	- Négligence ou privation sociale 
-	- Difficulté d'établir un lien stable en raison de changement fréquent dans les personnes qui s'occupent de lui
+	- Difficulté d'établir un lien stable en [[raisonnement|raison]] de changement fréquent dans les personnes qui s'occupent de lui
 	- Education dans des conditions non favorable (institution etc) défavorisant l'établissement de liens privilégiés 
 4. Lien entre les éléments du critère 1 et 3.
-5. Pas mieux expliqué par la présence d'un TSA
+5. Pas mieux expliqué par la présence d'un [[TSA]]
 6. Apparition du problème avant 5 ans 
 7. L'enfant à au moins 9 mois. 
 
@@ -283,7 +283,7 @@ TTT
 				- Gestes / Comportement familiers avec de parfaits inconnus 
 				- Proximité excessive dépassant les normes culturellement admises 
 				- Amitiés excessives/inappropriées avec des étrangers 
-			- Pas de limite dans l'établissement de leurs relations sociales 
+			- Pas de limite dans l'établissement de leurs [[relations sociales]] 
 
 DSM 
 1. Au moins 2 manifestations des manières d'interagir avec es inconnus 
@@ -291,19 +291,19 @@ DSM
 	- Comportement verbal/non verbal excessivement familier 
 	- Ne demande pas l'autorisation à l'adulte responsable pour partir vers des lieux inconnus 
 	- Peut partir avec un adulte inconnu avec peu ou pas d'hésitation
-2. Il ne s'agit pas d'un comportement impulsif, comme dans le cas d'un TDAH, mais d'un comportement socialement désinhibé. 
+2. Il ne s'agit pas d'un comportement impulsif, comme dans le cas d'un [[TDAH]], mais d'un comportement socialement désinhibé. 
 3. L'enfant a été victime de formes extrêmes de carence, au moins une des manifestations :
-	- Négligence sociale se caractérisant par une carence chronique de réponse aux besoin émotionnels (réconfort, stimulation, affection) de la part de l'adulte responsable 
+	- Négligence [[social|sociale]] se caractérisant par une carence chronique de réponse aux besoin émotionnels (réconfort, stimulation, affection) de la part de l'adulte responsable 
 	- Changement fréquent d'adulte responsable 
 	- Conditions d'éducations non propices à l'attachement (institution avec un ratio élevé enfants/éducateurs)
 
 TTT
-- Faire prendre conscience à l'environnement de l'enfant, et aux adultes des causes de ce problème
+- Faire prendre [[conscience]] à l'environnement de l'enfant, et aux adultes des causes de ce problème
 - Soutien à l'environnement & encouragement à établir de meilleurs liens avec l'enfant. 
 
 ### Trouble d'[[adaptation]] 
 
-- Détresse psychologique perdurant plus de 3 mois après un facteur de stress : perte d'emploi, séparation, déboires financiers, présence permanente d'une personne très malade auprès de soi, mort d'une personne proche.
+- Détresse [[psychologie|psychologique]] perdurant plus de 3 mois après un facteur de stress : perte d'emploi, séparation, déboires financiers, présence permanente d'une personne très malade auprès de soi, mort d'une personne proche.
 
 - Potentiellement accompagné de symptômes dépressifs / anxiété / combinaison des deux.
 
@@ -312,8 +312,8 @@ TTT
 - [[Psychothérapie]]
 	- individuelle
 	- brève
-	- TCC
-- Méthodes de relaxation
+	- [[Thérapie cognitivo- comportementale|TCC]]
+- Méthodes de [[relaxation]]
 - Activités sportives / récréatives / hygiène de vie 
 
 ### Trouble du deuil prolongé
@@ -323,7 +323,7 @@ TTT
 DSM
 1. Décès datant de plus de 12 mois (6 mois pour les enfants/adolescents) 
 2. Présence d'une ou deux réponses de deuil **presque chaque jour** et particulièrement durant le dernier mois :
-	- Présence intense de nostalgie / désir de la personne décédée 
+	- Présence intense de nostalgie / [[désir]] de la personne décédée 
 	- Préoccupation avec pensées ou souvenirs à propos de la personne décédée 
 		- Peut porter sur les circonstances du décès chez les enfants/adolescents
 3. Au mois 3 des symptômes présents la plupart des jours 
@@ -341,9 +341,9 @@ DSM
 TTT
 - Psychothérapie verbale 
 - Ecoute
-- Information sur l'évolution naturelle d'un deuil
+- Information sur l'[[évolution]] naturelle d'un deuil
 	- -> Contextualiser le problème 
-- Approche cognitivo-comportementale :
+- [[Approche cognitivo-comportementale]] :
 	- Restructurer les cognitions associées au troubles telle que:
 		- L'avenir est vide
 		- La vie n'a plus de sens 
@@ -419,7 +419,7 @@ DSM
 3. Le problème entraine un encombrement des lieux d'habitation sans intervention d'un tiers.
 4. Détresse / altération liée au problème 
 5. Non attribuable à une affection médical (ex: lésion cérébrale)
-6. Non attribuable à un autre trouble mental (ex: perte d'énergie liée à une dépression)
+6. Non attribuable à un autre trouble mental (ex: perte d'énergie liée à une [[dépression]])
 
 TTT
 
@@ -448,4 +448,4 @@ TTT
 
 TTT:
 - Renversement des habitudes :
-	- Devenir conscient des circonstances dans lesquelles ce comportement à tendance à se produire etc etc.
+	- Devenir [[conscience|conscient]] des circonstances dans lesquelles ce comportement à tendance à se produire etc etc.

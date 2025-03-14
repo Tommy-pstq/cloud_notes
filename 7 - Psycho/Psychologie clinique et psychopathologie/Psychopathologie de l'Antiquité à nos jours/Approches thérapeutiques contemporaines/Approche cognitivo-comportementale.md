@@ -98,7 +98,7 @@
 		- Thérapies en groupe. 
 			- mindfulness : développement d'une certaine sérénité par rapport aux [[émotion|émotions]] négatives très fortes 
 			- [[Régulation]] [[émotion|émotionnelle]]
-			- tolérance à des situations inchangeables : comment composer avec des situations difficiles sur lesquelles on a aucune emprise. 
+			- [[tolérance]] à des situations inchangeables : comment composer avec des situations difficiles sur lesquelles on a aucune emprise. 
 			- efficacité interpersonnelle : développer des capacité d'analyse d'une situation [[social|sociale]] et obtenir des changements tout en conservant ses relations interpersonnelles et le respect de soi
 		- Consultations téléphoniques : assistance offerte dans l'application des compétences ensiegnées (15 mins)
 		- Thérapie individuelle :

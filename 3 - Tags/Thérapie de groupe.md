@@ -1,0 +1,4 @@
+---
+aliases:
+  - thérapie en groupe
+---

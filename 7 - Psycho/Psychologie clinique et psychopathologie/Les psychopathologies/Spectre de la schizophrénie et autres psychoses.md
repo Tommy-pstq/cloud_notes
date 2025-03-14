@@ -1,34 +1,34 @@
 
 - Problèmes de santé les plus graves 
 	- Psychoses
-		- Schizophrénie 
+		- [[schizophrénie]] 
 	- Si prise en charge dès les premiers signes avec Pharmaco & psycho thérapies
 		- Bon fonctionnement quotidien possible. 
 - Deux [[ouvrage||ouvrages]] :
 	- <u>La TCC de groupe pour le traitement de la psychose : Guide de l'intervenant</u>, Lecomte, Leclerc & Wikes, 2018
-		- Amélioration des habiletés sociales
+		- Amélioration des [[habiletés sociales]] 
 		- Développement / solidification du soutient social
 	- <u>Techniques de psychothérapies cognitives des psychoses chroniques</u>, Chambon, Perris & Marie-Cardine, 1997
-		- Présentation des schémas cognitifs dans les psychoses chroniques 
-		- Lien entre ces schémas et symptômes de délire/[[Hallucinations|hallucination]]
-		- Méthodes d'intervention pour aller vers des schémas cognitifs plus appropriés
+		- Présentation des schémas [[cognition|cognitifs]] dans les psychoses chroniques 
+		- Lien entre ces schémas et symptômes de [[délire]]/[[Hallucinations|hallucination]]
+		- Méthodes d'intervention pour aller vers des schémas [[cognition|cognitifs]] plus appropriés
 
 ## Schizophrénie 
 
 - Présences de symptômes positifs & négatifs 
 	- <u>Positifs</u> = les plus apparents. 
-		- **Délires** / Idées de persécution
-			- Sensation de menace sans raison évidente / amplification conséquente d'une menace
-			- Idées de grandeur (mégalomanie) : se prendre pour un personnage célèbre par exemple. 
-			- Aspect somatique
+		- **[[Délire|délires]]** / Idées de persécution
+			- Sensation de menace sans [[raisonnement|raison]] évidente / amplification conséquente d'une menace
+			- **Idées de grandeur** (mégalomanie) : se prendre pour un personnage célèbre par exemple. 
+			- **Aspect somatique**
 				- Croire être envahi de microbe
 				- Qu'un organe a été enlevé et remplacé par des extraterrestres 
 				- Qu'une puce a été placée dans son cerveau suite à un examen médical
-			 - Croire qu'une personne célèbre est amoureux.se d'elle, les messages amoureux étant transmis dans les chansons. 
+			 - **Croire qu'une personne célèbre** est amoureux.se d'elle, les messages amoureux étant transmis dans les chansons. 
 				 - L'entourage de l'artiste empêcherait ce dernier d'entrer en contact.
 			- Thématiques liées à l'informatique ou aux forces occultes. 
-		- **Expériences sensorielles** : [[hallucinations]].
-			- Auditives - les plus fréquentes.
+		- **Expériences [[sensorialité|sensorielles]]** : [[hallucinations]].
+			- Auditives -<u> les plus fréquentes</u>.
 				- Entendent des voix ou des sons. Les voix son souvent décrites comme menaçantes.
 			- Visuelles 
 				- Personnes / objets non réels. 
@@ -47,11 +47,11 @@
 		- Aboulie 
 		- Anhédonie
 		- Alogie 
-		- Apathie
+		- [[apathie]]
 		- Emoussement affectif 
 		- Apragmatisme 
 	- <u>Déficits cognitifs </u>
-		- Détérioration de l'attention/mémoire si pas traitée de manière précoce.
+		- Détérioration de l'[[attention]]/[[mémoire]] si pas traitée de manière précoce.
 
 - <u>Grande variabilité de la symptomatologie en fonction des individus.</u> 
 	- Détérioration importante possible. 
@@ -61,7 +61,7 @@
 
 - <u>Schéma fréquent d'évolution</u>:
 	- Début vers la fin de l'adolescence / vie adulte
-		- Habituellement : consolidations des connaissances & acquisition de l'autonomie 
+		- Habituellement : consolidations des connaissances & acquisition de l'[[autonomie]] 
 	- Etapes:
 		- <u>Prodrome</u> : déclin du fonctionnement précédent le premier épisode psychotique.
 			- Détérioration du fonctionnement social
@@ -69,60 +69,60 @@
 			- Fonctionnement académique / occupationnel diminue 
 		- <u>Phase aiguë</u> : se détériore d'avantage et devient inexplicable pour les autres.
 			- Emergence de [[symptômes psychotiques]] 
-				- [[Hallucinations]] envahissantes, idées délirantes, attitude de plus en plus bizarre
+				- [[Hallucinations]] envahissantes, [[Délire|idées délirantes]], attitude de plus en plus bizarre
 		- <u>Phase résiduelle</u> : symptômes moins marquées, similaires à la phase prodromique. 
 
 - Poser le diag avec beaucoup de parcimonie, car il a des conséquences énormes. 
 
 DSM
 1. Présence, pendant une durée supérieure à 1 mois d'au moins 2 des symptômes suivants:
-	- Idées délirantes
+	- [[Délire|idées délirantes]]
 	- [[Hallucinations]] 
 	- [[Discours désorganisé]] 
 	- Comportement désorganisé ou catatonique 
 	- Symptômes négatifs 
 2. Doit avoir manifesté une baisse de niveau de fonctionnement par rapport au niveau antérieur. 
 3. Les signes du trouble, incluant la phase prodromique, existent depuis au moins 6 mois.
-4. Tous les autres diagnostiques (trouble schizo-affectif, dépression avec caractéristiques psychotiques, trouble bipolaire avec [[symptômes psychotiques]]) ont été exclus 
+4. Tous les autres diagnostiques (trouble schizo-affectif, [[dépression]] avec caractéristiques psychotiques, [[trouble bipolaire]] avec [[symptômes psychotiques]]) ont été exclus 
 5. Pas attribuable à des substances / autre problème médical
-6. Si présence antérieure de TSA ou trouble de la communication, le diag de schizophrénie est posé seulement si des symptômes importants de la schizophrénie sont présents. 
+6. Si présence antérieure de [[TSA]] ou trouble de la communication, le diag de [[schizophrénie]] est posé seulement si des symptômes importants de la schizophrénie sont présents. 
 
 
-- Autrefois : hospitalisation / ressources psychiatriques à long terme - souvent pour la vie. 
+- Autrefois : hospitalisation / ressources [[troubles psychiatriques]] à long terme - souvent pour la vie. 
 	- Amélioration de la pharmaco - [[neuroleptiques]] atypiques (type 2)
 	- Changement dans la conception du traitement 
 	- -> Institutionnalisation à long terme intolérable. (à partir des années 70s)
 - Méthodes comportementales pour préparer à la désinstitutionalisation
 	- Théorie du renforcement
-		- Habiletés sociales 
+		- Habiletés [[social|sociales]] 
 		- Habiletés occupationnelles 
 
-- Meilleure manière d'aider ces patients : prise en charge aux premiers signes de la maladie et offrir une intervention s'appuyant à la fois sur la pharmaco ([[neuroleptiques]]) et une approche cognitivo-comportementale. 
+- Meilleure manière d'aider ces patients : prise en charge aux premiers signes de la maladie et offrir une intervention s'appuyant à la fois sur la pharmaco ([[neuroleptiques]]) et une [[Approche cognitivo-comportementale]]. 
 	- Objectif : qu'il n'y est qu'un seul épisode psychotique, le premier et le dernier. 
-		- Prévenir autant que possible l'évolution vers un état chronique. 
+		- Prévenir autant que possible l'[[évolution]] vers un état chronique. 
 
 - Prise en charge cognitivo-comportementale en groupe de jeunes adultes au premier épisode de psychose (Hôpital Sacré Cœur, Montréal)
 	- Traitement pharmaco.
 	- Comprendre en quoi consiste leur maladie 
-	- Apprendre à vivre avec leur symptômes, dont certains persisteront.
+	- [[apprentissage|apprendre]] à vivre avec leur symptômes, dont certains persisteront.
 		- Accepter que les [[hallucinations]] sont des productions de leur cerveau et non des événements réels 
-	- Restructuration cognitive de [[symptômes psychotiques]] (délires)
-	- Amélioration des habiletés sociales 
+	- Restructuration [[cognition|cognitive]] de [[symptômes psychotiques]] ([[Délire|délires]])
+	- Amélioration des [[habiletés sociales]] 
 	- Amélioration des habiletés socio-sexuelles 
 	- Travailler sur la gestion du temps, des activités quotidiennes et domestiques. 
 	- Etudes des possibilités professionnelles ou académiques 
-	- Travailler sur d'autres problèmes en comorbidité comme l'anxiété, les TOC, etc.
+	- Travailler sur d'autres problèmes en comorbidité comme l'[[anxiété]], les [[TOC]], etc.
 
 TTT
 
 - Pharmaco 
 	- [[Neuroleptiques]] traditionnels : efficace sur les symptômes positifs mais effets secondaires importants 
-		- Extrapyramidaux, similaire à Parkinson
-	- Neuroleptique deuxième génération : Réduction des symptômes positifs ET négatifs. Moins d'effets sur le fonctionnement cognitif : pas d'engourdissement intellectuel. 
+		- Extrapyramidaux, similaire à [[Parkinson]]
+	- Neuroleptique deuxième génération : Réduction des symptômes positifs ET négatifs. Moins d'effets sur le fonctionnement [[cognition|cognitif]] : pas d'engourdissement intellectuel. 
 		- Mais : Peuvent induire un syndrome métabolique avec résistance à l'insuline, prise de poids et hypertension. 
 
 - Cognitivo-comportementale 
-	- Souvent en groupe de jeunes schizophrènes/psychotiques.
+	- Souvent en groupe de jeunes [[schizophrénie|schizophrènes]]/psychotiques.
 	- Augmenter l'adhérence au traitement 
 	- Psychoéducation : voir au dessus. 
 	- Stratégie de résolution des problèmes. 
@@ -143,12 +143,12 @@ TTT
 
 ## Trouble psychotique bref 
 
-- Présence de [[symptômes psychotiques]] - dans des situations de stress ou autres - pour une durée inférieure à 1 mois. 
+- Présence de [[symptômes psychotiques]] - dans des situations de [[stress]] ou autres - pour une durée inférieure à 1 mois. 
 - Probablement dû à une prédisposition mais sans persistance dans le temps.
 
 DSM
 1. Présence d'au moins un des 4 symptômes 
-	- Idées délirantes 
+	- [[Délire|idées délirantes]] 
 	- [[Hallucinations]]
 	- [[Discours désorganisé]] 
 	- Comportement désorganisé ou catatonique 
@@ -177,8 +177,8 @@ TTT
 
 ## Trouble délirant 
 
-- Présence d'une ou plusieurs idées délirantes pendant 1 mois ou plus. 
-	- Sans satisfaction du critère A de la schizophrénie 
+- Présence d'une ou plusieurs [[idées délirantes]] pendant 1 mois ou plus. 
+	- Sans satisfaction du critère A de la [[schizophrénie]] 
 - Pas d'hallucinations 
 - Délires souvent bien plus structurés que dans la schizophrénie 
 	- Si bien présentés qu'ils peuvent paraître crédibles.
@@ -194,9 +194,9 @@ TTT
 	- Peu de recherches existent donc sur ce problème. 
 
 DSM
-1. Une ou plusieurs idées délirantes pendant au moins 1 mois 
+1. Une ou plusieurs [[Délire|idées délirantes]] pendant au moins 1 mois 
 2. Premier critère de la schizophrénie éliminé 
-3. Pas de différence dans le fonctionnement de l'individu, hormis dans le domaine du délire.
+3. Pas de différence dans le fonctionnement de l'individu, hormis dans le domaine du [[délire]].
 4. Si symptômes maniaques / dépressifs : bref en comparaison à la durée de ce trouble. 
 5. Non expliqué par un autre trouble mental ou effet de substance.
 - Divers troubles délirants:
@@ -208,7 +208,7 @@ DSM
 
 TTT
 - Intervention difficile : méfiance accompagnant souvent la problématique, peu de consultation.
-- Méfiance -> les pousse à la dépression/idées suicidaires/agressivité 
+- Méfiance -> les pousse à la [[dépression]]/idées suicidaires/agressivité 
 	- -> Consultation.
 		- Difficile d'établir une relation de confiance.
 			- -> Difficile d'aider.
@@ -217,7 +217,7 @@ TTT
 			- Ne pas confronter les croyances délirantes 
 				- Adopter une position intermédiaire : entre la confrontation et l'adhésion
 			- Si un lien de confiance est établit, possible de commencer à semer le doute sur la conviction délirante : "êtes vous certain ?", "D'ou vient cette idée ?"
-			- Puis : Suggérer des croyances intermédiaires *(Nardone: incorporer des éléments supplémentaires dans les idées délirantes)*.
+			- Puis : Suggérer des croyances intermédiaires *(Nardone: incorporer des éléments supplémentaires dans les [[Délire|idées délirantes]])*.
 				- Ex pour le type persécutoire : Peut être que les gens ne rient pas de vous, mais pour d'autres raisons. 
 			- Si le patient n'arrive pas à douter de ses croyances : possible de lui suggérer qu'il dépense trop d'énergie à essayer de convaincre les autres et qu'il est préférable de n'en parler qu'en [[psychothérapie]]
 		- Processus très progressif.
@@ -241,9 +241,9 @@ TTT
 DSM
 
 1. Un des deux:
-	- Idées délirantes
-	- Hallucinations 
-2. Après la prise de médicaments / durant une intoxication ou sevrage d'une substance et que le médicament/substance est reconnu.e pour provoquer ces symptôme. 
+	- [[Délire|idées délirantes]]
+	- [[Hallucinations]] 
+2. Après la prise de médicaments / durant une intoxication ou [[sevrage]] d'une substance et que le médicament/substance est reconnu.e pour provoquer ces symptôme. 
 3. Pas attribué à un autre trouble mental, dont la présence de psychose. 
 4. Perturbation n'apparait pas exclusivement durant un syndrome confusionnel
 5. Détresse cliniquement significative/altération du fonctionnement. 
@@ -256,15 +256,15 @@ TTT
 
 ## Trouble psychotique dû à une autre affection médicale 
 
-1. Idées délirantes / hallucinations attribuable à une autre affection médicale 
-	- Epilepsie 
+1. [[Délire|idées délirantes]] / [[Hallucinations]] attribuable à une autre affection médicale 
+	- [[épilepsie|epilepsie]] 
 	- Tumeur cérébrale 
-	- Infection SNC
+	- Infection [[SNC]]
 	- AVC
 	- Migraines sévères 
 	- Troubles endocriniens 
 2. Non attribuable à un syndrome confusionnel
-3. Détresse significative
+3. [[Détresse]] significative
 
 TTT
 - Dépend de la réussite du traitement l'affection médicale 
@@ -281,7 +281,7 @@ DSM
 - **Prise de posture** : maintien contre la gravité d'une posture prise spontanément 
 - **Maniérisme** : caricature d'actions ordinaires empreinte de bizarrerie, de solennité
 - **Stéréotypie** : mouvement non dirigés vers un but, répétitifs et anormalement fréquents
-- **Agitation**, non influencé par des stimuli externes 
+- **Agitation**, non influencé par des [[stimulus|stimuli]] externes 
 - **Expression faciale avec grimace**
 - **Echolalie** : répétition des paroles d'une autre personne 
 - **Echopraxie** : répétition des mouvements d'une autre personne. 

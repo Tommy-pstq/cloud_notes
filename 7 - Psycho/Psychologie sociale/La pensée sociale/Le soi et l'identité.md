@@ -11,7 +11,7 @@
 - le soi présent & le soi rétrospectif peuvent se contredire. 
 	- Fonction pragmatique : la survie dépend plus des éléments négatifs que positifs.
 
-- Soi = associé à nos relations sociales.
+- Soi = associé à nos [[relations sociales]].
 	- Définition de certaines nos caractéristiques par rapport à d'autres, par différenciation ou identification. 
 	- Définition de certaines de nos caractéristiques PAR autrui.
 
@@ -110,7 +110,7 @@
 
 - Fin des années 60, expérience d'attente pour augmenté la récompense :
 	- Soit l'enfant peut avoir une friandise immédiatement, soit le double s'il attend 15 minutes.
-		- Les enfants ne parvenant pas à attendre 15 minutes obtenaient des scores moins élevés à l'entrée de l'université, plus de difficulté à faire face au stress, moins heureux, moins populaires, difficultés à maintenir leur attention.
+		- Les enfants ne parvenant pas à attendre 15 minutes obtenaient des scores moins élevés à l'entrée de l'université, plus de difficulté à faire face au stress, moins heureux, moins populaires, difficultés à maintenir leur [[attention]].
 
  - Concept de "délai de gratification" : prospection d'un soi futur prenant le dessus sur les envies immédiates. Qualifié de "transcendance du soi", opposé au "carpe diem" épicurien. 
 
@@ -232,7 +232,7 @@
 	- Touche également les performances intellectuelles : expériences ou des étudiants & étudiantes doivent réaliser des exercices de mathématiques en ayant essayé juste avant un maillot de bain ou un pull bouffant.
 		- Pas d'impact sur les performances des hommes.
 		- Moins bons résultats après avoir essayé un maillot de bain qu'un pull chez les femmes.
-			- Attention détournée.
+			- [[Attention]] détournée.
 			- Sentiment de honte corporelle plus important lors de l'essaie du maillot de bain.
 
 ## Du soi individuelle à l'identité sociale 

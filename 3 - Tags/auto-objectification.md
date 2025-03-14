@@ -8,7 +8,7 @@
 				- **Le corps n'est plus envisagé de l'intérieur mais à travers la perspective d'une personne extérieure** : [[auto-objectification]].
 
 	- Ex : Une écolière doit lancer une balle / javelot en cours de sport.
-		- Le corps doit être 'sujet' de l'action. Mais, l'attention d'un femme sera partagée dans ce genre de tâche
+		- Le corps doit être 'sujet' de l'action. Mais, l'[[attention]] d'un femme sera partagée dans ce genre de tâche
 			- D'une part sur l'action à accomplir plutôt que sur le but à poursuivre : son attention se dirige sur sa propre action et en particulier sur son corps en action.
 			- D'autre part, la lanceuse peut adopter la perspective d'une observateurice sur son propre corps: elle se demande de quoi elle à l'air aux yeux des autres qui la regardent lancer un javelot -> concentration détournée -> mouvement moins fluide. 
 		- L'attention partagée chez la femme peut nuire à sa performance physique. 

@@ -82,7 +82,7 @@
 				- Fierté de résister à la tentation
 	- <u>Régulation</u>
 		- Régulation d'avantage active et initiée de façon autonome 
-		- Augmentation de l'utilisation de stratégies cognitives. Moindre dépendance aux stratégies comportementales 
+		- Augmentation de l'utilisation de [[Thérapie cognitive|stratégies cognitives]]. Moindre dépendance aux stratégies comportementales 
 		- Enrichissement du répertoire de stratégies
 
 - <u>Régulation de la colère chez l'enfant</u>
@@ -150,9 +150,9 @@
 - Considéré comme un besoin inné & fondamental. 
 
 - [[Styles d'attachements]] (via paradigme de la situation étrange (mère/bébé/étrangère dans une pièce avec entrées/sorties))
-	- **Sécure** : détresse au départ de la mère mais rapidement réconforté à son retour
+	- **Sécure** : [[détresse]] au départ de la mère mais rapidement réconforté à son retour
 		- -> Confiance en la disponibilité de la mère 
-	- **Insécure évitant** : Pas de signe de détresse évident lors de la séparation. Evite ou ignore la mère au retour
+	- **Insécure évitant** : Pas de signe de [[détresse]] évident lors de la séparation. Evite ou ignore la mère au retour
 		- -> Difficulté à exprimer ses émotions ou dépendance.
 	- **Insécure ambivalent résistant** : Très angoissé par la séparation et comportements ambivalents lors de la réunion (recherche et évitement du contact)
 		- -> Incertitude quant à la disponibilité de la mère 

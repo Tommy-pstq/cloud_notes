@@ -10,7 +10,7 @@
 
 DSM 
 1. Un ou plusieurs symptômes somatiques causant de le détresse ou modifiant la vie quotidienne. 
-2. Pensées/préoccupations ou comportements excessifs en rapport avec ces symptômes, préoccupation constante vis à vis de l'état de santé, au moins une des manifestations:
+2. Pensées/préoccupations ou comportements [[Disproportion|excessifs]] en rapport avec ces symptômes, préoccupation constante vis à vis de l'état de santé, au moins une des manifestations:
 	- Pensées persistantes & exagérées sur la gravité d'un problème de santé
 	- Niveau d'anxiété élevé concernant la santé
 	- Temps & énergie dépensés sur ces symptômes ou question de santé exagérés
@@ -35,7 +35,7 @@ DSM
 1. Préoccupations de développer éventuellement des maladies. 
 2. Absence de symptômes somatiques importants
 3. La santé est une source d'anxiété / préoccupations 
-4. Comportements excessifs liés à la santé / la maladie 
+4. Comportements [[Disproportion|excessifs]] liés à la santé / la maladie 
 	- vérifications constantes de signe de maladie 
 	- visite fréquentes / absence totale de visite chez des professionnels de santé 
 5. Problèmes présents depuis > 6 mois 
@@ -50,7 +50,7 @@ TTT
 ## Trouble de conversion (trouble à symptomatologie neurologique fonctionnelle)
 
 - Principalement : personnes ayant des problèmes de motricité / sensoriels sans que la cause neurologique / médicale soit identifiée. 
-	- Ex  : Tremblements, dystonie, difficultés à avaler/marcher, crises similaires à de l'épilepsie, difficultés d'élocution, visuelles/olfactives/auditives etc.
+	- Ex  : [[Tremblement|Tremblements]], dystonie, difficultés à avaler/marcher, crises similaires à de l'épilepsie, difficultés d'élocution, visuelles/olfactives/auditives etc.
 - Symptômes mis en évidence par Freud, représentations physiques de problèmes psychiques : hystérie de conversion. 
 - Peut entrainer des manifestations spectaculaires : cécité, perte de fonctionnement des jambes/bras, incapacité de parler 
 
@@ -58,7 +58,7 @@ DSM
 1. Présence de symptômes qui altèrent la motricité ou fonctionnement sensoriel
 2. Sans cause médical réelle
 3. Pas mieux expliqué par un autre trouble mental
-4. Détresse psychologique / altération du fonctionnement 
+4. [[Détresse]] psychologique / altération du fonctionnement 
 
 TTT
 

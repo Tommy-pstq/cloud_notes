@@ -27,7 +27,7 @@
 			- [[SNC]]
 				- Sédation
 				- Epilepsie
-				- Troubles de la concentration / étourdissement
+				- Troubles de la [[attention|concentration]] / étourdissement
 			- Constipation / Hypersalivation
 
 [[épilepsie]] 

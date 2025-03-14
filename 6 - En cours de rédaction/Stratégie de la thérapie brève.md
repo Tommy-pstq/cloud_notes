@@ -24,7 +24,7 @@ Paul Watzlawick, Giorgio Nardone
 			- Einstein : "La théorie décide de ce que nous allons observer"
 
 - Lien avec la psycho ?
-	- Exemple du cas d'une patiente décrite comme psychotique/en crise de schizophrénie avec dissociation et devant être transférée d'hôpital. 
+	- Exemple du cas d'une patiente décrite comme psychotique/en crise de schizophrénie avec [[dissociation]] et devant être transférée d'hôpital. 
 		- Les ambulanciers trouve une femme parfaitement calme dans une salle et lui demande de les accompagner.
 			- La femme entre dans un état violent avec des signes de déréalisation, conformément aux informations fournies aux personnels chargés du transport.
 		- L'ambulance sera arrêtée à un barrage routier par la police, la femme dans l'ambulance n'étant qu'une personne extérieur attendant de visiter un proche.

@@ -28,7 +28,7 @@ DSM
 	- Déréalisation : sentiment de détachement de la réalité ou que l'environnement est perçu comme irréel ou différent de ce qu'il est objectivement. 
 		- Perception onirique, irréelle, déformée, brouillée, étrange, visuellement déformée. 
 2. Maintien du sens de la réalité pendant les épisodes.
-3. Détresse significative / altération du fonctionnement 
+3. [[Détresse]] significative / altération du fonctionnement 
 4. Pas la conséquence d'utilisation de substances ou d'une autre affection médicale (ex: épilepsie).
 5. D'autres diagnostiques de trouble mental comme la schizophrénie, trouble panique, dépression caractérisée, PTDS ont été éliminés. 
 
@@ -44,7 +44,7 @@ TTT
 
 ## Amnésie dissociative
 
-- Trouble dissociatif sévère.
+- Trouble [[dissociation|dissociatif]] sévère.
 	- Amnésie dissociative généralisée : aucun souvenir, même de son identité. 
 	- Plus spécifique : Événements précis, souvent de nature traumatique.
 DSM

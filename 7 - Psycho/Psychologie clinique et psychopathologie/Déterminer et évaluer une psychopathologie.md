@@ -30,10 +30,10 @@
 
 - Pas de diag mais une évaluation complète du fonctionnement.
 	- Ex: [[évaluation fonctionnelle]].
-		- Enumération des comportements problématiques et positifs, en mettant en évidence les comportements excessifs (ex: délires), déficitaires (ex: déficit dans les habiletés sociales) d'une part et les comportements adéquats d'autres part (ex: occupation d'un emploi régulier etc.).
+		- Enumération des comportements problématiques et positifs, en mettant en évidence les comportements excessifs (ex: délires), déficitaires (ex: déficit dans les [[habiletés sociales]]) d'une part et les comportements adéquats d'autres part (ex: occupation d'un emploi régulier etc.).
 		- Evaluation de la fréquence des [[comportements inadéquats]] et leur intensité 
 		- Déterminer ce qui initie/maintient les [[comportements inadéquats]] et leur intensité 
-		- Etude du développement, des relations sociales, capacité de contrôles sur certains comportements difficiles 
+		- Etude du développement, des [[relations sociales]], capacité de contrôles sur certains comportements difficiles 
 	- Permet d'arriver à une vue détaillée et plus globale d'une personne plutôt qu'une simple étiquette de diag. 
 		- Met en valeur les aspects positifs, permet de déterminer les méthodes d'aide les plus appropriées. 
 
@@ -41,7 +41,7 @@
 
 *[[Ouvrage]] pertinent : "Protocoles et échelles d'évaluation en psychiatrie et psychologie" de Martine Bouvard et Jean Cottraux*
 
-- Association des comportements a une détresse (personnelle ou dans son environnement) importante 
+- Association des comportements a une [[détresse]] (personnelle ou dans son environnement) importante 
 - Entraine des difficultés dans le fonctionnement quotidien.
 - Dangerosité : envers soi ou pour les autres (rare)
 - Violation de normes et/ou règles (rare) - surtout troubles de la personnalité anti-sociale
@@ -78,4 +78,4 @@
 
 -> Nouvelles versions du DSM : propose une psychopathologie essentiellement descriptive, pour chaque pathologie il faut déterminer s'il y a présence ou non d'un certain nombre de symptômes. 
 
-- Le patient est le premier et seul juge des situations lui causant de la détresse. 
+- Le patient est le premier et seul juge des situations lui causant de la [[détresse]]. 

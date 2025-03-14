@@ -249,7 +249,7 @@ La zone centrale la plus souvent identifiée en même temps que le [[cortex pré
 - Implication dans [[mémoire]] autobiographique & fonctions [[attention|attentionnelles]]. 
 - -> Plusieurs hypothèses:
 	1. Récupération d'informations sur un item pour estimer sa valeur subjective
-		- En déduire des items préférés et donc focaliser l'attention
+		- En déduire des items préférés et donc focaliser l'[[attention]]
 	2. Traite les signaux [[sensorialité|sensoriels]] pour reconnaître les objets. 
 		- Connectivité fonctionnelle avec le [[cortex préfrontal ventro-médian|VMPFC]] permet d'estimer leur valeur subjective. 
 
@@ -316,7 +316,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 #### [[Parkinson]] 
 
 - Pertes neurales focales des neurones dopaminergiques. 
-	- Troubles principalement liés au mouvement (tremblement & initiation de mouvement)
+	- Troubles principalement liés au mouvement ([[tremblement]] & initiation de mouvement)
 	- Altération dans l'apprentissage fondé sur la récompense
 		- Ex: choix d'un plat malodorant, peut être reproduit à la prochaine visite au restaurant
 	- Déficit spécifique dans la prise de décision lié au risque
@@ -347,7 +347,7 @@ cortex préfrontal dorsal : déficits comportementaux dans les prises de décisi
 [[Addiction]] & compulsions : ce qui affecte le plus la prise de décision. 
 
 1. Dépendances: **probablement** causées par un dérèglement fronto-striatal (potentiellement dopaminergique).
-2.  [[TOC|Troubles Obsessionnels Compulsif]] : exécution d'action répétitives et fonctionnelles principalement effectuées pour soulager la détresse induite par des pensées intrusives (obsessions)
+2.  [[TOC|Troubles Obsessionnels Compulsif]] : exécution d'action répétitives et fonctionnelles principalement effectuées pour soulager la [[détresse]] induite par des pensées intrusives (obsessions)
 
 	- Semblent liés à des perturbations de la prise de décision fondée sur les valeurs:
 		- Impulsivité accrue 

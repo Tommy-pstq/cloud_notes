@@ -10,7 +10,7 @@
 	- Problème grave, effets sur la santé:
 		- Usure de l'émail des dents suites aux vomissement 
 		- Déchirure de l'oeusophage 
-		- Déséquilibre électrolytes -> arythmie cardiaque/convulsions/insuffisance rénales 
+		- Déséquilibre électrolytes -> [[Symptômes cardiaques|arythmie]] cardiaque/[[Convulsion|convulsions]]/insuffisance rénales 
 		- Endommagement du colons par l'usage répété de laxatifs 
 
 DSM 

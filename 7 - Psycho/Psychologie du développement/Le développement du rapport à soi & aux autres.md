@@ -27,7 +27,7 @@
 		- Soi possessif : possession d'objets/personnes 
 	- [[Soi adaptatif]] 
 		- Valeur de soi : compétence/valeur personnelle 
-		- Activité du soi : stratégies d'[[adaptation]]/autonomie/style de vie 
+		- Activité du soi : stratégies d'[[adaptation]]/[[autonomie]]/style de vie 
 	- **[[Soi personnel]]**
 		- Image de soi : activités & aspirations / sentiments & [[émotion|émotions]] / goûts & intérets / capacités & aptitudes 
 		- Identité de soi : rôles et statuts / idéologie / identité abstraite 

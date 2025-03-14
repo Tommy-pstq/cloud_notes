@@ -8,7 +8,7 @@
 			- Important de préserver l'harmonie entre les groupes.
 	- Ceux qui résistent :
 		- Davantage confiance en leur sens que l'opinion du groupe
-		- Indépendance en hausse dans les études récentes. 
+		- [[autonomie|Indépendance]] en hausse dans les études récentes. 
 
 ### Influence normative & informationnelle 
 

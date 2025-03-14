@@ -11,16 +11,16 @@
 DSM
 1. Altération du fonctionnement + Au moins 2 des manifestations 
 	- Quantité importante d'alcool consommé ou augmentation de la durée de la consommation 
-	- Souhait persistant mais infructueux de la personne de diminuer sa consommation
+	- Souhait **persistant mais infructueux** de la personne de diminuer sa consommation
 	- Augmentation du temps consacré à ses procurer/consommer/récupérer des effets de l'alcool
-	- Fort désir de consommer de l'alcool
+	- Fort [[désir]] de consommer de l'alcool
 	- Incapacités au niveau : professionnel / académique /domestique à cause de la consommation
-	- Poursuite de la consommation malgré des problèmes récurrents 
-	- Abandon d'activités importantes : travail/famille/Sociale 
+	- **Poursuite** de la consommation malgré des problèmes récurrents 
+	- Abandon **d'activités importantes** : travail/famille/[[social|sociale]] 
 	- Consommation dans des situations dangereuses 
-	- Poursuite de l'usage de l'alcool même si le sujet connait les conséquencs psychologiques ou physiques causées ou augmentées par l'alcool
-	- Tolérance
-	- Sevrage 
+	- Poursuite de l'usage de l'alcool **même si le sujet connait les conséquences** [[psychologie|psychologiques]] ou physiques causées ou augmentées par l'alcool
+	- [[Tolérance]]
+	- [[Sevrage]] 
 
 ### Intoxication
 
@@ -28,7 +28,7 @@ DSM
 - Manque de [[coordination]] motrice 
 - Démarche typique de l'état d'ébriété 
 - Mouvements répétitifs et incontrôlables des yeux (nystagmus)
-- Mémoire / attention diminuée 
+- [[mémoire]] / [[attention]] diminuée 
 - Inertie, insensibilité / coma
 
 ### Sevrage de l'alcool
@@ -39,15 +39,15 @@ DSM
 DSM 
 1. Arrêt prolongé d'une consommation d'alcool
 2. Apparition d'au moins 2 manifestations 
-	- Transpiration / accélération du rythme cardiaque 
-	- Tremblement des mains 
-	- Insomnie 
-	- Nausée / vomissement 
-	- [[Hallucinations]], illusions de diverses modalités sensorielles 
+	- [[Transpiration]] / accélération du [[Symptômes cardiaques|rythme cardiaque]] 
+	- [[Tremblement]] des mains 
+	- [[insomnie]] 
+	- [[Nausée]] / vomissement 
+	- [[Hallucinations]], illusions de diverses modalités [[sensorialité|sensorielles]] 
 	- Agitation 
-	- Anxiété 
-	- Convulsion
-3. Détresse significative / altération du fonctionnement 
+	- [[anxiété]] 
+	- [[Convulsion]]
+3. [[Détresse]] significative / altération du fonctionnement 
 4. Non attribuable à une autre affection médicale
 
 
@@ -63,14 +63,14 @@ TTT Alcool
 - Important : prévention de rechute. 
 	- Identifier les croyances inappropriées associées à l'utilisation d'alcool.
 	- Circonstances menant à la conso
-	- Prévoir des comportements alternatifs. (Aller chercher un support vers un membre d'un groupe d'entraide / faire du sport )
+	- **Prévoir des comportements alternatifs**. (Aller chercher un support vers un membre d'un groupe d'entraide / faire du sport )
 	- Phénomène fréquent, ne pas en faire une catastrophe. 
 
 ## Les sédatifs, hypnotiques ou [[anxiolytiques]]  (tranquillisants)
 
 ### Trouble de l'usage des sédatifs, hypnotiques 
 
-- Pour contrer l'anxiété. 
+- Pour contrer l'[[anxiété]]. 
 	- Nommément : [[benzodiazépines]] (Valium, Ativan, Xanax etc.)
 	- Utilisation ponctuelle : Oui. Si régulière, gros risque :
 		- Accoutumance + dépendance
@@ -82,11 +82,11 @@ DSM
 	- Efforts non réussis pour contrôler la consommation de ces médicaments. 
 	- Beaucoup de temps passer pour obtenir / utiliser / récupérer des effets 
 	- Besoin important d'utiliser ces médicaments 
-	- Impossibilité de remplir les obligations professionnelles/académiques/sociales etc
+	- Impossibilité de remplir les obligations professionnelles/académiques/[[social|sociales]] etc
 	- Usage continu des médicaments en dépit des conséquences négatives 
-	- Abandon/Réduction des activités pro/sociales/académiques 
+	- Abandon/Réduction des activités pro/[[social|sociales]]/académiques 
 	- Usage des substances dans des situations potentiellement dangereuses 
-	- Développement d'une tolérance manifestée par l'un des deux symptômes :
+	- Développement d'une [[tolérance]] manifestée par l'un des deux symptômes :
 		- Besoin de quantité plus forte 
 		- Diminution de l'effet en cas d'usage d'une même quantité 
 	- Symptômes de sevrage.
@@ -96,18 +96,18 @@ DSM
 TTT
 
 - Stratégie = diminution progressive.
-- Pour les insomnies / anxiété : proposition d'alternatives non pharmacologiques 
+- Pour les insomnies / [[anxiété]] : proposition d'alternatives non pharmacologiques 
 	- [[Relaxation]] / [[pleine conscience]]
-- Suivit psychologique individuel / en groupe.
+- Suivit [[psychologie|psychologique]] individuel / en groupe.
 - Méthodes de prévention de rechute.
 
 ## Les stimulants.
 
 ### Trouble de l'usage de stimulants 
 
-- [[amphétamines|Amphet]] : Energie en réduisant la fatigue mais ensuite fatigue et dépression.
-- Cocaïne : Euphorie, augmentation de l'état d'alerte, insomnie, perte d'appétit, augmentation pression sanguine / rythme cardiaque. 
-	- -> sevrage = apathie + profond sentiment d'ennui.
+- [[amphétamines|Amphet]] : Energie en réduisant la [[fatigue]] mais ensuite [[fatigue]] et [[dépression]].
+- Cocaïne : Euphorie, augmentation de l'état d'alerte, [[insomnie]], perte d'appétit, augmentation pression sanguine / [[Symptômes cardiaques|rythme cardiaque]]. 
+	- -> sevrage = [[apathie]] + profond [[Sentiments|sentiment]] d'ennui.
 
 DSM 
 1. Usage entrainant une altération du fonctionnement accompagnée de souffrance pendant au moins 12 mois associé à au moins 2 caractéristiques:
@@ -117,28 +117,28 @@ DSM
 	- Besoin import d'utiliser les stimulants 
 	- Impossibilité de remplir les obligations 
 	- Usage continu en dépit des conséquences problématiques 
-	- Abandon des activités sociales / loisirs / pro
+	- Abandon des activités [[social|sociales]] / loisirs / pro
 	- Usage dans des circonstances dangereuses 
-	- Usage poursuivi malgré la connaissances des difficultés psychologiques & physiques associés 
-	- Tolérance
+	- Usage poursuivi malgré la connaissances des difficultés [[psychologie|psychologiques]] & physiques associés 
+	- [[Tolérance]]
 	- Sevrage. 
 
 ### Intoxication 
 
 DSM 
 1. Usage récent 
-2. Changement comportementaux / psychologiques significatifs sur le plan clinique:
+2. Changement comportementaux / [[psychologie|psychologiques]] significatifs sur le plan clinique:
 	- Euphorie / sociabilité / [[colère]] / altération du jugement 
 3. Manifestation $\geq$ 2:
-	1. Tachycardie / bradycardie
+	1. [[Symptômes cardiaques|Tachycardie]] / bradycardie
 	2. Pupille dilatée 
 	3. Altération de la pression artérielle 
-	4. Transpiration / frisson
+	4. [[Transpiration]] / frisson
 	5. Nausée / vomissement 
 	6. Diminution du poids 
 	7. Agitation / Ralentissement moteur 
 	8. Faiblesse musculaire / dépression respiratoire / douleur thoracique 
-	9. Confusion / convulsion / coma 
+	9. Confusion / [[convulsion]] / coma 
 
 ### Sevrage d'un stimulant 
 DMS
@@ -146,14 +146,14 @@ DMS
 2. Symptômes $\geq$ 
 	- épuisement
 	- [[rêves]] déplaisants 
-	- insomnie / hypersomnie 
+	- [[insomnie]] / hypersomnie 
 	- augmentation de l'appétit 
 	- ralentissement / agitation
 3. Détresse significative. 
 
 TTT
 
-- Complexe, aspect médical & psychologique 
+- Complexe, aspect médical & [[psychologie|psychologique]] 
 - Psychologie :
 	- Entrevue motivationnelle : stimuler la détermination à cesser l'usage des drogues dans un premier temps.
 	- Renforcement : rendre le mode de vie plus positif sans ces substances 
@@ -166,19 +166,19 @@ TTT
 
 - Une des substances stimulantes longtemps perçue comme "normale". 
 
-- Désormais : nicotine = psychoactif entrainant dépendance, accoutumance & sevrage. 
+- Désormais : [[nicotine]] = psychoactif entrainant dépendance, accoutumance & [[sevrage]]. 
 - Utilisation souvent lié à d'autres problèmes, notamment des états dépressifs. 
 
 DSM 
 1. Altération du fonctionnement ou s'accompagnant d'une souffrance clinique avec présence d'au moins 2 manifestations au cours des 12 derniers mois 
 	- Consommation plus importante que souhaité 
-	- Désir important et infructueux de diminuer l'usage 
+	- [[désir]] important et infructueux de diminuer l'usage 
 	- Envie impérieuse d'utiliser des produits avec nicotine 
 	- Usage conduisant à une incapacité à remplir des obligations 
 	- Usage continu des produits en dépit des conflits interpersonnels occasionnés 
 	- Abandon d'activité 
 	- Consommation en situation dangereuse 
-	- Poursuite de la consommation malgré le fait que la personne présente des problèmes de santé psychologique ou physique qui en résulte & qui sont amplifiés 
+	- Poursuite de la consommation malgré le fait que la personne présente des problèmes de santé [[psychologie|psychologique]] ou physique qui en résulte & qui sont amplifiés 
 	- Tolérance
 	- Sevrage.
 
@@ -187,13 +187,13 @@ DSM
 DSM
 
 1. Après arrêt, au moins 4 des symptômes:
-	- Irritabilité, frustration, colère 
-	- anxiété
-	- Diminution de la concentration
+	- Irritabilité, frustration, [[colère]] 
+	- [[anxiété]]
+	- Diminution de la [[attention|concentration]]
 	- Augmentation de l'appétit 
 	- Etat fébrile 
 	- Humeur dépressive
-	- Insomnie 
+	- [[insomnie]] 
 2. Détresse clinique significative ou changement de comportement. 
 3. Manifestations pas mieux expliquées par un autre trouble mental 
 
@@ -201,7 +201,7 @@ TTT
 
 - Substitution nicotinique 
 - Zyban (wellbutrin)
-- Thérapie de groupe / TCC
+- [[Thérapie de groupe]] / [[Thérapie cognitivo- comportementale|TCC]]
 - Diminution progressive de la quantité quotidienne de nicotine 
 
 ## La caféine 
@@ -216,7 +216,7 @@ DSM.
 | ------------ | ------------------------------- | --------------------- |
 | Nervosité    | Soubresauts                     | Pb gastro-intestinaux |
 | Excitation   | Pensée/discours moins cohérents | Agitation             |
-| Insomnie     | Tachycardie & arythmie          | Infatigabilité        |
+| [[insomnie]]     | Tachycardie & arythmie          | Infatigabilité        |
 3. Détresse clinique significative / changement dans le fonctionnement 
 4. Pas explicable par une autre affection 
 
@@ -226,24 +226,24 @@ DSM
 1. Consommation prolongée & quotidienne 
 2. Arrêt brutal ou progressif avec apparition d'au moins 3 symptômes 
 	- Céphalées 
-	- Fatigue / somnolence significative
-	- Irritabilité / dépression / variation de l'humeur
-	- Problèmes de concentration
+	- [[fatigue]] / [[somnolence]] significative
+	- Irritabilité / [[dépression]] / variation de l'humeur
+	- Problèmes de [[attention|concentration]]
 	- Nausée, vomissements, raideur ou douleur musculaire.
 3. Détresse significative. 
 
 
 ## Opiacés
 
-- Effet sur la douleur, aide au sommeil
-- Euphorie, somnolence, ralentissement de la respiration
+- Effet sur la douleur, aide au [[sommeil]]
+- Euphorie, [[somnolence]], ralentissement de la respiration
 	- Jusqu'à détresse respiratoire entrainant la mort. 
 - Symptômes de sevrage grave dès 6h après l'arrêt. 
 	- Nausées, vomissements 
 	- Bâillements, frémissements 
 	- Douleurs musculaires
 	- Diarrhées
-	- Insomnie 
+	- [[insomnie]] 
 	- Larmes / écoulement nasal
 	- fièvre
 
@@ -277,7 +277,7 @@ DSM
 		- Se remémore les expériences passées 
 		- Les projets de jeu futur
 		- Comment se procurer de l'argent pour aller jouer 
-	- Joue souvent dans des circonstances de détresse (anxiété, dépression, impuissance, culpabilité etc.)
+	- Joue souvent dans des circonstances de détresse (anxiété, [[dépression]], impuissance, culpabilité etc.)
 	- Tenter de jouer à nouveau pour gagner l'argent perdu ("se refaire")
 	- Mensonges pour cacher les importantes habitudes de jeu. 
 	- Met en péril des aspects importants : relations clé / emploi / études / carrière éventuelle 
@@ -286,7 +286,7 @@ DSM
 
 TTT
 
-- TCC :
+- [[Thérapie cognitivo- comportementale|TCC]] :
 	- Prise de conscience des idées erronées concernant le jeu & le hasard. 
 		- Explore les pensées qu'il a eu avant, pendant & après une séance de jeu. 
 			- Prend conscience des idées qui le poussent à jouer. (Ex: "aujourd'hui c'est ma journée pour gagner" )
@@ -299,16 +299,16 @@ TTT
 
 ### Trouble du jeu vidéo
 
-- Activité pouvant affecter le fonctionnement psychologique & social.
+- Activité pouvant affecter le fonctionnement [[psychologie|psychologique]] & social.
 
-- Cyberdépendance : utilisation excessive d'internet.
+- Cyberdépendance : utilisation [[Disproportion|excessive]] d'internet.
 
 - Un état de manque en absence de connexion internet :
 	- Irritabilité
 	- Ennui
-	- Tristesse
-	- Anxiété
+	- [[Tristesse]]
+	- [[anxiété]]
 	- Agressivité 
-- Symptôme de tolérance : Nombre d'heure consacrées à l'activité / meilleur équipement / Achat d'application ou de jeux. 
+- Symptôme de [[tolérance]] : Nombre d'heure consacrées à l'activité / meilleur équipement / Achat d'application ou de jeux. 
 
 - Problèmes relationnels, professionnels, conjugaux. 

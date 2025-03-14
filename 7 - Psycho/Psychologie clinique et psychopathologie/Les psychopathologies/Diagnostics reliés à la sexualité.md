@@ -5,11 +5,11 @@
 
 - Interactions biologie / psychologie 
 	- "Avant 50 : problème psycho, après, peut être médical". 
-- Intriqué avec d'autres troubles mentaux, comme la dépression. 
+- Intriqué avec d'autres troubles mentaux, comme la [[dépression]]. 
 
 ### Les problèmes de désir sexuel 
 
-- Baisse de désir sexuel : problème complexe, présent chez l'homme & la femme. 
+- Baisse de [[désir]] sexuel : problème complexe, présent chez l'homme & la femme. 
 	- Souvent multifactoriel 
 		- Difficultés d'excitation -> baisse d'intérêt pour la sexualité 
 		- Problèmes sexuels chez la/le partenaire 
@@ -20,10 +20,10 @@
 
 #### Trouble de l'intérêt pour l'activité sexuelle ou de l'excitation sexuelle chez la femme 
 
-- Postulat : la baisse de désir est presque toujours lié à un manque/absence d'excitation.
+- Postulat : la baisse de [[désir]] est presque toujours lié à un manque/absence d'excitation.
 - Diag sujet à débat.
 
-- Fatigue / Stress / Ennuis de la vie quotidienne 
+- [[fatigue]] / [[stress]] / Ennuis de la vie quotidienne 
 - Schéma corporel négatif 
 - Stresseurs environnementaux (diff. financières/problèmes pro)
 - Expériences d'agressions sexuelles 
@@ -44,7 +44,7 @@ DSM
 	- - Des sensations génitales ou non génitales pendant l'activité sexuelle 
 	- Absence d'initiative / non réceptivité aux propositions du / de la partenaire 
 2. 6 mois + 
-3. Détresse 
+3. [[Détresse]] 
 4. Non attribuable substance 
 
 TTT 
@@ -52,7 +52,7 @@ TTT
 
 - Désir:
 	- Développer l'imaginaire sexuel & érotique : utilisation de fantasmes sexuels excitants 
-	- Stratégies cognitives pour contrer les idées négatives dévalorisant la sexualité 
+	- [[Thérapie cognitive|Stratégies cognitives]] pour contrer les idées négatives dévalorisant la sexualité 
 	- Méthodes de sensibilisation corporelles 
 		- Massages : non-génital -> génital 
 			- Mettre l'accent sur le plaisir et se détourner des conceptions exagérées de performances sexuelles. 
@@ -65,7 +65,7 @@ TTT
 - Appareil de succion spécifique à la femme pour augmenter l'afflux de sang dans la région génitale de la femme. 
 - [[Pleine conscience]] :
 	- Eviter les préoccupations / idées négatives / interrogations de performances avant/pendant/après les rapports 
-		- Ca augmente l'anxiété, caca. 
+		- Ca augmente l'[[anxiété]], caca. 
 
 #### Diminution du désir sexuel chez l'homme.
 
@@ -74,7 +74,7 @@ TTT
 - Possiblement associé à d'autres difficultés sexuelles
 - Conceptions exagérées de performance -> [[Evitement|évitement]] car standards perçus comme "obligatoires"
 - Facteurs communs avec les femmes : tout ce qui augmente l'anxiété générale, rend le lâcher prise plus difficile. 
-- Difficultés à exprimer leurs sentiments / souhaits au niveau sexuel 
+- Difficultés à exprimer leurs [[Sentiments]] / souhaits au niveau sexuel 
 - Âge (+) -> désir (-)
 
 TTT
@@ -89,20 +89,20 @@ TTT
 - Diag disparu entre le DSM IV & V. 
 	- Du coup, on parle de ce qui est dans le DSM IV ici. 
 
-- Problème de nature phobique, souvent relié à un traumatisme ou à des expériences sexuelles désagréables ou douloureuses (Ex: vaginisme/ peur de ressentir une forte douleur à la pénétration)
+- Problème de nature phobique, souvent relié à un traumatisme ou à des expériences sexuelles désagréables ou douloureuses (Ex: vaginisme/ [[Peur]] de ressentir une forte douleur à la pénétration)
 - Potentiellement lié à une activité particulière comme la sexualité orale, mais peu aussi être généralisé. 
 
-- Peur prendre la forme de:
-	- Peur / anxiété / [[dégout]] / [[phobie]] 
+- [[Peur]] prendre la forme de:
+	- [[Peur]] / anxiété / [[dégout]] / [[phobie]] 
 		- Pouvant être trigger par des situations sexuelles, la vue d'un pénis en érection, idées sexuelles reliées à un événement traumatisant 
 	- Cas les plus sévère, aversion : 
-		- Expérience dissociative : distanciation au cours de l'activité sexuelle en pensant à autre chose / coupant la perception des sensations sexuelles / utilisation de substances lors des activités. 
-		- Attaque de panique / anxiété extrême / sentiments de terreur / malaises / nausées / palpitations / vertiges / difficultés respiratoires 
+		- Expérience [[dissociation|dissociative]] : distanciation au cours de l'activité sexuelle en pensant à autre chose / coupant la [[perception]] des sensations sexuelles / utilisation de substances lors des activités. 
+		- Attaque de panique / anxiété extrême / [[Sentiments]] de terreur / malaises / [[Nausée|nausées]] / palpitations / vertiges / difficultés respiratoires 
 			- Entraine en [[Evitement|évitement]] des rapports / partenaires potentiels.
 
 TTT 
 
-- Forte composante d'anxiété -> traitements utilisés dans les contextes de phobies / [[troubles anxieux]] transposable. 
+- Forte composante d'anxiété -> traitements utilisés dans les contextes de [[phobie|phobies]] / [[troubles anxieux]] transposable. 
 	- Exposition 
 		- Imagerie mentale progressive
 	- [[Pleine conscience]] 
@@ -123,12 +123,12 @@ TTT
 - Pas mal de facteurs extérieurs pouvant affecter l'érection:
 	- Diminution de la vascularisation avec l'âge
 	- Médicaments 
-	- Antideps 
+	- [[Antidépresseurs]] 
 	- Maladies 
 	- Habitudes de vie:
 		- Manque d'activité physique 
 		- Tabagisme 
-		- Prise excessive d'alcool
+		- Prise [[Disproportion|excessive]] d'alcool
 		- Mauvaise habitudes alimentaires 
 - Diabète sévère : peut affecter de jeunes hommes. 
 
@@ -146,8 +146,8 @@ TTT
 - Dépend des facteurs identifiés lors de l'évaluation. 
 	- Souvent : anxiété de performance.
 		- Méthodes de sensibilisation corporelles : focus sur le plaisir plutôt que la performance. 
-	- Stratégies cognitives pour restructurer des conceptions négatives, liées à une éducations sévère ou anxiété de perf 
-	- Méthodes conjugales pour favoriser la communication
+	- [[Thérapie cognitive|Stratégies cognitives]] pour restructurer des conceptions négatives, liées à une éducations sévère ou anxiété de perf 
+	- Méthodes conjugales pour favoriser la [[communication]]
 - Pharmaco :
 	- Promouvoir la vasodilatation dans la région génitale 
 
@@ -169,7 +169,7 @@ TTT
 - Fréquemment associé à la présence de difficultés au niveau de l'excitation. 
 - Mais : Largement possible d'être très excitée mais avoir du mal à atteindre l'orgasme.
 - Quand le problème est généralisé et dure depuis toujours, on mettra l'accent sur les apprentissages nécessaires pour trouver les moyens d'entre en excitation et parvenir à l'orgasme. 
-- Communication entre partenaires. 
+- [[communication]] entre partenaires. 
 - Facteurs relationnels.
 - Facteurs personnels, ex: trauma / expériences difficiles 
 - Difficulté d'avoir des fantasmes. 
@@ -184,11 +184,11 @@ TTT
 
 - Définition clinique : "Le contrôle éjaculatoire doit durer suffisamment longtemps pour permettre une relation sexuelle satisfaisante pour les partenaires"
 - Peu de raisons de croire à l'implication de facteurs biomédicaux. 
-- Peu provoquer un niveau élevé de détresse psychologique. 
+- Peu provoquer un niveau élevé de détresse [[psychologie|psychologique]]. 
 
 TTT 
 
-- Apprendre à différer l'éjaculation. 
+- [[apprentissage|apprendre]] à différer l'éjaculation. 
 	- Reconnaître le point de non retour. 
 		- Pause, puis reprise.
 		- Compression pénienne 
@@ -248,7 +248,7 @@ TTT
 		- Recherche de pb médicaux. 
 	- Psycho :
 		- Auto-exploration : trouver les endroits douloureux 
-		- Journal pour relever les variables psychologiques / relationnelles 
+		- Journal pour relever les variables [[psychologie|psychologiques]] / relationnelles 
 			- -> Mettre en évidence les facteurs d'influence
 		- [[Thérapie cognitive]]
 		- Thérapie conjugale : recherche d'autres activités sexuelles / objectifs.
@@ -280,8 +280,8 @@ TTT
 			- Intégrations des fantaisies non déviantes de plus en plus tôt pendant la masturbation. 
 				- Objectif : masturbation complète sans rapport avec le fétiche.
 	- Identifier les triggers : remplacer les idées fétichistes pas des non-déviantes.
-	- Travail d'imagerie : Scènes d'activités fétéchistes associées avec des stimuli très désagreable, comme des scènes de vomissement.
-	- Couple : communication & fonctionnement sexuel par sensibilisation corporelle 
+	- Travail d'imagerie : Scènes d'activités fétéchistes associées avec des [[stimulus|stimuli]] très désagreable, comme des scènes de vomissement.
+	- Couple : [[communication]] & fonctionnement sexuel par sensibilisation corporelle 
 - Cas les plus graves entrainant des gestes criminels : anti-androgènes. 
 - Thérapies verbales. 
 
@@ -310,7 +310,7 @@ TTT : pareil.
 
 ### Trouble sadisme sexuel 
 
-- Excitation ./ orgasme principalement dans des situations associant l'activité sexuelle à la violence physique ou psychologique.
+- Excitation ./ orgasme principalement dans des situations associant l'activité sexuelle à la violence physique ou [[psychologie|psychologique]].
 - A distinguer du sadisme sexuel "doux" entre adultes consentants. 
 
 TTT
@@ -342,7 +342,7 @@ TTT
 - Reconditionnement orgasmique. 
 - Objectif : associer l'excitation sexuelle à un autre élément que l'enfant. 
 - Aversion par provocation d'images. 
-- Apprentissage d'habiletés sociales pour mieux interagir dans un contexte relationnel adulte, pour éventuellement initier des relations sexuelles avec des adultes. 
+- Apprentissage d'[[habiletés sociales]] pour mieux interagir dans un contexte relationnel adulte, pour éventuellement initier des relations sexuelles avec des adultes. 
 - Anti androgène
 - Thérapies verbales 
 
@@ -352,7 +352,7 @@ TTT
 
 DSM
 
-1. Sentiment profond de différence entre le genre assigné et le genre vécu, expérimenté et exprimé. 6 mois +. A travers au moins 6 des 8 manifestations, 1ère obligatoire.
+1. [[Sentiments|sentiment]] profond de différence entre le genre assigné et le genre vécu, expérimenté et exprimé. 6 mois +. A travers au moins 6 des 8 manifestations, 1ère obligatoire.
 	- Désir intense d'appartenir à l'autre genre ou exprime le fait qu'il est de l'autre genre.
 	- Garçons : forte préférences pour les vêtements de l'autre genre ou pour le travestissement en femme .
 	- Filles : fort intérêt pour porter uniquement des vêtements masculins et refus de 
@@ -362,11 +362,11 @@ DSM
 	- [[Evitement]]/Rejet des jeux/jouets/activités typiques de l'autre genre. 
 	- Aversion de sa propre anatomie sexuelle 
 	- Souhait d'avoir des caractéristiques sexuelles correspondant au sexe qu'il considère avoir comme le sien. 
-2. Détresse clinique significative/perturbation des activités sociales/scolaires/considérées comme importantes. 
+2. Détresse clinique significative/perturbation des activités [[social|sociales]]/scolaires/considérées comme importantes. 
 
 TTT 
 
 - Aider les enfants / familles face à la détresse causée par la dysphorie de genre / problèmes connexes. ainsi qu'à des situations où l'expression et le comportements de l'enfant son mal compris. 
-- Potentiellement associé à des troubles de l'humeur / anxiété, tant chez l'enfant que chez les membres de la famille. 
-- Le psychologue peut également aider à la prise de décisions au sujet du moment et de l'étendue du changement de sexe social si l'enfant et la famille décident de le faire. 
+- Potentiellement associé à des [[Troubles de l'humeur]] / anxiété, tant chez l'enfant que chez les membres de la famille. 
+- Le [[psychologie|psychologue]] peut également aider à la prise de décisions au sujet du moment et de l'étendue du changement de sexe social si l'enfant et la famille décident de le faire. 
 

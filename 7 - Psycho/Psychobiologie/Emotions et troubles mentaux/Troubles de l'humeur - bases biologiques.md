@@ -21,7 +21,7 @@
 - Augmentation du flux sanguin dans le cortex préfrontal et amygdale.
 	- Amygdale (peur) : augmentation en apport sanguin perdure après diminution des symptômes. 
 - Diminution dans les cortex pariétal et temporal postérieur et gyrus cingulaire antérieur. 
-	- Aires corticales impliquées dans l'attention. 
+	- Aires corticales impliquées dans l'[[attention]]. 
 - Sujets à risque (descendants de personnes ayant été touchées par des dépressions sévères) présentent de larges bandes de cortex anormalement fin dans l'hémisphère droit.
 
 ### Moyens thérapeutiques contre la dépression. 
@@ -100,7 +100,7 @@
 
 - Suggère que l'axe hypothalamo-hypophyso-surrénalien pourrait jouer un rôle dans la dépression. 
 	- Patients dépressifs hospitalisés & suicidés : taux élevé de cortisol.
-		- -> Libération excessive d'hormone ACTH par l'[[adénohypophyse]] 
+		- -> Libération [[Disproportion|excessive]] d'hormone ACTH par l'[[adénohypophyse]] 
 	- Testable par le test de suppression à la dexaméthasone. 
 		- Découvrir une potentielle surproduction de cortisol. 
 		- Dexaméthasone : puissant glucocorticoïde de synthèse. 

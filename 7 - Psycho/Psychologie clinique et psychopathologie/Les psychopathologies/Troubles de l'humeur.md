@@ -28,7 +28,7 @@ DSM
 	- Dévalorisation / sentiment de culpabilité 
 	- Difficultés à penser ou se concentrer 
 	- Idées de mort récurrentes / idées suicidaires sans planification précise / tentative de suicide avec ou sans plan clair. 
-2. Détresse cliniquement significative / altération du fonctionnement social/pro.
+2. [[Détresse]] cliniquement significative / altération du fonctionnement social/pro.
 3. Trouble non attribuable aux effets de substances ou autre problème médical 
 4. Survenue de l'épisode dépressif pas mieux expliquée par un trouble schizo-affectif, la schizophrénie, trouble schizophréniforme ou autre troubles psychotiques.
 5. Absence totale d'historique d'épisodes maniaque ou hypomaniaque 
@@ -144,7 +144,7 @@ DSM
 	- Plus grande communicabilité qu'à l'habitude ou désir constant de parler 
 	- Distractibilité
 	- Augmentation de l'activité orientée vers un but (Pro/sociale/académique) ou agitation psychomotrice 
-	- Engagement excessif dans des activités à potentiel dommageable élevé.
+	- Engagement [[Disproportion|excessif]] dans des activités à potentiel dommageable élevé.
 3. Problème suffisamment grave pour entrainer 
 	- Un dysfonctionnement au niveau social/pro etc.
 	- Une hospitalisation préventive

@@ -1,5 +1,5 @@
 
-- Relations sociales = meilleur prédicteur de bien être.
+- [[Relations sociales]] = meilleur prédicteur de bien être.
 - Isolement social = risque de mortalité de 25% a 30% plus élevé
 
 - Humain = animal ultra social. 
