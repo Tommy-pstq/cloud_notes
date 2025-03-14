@@ -4,17 +4,17 @@
 	- Connaitre les avantages/difficultés/inconvénients de classifier et définir les psychopathologies 
 	- Connaitre les alternatives au diag médical
 	- Approche descriptive des symptômes utilisée par l'association de psychiatrie depuis le DSM III
-	- Connaitre les critères pour déterminer le caractère psychopathologique de comportements ou réactions psychologique 
+	- Connaitre les critères pour déterminer le caractère psychopathologique de comportements ou réactions [[psychologie|psychologique]] 
 
 ### Débats sur la pertinence des diag en psychopathologie 
 
 - Quels critères permettent de définir qu'un comportement peut être considéré comme faisant partie d'un problème de santé mentale ? (Culture, époque, lieu etc.)
-	- Mouvement "antipsychiatrie" à partir des années 1960: critique l'idée de "maladie mentale" et le parallèle établis avec les afflictions physiques pour lesquelles les causes sont observables sans (moins) impliquer la perception, donc les biais, du médecin. + critique des conditions de vie des patients en institution à cette époque. 
+	- Mouvement "antipsychiatrie" à partir des années 1960: critique l'idée de "maladie mentale" et le parallèle établis avec les afflictions physiques pour lesquelles les causes sont observables sans (moins) impliquer la [[perception]], donc les biais, du médecin. + critique des conditions de vie des patients en institution à cette époque. 
 	- Allen Frances, Auteur du DSM IV critique les nouvelles entrées dans le DSM qui étendent la médication à certains troubles de manière discutable - tendance au système US de sur-médiquer + influence labo pharma -> diag hâtifs et ordonnances systématique de médicaments. 
 
 ### Avantages liés à la définitions et classification des problèmes de comportements
 
-- Rend la communication entre praticiens plus fluide et efficace
+- Rend la [[communication]] entre praticiens plus fluide et efficace
 - Définitions claires utiles pour la recherche. 
 - Nouvelle entrée dans le DSM -> nouveau champ de recherche
 
@@ -30,7 +30,7 @@
 
 - Pas de diag mais une évaluation complète du fonctionnement.
 	- Ex: [[évaluation fonctionnelle]].
-		- Enumération des comportements problématiques et positifs, en mettant en évidence les comportements excessifs (ex: délires), déficitaires (ex: déficit dans les [[habiletés sociales]]) d'une part et les comportements adéquats d'autres part (ex: occupation d'un emploi régulier etc.).
+		- Enumération des comportements problématiques et positifs, en mettant en évidence les comportements [[Disproportion|excessifs]] (ex: [[Délire|délires]]), déficitaires (ex: déficit dans les [[habiletés sociales]]) d'une part et les comportements adéquats d'autres part (ex: occupation d'un emploi régulier etc.).
 		- Evaluation de la fréquence des [[comportements inadéquats]] et leur intensité 
 		- Déterminer ce qui initie/maintient les [[comportements inadéquats]] et leur intensité 
 		- Etude du développement, des [[relations sociales]], capacité de contrôles sur certains comportements difficiles 
@@ -44,7 +44,7 @@
 - Association des comportements a une [[détresse]] (personnelle ou dans son environnement) importante 
 - Entraine des difficultés dans le fonctionnement quotidien.
 - Dangerosité : envers soi ou pour les autres (rare)
-- Violation de normes et/ou règles (rare) - surtout troubles de la personnalité anti-sociale
+- Violation de normes et/ou règles (rare) - surtout [[Troubles de la personnalité]] anti-sociale
 - Perception / interprétation erronée de la réalité *([[Constructivisme]], notion de réalité universelle etc etc )* - principalement dans les cas de psychose 
 
 - <u>Concrètement</u>: 
@@ -62,7 +62,7 @@
 			- Pour une durée de 7 a 52 jours, malgré le [[déni]] de leur maladie car interprété comme un refus de collaborer au traitement.
 				- Une fois hospitalisés, les faux patients devaient expliquer ne plus avoir d'[[hallucinations]] et agir de manière normale. 
 					- Le personnel a interprété cela comme un [[déni]] de maladie et signe de trouble mentaux. 
-					- **Ils ne pourront sortir que s'ils acceptent leur diagnostic (schizophrénie ou trouble bipolaire) et acceptent de prendre des médicaments** 
+					- **Ils ne pourront sortir que s'ils acceptent leur diagnostic ([[schizophrénie]] ou [[trouble bipolaire]]) et acceptent de prendre des médicaments** 
 					- Ont témoignés des situations déshumanisantes vécues, envahissement de la vie privé, ennuie +++
 				- Plusieurs autres patients avait constaté qu'ils étaient "sains" d'esprit, pas le personnel. 
 			- Réponse des hôpitaux : "On aurait pu les détecter si on avait été mis au courant."

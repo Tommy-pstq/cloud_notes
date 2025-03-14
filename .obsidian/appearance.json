@@ -3,6 +3,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "non_strikethrough_checkbox"
+    "non_strikethrough_checkbox",
+    "center_image"
   ]
 }

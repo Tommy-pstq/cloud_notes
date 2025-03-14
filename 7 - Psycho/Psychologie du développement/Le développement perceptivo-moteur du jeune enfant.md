@@ -1,7 +1,7 @@
 
-- Sensation =/= Perception:
-	- Une couche de cognition transforme les sensations (potentiels évoqués par les organes sensoriels) en perceptions.
-		- Les perceptions sont donc modulés par le déterminisme & [[constructivisme]] propre à chaque individu
+- Sensation =/= [[perception]]:
+	- Une couche de [[cognition]] transforme les sensations (potentiels évoqués par les organes [[sensorialité|sensoriels]]) en perceptions.
+		- Les perceptions sont donc modulés par le [[déterministe|déterminisme]] & [[constructivisme]] propre à chaque individu
 
 - Le développement du système sensoriel commence avant la naissance, les différents capteurs étant formés à l'issue de la période embryonnaire (8 semaines après la fécondation)
 	- Observations des premiers signes de fonctionnement:

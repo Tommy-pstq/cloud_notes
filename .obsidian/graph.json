@@ -83,18 +83,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"3 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16119285
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.752768166089965,
-  "lineSizeMultiplier": 0.718858131487889,
+  "lineSizeMultiplier": 0.413667820069204,
   "collapse-forces": false,
   "centerStrength": 0.544982698961938,
   "repelStrength": 12.9065743944637,
   "linkStrength": 0.949826989619377,
   "linkDistance": 115,
-  "scale": 0.1272459360974608,
+  "scale": 0.12724593609746082,
   "close": false
 }
