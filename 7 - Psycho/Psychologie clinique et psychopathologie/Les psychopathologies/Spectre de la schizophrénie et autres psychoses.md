@@ -41,7 +41,7 @@
 			- Parfois incompréhensible 
 		- **Agissement erratiques ou bizarre**
 			- Immobilité prolongée 
-			- Agitation
+			- [[Agitation]]
 			- Grimaces
 	- <u>Négatifs</u> (moins visibles)
 		- Aboulie 
@@ -208,7 +208,7 @@ DSM
 
 TTT
 - Intervention difficile : méfiance accompagnant souvent la problématique, peu de consultation.
-- Méfiance -> les pousse à la [[dépression]]/idées suicidaires/agressivité 
+- Méfiance -> les pousse à la [[dépression]]/idées suicidaires/[[agressivité]] 
 	- -> Consultation.
 		- Difficile d'établir une relation de confiance.
 			- -> Difficile d'aider.
@@ -246,7 +246,7 @@ DSM
 2. Après la prise de médicaments / durant une intoxication ou [[sevrage]] d'une substance et que le médicament/substance est reconnu.e pour provoquer ces symptôme. 
 3. Pas attribué à un autre trouble mental, dont la présence de psychose. 
 4. Perturbation n'apparait pas exclusivement durant un syndrome confusionnel
-5. Détresse cliniquement significative/altération du fonctionnement. 
+5. Détresse cliniquement significative/[[altération du fonctionnement]]. 
 
 TTT
 
@@ -281,7 +281,7 @@ DSM
 - **Prise de posture** : maintien contre la gravité d'une posture prise spontanément 
 - **Maniérisme** : caricature d'actions ordinaires empreinte de bizarrerie, de solennité
 - **Stéréotypie** : mouvement non dirigés vers un but, répétitifs et anormalement fréquents
-- **Agitation**, non influencé par des [[stimulus|stimuli]] externes 
+- **[[Agitation]]**, non influencé par des [[stimulus|stimuli]] externes 
 - **Expression faciale avec grimace**
 - **Echolalie** : répétition des paroles d'une autre personne 
 - **Echopraxie** : répétition des mouvements d'une autre personne. 

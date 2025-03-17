@@ -56,7 +56,7 @@
 		1. Commence par l'action possessive, au début de la 3eme année. ( "à moi", "le mien")
 		2. Affirmation de soi dans la volonté : "je veux"
 	- Reconnaissance de soi : très tôt.
-		1. Permanence du Moi dans l'espace & le temps + prise de conscience de l'effet des actions
+		1. Permanence du Moi dans l'espace & le temps + [[prise de conscience]] de l'effet des actions
 		2. Reconnaissance visuelle de soi
 		3. Période d'incertitude : reconnaissance visuelle mais non verbale
 		4. Reconnaissance verbale. 

@@ -33,7 +33,7 @@ Publication : 2018, autrice principale: département de psychiatrie et sciences 
 - Plusieurs raisons poussent à considérer de manière critique un décalage des rythmes circadien dans l'étude d'un TDAH tardif.
 	- un DCRP est prévalent et handicapant dans les population [[TDAH]] traditionnel (avec signes dès l'enfance).
 		- Jusqu'à 75% de cette population est sujette à un DCRP, se mesurant sur des signes liés au [[sommeil]] (augmentation de la mélatonine salivaire, température corporelle, mouvements) retardés de 90 minutes.
-			- Responsable d'un état d'alerte la nuit/le soir.
+			- Responsable d'un [[état d'alerte]] la nuit/le soir.
 		- Il y a également un retard dans la hausse matinale du [[cortisol]], ne se produisant que 2 heures plus tard comparé à une population contrôle.
 			- Réveil difficile
 

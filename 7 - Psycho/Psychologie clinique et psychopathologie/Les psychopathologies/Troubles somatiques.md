@@ -58,11 +58,11 @@ DSM
 1. Présence de symptômes qui altèrent la motricité ou fonctionnement sensoriel
 2. Sans cause médical réelle
 3. Pas mieux expliqué par un autre trouble mental
-4. [[Détresse]] psychologique / altération du fonctionnement 
+4. [[Détresse]] psychologique / [[altération du fonctionnement]] 
 
 TTT
 
-- Equipe pluridisciplinaire pour confirmer ou infirmer la présence d'une véritable maladie. 
+- Equipe [[intervention pluridisciplinaire|pluridisciplinaire]] pour confirmer ou infirmer la présence d'une véritable maladie. 
 - TCC
 	- Education sur les troubles neurologiques fonctionnels 
 	- Gestion du stress

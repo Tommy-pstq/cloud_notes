@@ -121,7 +121,7 @@ TTT
 	- Séducteurs 
 	- Menteurs / tricheurs
 - Pas de conscience / empathie 
-- S'approprient ce qui leur plaît / ce qu'ils veulent sans culpabilité ou regret 
+- S'approprient ce qui leur plaît / ce qu'ils veulent sans [[culpabilité]] ou regret 
 - Psychopathie = forme la plus grave du trouble de personnalité antisociale.
 	- Caractéristique particulière : [[charme superficiel]].
 	- S'accorde beaucoup d'importance. 
@@ -141,7 +141,7 @@ DSM
 	- Non conformité aux [[normes sociales]], émissions de comportements pouvant conduire à des arrestations 
 	- Tromperies pour son profit personnel, mensonges répétés, utilisation de pseudonymes, escroqueries.
 	- Impulsivité & absence de planification
-	- Irritabilité, agressivité, participation à des bagarres et/ou agressions 
+	- [[Irritabilité]], [[agressivité]], participation à des bagarres et/ou agressions 
 	- Non préoccupation de sa sécurité ou celle des autres
 	- Irresponsabilité, non respect de ses obligations financières et instabilité dans ses emplois 
 	- Absence de remords lorsqu'il vole/maltraite/blesse une autre personne 
@@ -213,7 +213,7 @@ DSM
 		- Régulariser les émotions : méthode des résolutions des problèmes face à des situations difficiles. 
 	- Apprendre à accepter que certains situations difficiles sont inchangeables.
 		- Se débattre à vouloir les changer = [[détresse]] supplémentaire -> réactions [[Disproportion|excessives]].
-- Développer les habiletés sociales pour ne plus répondre qu'exclusivement par des colères ou de l'agressivité.
+- Développer les habiletés sociales pour ne plus répondre qu'exclusivement par des colères ou de l'[[agressivité]].
 - Aide ponctuelle : téléphonique / visio pour les problèmes urgents.
 - Peut provoquer du stress/de l'épuisement professionnel chez les intervenants.
 - Pharmaco : [[Anxiolytiques]], [[antidépresseurs]], régulateurs de l'humeur, antipsychotiques.
@@ -276,7 +276,7 @@ TTT
 - Veulent toujours avoir raison, même contre l'évidence, qui sera niée de toute manière possible.
 - Amour = manière de manifester leur narcissisme et leur manque d'empathie 
 	- Si la relation met en péril leur [[estime de soi]] :
-		- Agressivité/Violence possible, voire homicide.
+		- [[Agressivité]]/Violence possible, voire homicide.
 
 - Personnes n'ayant pas eu à apprendre le développement de l'empathie et se sont centrées sur elle même.
 	- Enfant roi, élevé dans un contexte d'attention excessive par des parents eux-même narcissiques projettant leurs attentes sur leurs propres enfants: augmente les chances de devenir narcissiques.
@@ -333,7 +333,7 @@ TTT
 		- Une forme plus durable
 - Tendance au retrait des activités sociales (comme trouble personnalité schizoïde)
 	- Mais : portent quand même de l'intérêt aux autres.
-		- Peur de ne pas être acceptées -> évites les situations ou les autres pourraient les voir manifester de la nervosité. 
+		- Peur de ne pas être acceptées -> évites les situations ou les autres pourraient les voir manifester de la [[nervosité]]. 
 - Manifestent souvent peu d'émotions mais se présentent souvent comme des personnes "très gentilles" : manière de ne pas être rejetée. 
 - Souvent : célibat, solitude, effacement, faible [[estime de soi]].
 
@@ -369,7 +369,7 @@ TTT
 
 - Semble souvent être de "bons patients".
 	- L'intervenant doit éviter d'être la personne qui prend la responsabilité de régler les problèmes du patient. 
-	- Important d'éviter la dépendance par rapport aux thérapeutes.
+	- Important d'éviter la [[dépendance]] par rapport aux thérapeutes.
 - Objectif majeur : prise d'[[autonomie|indépendance]].
 
 ### Personnalité obsessionnelle-compulsive

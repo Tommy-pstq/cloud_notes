@@ -33,7 +33,7 @@
 	- "l'être total, physico-psychique et tel qu'il se manifeste par l'ensemble de ses comportements"
 - 6 stades (caractérisé par la prédominance temporaire d'une dimension fonctionnelle de la personnalité. Sans limites strictes & se chevauchent. Ponctués par des crises & conflits)
 	- **Impulsivité motrice** (0-->6 mois) *motricité*
-		- Dépendance vis à vis de l'entourage
+		- [[Dépendance]] vis à vis de l'entourage
 		- Agitation motrice impulsive (témoigne des états internes)
 		- Mouvements permettant l'expression & la [[communication]]
 	- **Emotionnel** (2/3 -> 12 mois) *Affectivité*
@@ -98,5 +98,5 @@
 - Période fœtale : symbiose physiologique avec la mère
 - Stade de l'impulsivité motrice
 	- Etat d'inachèvement biologique à la naissance 
-		- -> Dépendance 
+		- -> [[Dépendance]] 
 			- -> Se tourne vers l'extérieur pour exprimer ses besoins via mouvements & [[émotion|émotions]]

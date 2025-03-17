@@ -6,9 +6,9 @@
 - Problème fréquent, caractérisé par : 
 	- Ingestion de grandes quantités de nourriture dans un laps de temps relativement bref.  
 	- Manque de contrôle 
-	- Engagement dans des procédures de purges/vomissement/sport à outrance (surtout anorexique) pour limiter le poids 
+	- Engagement dans des procédures de purges/[[vomissement]]/sport à outrance (surtout anorexique) pour limiter le poids 
 	- Problème grave, effets sur la santé:
-		- Usure de l'émail des dents suites aux vomissement 
+		- Usure de l'émail des dents suites aux [[vomissement]] 
 		- Déchirure de l'oeusophage 
 		- Déséquilibre électrolytes -> [[Symptômes cardiaques|arythmie]] cardiaque/[[Convulsion|convulsions]]/insuffisance rénales 
 		- Endommagement du colons par l'usage répété de laxatifs 
@@ -60,7 +60,7 @@ DSM
 2. Peur importante de prendre du poids + comportements qui interfèrent avec la prise de poids malgré un poids nettement très bas. 
 3. Altération de la perception de son poids, non reconnaissance de la maigreur extrême, influence de leur situation corporelle sur l'[[estime de soi]]
 
-Deux types d'anorexies : celle avec restriction alimentaire et celle avec des périodes hyperphagiques : gloutonneries & purges/vomissement. 
+Deux types d'anorexies : celle avec restriction alimentaire et celle avec des périodes hyperphagiques : gloutonneries & purges/[[vomissement]]. 
 
 TTT
 
@@ -69,7 +69,7 @@ TTT
 	- Condition de congé : retour à la normalité pondérale. 
 - Collaboration de l'environnement 
 - Suivit alimentaire 
-- Travail cognitif similaire à la boulimie sur les fausses croyances reliées à l'alimentation et au schéma corporel sera effectué. 
+- Travail cognitif similaire à la boulimie sur les [[croyances inappropriées|fausses croyances]] reliées à l'alimentation et au schéma corporel sera effectué. 
 - Potentielle thérapie familiale si le problème semble relié (cas de l'enfant pour qui la seule manière d'avoir un contrôle sur les exigences de ses parents est de manifester des restriction alimentaires)
 ## Restriction ou [[Evitement|évitement]] de l'ingestion d'aliments. 
 

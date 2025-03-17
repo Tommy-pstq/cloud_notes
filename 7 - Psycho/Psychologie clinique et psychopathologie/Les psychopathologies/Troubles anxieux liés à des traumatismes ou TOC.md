@@ -16,7 +16,7 @@ DSM
 3. [[Evitement]] ou détresse intense en présence de l'élément
 4. [[Disproportion]] par rapport au danger réel
 5. Persistance depuis plus de 6 mois 
-6. [[Détresse]] personnelle ou altération du fonctionnement 
+6. [[Détresse]] personnelle ou [[altération du fonctionnement]] 
 7. Problème pas mieux expliqué par un autre trouble mental. 
 
 TTT
@@ -143,10 +143,10 @@ DSM
 1. Présence excessive, depuis au moins 6 mois, de soucis, inquiétudes, préoccupation, anxiété à propos de diverses situations, activités pro, rendement scolaire, maladie, accident 
 2. La personne ne parvient pas à contrôle ces préoccupations 
 3. Présente, depuis au moins 6 mois et la plupart du temps, au moins 3 des symptômes suivants:
-	- Agitation / survoltage
+	- [[Agitation]] / survoltage
 	- Fatigabilité
 	- Problèmes de concentrations / oublis 
-	- Irritabilité 
+	- [[Irritabilité]] 
 	- Tension musculaire 
 	- Perturbation du [[sommeil]] 
 4. Présence de détresse [[psychologie|psychologique]] ou changement de fonctionnement professionnel/académique ou dans d'autres domaines significatifs. 
@@ -172,7 +172,7 @@ TTT
 - [[Relaxation]]
 - [[méditation]]
 - Acceptation
-- Pharmaco : [[anxiolytiques]]. Gros risque de dépendance. 
+- Pharmaco : [[anxiolytiques]]. Gros risque de [[dépendance]]. 
 
 ## Troubles liés à des traumatismes ou à des facteurs de stress. 
 
@@ -196,7 +196,7 @@ TTT
 
 - Variation de l'état d'éveil / réactivité 
 	- Irritabilité
-	- Accès de [[colère]] / Agressivité 
+	- Accès de [[colère]] / [[Agressivité]] 
 	- Comportements irréfléchis / autodestructeurs 
 	- hypovigilance 
 - Trouble de la [[attention|concentration]]
@@ -328,13 +328,13 @@ DSM
 		- Peut porter sur les circonstances du décès chez les enfants/adolescents
 3. Au mois 3 des symptômes présents la plupart des jours 
 	- Problème d'identité : idées qu'une partie de soi est décédée 
-	- Fausses croyances marquées à propos de la mort 
+	- [[croyances inappropriées|Fausses croyances]] marquées à propos de la mort 
 	- Grande souffrance reliée à ce décès 
 	- Difficultés à rétablir des relations et des activités 
 	- Insensibilité, comme une absence de réactions émotionnelles
 	- Impression que la vie n'as plus de sens, en lien avec le décès 
 	- Solitude intense reliée à ce décès 
-4. Détresse cliniquement significative ou altération du fonctionnement
+4. Détresse cliniquement significative ou [[altération du fonctionnement]]
 5. Durée du deuil dépassant la durée attendue dans la culture de référence 
 6. Pas mieux expliqué par un PTSD ou effet de substance ou autre problème médical.
 
@@ -347,7 +347,7 @@ TTT
 	- Restructurer les cognitions associées au troubles telle que:
 		- L'avenir est vide
 		- La vie n'a plus de sens 
-		- Croyances reliées à la culpabilité
+		- Croyances reliées à la [[culpabilité]]
 	- Exposition douce aux sujets/lieu d'[[Evitement|évitement]].
 		- Les associer à des souvenirs positifs. 
 	- Encourager à la reprise de contact avec ses intérêts / activités plaisante -> redonner du sens à la vie. 
@@ -370,7 +370,7 @@ TTT
 
 DSM
 1. Présence d'obsessions / compulsions ou les deux. 
-2. Obsessions / Compulsions durent longtemps tous les jours (au moins 1h) & génère une détresse clinique significative ou une altération du fonctionnement. 
+2. Obsessions / Compulsions durent longtemps tous les jours (au moins 1h) & génère une détresse clinique significative ou une [[altération du fonctionnement]]. 
 3. Symptômes non attribuables à une substance ou autre altération médicale
 4. Perturbation par mieux expliquée par un autre trouble mental. 
 
@@ -402,7 +402,7 @@ DSM
 	- Vérification de la présence de ce qu'elle considère comme des défauts
 		- Se regarder dans le miroir
 		- Se comparer aux autres
-3. Engendre une détresse clinique significative / une altération du fonctionnement 
+3. Engendre une détresse clinique significative / une [[altération du fonctionnement]] 
 4. Problème par mieux expliqué par une insatisfaction concernant le poids corporel ou par un trouble alimentaire.
 
 ### Thésaurisation pathologique 

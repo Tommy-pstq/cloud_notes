@@ -78,7 +78,7 @@
 			- Possibilité de contrôle du ressenti émotionnel 
 			- Emotions mixtes (7 ans pour les plus simples, plus aisée à partir de 10-12 ans)
 			- Rôle de la morale sur les émotions
-				- Culpabilité lié à l'acte moralement répréhensible 
+				- [[Culpabilité]] lié à l'acte moralement répréhensible 
 				- Fierté de résister à la tentation
 	- <u>Régulation</u>
 		- Régulation d'avantage active et initiée de façon autonome 

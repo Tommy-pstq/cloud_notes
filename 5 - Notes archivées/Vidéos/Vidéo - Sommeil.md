@@ -20,10 +20,10 @@ Repos d'une durée inférieure au besoin (à partir de <font color='red'>20 minu
 	- Apparaissent trop demandantes
 - Troubles de:
 	- Concentration
-	- Irritabilité
+	- [[Irritabilité]]
 	- Impulsivité
 	- Humeur
-- Dysrégulation de l’appétit, de la soif et des interactions [[social|sociales]].
+- Dysrégulation de l’[[appétit]], de la soif et des interactions [[social|sociales]].
 - [[fatigue||Fatigue]] matinale persistante.
 - [[somnolence]] diurne 
 
@@ -122,7 +122,7 @@ Quand consulter ?
 					- musculaire 
 					- cérébrale
 					- vasculaire 
-					- appétit 
+					- [[appétit]] 
 
 Hypothalamus =:= horloge.
 Bien dormir et ne pas être en dette de sommeil : la machine est en phase. "les dominos s'alignent".
@@ -332,7 +332,7 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 
 - **Système lymphatique cérébral** : Activé durant le sommeil, nettoyage. (mentionné comme futur sujet de Nobel)
     
-- **Dormir trop ?** : Possible en cas d’hypersomnie ou narcolepsie, mais souvent lié à des attentes [[social|sociales]] mal alignées avec les besoins individuels.
+- **Dormir trop ?** : Possible en cas d’[[hypersomnie]] ou narcolepsie, mais souvent lié à des attentes [[social|sociales]] mal alignées avec les besoins individuels.
 
 - **Perte de temps de sommeil**:
 	- Sur 50 ans : 1 cycle de sommeil en moins 
@@ -355,7 +355,7 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 	- Pas mal mais plutôt mesure populiste des GAFA, mieux vaut éviter les écrans le soir
 
  - **Café** ?
-	- Dépend de la sensibilité. Surcoté comme facteur d'insomnie. (4-6h max avant dodo si sensible)
+	- Dépend de la sensibilité. Surcoté comme facteur d'[[insomnie]]. (4-6h max avant dodo si sensible)
 
 - **CBD/Weed ?** : Peu d’effets sur le [[sommeil]], mais utile pour les mal-êtres/douleurs.
 

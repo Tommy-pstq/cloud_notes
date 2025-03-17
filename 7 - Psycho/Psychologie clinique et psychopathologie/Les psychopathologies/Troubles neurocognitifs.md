@@ -4,7 +4,7 @@
 	- Origine des difficulté = biologique. Mais impact le fonctionnement psychologique des personnes.
 		- Anxiété, déprime 
 		- Paranoïa 
-		- Agitation / agressivité 
+		- [[Agitation]] / [[agressivité]] 
 
 ## Etat confusionnel (délirium)
 

@@ -149,7 +149,7 @@ Mais, pas de différence structurale = pas d'impact ?
 		- <u>Le fait d'être face à un écran ne constitue pas une activité particulière</u>.
 			- La recherche bibliographique, l'écriture, les jeux-vidéos, la télévision, les réseaux [[social|sociaux]] constituent autant de contextes spécifiques qu'il serait délétère de regrouper en une unique entité.
 				- Walsh et al. 2020 : la consommation de <u>télévision</u> et <u>réseaux sociaux</u> est associée <u>négativement</u> avec les **performances [[cognition|cognitives]]** alors que les <u>jeux-vidéos</u> y sont associés <u>positivement</u>.
-		- [[jeux-vidéos||Jeux-vidéos]] d'action:  contribue au développement des capacités visuelles, [[attention|attentionnelles]], spatiales et multi-tasking. 
+		- [[3 - Tags/jeux-vidéos||Jeux-vidéos]] d'action:  contribue au développement des capacités visuelles, [[attention|attentionnelles]], spatiales et multi-tasking. 
 			- Accroit la capacité de concentration -> effet bénéfique pour l'apprentissage ou la lecture. 
 				- Ex :Enfants dyslexiques ayant joués à des jeux vidéos d'action ont augmenté leur compétence en lecture: plus rapide, reconnaissance améliorée des pseudos-mots, moins d'erreurs. 
 					- Cependant : 2 mois après l'intervention, ces bénéfices avaient disparus.

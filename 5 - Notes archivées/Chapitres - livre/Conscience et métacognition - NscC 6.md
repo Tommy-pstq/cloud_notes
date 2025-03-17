@@ -91,7 +91,7 @@ Le [[traitement inconscient]] d'information n'est pas exclusif à des cas pathol
 
 Pas mal d'autres études -->
 
-Prise de conscience d'un stimulus est <u>systématique accompagné</u> de:
+[[Prise de conscience]] d'un stimulus est <u>systématique accompagné</u> de:
 1. Augmentation des activations des aires [[sensorialité|sensorielles]] spécialisées dans le traitement de ce type de [[stimulus|stimuli]].
 2. Extension du réseau cérébral traitant cette information
 	- Notamment : [[lobe pariétal|lobes pariétaux]], [[lobe frontal|lobes frontaux]], cingulaires. 
@@ -119,7 +119,7 @@ Protocole permettant de comparer le déroulement [[temporalité|temporel]] des t
 - La prise de conscience est associée à l'activité de tout un réseau, fonctionne en "tout ou rien" déclenché à partir de 250ms après un stimulus et se base sur un traitement [[sensorialité|sensoriel]] identique. Phénomène de <u>bifurcation</u> similaire observé pour des [[stimulus|stimuli]] auditifs.
 
 - Modèle de l'[[espace global de travail conscient]]:
-	- Prise de conscience = étape tardive et optionnelle du traitement cérébral d'un stimulus.
+	- [[Prise de conscience]] = étape tardive et optionnelle du traitement cérébral d'un stimulus.
 		- Mise en commun des informations [[sensorialité|sensorielles]] au sein d'un plus vaste réseau incluant les aires supra-modales permettant:
 			- Le maintien prolongée de l'information  
 			- La mémorisation [[conscience|explicite]] 

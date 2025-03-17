@@ -127,10 +127,10 @@
 					- -> Régime autoritaire : cherchent à isoler les leaders. 
 	
 - Théorie de l'identité sociale : la rébellion ne se produira que si le pouvoir exercé est perçu comme illégitime, même en présence d'une identité partagée. 
-- -> Résistance individuelle = dépendance d'une réalité collective. 
+- -> Résistance individuelle = [[dépendance]] d'une réalité collective. 
 
 - La résistance de l'autre peut projeter une image de lâcheté sur soi. 
-	- -> Les lanceurs et lanceuses d'alerte peuvent être mal vu.es par des gens dont la culpabilité refoulée à été touchée.
+	- -> Les lanceurs et lanceuses d'alerte peuvent être mal vu.es par des gens dont la [[culpabilité]] refoulée à été touchée.
 
 ### L'action collective 
 

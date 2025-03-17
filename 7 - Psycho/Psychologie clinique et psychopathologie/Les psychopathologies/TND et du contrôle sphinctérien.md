@@ -54,7 +54,7 @@
 			- compétences verbales 
 			- l'[[autonomie]]
 			- [[habiletés sociales]] 
-			- gestion du comportement (inappropriés, destructeurs, automutilatoires, agressivité, [[colère]])
+			- gestion du comportement (inappropriés, destructeurs, automutilatoires, [[agressivité]], [[colère]])
 
 ## Trouble spécifique des apprentissage 
 
@@ -263,7 +263,7 @@ Chez les enfants, apprentissage des habiletés de base dans la communication:
 1. 
 	-  Un enfant urine dans les vêtements ou dans le lit de manière volontaire ou involontaire
 2. 
-	-  Plus de 2x/semaine durant au moins 3 mois consécutifs avec présence de [[détresse]] cliniquement significative ou altération du fonctionnement social/professionnel etc. 
+	-  Plus de 2x/semaine durant au moins 3 mois consécutifs avec présence de [[détresse]] cliniquement significative ou [[altération du fonctionnement]] social/professionnel etc. 
 3. 
 	- L'enfant à au moins 5 ans. 
 4. 

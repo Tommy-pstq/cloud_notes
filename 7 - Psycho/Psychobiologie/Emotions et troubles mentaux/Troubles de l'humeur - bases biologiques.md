@@ -140,7 +140,7 @@
 
 - Elargissement des ventricules observé chez les personnes atteintes de trouble bipolaire.
 	- Perte de matière grise - dans d'autres zones que celles de la schizophrénie. 
-	- <u>Plus une personne subie d'épisode maniaque, plus les cavités cérébrales se creusent.</u> 
+	- <u>Plus une personne subie d'[[épisode maniaque]], plus les cavités cérébrales se creusent.</u> 
 		- Aggravation de la dégradation de matière cérébrale 
 		- Éléments sous-corticaux du système limbique : amygdale / hippocampe 
 

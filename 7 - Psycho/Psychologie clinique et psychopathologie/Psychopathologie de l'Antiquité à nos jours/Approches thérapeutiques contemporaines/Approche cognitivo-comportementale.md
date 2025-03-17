@@ -42,9 +42,9 @@
 		- Beck : les [[pensées auto-dépréciatrices]] sont à l'origine de la [[dépression]]. 
 			- Elles sont issues de schèmes de pensées acquis. 
 			- Triade cognitive chez le/la depressi.f.ve :
-				- conception négative de soi (faible [[estime de soi]])
-				- conception négative de l'environnement (ex: mon environnement me nuit)
-				- conception négative du fut (ex: futur sans espoir)
+				- [[conception négative]] de soi (faible [[estime de soi]])
+				- [[conception négative]] de l'environnement (ex: mon environnement me nuit)
+				- [[conception négative]] du fut (ex: futur sans espoir)
 	- [[Distorsions cognitives]] :
 		- Tout ou rien / [[pensée dichotomique]] : "si je ne suis pas le meilleure je suis le pire"
 			- Renforce les schèmes de pensées liés à l'échec (impactant dans la [[dépression]])

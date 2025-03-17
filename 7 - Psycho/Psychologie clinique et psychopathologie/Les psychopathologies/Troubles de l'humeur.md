@@ -18,17 +18,17 @@
 ### Trouble dépressif caractérisé 
 
 DSM
-1. Au moins 5 symptômes suivants, dont au moins 2 sont une humeur dépressive et une perte d'intérêt ou de plaisir 
-	- *Obligatoire:* Humeur dépressive présente toute la journée, presque tous les jours.
+1. Au moins 5 symptômes suivants, dont au moins 2 sont une [[humeur dépressive]] et une perte d'intérêt ou de plaisir 
+	- *Obligatoire:* [[Humeur dépressive]] présente toute la journée, presque tous les jours.
 	- *Obligatoire:* Perte d'intérêt ou de plaisir pour la plupart des activités 
-	- Perte ou gain de poids significatif en absence de régimes ou diminution/augmentation de l'appétit presque tout le temps. 
-	- Insomnie ou Hypersomnie 
-	- Ralentissement dans les activités ou état d'agitation
+	- Perte ou gain de poids significatif en absence de régimes ou diminution/augmentation de l'[[appétit]] presque tout le temps. 
+	- [[Insomnie]] ou [[Hypersomnie]] 
+	- Ralentissement dans les activités ou état d'[[agitation]]
 	- Fatigue / perte d'énergie
-	- Dévalorisation / sentiment de culpabilité 
+	- Dévalorisation / sentiment de [[culpabilité]] 
 	- Difficultés à penser ou se concentrer 
 	- Idées de mort récurrentes / idées suicidaires sans planification précise / tentative de suicide avec ou sans plan clair. 
-2. [[Détresse]] cliniquement significative / altération du fonctionnement social/pro.
+2. [[Détresse]] cliniquement significative / [[altération du fonctionnement]] social/pro.
 3. Trouble non attribuable aux effets de substances ou autre problème médical 
 4. Survenue de l'épisode dépressif pas mieux expliquée par un trouble schizo-affectif, la schizophrénie, trouble schizophréniforme ou autre troubles psychotiques.
 5. Absence totale d'historique d'épisodes maniaque ou hypomaniaque 
@@ -69,7 +69,7 @@ TTT
 
 ### Trouble disruptif avec [[dysrégulation émotionnelle]]
 
-- Adolescents & enfant de puis de 6 ans : irritabilité, crise de [[colère]] fréquente.
+- Adolescents & enfant de puis de 6 ans : [[irritabilité]], crise de [[colère]] fréquente.
 
 DSM
 1. Enfant ou adolescent présente des colères ou comportements agressifs fréquents, envers des personnes ou des objets, hors de proportion par rapport à la situation. 
@@ -103,13 +103,13 @@ DSM
 2. >= 1 des symptômes depuis 1 an dans les périodes menstruelles :
 	- Variation émotionnelle importante 
 	- Instabilité, colère, conflits avec d'autres personnes 
-	- humeur dépressive
-	- anxiété importante, nervosité 
+	- [[humeur dépressive]]
+	- anxiété importante, [[nervosité]] 
 3. >= 1  des symptômes :
 	- Perte d'intérêt pour les activités habituelles 
 	- Problème de concentration
 	- Fatigue, perte d'énergie, léthargie 
-	- Insomnie / Hypersomnie 
+	- [[Insomnie]] / [[Hypersomnie]] 
 	- Sentiment de perte de contrôle 
 	- Symptômes physique, gonflement, douleurs musculaires 
 4. Détresse cliniquement significative / changement dans le fonctionnement 
@@ -134,7 +134,7 @@ TTT
 
 ### Episode maniaque 
 
-- Période durant laquelle la personne a un sentiment marqué d'exaltation, de grande euphorie et de joie. Peut être associé a des [[symptômes psychotiques]] (délire, [[Hallucinations|hallucination]])
+- Période durant laquelle la personne a un sentiment marqué d'exaltation, de grande [[euphorie]] et de joie. Peut être associé a des [[symptômes psychotiques]] (délire, [[Hallucinations|hallucination]])
 
 DSM
 1. Présence d'une humeur élevée ou irritable persistant tous les jours durant au moins une semaine, avec augmentation de l'activité orientée vers un but ou de l'énergie de façon anormale la plupart du temps. Peut nécessiter l'hospitalisation?
@@ -143,7 +143,7 @@ DSM
 	- Réduction du besoin de sommeil 
 	- Plus grande communicabilité qu'à l'habitude ou désir constant de parler 
 	- Distractibilité
-	- Augmentation de l'activité orientée vers un but (Pro/sociale/académique) ou agitation psychomotrice 
+	- Augmentation de l'activité orientée vers un but (Pro/sociale/académique) ou [[agitation]] psychomotrice 
 	- Engagement [[Disproportion|excessif]] dans des activités à potentiel dommageable élevé.
 3. Problème suffisamment grave pour entrainer 
 	- Un dysfonctionnement au niveau social/pro etc.
@@ -166,12 +166,12 @@ DSM
 	- Plus grande communicabilité qu'à l'habitude ou désir constant de parler 
 	- Fuite des idées
 	- Distractibilité
-	- Augmentation de l'activité orientée vers un but (Pro/sociale/académique) ou agitation psychomotrice 
+	- Augmentation de l'activité orientée vers un but (Pro/sociale/académique) ou [[agitation]] psychomotrice 
 	- Engagement excessif dans des activités à potentiel dommageable élevé.
 3. Modification du comportement par rapport à la normale 
 4. L'entourage note une perturbation évidente de l'humeur 
 5. Sévérité de l'épisode non suffisante pour entraîner une dysfonction évidente du fonctionnement social, pro ou pour nécessiter une hospitalisation. 
-6. Si caractéristiques psychotiques -> épisode maniaque et non hypomaniaques  
+6. Si caractéristiques psychotiques -> [[épisode maniaque]] et non hypomaniaques  
 7. Non attribuable à une substance / condition médicale 
 
 ### Trouble bipolaire de type 1 et 2 
@@ -182,14 +182,14 @@ DSM
 
 - Deux évolutions différentes pour le trouble bipolaire selon le DSM:
  <u>Type 1</u>
-1. Présence d'au moins un épisode maniaque avec présence ou non d'épisodes dépressifs ou hypomaniaques 
+1. Présence d'au moins un [[épisode maniaque]] avec présence ou non d'épisodes dépressifs ou hypomaniaques 
 2. Ce trouble n'est pas expliqué d'avantage par un trouble schizo-affectif et n'est pas superposé à d'autres problèmes comme la schizophrénie, trouble schizophréniforme, trouble délirant ou autre problèmes psychotiques du spectre schizophrénique. 
 
 <u>Type 2</u>
 1. Au moins un épisode hypomaniaque et au moins un épisode dépressif caractérisé. 
-2. Pas d'épisode maniaque 
+2. Pas d'[[épisode maniaque]] 
 3. Les épisodes hypomaniaque et dépressifs ne sont pas expliqué d'avantage par un trouble schizo-affectif et n'est pas superposé à d'autres problèmes comme la schizophrénie, trouble schizophréniforme, trouble délirant ou autre problèmes psychotiques du spectre schizophrénique. 
-4. La présence de dépression et l'aspect imprévisible des variation d'humeur cause une détresse importante ou un altération du fonctionnement pro/sociale etc.
+4. La présence de dépression et l'aspect imprévisible des variation d'humeur cause une détresse importante ou un [[altération du fonctionnement]] pro/sociale etc.
 
 TTT
 
@@ -206,7 +206,7 @@ TTT
 
 ### Trouble cyclothymique 
 
-- Variation de l'humeur, amplitude moindre qu'un trouble bipolaire mais entrainement tout de même une altération du fonctionnement. 
+- Variation de l'humeur, amplitude moindre qu'un trouble bipolaire mais entrainement tout de même une [[altération du fonctionnement]]. 
 
 DSM 
 1. Durant les 2 dernières (1 si adolescents/enfants) années : nombreuses périodes d'hypomanie ne répondant pas aux critère d'épisode hypomaniaque, et de nombreuses périodes dépressives ne répondant pas aux critères pour un épisode dépressif caractérisé. (le nombre/la durée/la sévérité des symptômes ne satisfont pas les diag respectifs)

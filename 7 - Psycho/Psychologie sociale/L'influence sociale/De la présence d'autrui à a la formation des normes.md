@@ -15,7 +15,7 @@
 			- Celles pour lesquelles la "réponse dominante" est la bonne, à savoir les tâches qui ne demandent pas énormément de ressources cognitives pour établir un stratégie. 
 
 - Pourquoi ?
-	- Excitation ("drive") en présence d'autrui
+	- [[Excitation]] ("drive") en présence d'autrui
 	- Désir de projet une bonne image de soi
 		- Mais : si peur de l'échec face à un public, on sous performe.
 	- Source de distraction : retient une partie de l'attention.

@@ -17,7 +17,7 @@ DSM
 
 TTT 
 
-- Souvent : pharmoco ([[benzodiazépines]], hypnotiques, antihistaminiques) mais risque de dépendance + peuvent générer d'autres troubles. 
+- Souvent : pharmoco ([[benzodiazépines]], hypnotiques, antihistaminiques) mais risque de [[dépendance]] + peuvent générer d'autres troubles. 
 - Hygiène de vie + contrôle des stimuli 
 	- Réserver la chambre au sex / sommeil.
 	- 1h de break avant 
@@ -31,7 +31,7 @@ DSM
 	- Sommeil non réparateur malgré une durée supérieure à 9h
 	- Si réveil brusque, difficulté à resté éveillé. 
 2. Au moins 3x / semaines, depuis au moins 3 mois
-3. Génère de la détresse marquée ou altération du fonctionnement cognitif / occupationnel / social 
+3. Génère de la détresse marquée ou [[altération du fonctionnement]] cognitif / occupationnel / social 
 4. Pas expliqué par un autre trouble du sommeil (Ex: narcolepsie)
 5. Pas la résultante d'utilisation de substance / médicaments 
 6. Si autre trouble mentale, pas suffisant pour expliquer l'hypersomnolence
@@ -122,7 +122,7 @@ TTT
 DSM
 1. Fractionnement persistant du sommeil dû à une asynchronie des rythmes 
 2. Somnolence [[Disproportion|excessive]] & insomnie 
-3. Détresse / Altération du fonctionnement 
+3. Détresse / [[Altération du fonctionnement]] 
 
 TTT 
 - Recalage
@@ -144,7 +144,7 @@ TTT
 DSM
 1. Evénements fréquents & dysphorique (émotionnellement difficile), avec persistance du souvenir au réveil. 
 2. Réveil immédiat après le cauchemar
-3. Détresse / altération du fonctionnement 
+3. Détresse / [[altération du fonctionnement]] 
 
 TTT 
 - Thérapie par répétition d'imagerie mentale
@@ -173,10 +173,10 @@ DSM
 1. Périodes de réveil incomplet, habituellement dans le premier tiers du sommeil. Une des deux manifestations:
 	- Somnambulisme : le sujet se lève, marche, regard fixe, en dormant. Pas de réactions aux tentatives de réveil. 
 	- Terreurs nocturne : Crise de terreur, potentiellement accompagnée par des cris d'effrois. Peu de réceptivité à la consolation.
-		- [[Transpiration]], dilatation des pupilles, rythmes cardiaque et respiratoire accéléré 
+		- [[Transpiration]], dilatation des [[Pupille|pupilles]], rythmes cardiaque et respiratoire accéléré 
 2. Pas ou très peu de souvenirs de rêve.
 3. Amnésie antérograde de l'épisode. 
-4. Génère de la détresse / altération du fonctionnement 
+4. Génère de la détresse / [[altération du fonctionnement]] 
 5. Pas attribuable aux effets d'un substance 
 6. Non expliqué par d'autres problèmes mentaux. 
 

@@ -108,7 +108,7 @@
 - Plus complexe -> il y a d'autres éléments à intégré dans le système 
 ### Coordination des systèmes de contrôle de la faim par l'hypothalamus. 
 
-- Pas de zone ayant l'exclusivité du contrôle de l'appétit, mais:
+- Pas de zone ayant l'exclusivité du contrôle de l'[[appétit]], mais:
 	- [[Hypothalamus]] joue un rôle critique dans la régulation du métabolisme, de la prise alimentaire et du contrôle de la masse corporelle. 
 		- Neurones glucodétecteurs.
 			- Modification de l'activité hypothalamique après ingestion de glucose. 
@@ -124,7 +124,7 @@
 
 #### Hormones peptidiques 
 
-- Noyau arqué : contient un contrôleur de l'appétit hautement spécialisé. 
+- Noyau arqué : contient un contrôleur de l'[[appétit]] hautement spécialisé. 
 
 - **[[Leptine]]**
 	- Synthétisée par les adipocytes puis libérée dans le sang. 
@@ -138,7 +138,7 @@
 - **[[Ghréline]]**
 	- Libérée dans le sang par : cellules endocriniennes de l'estomac. 
 	- Nom : vient de son effect stimulant sur l'hormone de croissance.
-	- Puissant stimulant de l'appétit. 
+	- Puissant stimulant de l'[[appétit]]. 
 		- Concentration augmentant pendant le repas et <u>chute brutalement après</u>. 
 		- Source exogène : provoque une grosse sensation de faim. 
 	- <u>Obèse</u> : concentration de base plus faible. Mais <u>ne chute pas après un repas</u>.
@@ -146,9 +146,9 @@
 - **[[Peptide YY3-36]]** 
 	- Secrété dans le sang par les cellules de l'intestin grêle & gros intestin.
 	- Concentration en hausse rapide après ingestion d'aliments.
-	- Source exogène : jugule l'appétit (humain & rat)
+	- Source exogène : jugule l'[[appétit]] (humain & rat)
 		- Rat : même effet si injecté dans le noyau arqué. 
-			- Semble fournir un puissant signal suppresseur de l'appétit à l'hypothalamus. 
+			- Semble fournir un puissant signal suppresseur de l'[[appétit]] à l'hypothalamus. 
 
 #### Autres systèmes de la faim et de la satiété.
 

@@ -2,4 +2,4 @@
 aliases:
   - anxiolytique
 ---
-- Gros risque de dépendance. 
+- Gros risque de [[dépendance]]. 
