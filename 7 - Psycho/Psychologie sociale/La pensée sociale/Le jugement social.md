@@ -92,7 +92,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 	- **Pertinence hédonique** : Si le comportement de la cible influence le sort de l'obs
 	- **Personnalisme** : Si l'obs considère qu'un comportement était volontairement nuisible ou bénéfique 
 	- **La confirmation d'attente** : des comportements confirmant des attentes préalable seront **perçus** comme moins intense que des comportements allant à l'encontre de ces dernières. 
-	- **Désirabilité sociale** du comportement. Si un comportement est particulièrement désirable, il sera difficile d'en déduire les dispositions
+	- **[[Désirabilité sociale]]** du comportement. Si un comportement est particulièrement désirable, il sera difficile d'en déduire les dispositions
 	- **Caractère volontaire ou forcé** du comportement. 
 	- -> Plus un comportement est "choisi" plus il est vecteur d'information. *(coucou les politiques qui disent ne pas avoir le choix avant de faire des choix politiques catastrophique)*
 - **Modèle de covariation** de Kelley:

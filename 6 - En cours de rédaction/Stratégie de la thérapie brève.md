@@ -133,7 +133,7 @@ On pourrait sous-titrer : Eloge de l'utilisation.
 
 **Techniques d'utilisation**
 
-<u>En hypnose.</u>
+<u>En [[hypnose]].</u>
 - Ratification 
 	- L'attention du patient est dirigée sur un élément : sensation, perception fantasme. LEs changements se produisant sont ratifiés : "Alors que vous m'écoutiez, votre pouls à changer, votre tête est dans une position différente", "vous manifestez les changements désirables"
 - Attribution 
@@ -169,7 +169,7 @@ On pourrait sous-titrer : Eloge de l'utilisation.
 
 <u>Les principes de l'utilisation</u>
 
-1. Première étape dans une approche éricksonienne n'est pas d'induire le patient à l'hypnose mais d'induire le thérapeute à utiliser: se mettre dans un état ou il est dirigé vers l'extérieur et prêt à répondre constructivement. 
+1. Première étape dans une approche éricksonienne n'est pas d'induire le patient à l'[[hypnose]] mais d'induire le thérapeute à utiliser: se mettre dans un état ou il est dirigé vers l'extérieur et prêt à répondre constructivement. 
 2. Tout ce qu'apporte le patient peut être utilisé : sa situation, ses valeurs les résistances, les symptômes, les mécanismes d'entretien des symptômes. 
 3. Toute technique dont se sert le patient pour être un patient peut être exploitée. 
 4. Peut importe la réponse, elle peut être développée. 

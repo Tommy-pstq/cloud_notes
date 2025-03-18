@@ -67,7 +67,7 @@ TTT
 	- Education sur les troubles neurologiques fonctionnels 
 	- Gestion du stress
 	- Identifier / modifier les mode de pensée qui renforcent leurs symptômes 
-	- Hypnose 
+	- [[Hypnose]] 
 	- [[Pleine conscience]]. 
 
 ## Trouble factice auto-induit

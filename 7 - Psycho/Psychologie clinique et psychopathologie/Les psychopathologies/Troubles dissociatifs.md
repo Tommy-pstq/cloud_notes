@@ -55,7 +55,7 @@ DSM
 TTT
 - Rétablissement spontané avec recouvrement de mémoire fréquent. 
 - [[Psychothérapie]] : aider à se souvenir d'événements durant la phase d'amnésie. 
-- Hypnose.
+- [[Hypnose]].
 
 
 ## Trouble dissociatif de l'identité
@@ -89,5 +89,5 @@ TTT
 	- Protéger contre de nouvelles situations traumatisantes 
 	- Travailler sur les traumatismes passés. 
 
-- Hypnose : reconnaitre les diverses identités. 
+- [[Hypnose]] : reconnaitre les diverses identités. 
 - Objectif, si possible : intégrer les différentes personnalités en une seule. 

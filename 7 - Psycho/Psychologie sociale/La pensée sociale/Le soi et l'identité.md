@@ -37,7 +37,7 @@
 - Malléabilité des jugements fait sur le soi : favorise le maintien d'une [[estime de soi]] positive.
 	- Biais de confirmation. 
 	- Attribution des succès à des causes internes plutôt qu'externes.
-		- Modulé par la désirabilité sociale : il est bien vu d'attribuer une partie de sa réussite aux autres.
+		- Modulé par la [[désirabilité sociale]] : il est bien vu d'attribuer une partie de sa réussite aux autres.
 			- Mais en privé, la complaisance envers soi prime. 
 - Négligence mnésique : propension à se souvenir majoritairement des informations positives 
 	- Plus difficile de se souvenir de l'absence d'effort que de longues heures de révision.

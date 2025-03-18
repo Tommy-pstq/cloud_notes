@@ -59,9 +59,9 @@
 - Méthode la plus connue : attribution de traits de personnalité pour décrire un groupe. (TAI : test d'association implicite)
 	- Les stéréotypes ne sont pas immuables. (évolution des stéréotypes sur les Allemands et Japonais entre 1950 et 1967)
 		- Les traits positifs se maintiennent plus fortement que les négatifs. 
-	- De plus en plus difficile d'obtenir des opinions à propos de groupes dont la stigmatisation est connue. (désirabilité sociale)
+	- De plus en plus difficile d'obtenir des opinions à propos de groupes dont la stigmatisation est connue. ([[désirabilité sociale]])
 		- Contourné en partie en affirmant qu'il est possible de connaitre la véracité des réponses, mais éthique bof.
-- Utilisation d'amorçage visuel et étude de l'impact sur la vitesse de prise de décision.
+- Utilisation d'[[amorçage]] visuel et étude de l'impact sur la vitesse de prise de décision.
 			- Mesure du caractère [[inconscience|inconscient]] en prime. 
 
 - Méthode des corrélations inversées 

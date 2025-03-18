@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Trouble de l'intérêt pour l'activité sexuelle ou de l'excitation sexuelle chez la femme.md",
+                "file": "7 - Psycho/Psychologie sociale/L'influence sociale/Attitudes et changement d'attitudes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trouble de l'intérêt pour l'activité sexuelle ou de l'excitation sexuelle chez la femme"
+              "title": "Attitudes et changement d'attitudes"
             }
           }
         ]
@@ -176,8 +176,21 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "3 - Tags/fantasmes.md",
+    "3 - Tags/théorie de l'inoculation.md",
+    "7 - Psycho/Psychologie sociale/L'influence sociale/Attitudes et changement d'attitudes.md",
+    "3 - Tags/effet d'influence persistante.md",
+    "3 - Tags/aveuglement au biais.md",
+    "3 - Tags/média hostile.md",
+    "3 - Tags/évitement sélectif.md",
+    "3 - Tags/traitement systématique.md",
+    "3 - Tags/Théorie de la simple exposition.md",
+    "3 - Tags/Amorçage.md",
+    "3 - Tags/apprentissage associatif.md",
+    "3 - Tags/Conditionnement évaluatif.md",
+    "3 - Tags/hypnose.md",
+    "3 - Tags/désirabilité sociale.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Trouble de l'intérêt pour l'activité sexuelle ou de l'excitation sexuelle chez la femme.md",
+    "3 - Tags/fantasmes.md",
     "3 - Tags/Excitation.md",
     "3 - Tags/conception négative.md",
     "3 - Tags/Troubles hormonaux.md",
@@ -190,19 +203,6 @@
     "3 - Tags/hypersomnie.md",
     "3 - Tags/Pupille.md",
     "3 - Tags/état d'alerte.md",
-    "3 - Tags/Euphorie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances/Sédatifs, hypnotiques, anciolytiques.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances/L'alcool.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances/Opiacés.md",
-    "3 - Tags/coma.md",
-    "3 - Tags/Diarrhées.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances/Nicotine.md",
-    "3 - Tags/appétit.md",
-    "3 - Tags/anxiété.md",
-    "3 - Tags/Humeur dépressive.md",
-    "3 - Tags/accoutumance.md",
-    "3 - Tags/Tolérance.md",
-    "3 - Tags/dépendance.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances",
     "2 - Source Materials/Pasted image 20250314165947.png",
     "2 - Source Materials/Pasted image 20250314165944.png",
