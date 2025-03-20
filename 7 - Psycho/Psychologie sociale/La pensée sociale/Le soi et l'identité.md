@@ -92,7 +92,7 @@
 		- "Simple petite écart" -> peut entrainer une rechute totale. 
 		- Mieux vaut limiter l'affichage de stimuli que de les liés à quelque chose de négatif. 
 
-- Ne pas non plus croire qu'il est impossible de réguler ces "pulsions irrésistibles".
+- Ne pas non plus croire qu'il est impossible de réguler ces "[[pulsions]] irrésistibles".
 	- Rôle du cortex préfrontal. 
 		- Ex: Danger de mort immédiate si UNE cigarette est fumée, l'individu pourra s'abstenir. 
 			- -> Une forme de contrôle est possible
@@ -104,7 +104,7 @@
 	- Dévastateur si non préparé.
 	- Beaucoup plus gérable si prévision et planification du comportement à l'avance. 
 		- stratégie <u>d'implémentation d'intention</u>, souvent efficace.
-			- Un élément de plus **contre** la "pulsion irrésistible"
+			- Un élément de plus **contre** la "[[pulsions|pulsion]] irrésistible"
 
  ### Hypothèse de délai de gratification
 

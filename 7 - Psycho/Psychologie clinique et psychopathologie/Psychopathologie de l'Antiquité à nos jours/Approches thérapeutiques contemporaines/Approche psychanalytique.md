@@ -17,11 +17,11 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 			- Complexe d'Oedipe (H) et Electre (F)
 			- Difficultés affectives 
 	- **3 structure [[psychologie|psychologiques]] importantes**
-		- le "**Ca**" = pulsions de vie, de mort, sexuelles et agressives. 
-			- Mode de pensé primaire [[émotion|émotionnel]], irrationnel relié aux pulsions de base.
+		- le "**Ca**" = [[pulsions]] de vie, de mort, sexuelles et agressives. 
+			- Mode de pensé primaire [[émotion|émotionnel]], irrationnel relié aux [[pulsions]] de base.
 			- Principe de base = plaisir. 
 			- Inconscient 
-		- le "**Moi**" = contact avec la réalité et [[adaptation]] des pulsions aux exigences de la réalité.
+		- le "**Moi**" = contact avec la réalité et [[adaptation]] des [[pulsions]] aux exigences de la réalité.
 			- Pensée rationnelle et logique 
 			- Davantage [[conscience|conscient]] 
 		- le "**Surmoi**" = [[conscience]] et principes moraux. 
@@ -33,7 +33,7 @@ On y parlait d'hystérie, fini. Maintenant c'est le [[trouble de la personnalit�
 		3. **[[Transfert]]**  : déplacer des [[Sentiments]] ou des réaction d'une personne à une autre.
 		4. **[[Projection]]** : attribuer à autrui ses propres [[Sentiments]] 
 		5. **[[Rationalisation]]** : dissimuler ses propres [[Sentiments]] / pensées derrière une explication rationnelle
-		6. **[[Sublimation]]** : orienter des pulsions inacceptables vers des comportement socialement acceptable (sport de combat plutôt que d'exprimer [[colère]] ou [[agressivité]])
+		6. **[[Sublimation]]** : orienter des [[pulsions]] inacceptables vers des comportement socialement acceptable (sport de combat plutôt que d'exprimer [[colère]] ou [[agressivité]])
 		7. **[[Formation réactionnelle]]** : changer des [[Sentiments]]/comportements/pensées inacceptables par des réactions diamétralement opposées.
 #### Traitement psychanalytique
 

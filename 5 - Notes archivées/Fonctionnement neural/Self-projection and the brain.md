@@ -32,7 +32,7 @@ Etude : cherche à faire le lien entre prespection, accès au passé, [[théorie
 - (1) Prospection implique deux perspectives, première personne & troisième pour points de vus. 
 - Peut impliquer des concepts & état affectifs
 
-- Construction d'une perspective alternative imaginaire = "Simulation". Par manque de terme approprié. (Selfation ?)
+- Construction d'une perspective alternative [[imaginaire]] = "Simulation". Par manque de terme approprié. (Selfation ?)
 
 Les 4 processus cherchant à être reliés dans l'étude sont de bons candidats pour être dépendant/utiliser des simulations: se basent sur des info autobiographique + construites comme des perceptions de perspectives alternatives.
 
@@ -104,7 +104,7 @@ Cependant : cortex fronto-polaire & régions midline antérieure frontale ont un
 - Jugement moral:
 	- Décisions morales impliquant des interactions interpersonelles activent les mêmes zones. 
 
-Ces régions ne s'activant pas dans toutes les tâches impliquant la résolution de problèmes complexes ou l'imagination, cela suggère que ce réseau est spécialisé dans le changement de perspective. 
+Ces régions ne s'activant pas dans toutes les tâches impliquant la résolution de problèmes complexes ou l'[[imaginaire|imagination]], cela suggère que ce réseau est spécialisé dans le changement de perspective. 
 
 l'activité du [[default mode]] est similaire à celle observé dans des  dépendant de SP.
 

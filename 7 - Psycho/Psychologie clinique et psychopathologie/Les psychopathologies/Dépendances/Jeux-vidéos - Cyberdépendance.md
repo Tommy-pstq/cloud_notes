@@ -12,4 +12,4 @@
 	- [[Agressivité]] 
 - Symptôme de [[tolérance]] : Nombre d'heure consacrées à l'activité / meilleur équipement / Achat d'application ou de jeux. 
 
-- Problèmes relationnels, professionnels, conjugaux. 
+- Problèmes relationnels, professionnels, [[conjugale|conjugaux]]. 

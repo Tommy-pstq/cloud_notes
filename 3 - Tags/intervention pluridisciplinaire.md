@@ -4,4 +4,5 @@ aliases:
   - interventions pluridisciplinaires
   - pluridisciplinaire
   - pluridisciplinaires
+  - multidisciplinaire
 ---

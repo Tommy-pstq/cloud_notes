@@ -1,0 +1,4 @@
+---
+aliases:
+  - plaisirs sexuels
+---

@@ -1,0 +1,6 @@
+---
+aliases:
+  - imagination
+  - imaginaires
+  - imaginations
+---

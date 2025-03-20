@@ -144,7 +144,7 @@
 			- La [[colère]] est un des principales moteurs de l'action collectives.
 				- Entraine des actions collectives <u>normatives</u>: manifester pacifiquement, grève
 			- Le [[mépris]] également, généré par des comportements que l'on attribue à des caractéristiques stables des membres de l'exogroupe (trait de personnalité, idéologie partagé)
-				- Entraine des actions collectives <u>non normatives</u>, en particulier **violentes**. 
+				- Entraine des actions collectives <u>non normatives</u>, en particulier **[[violence|violentes]]**. 
 				- Associé à la déshumanisation de l'exogroupe 
 					- On ne le perçoit plus comme digne d'être traité moralement. 
 	- <u>Identification au groupe concerné </u>:

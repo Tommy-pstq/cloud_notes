@@ -77,7 +77,7 @@ Moscivici, 3 modes de communication médiatiques:
 | Individualisme                                           | Collectivisme                                     | Honneur                             |
 | -------------------------------------------------------- | ------------------------------------------------- | ----------------------------------- |
 | Occident                                                 | Extrême Orient                                    | Pourtour médittéranéen / Pakistan   |
-| Biais dispositionnel marqué                              | Éléments situationnels mieux considérés           | Altère la perception de la violence |
+| Biais dispositionnel marqué                              | Éléments situationnels mieux considérés           | Altère la perception de la [[violence]] |
 | Société = élément distinct du soi                        | Individu lié à la société                         |                                     |
 | Mise en avant de valeurs individuelles différientiatives | Mise en avant de valeurs individuelles normatives |                                     |
 | Verbalisation bénéfique                                  | Verbalisation handicapante                        |                                     |

@@ -166,7 +166,7 @@ TTT
 			- Pense nécessaire d'être toujours prêt au pire. 
 - Surestimation du danger & sous estime le capacité à se débrouiller. 
 
--> Restructuration cognitive utilisée pour corriger les biais d'estimation. 
+-> [[Restructuration cognitive]] utilisée pour corriger les biais d'estimation. 
 -> Thérapie pour accepter l'incertitude telle qu'elle existe dans la réalité. 
 	- Apprentissage de gestion des choses incertaines. 
 - [[Relaxation]]
@@ -178,7 +178,7 @@ TTT
 
 ### Trouble de stress post-traumatique
 
-- Généralement lié à un événement d'une violence particulière, vécu ou observé, voire par un membre de la famille : Agression/menace de mort/mort/viol/menace de viol ...
+- Généralement lié à un événement d'une [[violence]] particulière, vécu ou observé, voire par un membre de la famille : Agression/menace de mort/mort/[[Abus sexuels|viol]]/menace de [[Abus sexuels|viol]] ...
 
 - L'expérience traumatique est revécue en cauchemars ou flashback. 
 - Détresse intense provoquée par des triggers liés au trauma
@@ -333,7 +333,7 @@ DSM
 	- Difficultés à rétablir des relations et des activités 
 	- Insensibilité, comme une absence de réactions émotionnelles
 	- Impression que la vie n'as plus de sens, en lien avec le décès 
-	- Solitude intense reliée à ce décès 
+	- [[Solitude]] intense reliée à ce décès 
 4. Détresse cliniquement significative ou [[altération du fonctionnement]]
 5. Durée du deuil dépassant la durée attendue dans la culture de référence 
 6. Pas mieux expliqué par un PTSD ou effet de substance ou autre problème médical.
@@ -385,7 +385,7 @@ TTT
 - Thérapie sur les inférences
 	- Distinguer le doute obsessionnel du doute normal 
 		- -> Reconnaitre les arguments qui justifient le doute et les compulsions 
-			- -> Construction d'un autre narratif s'appuyant plus sur la réalité des faits ne supportant pas le doute exagéré pour comprendre que le doute obsessionnel est issu de l'imagination. 
+			- -> Construction d'un autre narratif s'appuyant plus sur la réalité des faits ne supportant pas le doute exagéré pour comprendre que le doute obsessionnel est issu de l'[[imaginaire|imagination]]. 
 
 - Pharmaco : 
 	- Antideps :
@@ -395,10 +395,10 @@ TTT
 ### Obsession d'une dysmorphie corporelle 
 
 - Préoccupation pour un/des défauts invisibles aux autres. 
-- Comportements répétitifs : se regarder dans le miroir / être rassuré.e sur son apparence / se compare aux autres 
+- Comportements [[répétitifs]] : se regarder dans le miroir / être rassuré.e sur son apparence / se compare aux autres 
 DSM 
 1. Préoccupations sur les défauts plus importantes que chez les autres
-2. La personne développe des comportements répétitifs : 
+2. La personne développe des comportements [[répétitifs]] : 
 	- Vérification de la présence de ce qu'elle considère comme des défauts
 		- Se regarder dans le miroir
 		- Se comparer aux autres

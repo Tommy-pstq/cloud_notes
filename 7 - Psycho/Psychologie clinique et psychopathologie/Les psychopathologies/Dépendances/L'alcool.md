@@ -22,7 +22,7 @@ DSM
 - Discours difficile à comprendre 
 - Manque de [[coordination]] motrice 
 - Démarche typique de l'état d'ébriété 
-- Mouvements répétitifs et incontrôlables des yeux (nystagmus)
+- Mouvements [[répétitifs]] et incontrôlables des yeux (nystagmus)
 - [[mémoire]] / [[attention]] diminuée 
 - Inertie, insensibilité / [[coma]]
 

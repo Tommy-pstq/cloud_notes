@@ -49,7 +49,7 @@ TTT
 	- Plus spécifique : Événements précis, souvent de nature traumatique.
 DSM
 1. Incapacité de se souvenir d'informations importantes reliées à son histoire de vie - souvent suite à des événements traumatiques ou très stressant. L'amnésie sera spécifique ou globale. 
-2. Détresse significative / changements dans le fonctionnement. 
+2. Détresse significative / [[altération du fonctionnement|changements dans le fonctionnement]]. 
 3. Pas mieux expliqué par l'utilisation de substances ou pas d'autres affections médicales (ex: trauma crânien)
 4. Perturbation pas attribuable à un autre trouble mental (Ex: PTSD, schizophrénie, trouble panique.)
 TTT

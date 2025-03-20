@@ -188,7 +188,7 @@ TTT
 - Convaincu que leur croyance irrationnelle et fausse est fondée. 
 - La logique ne parvient pas à les convaincre. Parviennent souvent à trouver des arguments pour convaincre d'autres personnes que leur délire est vrai.
 - Si sensation de persécution dans un contexte :
-	- Possible réaction intempestive, sur la défensive, la crainte, l'arrogance et parfois la violence. 
+	- Possible réaction intempestive, sur la défensive, la crainte, l'arrogance et parfois la [[violence]]. 
 - Persuadées que les autres leur en veulent / victime d'un complot -> épuisement jusqu'à la dépression, voir geste suicidaires.
 - Difficulté : personnes souvent isolées, méfiantes et hésitent longtemps à parler de leur problème. 
 	- Peu de recherches existent donc sur ce problème. 
@@ -202,7 +202,7 @@ DSM
 - Divers troubles délirants:
 	- **Grandeur** : convaincu d'avoir un grand talent / fait une découverte majeure 
 	- **Jalousie** : Estime que le partenaire est infidèle. Reposant sur des inférences erronées / preuves fragiles. Peut recourir à l'agression physique 
-	- **Persécutoire** : Convaincu que l'on complote contre lui, est espionné, se moque de lui, est en danger. Peut tenter d'obtenir justice en contactant la justice/administration. Peut recourir à la violence pour se venger de la persécution imaginée. 
+	- **Persécutoire** : Convaincu que l'on complote contre lui, est espionné, se moque de lui, est en danger. Peut tenter d'obtenir justice en contactant la justice/administration. Peut recourir à la [[violence]] pour se venger de la persécution imaginée. 
 	- **Somatique** : en lien avec une fonction corporelle. Difformité, mauvaise odeur, parasite.
 	- **Erotomaniaque** : Croit qu'une autre personne est amoureuse de lui. Tentatives de contacter la personne fréquentes. Potentiel conflit avec la loi.
 
@@ -280,7 +280,7 @@ DSM
 - **Négativisme** : opposition ou absence de réponse à des instruction 
 - **Prise de posture** : maintien contre la gravité d'une posture prise spontanément 
 - **Maniérisme** : caricature d'actions ordinaires empreinte de bizarrerie, de solennité
-- **Stéréotypie** : mouvement non dirigés vers un but, répétitifs et anormalement fréquents
+- **Stéréotypie** : mouvement non dirigés vers un but, [[répétitifs]] et anormalement fréquents
 - **[[Agitation]]**, non influencé par des [[stimulus|stimuli]] externes 
 - **Expression faciale avec grimace**
 - **Echolalie** : répétition des paroles d'une autre personne 

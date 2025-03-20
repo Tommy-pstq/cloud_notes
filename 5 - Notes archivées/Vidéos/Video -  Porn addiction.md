@@ -29,7 +29,7 @@ But unique du corps : se reproduire pour perpétuer l'espèce.
 ### [[Noyaux accumbens]] et dopamine
 
 - Petite qtité de porn = petite qtité de [[dopamine]]. (récompense le comportement reproductif, même par observation )
-- Orgasme = énorme qtité de dopamine. 
+- [[Orgasme]] = énorme qtité de dopamine. 
 
 Dopamine:
 - Plaisir
@@ -59,18 +59,18 @@ Emotions primitives, ex: [[anxiété]]/[[peur]]/tristesse.
 			- "Si on a esprit est libre, toute la merde ressort"
 		- Faut faire le ménage pour diminuer ce phénomène. 
 
-### Ocytocine & solitude
+### Ocytocine & [[solitude]]
 
 [[Ocytocine]] : [[neurotransmetteurs|neurotransmetteur]] impliqué dans la connexion aux autres.
 
-- Actuellement : "épidémie de solitude" ET on observe une explosion de l'addiction au porn. 
+- Actuellement : "épidémie de [[solitude]]" ET on observe une explosion de l'addiction au porn. 
 - Créer des liens [[émotion|émotionnels]] = moyen d'accéder à la reproduction *(pas uniquement frérot)* 
 
-- Solitude -> signal destiné à pousser l'individu à créer des liens. 
+- [[Solitude]] -> signal destiné à pousser l'individu à créer des liens. 
 - Câlins (partenaire, enfants, animaux) = augmentation du niveau d'ocytocine. 
 
 - Problème:
-	- Les mêmes [[circuit neuronaux|circuits neuronaux]] impliqué dans le [[sentiments|sentiment]] de solitude sont sensibles au sex (ça implique quand même un peu de contact physique).
+	- Les mêmes [[circuit neuronaux|circuits neuronaux]] impliqué dans le [[sentiments|sentiment]] de [[solitude]] sont sensibles au sex (ça implique quand même un peu de contact physique).
 		- Sauf qu'en regardant du porno, ben on a pas de câlins, donc pas d'ocytocine.
 
 ### Statut social 

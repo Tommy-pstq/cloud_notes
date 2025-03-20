@@ -41,7 +41,7 @@
 		- Emotion indissociable du mouvement 
 		- Emergence de la [[conscience de soi]]
 	- **Sensori-moteur & projectif** (1->3 ans) *Connaissance*
-		- Activité physique & [[perception|perceptive]] d'exploration de l'espace -> [[intelligence]] des situations
+		- [[Activité physique]] & [[perception|perceptive]] d'exploration de l'espace -> [[intelligence]] des situations
 		- Activité tonique posturale : [[Imitation|imitations]]/jeux de faire semblant : intelligence discursive 
 	- **Personnalisme** (3->6 ans) *Construction de la personne*
 		- Affirmation du Moi 

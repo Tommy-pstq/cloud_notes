@@ -41,7 +41,7 @@ TTT
 	- Présence de fortes distorsions négatives biaisant les perceptions. 
 		- [[Pensée dichotomique]] :  "Si ce n'est pas absolument parfait, c'est absolument imparfait", "Si je ne suis pas le meilleur, je suis le pire".
 			- Découragement facile, augmentation de l'état dépressif. 
-	- **Restructuration cognitive** : modifier les croyances et perceptions en présentant des manières alternatives de penser.  
+	- **[[Restructuration cognitive]]** : modifier les croyances et perceptions en présentant des manières alternatives de penser.  
 - **Augmentation des événement positifs** : favoriser l'humeur en recommandant des activités susceptibles d'avoir des conséquences positives pour le dépressif. 
 - **Amélioration des habiletés sociales**  (souvent déficitaires): peut amener des changements très positifs dans des activités les plus importantes. 
 - **Psychothérapie interpersonnelle** : thérapie brève axée sur l'[[attachement]], aide la personne à se sentir mieux en améliorant la qualité de leur relations interpersonnelles. 
@@ -112,7 +112,7 @@ DSM
 	- [[Insomnie]] / [[Hypersomnie]] 
 	- Sentiment de perte de contrôle 
 	- Symptômes physique, gonflement, douleurs musculaires 
-4. Détresse cliniquement significative / changement dans le fonctionnement 
+4. Détresse cliniquement significative / [[altération du fonctionnement|changement dans le fonctionnement]] 
 5. Pas la manifestation d'un autre trouble dépressif / au trouble de santé mental 
 6. Symptômes confirmés lors des 2 prochains cycles 
 7. Pas les effets d'une substance ou autre problème médical
@@ -124,7 +124,7 @@ TTT
 - TTT système hormonal 
 - Hygiène de vie :
 	- Repos / sommeil
-	- Activité physique régulière
+	- [[Activité physique]] régulière
 	- Activité relaxante 
 
 ## Troubles bipolaires & apparentés

@@ -1,0 +1,12 @@
+---
+aliases:
+  - anxiété de performances
+  - conception de performance
+  - conceptions de performances
+  - performances exagérées
+  - performance exagéré
+  - exagérée performance
+  - exagérées performances
+  - de performance
+  - de performances
+---

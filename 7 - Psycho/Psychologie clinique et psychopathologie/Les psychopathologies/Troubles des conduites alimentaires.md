@@ -29,15 +29,15 @@ TTT
 		- Limiter les consommations d'aliments à un nombre plus restreint par jour avec des quantité moins grandes. 
 	- Restructurer les croyances à propos de la silhouette corporelle, du poids et l'alimentation.
 	- Encouragement à ne plus se purger régulièrement.
-- Souvent multidisciplinaire (comme autres TCA), avec implication de l'environnement. 
+- Souvent [[intervention pluridisciplinaire|multidisciplinaire]] (comme autres TCA), avec implication de l'environnement. 
 
 ## Anorexie mentale
 
 - Souvent les adolescentes :  préoccupation importante autour de la prise de poids. 
 	- En dépit d'un poids bas et perçues par les autres comment beaucoup trop minces. 
 - Processus de restriction alimentaire important pouvant avoir des conséquences majeures sur la santé. 
-- Possible association à une activité physique intense. 
-- Perception du schéma corporel modifié
+- Possible association à une [[activité physique]] intense. 
+- Perception du [[schéma corporel]] modifié
 - Malgré l'extrême minceur, les personne se perçoivent comme trop grosse. 
 - Problèmes de santé engendrés:
 	- Diminution de la masse musculaire 
@@ -53,7 +53,7 @@ TTT
 	- Aménorrhée.
 	- ...
 - Possible risque de complications graves allant jusqu'au décès.
-- Conséquences psychologiques & interpersonnel : Fatigue / anxiété / insomnie / Perte de mémoire / difficultés relationnelles : pertes d'amis & problèmes familiaux. 
+- Conséquences psychologiques & interpersonnel : Fatigue / anxiété / insomnie / Perte de mémoire / [[difficultés relationnelles]] : pertes d'amis & problèmes familiaux. 
 
 DSM
 1. Engagement dans un processus de restriction des apports énergétiques, le poids devient inférieur au poids minimal attendu.
@@ -69,7 +69,7 @@ TTT
 	- Condition de congé : retour à la normalité pondérale. 
 - Collaboration de l'environnement 
 - Suivit alimentaire 
-- Travail cognitif similaire à la boulimie sur les [[croyances inappropriées|fausses croyances]] reliées à l'alimentation et au schéma corporel sera effectué. 
+- Travail cognitif similaire à la boulimie sur les [[croyances inappropriées|fausses croyances]] reliées à l'alimentation et au [[schéma corporel]] sera effectué. 
 - Potentielle thérapie familiale si le problème semble relié (cas de l'enfant pour qui la seule manière d'avoir un contrôle sur les exigences de ses parents est de manifester des restriction alimentaires)
 ## Restriction ou [[Evitement|évitement]] de l'ingestion d'aliments. 
 

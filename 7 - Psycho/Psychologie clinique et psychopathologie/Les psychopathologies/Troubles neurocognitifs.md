@@ -71,7 +71,7 @@ DSM
 
 ## Trouble neurocognitif vasculaire majeur ou léger 
 
-- Attribuable à des changements dans le fonctionnement vasculaire du SNC.
+- Attribuable à des [[altération du fonctionnement|changements dans le fonctionnement]] vasculaire du SNC.
 	- Souvent progressifs, évoluant avec l'âge
 	- Vaisseaux sanguins endommagés, bloqués, de manière diffuse ou localisé.
 - Régions affectées -> déterminent la nature du trouble.
@@ -124,7 +124,7 @@ DSM
 - Affection neurodégénératives du SNC rare & héréditaire.
 	- Débute souvent entre 30 et 50 ans. Parfois avant 20 ans ou plus tard.
 		- Troubles moteurs 
-			- mouvement involontaires parfois violents 
+			- mouvement involontaires parfois [[violence|violents]] 
 			- contractions musculaires 
 			- saccades bras / autre partie du corps 
 			- Marche cadencée ou désinvolte (marionnette)

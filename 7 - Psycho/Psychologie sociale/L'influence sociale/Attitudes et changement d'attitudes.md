@@ -85,7 +85,7 @@
 
 ## Le changement d'attitude
 
-- Carl Hovland : bases d'une approche cognitive du changement d'attitude.
+- Carl Hovland : bases d'une [[Thérapie cognitive|approche cognitive]] du changement d'attitude.
 	- Éléments:
 		- Source du message
 		- Le message en tant que tel
@@ -149,7 +149,7 @@
 
 - <u>Implication de l'attention et de la compréhension dans le changement d'attitude</u>
 	- Durée d'attention moyenne sur internet chez les millenials : 9 secondes (2019).
-	- Sexe / violence diminuent les capacités attentionnelles pendant les coupures pubs.
+	- Sexe / [[violence]] diminuent les capacités attentionnelles pendant les coupures pubs.
 	- Mieux vaut des programmes pas très captivants pour que des ressources soient disponibles pour de la pub.
 
 - Attention : pas suffisant. 

@@ -125,7 +125,7 @@ Si on omet la navigation, les régions suivantes sont communes:
 - Potentiellement: 
 	- [[cortex préfrontal]] latéral permet le maintien et la manipulation d'information en continu
 		- -> Simulation mentale /  de scène.
-	- cortex occipital supporte les processus d'imagerie mentaux utiles à la simulation et à l'imagination 
+	- cortex occipital supporte les processus d'imagerie mentaux utiles à la simulation et à l'[[imaginaire|imagination]] 
 
 - Mémoire autobiographique, [[Théorie de l'esprit|ToM]] et prospection montre des correspondances fonctionnelles supplémentaires:
 	- [[cortex préfrontal médian]] et régions temporales latérales. 

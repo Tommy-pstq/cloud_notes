@@ -195,7 +195,7 @@ Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'
 - Sommeil focal / local = toutes les aires du cerveaux ne sont pas dans un état de sommeil homogène
 	- Explique la sensation de chute
 	- Somnambulisme (parasomnie)
-		- Réveiller doucement / ramener au lit car absence d'intelligence / cognition [[social|sociale]] : potentiellement violent
+		- Réveiller doucement / ramener au lit car absence d'intelligence / cognition [[social|sociale]] : potentiellement [[violence|violent]]
 - Terreur nocturne (que chez l'enfant)
 	- Terreur inconsolable 
 	- Emotion intense 
@@ -249,7 +249,7 @@ Pas UN [[neurotransmetteurs|neurotransmetteur]] miracle, plutôt une question d'
 		- Chauffe l'air (participe à la [[Régulation]] de température)
 		- Produit un flux d'air laminaire (calme)
 - **Marche consciente** pour aller se coucher (comme un sportif qui rentre dans un stade, prendre [[conscience]] qu'on va se coucher)
-- **Routine simple** : Favoriser des gestes répétitifs pour diminuer l’anxiété.
+- **Routine simple** : Favoriser des gestes [[répétitifs]] pour diminuer l’anxiété.
 
 #### L'importance de l'acceptation et création du rituel
 
@@ -359,7 +359,7 @@ Major mouvement : "J'arrive pas à dormir, au moins être devant une vidéo ça 
 
 - **CBD/Weed ?** : Peu d’effets sur le [[sommeil]], mais utile pour les mal-êtres/douleurs.
 
-- **Orgasme ?** : Favorise l’endormissement grâce aux endorphines.
+- **[[Orgasme]] ?** : Favorise l’endormissement grâce aux endorphines.
 
 - **Sport le soir ?** : Possible si faible intensité.
 

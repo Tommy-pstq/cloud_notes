@@ -118,9 +118,9 @@ Comme précédemment, ces lois ne contraignent pas uniquement la production du m
 Cela permet de simuler les actions de l'autre via le [[système miroir]]. (le terme de "[[neurone]] miroir" est utilisé, mais askip c'est pas clairement identifié chez l'humain).
 	-> Percevoir, c'est simuler une action.
 
-### III - 2 Schéma corporel, un corps virtuel ? 
+### III - 2 [[Schéma corporel]], un corps virtuel ? 
 
-Il est une zone du cerveau permettant l'unification de la représentation du corps (schéma corporel) et les relations avec l'espace : la [[jonction temporo-pariétale]].
+Il est une zone du cerveau permettant l'unification de la représentation du corps ([[schéma corporel]]) et les relations avec l'espace : la [[jonction temporo-pariétale]].
 
 ![[Pasted image 20241110174321.png|400]]
 						*src : (1)*
@@ -135,11 +135,11 @@ Important pour:
 Cette région est impliqué dans les phénomène d'autoscopie (se voir soit même de face) & de sortie de corps (se perçoit au plafond entrain de se regarder)
 
 Station corticales des projections du [[système vestibulaire]]
-	- [[système vestibulaire]]: référentiel fondamental pour l'unification des données [[sensorialité|sensorielles]] et la construction du schéma corporel. 
+	- [[système vestibulaire]]: référentiel fondamental pour l'unification des données [[sensorialité|sensorielles]] et la construction du [[schéma corporel]]. 
 	
 Expérience de la main de caoutchouc:
 - Le cerveau est capable d'attribuer un existence à des membres artificiels. 
-	- Assimilation au schéma corporel
+	- Assimilation au [[schéma corporel]]
 
 ## IV La marche
 
@@ -194,7 +194,7 @@ Les relations vitesse/courbures, les formes du dessin manuel & de la marche sont
 
 ## V L'imagerie mentale 
 
-### V - I Mêmes structures cérébrales pour l'exécution, l'observation et l'imagination ? 
+### V - I Mêmes structures cérébrales pour l'exécution, l'observation et l'[[imaginaire|imagination]] ? 
 
 [[psychologie]] : utilisation de simulation & imagerie mentale.
 réhabilitation : imagerie motrice

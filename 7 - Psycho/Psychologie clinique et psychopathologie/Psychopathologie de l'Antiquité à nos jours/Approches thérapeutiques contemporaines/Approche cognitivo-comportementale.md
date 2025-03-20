@@ -53,7 +53,7 @@
 	- Attribution : recherche des causes.
 		- <u>attribution internes excessives </u>chez les dépressifs (Ex: "si je n'ai pas eu cet emploi, c'est parce que je suis pas bon", pas de considération des facteurs externes comme les autres candidats)
 
-- [[Thérapie cognitive|Approche cognitive]] : traitement se basant sur des méthodes de "**restructuration cognitive**" :
+- [[Thérapie cognitive|Approche cognitive]] : traitement se basant sur des méthodes de "**[[restructuration cognitive]]**" :
 	- Identifier et modifier les cognitions inappropriées. (colonnes de Beck)
 
  #### Troisième vague : Une nouvelle étape dans le développement des traitements cognitivo-comportementaux 

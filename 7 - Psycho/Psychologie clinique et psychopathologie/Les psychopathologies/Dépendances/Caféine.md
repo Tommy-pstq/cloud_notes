@@ -9,7 +9,7 @@ DSM.
 | [[Nervosité]]  | Soubresauts                                                               | Pb gastro-intestinaux |
 | [[Excitation]] | Pensée/discours moins cohérents                                           | [[Agitation]]         |
 | [[insomnie]]   | [[Symptômes cardiaques\|Tachycardie]] & [[Symptômes cardiaque\|arythmie]] | Infatigabilité        |
-3. [[Détresse]] clinique significative / changement dans le fonctionnement 
+3. [[Détresse]] clinique significative / [[altération du fonctionnement|changement dans le fonctionnement]] 
 4. Pas explicable par une autre affection 
 
 ### Sevrage 

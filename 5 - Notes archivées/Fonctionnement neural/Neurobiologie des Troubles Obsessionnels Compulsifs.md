@@ -6,7 +6,7 @@ Tags:  [[TOC]] [[expérimentation animale]] [[sérotoninergique]] ([[SRI]]) [[st
 
 # Neurobiologie des Troubles Obsessionnels Compulsifs
 ### Abstract: 
-Décennies de recherche : le complexe [[CSTC|cortico-striato-thalamo-cortical]] ([[CSTC]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement répétitifs/compulsifs. 
+Décennies de recherche : le complexe [[CSTC|cortico-striato-thalamo-cortical]] ([[CSTC]]) semble avoir une implication critique dans les obsessions ainsi que dans les comportement [[répétitifs]]/compulsifs. 
 [[expérimentation animale]] : permet des modifications [[génétique]] & chirurgie invasives *(pauvre bébous :( )* permettant des avancées majeures. 
 
 ### Intro:
@@ -26,7 +26,7 @@ Suppression [[génétique]] de la production de [[SAPAP3]], fortement exprimé d
 - déficit de transmission [[glutamatergique]] dans les [[synapses]] cortico-striatales.
 Ces deux effets ont disparus après incorporation virale de SAPAP3 dans le [[striatum]]. 
 
-*L'article contient d'autres exemples concernant des protéines/acides aminés dont l'absence entraine des comportement compulsifs/répétitifs : Slitrk5/ Hoxb8/ Slc1a1|EAAC1 null mice*
+*L'article contient d'autres exemples concernant des protéines/acides aminés dont l'absence entraine des comportement compulsifs/[[répétitifs]] : Slitrk5/ Hoxb8/ Slc1a1|EAAC1 null mice*
 
 --> Modèles uniques insuffisants pour représenter complètement les TOC chez l'humain. Peut être même impossible à reproduire chez la souris pour des raisons de différence de [[capacités cognitives|capacité cognitive]].
 ### Perspectives

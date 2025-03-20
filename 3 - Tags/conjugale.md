@@ -1,0 +1,6 @@
+---
+aliases:
+  - conjugal
+  - conjugaux
+  - conjugales
+---

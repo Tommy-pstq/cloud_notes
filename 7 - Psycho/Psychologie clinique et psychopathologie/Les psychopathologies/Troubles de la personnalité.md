@@ -59,7 +59,7 @@ TTT
 DSM
 1. Début de l'âge adulte : manque d'intérêt / détachement vis à vis des [[relations sociales]]. Peu d'expression émotionnelle par rapport à autrui. Au moins 4 manifestations:
 	- Ne manifeste pas d'intérêt pour ses proches dont les membres de la famille 
-	- Préfère les activités solitaires 
+	- Préfère les activités [[solitude|solitaires]] 
 	- Pas intéressé.e aux activités sexuelles avec d'autres.
 	- Pas/Rarement de plaisir associé aux activités 
 	- Pas d'amis/personnes proches à qui se confier, sauf des proches parents 
@@ -154,7 +154,7 @@ TTT
 - Les individus pensent rarement avoir besoin d'être traitées. 
 - Très manipulateurs : complique les tentatives d'interventions. 
 - TCC:
-	- Amélioration du tableau clinique & réduction des comportements violents. 
+	- Amélioration du tableau clinique & réduction des comportements [[violence|violents]]. 
 
 ### Personnalité limite ([[trouble de la personnalité limite|borderline]])
 
@@ -172,7 +172,7 @@ TTT
 - Finissent souvent dans des urgences psychiatriques. 
 
 - Facteurs biologiques (réseau limbique)
-- Enfants, particulièrement de sexe féminin, victimes d'abus sexuels / négligence durant l'enfance : plus de risque de développer un trouble de [[trouble de la personnalité limite|personnalité limite]].
+- Enfants, particulièrement de sexe féminin, victimes d'[[abus sexuels]] / négligence durant l'enfance : plus de risque de développer un trouble de [[trouble de la personnalité limite|personnalité limite]].
 - Combinaison de facteurs probablement :
 	- Réactivité émotionnelle importante à la base.
 	- Vulnérabilité psychologique généralisée / lors d'événements spécifiques reliés à des traumas précoces -> les événements sont souvent perçus comme des menaces.
@@ -276,7 +276,7 @@ TTT
 - Veulent toujours avoir raison, même contre l'évidence, qui sera niée de toute manière possible.
 - Amour = manière de manifester leur narcissisme et leur manque d'empathie 
 	- Si la relation met en péril leur [[estime de soi]] :
-		- [[Agressivité]]/Violence possible, voire homicide.
+		- [[Agressivité]]/[[Violence]] possible, voire homicide.
 
 - Personnes n'ayant pas eu à apprendre le développement de l'empathie et se sont centrées sur elle même.
 	- Enfant roi, élevé dans un contexte d'attention excessive par des parents eux-même narcissiques projettant leurs attentes sur leurs propres enfants: augmente les chances de devenir narcissiques.
@@ -289,7 +289,7 @@ TTT
 - Se considère comme sans aucun défaut -> Pas de remise en question -> pas de recherche de traitement.
 - Dans le cas d'obstacles s'opposant à leurs schémas:
 	- Nier envers et contre tous 
-	- Réaction hostile, potentiellement grave/violente 
+	- Réaction hostile, potentiellement grave/[[violence|violente]] 
 	- Dépression
 		- Augmente la réceptivité à l'idée d'un traitement.
 
@@ -335,7 +335,7 @@ TTT
 	- Mais : portent quand même de l'intérêt aux autres.
 		- Peur de ne pas être acceptées -> évites les situations ou les autres pourraient les voir manifester de la [[nervosité]]. 
 - Manifestent souvent peu d'émotions mais se présentent souvent comme des personnes "très gentilles" : manière de ne pas être rejetée. 
-- Souvent : célibat, solitude, effacement, faible [[estime de soi]].
+- Souvent : célibat, [[solitude]], effacement, faible [[estime de soi]].
 
 - Se souviennent que, dans leur enfance : 
 	- Rejet parentale 
@@ -381,14 +381,14 @@ TTT
 - Souvent du doute
 - Exècre l'ambiguïté
 - Difficulté d'expression émotive
-	- + Rigidité -> relations interpersonnelles limitées.
+	- + [[Rigidité]] -> relations interpersonnelles limitées.
 - Au travail : très méticuleux. 
 	- Difficile de terminer une tâche, il y a toujours quelque chose à améliorer.
 	- Manifestent un dévouement exemplaire que les collègues peuvent trouver exagéré. 
 		- Ex : continuer de travailler pendant les pauses 
 	- Acceptent de travailler avec les autres, en s'assurant que leur manière de faire est acceptée.
 		- Répètent régulièrement et en détail leur manière de voir la tâche à accomplir. 
-- Appliquent leurs valeurs avec le maximum de rigidité 
+- Appliquent leurs valeurs avec le maximum de [[rigidité]] 
 - Importance du travail conséquente, peut de place laissée aux loisirs.
 - Non nécessairement relié à des TOC
 

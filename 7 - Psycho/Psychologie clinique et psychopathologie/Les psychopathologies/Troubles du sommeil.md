@@ -149,7 +149,7 @@ DSM
 TTT 
 - Thérapie par répétition d'imagerie mentale
 	1. Modifier les croyances concernant les cauchemars : le contenu PEUT être modifié.
-	2. Développement de l'imagination & travailler sur la visualisation de scène agréables 
+	2. Développement de l'[[imaginaire|imagination]] & travailler sur la visualisation de scène agréables 
 	3. Choix d'un cauchemar sur lequel travailler en écrivant le récit 
 	4. Modifier le contenu du cauchemar, le réécrire en détail la nouvelle séquence d'image d'un éventuel [[Rêves|rêve]].
 	5. Pratique quotidienne du nouveau scénario, en l'imaginant 5 à 20 minutes par jours. 
@@ -162,8 +162,8 @@ TTT
 	- bouger / gesticuler 
 	- Se lever pour manger 
 	- Sexsomnie : masturbation / activité sexuelle avec la/le partenaire en dormant 
-		- Potentielles conséquences conjugales & légales. 
-- Potentielles gestes violents. 
+		- Potentielles conséquences [[conjugale|conjugales]] & légales. 
+- Potentielles gestes [[violence|violents]]. 
 - Terreurs nocturnes.
 
 - Non lié à l'activité onirique.
@@ -191,7 +191,7 @@ TTT
 ### Trouble du comportement en sommeil paradoxal 
 
 - Verbalisation parfois vulgaires 
-- Mouvements des bras & des jambes potentiellement violent (coups de poings/pieds)
+- Mouvements des bras & des jambes potentiellement [[violence|violent]] (coups de poings/pieds)
 - Peuvent être l'extériorisation de [[rêves]] en cours (conscience au réveil.)
 
 TTT

@@ -1,4 +1,4 @@
-
+	
 
 - Définitions:
 	- Stéréotypes = Croyances & opinions des gens concernant les caractéristiques associées à divers groupes et leurs membres.
@@ -172,7 +172,7 @@
 			- Réversible si on ajouter des caractéristiques aux images comme : "il s'agit d'étudiantes en médecine posant pour une oeuvre caritative".
 			- ENORME impact cognitifs:
 				- Un violeur sera moins blâmé si sa victime est sexualisée 
-				- Une femme sera moins aidée en cas de violence conjugale si elle est sexualisée. 
+				- Une femme sera moins aidée en cas de [[violence]] [[conjugale]] si elle est sexualisée. 
 				- Une victime de harcèlement sexuel sera davantage blâmée si elle a été vue en situation sexualisée.
 				- *WTF*
 		- Avoir du pouvoir sur autrui supprime cette inversion -> la personne dominée est "instrumentisée".
