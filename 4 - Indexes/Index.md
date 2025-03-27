@@ -1,12 +1,13 @@
 
-- *Graph de connaissances - dernier update: 14/03/2025*
-![[Pasted image 20250314165947.png]]
+- *Graph de connaissances - dernier update: 27/03/2025*
+![[Pasted image 20250327162008.png]]
 - [x] *Référence étudiée & résumée en une note dans le vault*
 - [ ] *Référence en cours d'étude OU lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
 
 ## Livres
 
+- <u>Les Jardiniers de la folie</u>, Edouard Zarifian. 03/2025
 - [ ] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
 - [x] <u>Psychologie clinique et psychopathologie</u>, Gilles Trudel, (DBS) *03/2025*
 - [x] <u>Psychologie du développement</u>, Joanna Lucenet & Cyrille Perchet, (DBS) *02/2025*
@@ -15,7 +16,7 @@
  - [x] <u>Neurosciences cognitives</u> (DBS) *10/2024*
  - [x] <u>Neurobiologie des émotions</u>, Catherine Belzung *10/2024* 
 - <u>Bases de neurosciences, neuroanatomie fonctionnelle </u>(DBS) *09/2024*
-- <u>Thérapie des Schémas</u>, Jeffrey E. Young. *08/2024*
+- <u>La Thérapie des Schémas</u>, Jeffrey E. Young. *08/2024*
 - <u>Diagnostiques des TND chez l'adulte</u>, Maëva Rollin. *02/2024*
 - <u>Psychopathologie de la vie quotidienne</u>, Sigmund Freud. *2022*
 - <u>Où est le sens</u>, Stephan Bohler. *2022*

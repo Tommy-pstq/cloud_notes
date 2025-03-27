@@ -11,10 +11,24 @@
             "id": "3494b063f5fe8ef2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -162,6 +176,9 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
+    "2 - Source Materials/Pasted image 20250327162008.png",
+    "4 - Indexes/Index.md",
+    "6 - En cours de rédaction/lettre motivation psycho.md",
     "7 - Psycho/Psychobiologie/Emotions et troubles mentaux/La schizophrénie - bases biologiques.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du spectre autistique.md",
     "3 - Tags/réciprocité.md",
@@ -186,9 +203,6 @@
     "3 - Tags/orgasme.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Trouble de l'érection.md",
     "3 - Tags/anxiété de performance.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Les problèmes de désir sexuel.md",
-    "3 - Tags/activité physique.md",
-    "3 - Tags/Diabète.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances",
     "2 - Source Materials/Pasted image 20250314165947.png",
