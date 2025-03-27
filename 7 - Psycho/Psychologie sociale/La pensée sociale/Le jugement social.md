@@ -122,7 +122,7 @@ Approche évaluative = Mise en relation de traits caractéristique avec leur imp
 			- Réduit à recourir à une posture d'observateur extérieur et inférer nos états internes sur la base de nos comportements (Ex: "j'aime les mangas car j'en ai une grande collection")
 				- En présence d'incitants externes puissants, l'individu pour douter/ignorer l'existence de désirs internes  et inversement. 
 					- Offre des pistes pour orienter l'attention des gens vers l'études des facteurs internes ou externes qui sous-tendent leurs comportements.
-	- <u>Théorie de l'attribution des performances</u> (Weiner, 1979, 1985)
+	- <u>[[Théorie de l'attribution]] des performances</u> (Weiner, 1979, 1985)
 		- S'intéresse à la façon dont l'explication d'une performance qui sera privilégiée par l'auteur du comportement va influencer sa motivation
 		- 3 dimensions permettant de caractériser les causes d'un comportement:
 			- *Le locus* : interne ou externe à l'acteur 

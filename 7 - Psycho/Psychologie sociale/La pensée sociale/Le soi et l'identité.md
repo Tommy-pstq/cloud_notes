@@ -166,7 +166,7 @@
 - Stabilité du concept du moi, mais malléabilité de ses représentations suivant les instants ou les contextes.
 	- Définition du soi via la comparaison sociale.
 
-### Théorie de la comparaison sociale - Festinger 1954
+### [[Théorie de la comparaison sociale]] - Festinger 1954
 
 - Les individus sont motivés à évaluer leurs compétences, leurs opinions et se comparent à autrui pour ce faire. 
 	- Les jugement que l'on porte sur soi ne pourraient être que comparatifs :
