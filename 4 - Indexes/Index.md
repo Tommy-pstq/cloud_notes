@@ -7,7 +7,8 @@
 
 ## Livres
 
-- <u>Les Jardiniers de la folie</u>, Edouard Zarifian. 03/2025
+- [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
+- <u>Les Jardiniers de la folie</u>, Edouard Zarifian. *03/2025*
 - [ ] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
 - [x] <u>Psychologie clinique et psychopathologie</u>, Gilles Trudel, (DBS) *03/2025*
 - [x] <u>Psychologie du développement</u>, Joanna Lucenet & Cyrille Perchet, (DBS) *02/2025*

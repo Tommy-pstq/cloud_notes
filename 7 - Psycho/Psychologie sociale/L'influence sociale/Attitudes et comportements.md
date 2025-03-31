@@ -82,3 +82,24 @@
 	- Contrôle perçu
 - Attitudes + Normes + Contrôle -> Intention.
 - Intention + Contrôle -> Comportement. 
+
+### Des attitudes aux comportements 
+
+- Comment et quand les attitudes se traduisent elles concrètement en comportement ?
+	- Nécessite des circonstances favorables.
+		- Pas trop de contrainte sociale 
+		- Injonction morales
+		- Rôles & responsabilités 
+	- Pas d'obstacle trop important identifié 
+	- Formulation spécifique et concrète 
+		- Une intention trop vague sera moins souvent réalisée. 
+		- Etablir des plan d'actions
+	- Importance personnelle accordée aux attitudes 
+	- Accessible en mémoire spontanément 
+		- habitude 
+	- Théorie de la conscience de soi : confrontation à une audience ou un miroir. 
+	- Actualisation volontaire de l'attitude  avant le comportement. 
+
+	- Rôle de l'expérience directe : 
+		- L'implication favorise les reproductions
+	- Attitude basée sur une analyse fine : plus susceptible d'être influençante 
