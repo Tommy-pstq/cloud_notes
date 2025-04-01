@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie sociale/L'influence sociale/Attitudes et comportements.md",
+                "file": "7 - Psycho/Psychologie sociale/Les relations sociales/Emotions et relations sociales.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attitudes et comportements"
+              "title": "Emotions et relations sociales"
             }
           }
         ]
@@ -176,8 +176,11 @@
   },
   "active": "3494b063f5fe8ef2",
   "lastOpenFiles": [
-    "4 - Indexes/Index.md",
+    "3 - Tags/soi individuel.md",
+    "7 - Psycho/Psychologie sociale/Les relations sociales/Emotions et relations sociales.md",
     "7 - Psycho/Psychologie sociale/L'influence sociale/Attitudes et comportements.md",
+    "7 - Psycho/Psychologie sociale/Les relations sociales",
+    "4 - Indexes/Index.md",
     "3 - Tags/théorie de l'attribution.md",
     "3 - Tags/théorie de la comparaison sociale.md",
     "3 - Tags/Théorie de la dissonance cognitive.md",
@@ -202,8 +205,6 @@
     "3 - Tags/Abus sexuels.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Problèmes reliés à l'orgasme.md",
     "3 - Tags/conjugale.md",
-    "3 - Tags/conjugal.md",
-    "3 - Tags/Restructuration cognitive.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Dépendances",
     "2 - Source Materials/Pasted image 20250314165947.png",
@@ -221,7 +222,6 @@
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours/Approches thérapeutiques contemporaines",
     "7 - Psycho/Psychologie clinique et psychopathologie/Psychopathologie de l'Antiquité à nos jours",
     "PDF/Index.pdf",
-    "7 - Psycho/Psychologie sociale/L'influence sociale",
     "Untitled.canvas"
   ]
 }

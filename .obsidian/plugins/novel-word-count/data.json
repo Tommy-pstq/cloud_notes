@@ -425,15 +425,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.026666666666667,
-      "characterCount": 4909,
-      "nonWhitespaceCharacterCount": 4040,
+      "characterCount": 4906,
+      "nonWhitespaceCharacterCount": 4039,
       "readingTimeInMinutes": 2.2943396226415094,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743092410376,
-      "modifiedDate": 1743433030179,
-      "sizeInBytes": 5019,
+      "modifiedDate": 1743446263659,
+      "sizeInBytes": 5016,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.7033333333333334,
@@ -19929,6 +19929,56 @@
         "wordCount": 27,
         "characterCount": 163,
         "nonWhitespaceCharacterCount": 134
+      }
+    },
+    "7 - Psycho/Psychologie sociale/Les relations sociales/Emotions et relations sociales.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 400,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3333333333333333,
+      "characterCount": 3262,
+      "nonWhitespaceCharacterCount": 2637,
+      "readingTimeInMinutes": 1.509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743499303582,
+      "modifiedDate": 1743503565210,
+      "sizeInBytes": 3357,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "3 - Tags/soi individuel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743503544633,
+      "modifiedDate": 1743503544633,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
