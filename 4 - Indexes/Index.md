@@ -7,7 +7,10 @@
 
 ## Livres
 
+*DBS = Editions De Boeck Supérieur*
+
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
+- [ ] <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
 - <u>Les Jardiniers de la folie</u>, Edouard Zarifian. *03/2025*
 - [ ] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
 - [x] <u>Psychologie clinique et psychopathologie</u>, Gilles Trudel, (DBS) *03/2025*
@@ -19,7 +22,7 @@
 - <u>Bases de neurosciences, neuroanatomie fonctionnelle </u>(DBS) *09/2024*
 - <u>La Thérapie des Schémas</u>, Jeffrey E. Young. *08/2024*
 - <u>Diagnostiques des TND chez l'adulte</u>, Maëva Rollin. *02/2024*
-- <u>Psychopathologie de la vie quotidienne</u>, Sigmund Freud. *2022*
+- <u>Psychopathologie de la vie quotidienne</u>, Sigmund Freud. *2024*
 - <u>Où est le sens</u>, Stephan Bohler. *2022*
 - <u>L'homme Thermomètre</u>, Laurent Cohen. *2021*
 
