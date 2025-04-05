@@ -267,31 +267,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/1 - De l'épistémologie à la pratique de l'hypnose thérapeutique.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1318,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.3933333333333335,
-      "characterCount": 9893,
-      "nonWhitespaceCharacterCount": 8230,
-      "readingTimeInMinutes": 4.973584905660378,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1743513494783,
-      "modifiedDate": 1743615689468,
-      "sizeInBytes": 10141,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 59,
-        "nonWhitespaceCharacterCount": 48
-      }
-    },
     "7 - Psycho/Psychologie sociale/Les relations sociales/Emotions et relations sociales.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -20023,6 +19998,81 @@
       "createdDate": 1730903272035,
       "modifiedDate": 1743510655838,
       "sizeInBytes": 5565,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/De l'épistémologie à la pratique de l'hypnose thérapeutique.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1318,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.3933333333333335,
+      "characterCount": 9893,
+      "nonWhitespaceCharacterCount": 8230,
+      "readingTimeInMinutes": 4.973584905660378,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743513494783,
+      "modifiedDate": 1743615689468,
+      "sizeInBytes": 10141,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/La transe hypnotique.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 619,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0633333333333335,
+      "characterCount": 5119,
+      "nonWhitespaceCharacterCount": 4230,
+      "readingTimeInMinutes": 2.3358490566037737,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743779050816,
+      "modifiedDate": 1743860759198,
+      "sizeInBytes": 5268,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/Communication et hypnose.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 759,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.53,
+      "characterCount": 6087,
+      "nonWhitespaceCharacterCount": 4993,
+      "readingTimeInMinutes": 2.8641509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743860785049,
+      "modifiedDate": 1743869216277,
+      "sizeInBytes": 6231,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
