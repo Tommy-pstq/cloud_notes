@@ -1,4 +1,4 @@
-
+  
 - Communication = substance même de la relation hypnotique. 
 - Beaucoup de points communs entre notions/techniques ericksoniennes et théorie de la communication moderne. 
 - Hypnose = interaction à double courant, pas une influence linéaire. 

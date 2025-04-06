@@ -120,6 +120,7 @@
 	- Plus un stimulus est présenté plus il est apprécié. 
 		- Familier = facile à reconnaitre = plaisant.
 			- Corrélation positive entre reconnaissance et préférence
+			- [[aisance cognitive]] 
 
 - Les messages ont <u>plus d'impact</u> s'ils paraissent <u>familier</u>. 
 	- La répétition est fructueuse

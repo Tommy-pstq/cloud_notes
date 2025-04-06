@@ -84,3 +84,121 @@
 
 ## La formation des relations 
 
+- Relation = lien qui uni deux individus de manière plus ou moins prolongé. 
+
+### L'attachement 
+
+- Attachement = besoin aussi fondamental que l'alimentation. 
+
+- Différents types d'attachement - se développe durant l'enfance 
+	- Définis sur 2 dimensions 
+		- Anxiété 
+		- Degré d'évitement de l'intimité 
+
+| Anxiété/Evitement | Faible            | Elevé             |
+| ----------------- | ----------------- | ----------------- |
+| Faible            | Sécurisé          | Méprisant/Evitant |
+| Elevé             | Anxieux/Préoccupé | Craintif/Evitant  |
+- Impact significatif sur le développement des relations tout au long de l'existance
+
+### Le dévoilement de soi
+
+- Effet très analogue au partage social
+	- Parler de soi : expériences intimes / émotions:  contribue au lien social.
+- Se dévoiler : davantage apprécié par l'autre. 
+	- Aura plus tendance à dévoiler son intimité à son tour. 
+		- Cercle vertueux. 
+
+- Expérimentation :
+	- Entretiens de 45 minutes entre inconnus.
+		- Contrôle : sujet anodins 
+		- Sinon : dévoilement progressif de soi.
+			- -> Niveau de proximité bien plus élevé. (3.82, moyenne des personnes jugées les plus proches : 4.65)
+	- -> Rôle déterminant de la réciprocité dans l'attirance. 
+
+## L'attirance pour autrui
+
+- 4 catégories de facteurs principaux 
+
+### Proximité -> Familiarité 
+
+- Première catégorie :
+	- Proximité 
+		- Individus de l'environnement social
+	- Similarité 
+		- Sélection d'individus ayant des caractéristiques communes (attitudes, origine sociale, étude, attirance physique etc.)
+	- Familiarité 
+		- Degré d'exposition à l'autre 
+			- On aime les choses que l'on a déjà vu : [[aisance cognitive]] 
+		- Lien positif entre confiance dans son jugement sur ce que l'autre ressent et attirance.
+			- Activation du striatum ventral plus importante lorsque l'on a confiance dans l'identification de l'émotion d'autrui. 
+				- Récompense : plaisir 
+					- Juger l'autre personne plus positivement. 
+
+- Attirance physique. 
+
+### Instrumentalité 
+
+- Les individus son attirés par autrui si la personne les aide à accomplir leurs objectifs. 
+	- L'attirance fluctuera donc en fonction du contexte social. 
+		- Fluctuation d'autant plus importante quand les objectifs sont loin d'être atteints. 
+
+## De l'attirance aux relations à long termes 
+
+### Echange et communauté dans les relations sociales 
+
+- Relations communales :
+	- Sentiment de responsabilité important entre les individus 
+		- Nécessite un sentiment d'identité partagée / d'appartenance à un même groupe 
+	- Aide en cas de besoin 
+- Relations d'échange : 
+	- Relation ~ transactions 
+		- Avec un employeur ou des artisans. 
+
+- Degré d'évaluation entre communal / échange : culturel. 
+
+#### Modèle de relations sociales d'Alan Fiske
+
+- L'organisation sociale se base sur une combinaison de 4 modèles relationnels :
+	1. Partage communautaire
+		- Les individus se perçoivent comme peu différenciés 
+		- Partage un ensemble de ressource 
+		- Confiance
+	2. Hiérarchisation par l'autorité
+		- Chacun obéit à sa/son supérieur.e  
+	3. Appariement égalitaire 
+		- Pas de hiérarchisation stricte 
+		- Faveurs réciproques et objectifs communs 
+	4. Tarification par le marché 
+		- Forme de transaction. 
+		- Court terme 
+		- Souvent échange d'argent. 
+
+### Attirance et relation à long terme 
+
+- Relation à long terme peuvent s'établir si : 
+	- Les partenaires répondent à des buts importants ET durables pour les deux. 
+		- Relation d'interdépendance. 
+
+#### Obstacles 
+
+- Nombreux objectifs -> Une personne ne peut pas tous les rencontrer. 
+- Nombres de personnes potentielles pour chaque objectif en hausse. 
+	- Exacerbé par les réseaux sociaux 
+
+#### Adjuvants 
+
+- Investissement passés. 
+- Absence d'alternative.
+- Satisfaction par rapport à la relation. 
+
+### Quand l'autre fait partie du soi
+
+- Relation à long terme, l'autre peut devenir une partie du soi
+	- Plan matériel
+	- Partage émotionnel
+		- Se voit à travers la mémoire. 
+- -> **Désindividualisation du soi**.
+- -> **Théorie de l'autocatégorisation** 
+	- En s'identifiant à un groupe (la relation), l'individu incorpore les caractéristiques qu'il attribue au groupe dans le soi. 
+
