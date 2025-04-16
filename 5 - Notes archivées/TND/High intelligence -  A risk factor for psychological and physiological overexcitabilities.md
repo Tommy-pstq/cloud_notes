@@ -13,7 +13,7 @@
 
 ## Introduction 
 
-HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrité systémique) selon des études, d'autres cependant font des liens entre HQI (particulièrement des aptitudes verbales très supérieures) et troubles immunologiques/mentaux (trouble bipolaire/[[dépression|depression]]/[[anxiété]]/allergies/asthme/trouble immunitaires/[[TSA|autisme]].)
+- HQI : lié à des éléments positifs (revenus/réussite universitaire/intégrité systémique) selon des études, d'autres cependant font des liens entre HQI (particulièrement des aptitudes verbales très supérieures) et troubles immunologiques/mentaux (trouble bipolaire/[[dépression|depression]]/[[anxiété]]/allergies/asthme/trouble immunitaires/[[TSA|autisme]].)
 
 	-> Relativement contradictoire.
 --> Peut être réconcilié en s'intéressant à la psychoneuroimmunologie [[PNI]] (=comment le [[stress]], particulièrement chronique influence la [[communication]] entre cerveau & système [[immunitaire]]) ?
