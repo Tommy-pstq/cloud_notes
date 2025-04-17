@@ -29,11 +29,12 @@ Grande variabilité de taille/architecture
 * **Peroxydase du raifort [[HRP]]** : traçage jusqu'au [[soma]] à partir d'un axone.
 
 ### Cellules [[gliales]]
+
  - Communiquent entre elles & avec les neurones
- - Fournissent les nutriments essenciels
+ - Fournissent les nutriments essentiels
  - Modifie la structure & excitabilité
 	 - Astroctytes : [[régulation]] du flux sanguin local. Impliqué création nouvelles [[synapses]].  trauma --> hypertrophie -> oedème. Cicatrisation. 
-	 - Cellules microgniales : très petite taille, émet/résorbe des prolongements en permanence à la recherche de lésion. ~ service de nettoyage cérébral.
+	 - Cellules microgliales : très petite taille, émet/résorbe des prolongements en permanence à la recherche de lésion. ~ service de nettoyage cérébral.
 		 - Si lésion : confinement sphérique.
 * Production de myéline
 	* [[SNC]] : [[Oligodendrocytes]]
