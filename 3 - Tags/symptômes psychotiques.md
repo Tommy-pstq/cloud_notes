@@ -2,6 +2,6 @@
 aliases:
   - symptôme psychotique
 ---
-- [[Délire]] / idées délirantes
+- [[Délire]] / [[idées délirantes]]
 - [[Hallucinations]] 
 - [[Discours désorganisé]]

@@ -62,7 +62,7 @@
 			- Pour une durée de 7 a 52 jours, malgré le [[déni]] de leur maladie car interprété comme un refus de collaborer au traitement.
 				- Une fois hospitalisés, les faux patients devaient expliquer ne plus avoir d'[[hallucinations]] et agir de manière normale. 
 					- Le personnel a interprété cela comme un [[déni]] de maladie et signe de trouble mentaux. 
-					- **Ils ne pourront sortir que s'ils acceptent leur diagnostic ([[schizophrénie]] ou [[trouble bipolaire]]) et acceptent de prendre des médicaments** 
+					- **Ils ne pourront sortir que s'ils acceptent leur diagnostic ([[3 - Tags/schizophrénie]] ou [[trouble bipolaire]]) et acceptent de prendre des médicaments** 
 					- Ont témoignés des situations déshumanisantes vécues, envahissement de la vie privé, ennuie +++
 				- Plusieurs autres patients avait constaté qu'ils étaient "sains" d'esprit, pas le personnel. 
 			- Réponse des hôpitaux : "On aurait pu les détecter si on avait été mis au courant."

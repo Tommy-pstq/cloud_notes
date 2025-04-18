@@ -12,7 +12,7 @@
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
 - [ ] <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
 - <u>Les Jardiniers de la folie</u>, Edouard Zarifian. *03/2025*
-- [ ] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
+- [x] <u>Psychologie Sociale</u>, Vincent Yzerbyt & Oliver Klein, (DBS).
 - [x] <u>Psychologie clinique et psychopathologie</u>, Gilles Trudel, (DBS) *03/2025*
 - [x] <u>Psychologie du développement</u>, Joanna Lucenet & Cyrille Perchet, (DBS) *02/2025*
 - <u>Stratégie de la thérapie brève</u>, Paul Watzlawick & Giorgio Nardone. *01/2025* 

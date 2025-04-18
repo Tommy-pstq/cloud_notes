@@ -378,10 +378,10 @@ Modèles computationnels, déséquilibre dans:
 
 Deux en particulier semblent affecter la prise de décision:
 - [[TSA]]
-- [[schizophrénie]]
+- [[3 - Tags/schizophrénie]]
 
 Observation d'altération de la prise de décision:
-- Patients [[schizophrénie|schizophrène]]: difficulté à ajuster le comportement après avoir perdu une récompense par rapport à la popG
+- Patients [[3 - Tags/schizophrénie|schizophrène]]: difficulté à ajuster le comportement après avoir perdu une récompense par rapport à la popG
 	- Lié à une activité anormale dans l'OFC.
 
 Modèles computationnels, ces troubles peuvent être expliqués par:

@@ -1,0 +1,1 @@
+**incapacité d'un sujet à ressentir des émotions positives lors de situations de vie pourtant considérées antérieurement comme plaisantes** 

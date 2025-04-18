@@ -1,0 +1,1 @@
+- Diminution pathologique de la volonté.

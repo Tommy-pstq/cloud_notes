@@ -73,7 +73,7 @@ TTT
 	- Sauf si une crise découle de ce problème (Ex: perte d'emploi) et conséquences associées (dépression)
 - Objectif : valoriser les interactions sociales. 
 	- Majorité de ces personnes: déficit importants dans le domaine social
-		- Entrainement aux habiletés sociales. 
+		- Entrainement aux [[habiletés sociales]]. 
 - Intervention précoce : aide à prévenir une aggravation.
 
 ### Personnalité schizotypique
@@ -206,14 +206,14 @@ DSM
 - Problème complexe : interventions à divers niveaux. 
 - Thérapie comportementale dialectique (Masha Linehan) : combinaison d'intervention
 	- [[Pleine conscience]] -> sérénité par rapport aux émotions négatives très fortes
-	- Apprentissage des habiletés sociales en groupe 
+	- Apprentissage des [[habiletés sociales]] en groupe 
 	- Thérapie individuelle 
 		- Gestion des crises
 			- Eviter les comportements automutilateurs / suicidaires 
 		- Régulariser les émotions : méthode des résolutions des problèmes face à des situations difficiles. 
 	- Apprendre à accepter que certains situations difficiles sont inchangeables.
 		- Se débattre à vouloir les changer = [[détresse]] supplémentaire -> réactions [[Disproportion|excessives]].
-- Développer les habiletés sociales pour ne plus répondre qu'exclusivement par des colères ou de l'[[agressivité]].
+- Développer les [[habiletés sociales]] pour ne plus répondre qu'exclusivement par des colères ou de l'[[agressivité]].
 - Aide ponctuelle : téléphonique / visio pour les problèmes urgents.
 - Peut provoquer du stress/de l'épuisement professionnel chez les intervenants.
 - Pharmaco : [[Anxiolytiques]], [[antidépresseurs]], régulateurs de l'humeur, antipsychotiques.

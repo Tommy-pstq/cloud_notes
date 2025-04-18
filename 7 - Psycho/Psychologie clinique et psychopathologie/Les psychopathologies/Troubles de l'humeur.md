@@ -43,7 +43,7 @@ TTT
 			- Découragement facile, augmentation de l'état dépressif. 
 	- **[[Restructuration cognitive]]** : modifier les croyances et perceptions en présentant des manières alternatives de penser.  
 - **Augmentation des événement positifs** : favoriser l'humeur en recommandant des activités susceptibles d'avoir des conséquences positives pour le dépressif. 
-- **Amélioration des habiletés sociales**  (souvent déficitaires): peut amener des changements très positifs dans des activités les plus importantes. 
+- **Amélioration des [[habiletés sociales]]**  (souvent déficitaires): peut amener des changements très positifs dans des activités les plus importantes. 
 - **Psychothérapie interpersonnelle** : thérapie brève axée sur l'[[attachement]], aide la personne à se sentir mieux en améliorant la qualité de leur relations interpersonnelles. 
 - **Thérapie verbale, psychodynamique, humaniste**
 - *Stratégie Nardone: 30 minutes imposées pour se plaindre dans la journée mais interdit de le faire à d'autres moments, Noté l'humeur du jour + prédiction du lendemain avec activité positive le plus tôt possible si note basse prévue* 

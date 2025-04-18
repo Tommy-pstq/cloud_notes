@@ -1,0 +1,1 @@
+- Incapacité à réaliser une action

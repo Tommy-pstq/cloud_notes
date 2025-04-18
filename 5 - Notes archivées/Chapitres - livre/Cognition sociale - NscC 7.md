@@ -121,7 +121,7 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 
 - Semble trivial mais : <u>distinction automatique et intuitive des limites du corps</u>.
 	- Cette perception peut être altérée
-		- Psychopathologies : [[schizophrénie]], [[anorexie]]
+		- Psychopathologies : [[3 - Tags/schizophrénie]], [[anorexie]]
 		- Lésions aires temporo-pariétales de l'hémisphère droit
 			- Apparition de Somatoparaphrénie contra-lésionnelle
 					- Sensation de non appartenance des parties (ici) gauche du corps 
@@ -183,9 +183,9 @@ Marwa El Zein, Louise Kirsch, Lou Safra
 			- Ces expériences entraines <u>une réduction significative des niveaux de  préjugés implicites</u> à l'encontre de ce groupe. 
 
 - [[troubles psychiatriques]]:
-	- [[schizophrénie]] : entraine une frontière corporelle extrêmement floue ou variable entre l'individu et les autres 
+	- [[3 - Tags/schizophrénie]] : entraine une frontière corporelle extrêmement floue ou variable entre l'individu et les autres 
 	- [[TSA]] : frontière plus marquée que la moyenne. 
-	- Récentes découvertes en modélisation du comportement: un entrainement [[multisensoriel]] axé sur l'affinement ([[schizophrénie]]) ou la réduction ([[TSA|autisme]]) de la limite entre soi et les autres pourrait être bénéfique dans le traitement de ces troubles. 
+	- Récentes découvertes en modélisation du comportement: un entrainement [[multisensoriel]] axé sur l'affinement ([[3 - Tags/schizophrénie]]) ou la réduction ([[TSA|autisme]]) de la limite entre soi et les autres pourrait être bénéfique dans le traitement de ces troubles. 
 
 ### Perception d'autrui : prise de perspective et empathie
 

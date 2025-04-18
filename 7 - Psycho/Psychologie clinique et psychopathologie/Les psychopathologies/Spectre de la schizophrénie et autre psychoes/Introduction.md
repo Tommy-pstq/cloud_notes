@@ -1,0 +1,14 @@
+
+- Problèmes de santé les plus graves 
+	- Psychoses
+		- [[3 - Tags/schizophrénie]] 
+	- Si prise en charge dès les premiers signes avec Pharmaco & psycho thérapies
+		- Bon fonctionnement quotidien possible. 
+- Deux [[ouvrage||ouvrages]] :
+	- <u>La TCC de groupe pour le traitement de la psychose : Guide de l'intervenant</u>, Lecomte, Leclerc & Wikes, 2018
+		- Amélioration des [[habiletés sociales]] 
+		- Développement / solidification du soutient social
+	- <u>Techniques de psychothérapies cognitives des psychoses chroniques</u>, Chambon, Perris & Marie-Cardine, 1997
+		- Présentation des schémas [[cognition|cognitifs]] dans les psychoses chroniques 
+		- Lien entre ces schémas et symptômes de [[délire]]/[[Hallucinations|hallucination]]
+		- Méthodes d'intervention pour aller vers des schémas [[cognition|cognitifs]] plus appropriés
