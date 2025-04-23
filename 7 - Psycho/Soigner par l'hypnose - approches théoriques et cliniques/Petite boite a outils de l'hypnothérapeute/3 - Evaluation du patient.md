@@ -1,0 +1,89 @@
+
+- Explorer la demande et la démarche actuelle du patient:
+	- Expectatives 
+		- Personnelles 
+		- De l'entourage
+	- Espoirs / Réticences / Craintes quant à un changement significatif.
+- Situer cette démarche dans un double contexte:
+	- Diachronique ou historique 
+		- Anamnèse 
+			- Personnelle
+			- Familiale 
+	- Synchronique ou actuel 
+		- Système familiale 
+		- Données socio culturelles 
+- S'informer sur les essaies thérapeutiques antérieurs/en cours et effets obtenus. 
+- Interroger à propos des croyances liées à l'hypnose 
+	- Convictions personnelles 
+	- Expériences 
+- Observer et apprécier la personnalité du patient 
+	- âge, sexe, habitudes, tempérament, état de santé, aptitudes, résistances
+	- Fonctionnement cognitif :
+		- Intelligence
+		- Pensée
+		- Jugement
+		- Orientation aux trois modes
+		- Langage 
+		- Mémoire
+	- Facultés:
+		- D'abstraction
+		- De synthèse 
+		- D'analyse 
+		- Concentration
+		- Attention
+	- Fonctionnement affectif:
+		- Humeur 
+		- Capacité fantasmatique et imaginative
+		- Degré de curiosité et de motivation
+		- Style d'engagement dans la relation
+		- Façon de se voir et de se traiter 
+		- Capacité d'implication
+	- Symptômes cliniques éventuels + degré de conscience morbide 
+		- Somatiques 
+		- Psychiques 
+	- Profil sensoriel (VAKOG)
+- Information sur l'environnement 
+	- Conflits familiaux
+	- Conflits pro 
+	- Situation économique & sociale 
+	- Type de conduite sociale et leurs effets en retour 
+	- Pressions et délais actuels
+- Interaction observable avec le thérapeute:
+	- Style conversationnel 
+		- Conventionnel
+		- Redondant 
+		- "Plaqué"
+		- Spontané 
+		- Improvisé
+		- Participatif 
+		- Qualité du partage du focus 
+		- Difficulté / aisance élocutoire
+		- Ponctuations gestuelles 
+		- Mimiques 
+		- Vocales 
+	- Discours non verbal et paraverbal:
+		- Type de contact oculaire
+		- Mimiques ou postures en écho
+		- Gestualité 
+		- Motricité
+		- Rythmes et ponctuations
+		- Ajustement proxémique 
+			- Sphères (pays latins):
+				- Intimes : 15 - 45 cm
+				- Personnelle : 45 - 120 cm
+				- Sociale : 120 - 360 cm
+				- Publique > 360 cm
+		- Fermeture/ouverture du corps 
+		- Modulations vocales 
+	- Style d'accordage affectif:
+		- Contact chaleureux/froid
+		- Ouvert/méfiant
+		- Défaitiste/Quérulent
+		- Passif/Actif
+		- Hautain/Béni-oui-oui
+		- Tendance à la symétrie ou complémentarité 
+	- Tonalité de l'ajustement éthique avec le thérapeute
+		- Tendance à l'instrumentation ou au respect
+
+- Se fait de manière naturelle au fil des échanges en faisant attention à ce que le patient montre au thérapeute (parfois à son insu) tout en écoutant ce qu'il dit. 
+
