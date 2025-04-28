@@ -327,7 +327,7 @@ TTT
 	- Rejet
 - Souvent peu de relations excepté la famille 
 - [[Evitement]] des activités de groupe par peur de ne pas être accepté
-- Assez souvent : [[troubles anxieux]]/dépressifs 
+- Assez souvent : [[3 - Tags/troubles anxieux]]/dépressifs 
 - Très associé à l'[[anxiété sociale]] 
 	- Au point que certains supposent qu'ils sont les mêmes.
 		- Une forme plus durable

@@ -94,7 +94,7 @@ TTT
 
 TTT 
 
-- Forte composante d'[[anxiété]] -> traitements utilisés dans les contextes de [[phobie|phobies]] / [[troubles anxieux]] transposable. 
+- Forte composante d'[[anxiété]] -> traitements utilisés dans les contextes de [[phobie|phobies]] / [[3 - Tags/troubles anxieux]] transposable. 
 	- Exposition 
 		- Imagerie mentale progressive
 	- [[Pleine conscience]] 

@@ -96,7 +96,7 @@ TTT
 
 - Manifestation sévère du SPM dépassant considérablement les malaises habituels. 
 - Diag souvent critiqué car psychiatrisation du processus menstruel
-- Mais dans le DSM..
+	- Mais dans le DSM..
 
 DSM
 1. Semaine précédent les règles, au moins 5 manifestations dans les critères 2 & 3 :

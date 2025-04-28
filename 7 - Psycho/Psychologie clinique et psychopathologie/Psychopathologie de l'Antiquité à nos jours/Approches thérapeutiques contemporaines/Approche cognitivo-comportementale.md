@@ -4,7 +4,7 @@
 ~~ 1950.
 
 - Watson, 1913 :
-	- Le conditionnement pavlovien (apprentissage conditionnel) peut entrainer des [[troubles anxieux]] (surtout des [[phobie||phobies]] simples).
+	- Le conditionnement pavlovien (apprentissage conditionnel) peut entrainer des [[3 - Tags/troubles anxieux]] (surtout des [[phobie||phobies]] simples).
 	- Propose d'utiliser l'observation des comportements comme base d'étude de la psychologie -> **[[behaviorisme]]** (Il a ouvert la porte à de nombreuses avancées)
 - Mary Cover Jones, 1924 : 
 	- S'inspire des travaux de Watson pour, via un procédé d'[[Thérapie d'exposition progressive|exposition graduelle]] associée à un [[stimulus]] positif (friandise), guérir la [[phobie]] des lapins d'un jeune garçon.
@@ -16,13 +16,13 @@
 - Ivaar Lovaas : application des thérapies du comportement à des enfants présentant un [[TSA]] sévère. 
 	- <u>Bon résultats</u> : apprentissage d'un langage fonctionnel & diminution de la fréquence des comportement problématiques.
 - Josphe Wolpe, 1950s :
-	- Traitement des [[troubles anxieux]] : associé ce qui génère de l'[[anxiété]] à un état incompatible avec l'anxiété. - [[antagonisme]]
+	- Traitement des [[3 - Tags/troubles anxieux]] : associé ce qui génère de l'[[anxiété]] à un état incompatible avec l'anxiété. - [[antagonisme]]
 		- Ex : phobie des chiens
 			1. Apprentissage d'une méthode de [[relaxation]]
 			2. Hiérarchisation des situations en fonction de leur anxiété perçues
 			3. Dans un état de [[relaxation]] : imaginer la situation la moins génératrice d'[[anxiété]]. Quand elle n'en génère plus, passer à la suivante sur la liste. 
 		- Application en situation réelle
-- 1970s : [[Thérapie d'exposition progressive]] pour traiter les [[troubles anxieux]]. 
+- 1970s : [[Thérapie d'exposition progressive]] pour traiter les [[3 - Tags/troubles anxieux]]. 
 - Albert Bandura, 1969 : Théorie sociale cognitive :
 	- Reprise des concepts d'[[apprentissage social|apprentissage par imitation]] fortement présents dans l'enfance.
 		- Des comportements psychopathologiques pourraient être appris par ces mêmes mécanismes.

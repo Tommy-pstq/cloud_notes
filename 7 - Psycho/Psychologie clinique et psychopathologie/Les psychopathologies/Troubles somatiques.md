@@ -1,7 +1,7 @@
 
 ## Trouble à symptomatologie somatique 
 
-- Symptômes divers non produits intentionnellement et qui ne peuvent pas toujours s'expliquer par une condition médicale ou par un autre problème de santé mentale.Ex:
+- Symptômes divers non produits intentionnellement et qui ne peuvent pas toujours s'expliquer par une condition médicale ou par un autre problème de santé mentale. Ex:
 	- Douleurs (tête, dos, articulations, extrémités, poitrine etc.)
 	- Gastro-intestinaux 
 	- Symptômes pseudo-neurologiques 
@@ -47,7 +47,7 @@ TTT
 	- Tout le monde fini par être malade, et c'est passager.
 - Psychothérapies verbales : trouver le sens et les raisons de ces préoccupations.
 
-## Trouble de conversion (trouble à symptomatologie neurologique fonctionnelle)
+## Trouble à symptomatologie neurologique fonctionnelle (Trouble de conversion)
 
 - Principalement : personnes ayant des problèmes de motricité / sensoriels sans que la cause neurologique / médicale soit identifiée. 
 	- Ex  : [[Tremblement|Tremblements]], dystonie, difficultés à avaler/marcher, crises similaires à de l'épilepsie, difficultés d'élocution, visuelles/olfactives/auditives etc.
