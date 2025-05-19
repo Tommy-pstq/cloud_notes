@@ -8,6 +8,7 @@
 ## Livres
 
 *DBS = Editions De Boeck Supérieur*
+- <u>L'autisme aujourd'hui</u>, Michel Lemay.
 - [ ] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj 
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
 - [ ] <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
