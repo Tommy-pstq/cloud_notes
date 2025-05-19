@@ -1,6 +1,6 @@
 
-- *Graph de connaissances - dernier update: 15/04/2025*
-![[Pasted image 20250415112809.png]]
+- *Graph de connaissances - dernier update: 15/05/2025*
+![[Pasted image 20250515113144.png]]
 - [x] *Référence étudiée & résumée en une note dans le vault*
 - [ ] *Référence en cours d'étude OU lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
@@ -8,7 +8,7 @@
 ## Livres
 
 *DBS = Editions De Boeck Supérieur*
-
+- [ ] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj 
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
 - [ ] <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
 - <u>Les Jardiniers de la folie</u>, Edouard Zarifian. *03/2025*

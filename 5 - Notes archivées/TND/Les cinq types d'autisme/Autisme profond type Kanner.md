@@ -1,0 +1,30 @@
+
+- Forme la plus sévère d'[[TSA|autisme]] 
+	- Trouble massif 
+		- Diagnostic rapide 
+			- Orientation vers des approches très stéréotypées: pas assez d'interrogation sur les variations de comportements/réactions émotives en fonction des activités misent en place. 
+- Description faite en 1941 par Leo Kanner. 
+
+- Éléments:
+	- Perturbation régulière des modes d'intégration [[sensorialité|sensorielle]]:
+		- En particulier : approches visuelles (périphérie + haut/bas -> pas de création volumique), réactions au bruits, sensibilité tactile.
+	- Limites floues du [[Schéma corporel]] - le corps est mal différencié de l'environnement. 
+	- Motricité défectueuse ou contenant des praxies insolites 
+	- Maniérismes/Stéréotypies nombreux 
+	- L'espace est très peu investi : l'enfant erre ou se met en retrait dans une zone spatiale rétrécie. 
+	- Les séquences [[temporalité|temporelles]] doivent être immuables et figées. 
+	- La [[causalité]] quotidienne est bien perçue pour les activités quotidiennes mais absence/grande limitation de l'exploration/curiosité/expérimentation. 
+	- [[anxiété]] variable
+		- Nature difficile à identifier 
+		- Survient habituellement lors de changement d'activité/transition
+		- Peut s'accompagner d'actes automutilateurs. 
+	- Langage généralement inexistant -> quelques écholalies -> utilisation de quelques mots pour formuler des demandes utilitaires. 
+	- Limitation des autres modes d'expression symbolique à quelques jeux stéréotypés (particulièrement : encastrement) ou quelques tracés sur une feuille de papier.
+	- Attachement privilégié très souvent remarqué à l'égard de quelques personnes significatives.
+		- Impossible d'obtenir des [[communication|échanges]] réciproques autrement que part des contacts [[sensorialité|sensoriels]]
+	- [[attention]] conjointe / pointage à valeur de désignation sont rares.
+	- Part significative de : [[agitation]]/impulsivité/[[Troubles du sommeil]]
+	- Certaines manifestations neurologique surgissent, en particulier épileptiques, dans 25% des cas. 
+	- Amélioration de l'[[évolution]] (lente, ne permet pas d'espérer une intégration [[social|sociale]] sans assistance.):
+		- Approches d'intégration sensori-motrice
+		- Supports comportementaux 
