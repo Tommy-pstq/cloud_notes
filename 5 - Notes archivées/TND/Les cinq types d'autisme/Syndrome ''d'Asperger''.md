@@ -1,0 +1,88 @@
+- Nombreuses discussions autour de l'existence de ce groupe.
+
+- Asperger a noté qu'il était possible d'avoir des atteintes plus légères que celles décrites par Kanner, et qu'il existant donc un continuum dans la symptomatologie. 
+
+- Tendance actuelle de nombreux cliniciens : distinguer les autismes dits à haut niveau (=capacité intellectuelle intactes, ce qui ne veut pas dire sans anomalies) et le syndrome d'Asperger. 
+	- Clinique:
+		- Certains enfants, tout en présentant des signes autistes nets, ne montrent aucun retard de langage et hypertrophient même le verbal au détriment des champs moteurs et perceptuels.
+			- Entraine une symptomatologie particulière et une évolution spécifique:
+				- 2 premières années de vie : normales (pose la question du début des véritables symptômes autistiques)
+					- Parents/praticiens très avertis peuvent repérer les prémices du trouble entre la 2ème et 3ème année.
+				- Souvent: repérage bien plus tardif, vers la 4ème année. 
+				- Dans l'anamnèse on retrouve souvent quelques anomalies antérieures:
+					- Grande sensibilité aux bruits 
+					- Quelques défenses tactiles 
+					- Approches visuelles insolites 
+						- Tendance à fermer un oeil et regarder les objets  avec l'autre oeil en penchant légèrement la tête
+					- Certain retrait 
+				- Développement du langage : les manifestations éveillent l'attention.
+					- Langage expressif : selon les repère habituels, la construction des phrases s'améliore rapidement. 
+			- **Exemple parlant, les parents de Benjamin**:
+				- B. a très vite fait de longue phrases en utilisant un vocabulaire surprenant pour son âge. 
+				- Alors qu'il faisait peu de demandes/ répondait peu aux sollicitations : s'est mis à se parler longuement puis à raconter la même histoire aux parents avec une tonalité de voix un peu précieuse, donnait l'impression d'un accent étranger. 
+					- Agréable surprise au début
+				- Vers 4 ans et demi : B. monologue et entraine ses parents dans des séries de questions répétitives entièrement centrées sur les variations du temps.
+					- N'écoute pas les réponses et reprend sa litanie. 
+				- Stéréotypie des jeux:
+					- Longs alignement d'objets qui s'étiraient à travers la pièce.
+						- Le ruban d'objet rappelait au parent le "ruban de mots" des monologues.
+				- Voulait avoir des amis, mais:
+					- Les entrainait dans une histoire s'en fin
+						- Ils s'éloignaient. 
+							- Ne semblait pas en souffrir.
+				- A commencé à souffrir réellement des moqueries/réflexion au début de la scolarité quand elles lui renvoyaient l'image "d'un garçon par comme les autres".
+				- Déficit dans le décodage des émotions d'autrui
+					- Perceptible lorsqu'il regardait un livre d'image:
+						- Enfant qui pleurait, se contente de dire "il a la varicelle".
+					- Evident au parc:
+						- "Fonçait sur les petits tel un bulldozer, les touchait, les collait dans une quête de relation tellement intense que les partenaires se dérobaient."
+					- Avec les adultes:
+						- Posait des questions inadéquates, au point de questionner son intelligence alors qu'il émettait parfois des réflexions au dessus de son âge.
+				- 7 ans : début des manies. 
+					- Porter les mêmes vêtements
+					- Exiger les mêmes itinéraires en voiture 
+				- 8 ans : capable de passer des heures devant un jeu d'échec en sachant organiser des stratégies. 
+				- 9 ans : devient spécialiste des dinosaures et autres animaux. 
+					- Il venait en parler si longuement: flot de parole d'abord fascinant puis rapidement insupportable du fait des répétitions. 
+				- Sentiment des parents de se sentir de plus en plus distants d'un enfant pourtant attachant et pouvant être très affectueux malgré des maladresses. 
+					- Difficulté de lui dire que ses retours incessant au même discours l'isolait. Acquiesçait mais finissait inexorablement par recommencer.
+				- Echec dans les tentatives d'intégration à des groupes d'amis
+					- Difficulté relationnelles 
+					- Déficit dans les exercices de motricité globale (sport)
+					- Difficulté à comprendre les règles 
+					- Egocentrisme sportif : joue sans faire de passes au foot.
+				- Epanouissement dans les activités sportive individuelles. 
+				- Adolescence:
+					- Replis sur lui même
+						- Ordinateur 
+						- "Ne se perçoit pas comme les autres"
+						- "Aucune fille ne veut de moi, les garçons ne s'intéressent pas à ce que j'aime."
+					- Maintiens scolaire dans les matières basées sur la mémorisation et répétition.
+					- Phase de découragement a caractère dépressif
+					- Aggravation des variation d'humeur.
+					- Brusque accès de colère 
+						- Destruction d'objet
+						- Menace physique 
+					- Menant à de profonds regrets, exprimant parfois la volonté de mourir "Puisqu'il fait de la peine à tout le monde".
+				- Jeune adulte : relativement peu de changements.
+					- Pas d'amis stables 
+					- Solitaire, sauf lors de sa formation en informatique. 
+					- Se fixe parfois sur des recherches généalogiques n'aboutissant pas, se contente le plus souvent d'errer sans but. 
+					
+- Exemple résument très bien les caractéristiques de ces personnes:
+	- Développement précoce du langage mais pauvreté de la vie imaginaire. 
+	- Enfermement dans des activités stéréotypées et ritualisées.
+		- Si elles sont intéressantes en elles-mêmes, elles deviennent illogique du fait de la quantité d'énergie qui y est investie sans pour autant atteindre quelque chose de concret.
+	- Difficulté à entrer en interaction avec des partenaires. Surtout des jeunes de son âge, malgré le désir d'y parvenir. 
+	- Handicap évident à décoder les émotions d'autrui.
+	- Difficulté à établir des liens logiques entre les différentes séquences d'événements.
+		- Incapable de pouvoir interpréter correctement les faits et de les anticiper: le sujet est démuni face aux changements 
+	- Modes d'expression insolite : contenu, formulation, tonalité.
+		- Impression de dysharmonie : des réflexion à la pertinence rare côtoient des infantilismes. 
+	- Grand malaise face aux changements, même minimes.
+	- Décalage très fréquent dans la réussites des épreuves verbales et la médiocrité des épreuves non verbales lors des tests de QI. 
+		- Opposé des autres formes d'autisme. 
+	- Motricité pataude 
+	- Prise de conscience progressive de son étrangeté par rapport aux personnes de son âge   -> sentiment de dévalorisation. 
+		- Emergence d'idées dépressives avec risque de passage à l'acte suicidaire/gestes dangereux pour soi-même. 
+
