@@ -1,0 +1,117 @@
+
+- Ce groupe reste un sujet de discussion divergente.
+	- Intègre ce que l'on tendait à appeler:
+		- Psychose infantile précoce.
+		- Etats prépsychotiques
+		- Etats parapsychotiques
+		- Dysharmonies psychotiques 
+	- Pendant longtemps, aux US, utilisation du terme de schizophrénie infantile.
+		- Le terme de psychose était préféré en Europe. 
+		- 1957 : "Une psychose chronique non primitivement démentielle caractérisée par une perte de contact avec la réalité et la constitution d'une organisation autistique marquée de phénomènes spécifiques de régression et traduite par la dissociation"
+		- Les mots "régression" et "dissociation" sont spécifiques mais furent oubliés au profit d'une autre description pour le diagnostic de la psychose de l'enfant :
+			- Altération importante et soutenue des relations émotionnelles avec les gens 
+			- Méconnaissance de son identité propre.
+			- Préoccupations pathologiques pour des objets particuliers ou certaines de leurs caractéristiques 
+			- Résistance acharnée à tout changement 
+			- Expérience perceptive anormale 
+			- Anxiété fréquente, excessive et apparemment illogique 
+			- Langage perdu, jamais acquis ou retardé 
+			- Etrangeté des comportements moteurs 
+			- Fond d'arriération sur lequel peuvent apparaître des îlots de fonctions intellectuelles ou d'habiletés manuelles proches de la normale ou même exceptionnelles.
+		- Ces critères englobe toutes les manifestations incluse dans un trouble envahissant du développement à forme d'autisme. 
+		- Plus tard encore, nouvelle définition de la psychose infantile:
+			- Ajuriaguerra : La psychose infantile est un trouble de la personnalité relevant d'un désordre dans l'organisation du moi et de la relation de l'enfant avec l'environnement qui se caractérise par:
+				- Un comportement inapproprié face à la réalité 
+				- Un retrait de type autistique ou une fragmentation du champ du réel
+				- Une restriction du champ d'utilisation des objets 
+				- Des investissements cognitifs, affectifs et l'activité insuffisants ou partiellement exagérés, trop focalisés ou éparpillés entrainant des comportements hyper-rigides ou inconsistants. 
+				- Une vie fantasmatique pauvre ou de type magico-hallucinatoire, plaquée sur le réel. 
+				- Une attitude trop abstraite ou trop concrète, astreignante, limitant la possibilité du champ de la pensée et de l'action. 
+				- Une communication restreinte ou distordue 
+					- Sur le plan des échanges verbaux 
+					- Et des échanges émotionnels / affectifs 
+				- Relation inadéquate avec les gens. 
+		- Cette description franchis plusieurs pas:
+			- On retrouve une représentation de ce qu'on appelle à présent autisme à haut niveau et le syndrome d'Asperger. 
+			- Volonté chez l'auteur de distinguer des formes ou la vie fantasmatique est très réduite à de celles ou elle est abondante. 
+			- Organisation intellectuelle particulière (champ singulier de la penser)
+				- Tente de faire la distinction entre l'autisme défini par Kanner et d'autres troubles psychotiques précoces 
+		- En France, on parlera de : prépsychoses, états limites, psychoses dysharmoniques de l'enfance, parapsychoses pour finalement retenir dans la classification française des troubles mentaux:
+			- L'autisme infantile précoce de Kanner 
+			- D'autres formes d'autismes apparaissant plus tardivement 
+			- Les psychoses précoces déficitaires 
+				- Signes d'autismes + signes de déficience mentale 
+			- Dysharmonies psychotiques 
+				- Symptomatologie proche de la def d'Ajuriaguerra 
+			- Rares cas de schizophrénie débutant avant l'adolescence. 
+	- DSM-IV:
+		- Troubles envahissant du développement. 
+			- <small> sans mention de la forme appelée outre-atlantique psychoses dysharmoniques </small> 
+		- Définit bien l'atteinte dans les 3 domaines:
+			- Communication
+			- Réciprocité 
+			- Intérêts/Préoccupation
+	- Mais semble nécessaire à l'auteur d'intégrer une forme particulière définit sous le terme de dysharmonie psychotique. Mais la dénomination est très inadéquate:
+		- Il y a effectivement une dysharmonie entre zones sauvegardés et préservées, le terme "psychotique" est gênant.
+			- L'évolution de se fait pas vers les tableaux cliniques de la schizophrénie ou troubles uni-bi-polaires. 
+				- Même si la distinction entre le réel et l'imaginaire est fragile, hormis quelques brèves pertes de contact, l'enfant parvient à aménager sont envahissement fantasmatique qui ne déborde pas dans tous les aspects de sa vie.
+		- On parlera donc principalement d'autisme atypique avec envahissement par l'imaginaire. 
+			- Manifestation la plus nette : envahissement par les stimuli internes. 
+			- Tant que l'enfant est dans une situation structurée, il s'adapte assez bien. 
+				- Laissé à lui même dans un contexte de groupe, devient envahi par les bruits & mouvements
+					- S'excite ou se met en retrait pour ne pas être débordé
+			- Eprouve le besoin de se mettre à distance / réclamer des points de repères identiques, de figer les schèmes temporels. 
+				- Y parvient habituellement assez bien.
+					- Etonnant décalage entre sa "sagesse contrôlante" visible et l'envahissement lorsqu'il devient excité ou lorsqu'on l'invite à parler de son monde imaginaire, présentant des thèmes récurrents :
+						- Eclatement, destruction, éparpillement, dislocation.
+							1. **Contraste** saisissant entre la dangerosité décrite et le détachement avec lequel l'histoire est racontée ou dessinée. Différemment de la schizophrénie, le sujet n'est pas épouvanté par son récit. Fascination relative tout en percevant l'aspect irrationnel des représentations qui ne sont donc pas diffusées à travers tout son environnement
+							2. Les éléments transmis traduisent une **aventure sensorielle**: la terre se fissure, les corps éclatent, des éclairs sillonnent le ciel… Si l'enfant met parfois en scène un personnage très puissant capable de résister aux attaques destructrices, c'est surtout le monde inanimé qui subit l'agression: tout se passe comme si l'expérience retransmise était celle de multiples stimuli désorganisant l'espace.  <u>C'est un univers parcellaire, discontinu, en ruptures associatives</u>. Représentatif de ce que l'on peut imaginer des intégration sensorielles altérées dans l'autisme:
+								- "Je ne parviens pas à relier entre eux les multiples stimulations et les émotions qui m'assaillent. J'en tire des évocations envahissantes mais parcellaires. Lorsque je deviens capable de nommer mon anxiété, je ne peux qu'exprimer des impressions où prédominent vitesse, chocs, éclatement, fulgurance sans que ces thèmes n'éveillent vraiment d'angoisse en début de leurs apparences cataclysmique."
+							3. Répétition inlassable des mêmes thèmes: un flot d'éléments sensoriels désorganise une structure sans pouvoir déboucher sur une construction cohérente et cohésive. 
+			- Besoin de vérifier l'intégrité de son corps 
+			- D'être maintenu par ses vêtements 
+			- Tendance spontanée à s'envelopper dans une couverture, à réduire son espace ou à vouloir fusionner avec l'adulte pour ressentir les limites de son moi-peau. 
+			- Contrairement à l'autisme classique: pas d'enfermement vis-à-vis d'un seul stimulus mais une pluie d'informations sensorielles pénétrant le sujet comme s'il était poreux. 
+			- Trouble de l'intégration dans la forme classique:
+				- Incapacité de percevoir plusieurs stimuli à la fois 
+			- Trouble de la modulation dans la forme atypique:
+				- Incapacité à se distancier des afflux sensoriels et émotifs pour les regrouper en des ensembles cohérents. 
+
+- Paradoxalement : ce n'est pas lorsqu'ils expriment leur univers de morcellement qu'ils sont le plus angoissés. 
+	- Ils sont dans un effort de représentation pour traduire à eux même et autrui leur ressenti.
+- Lorsque cet espace (le ressenti) devient lui même fissuré, il faut trouver refuge:
+	- Se couper de l'extérieur 
+	- Fixer son attention sur un détail
+	- Réclamer un cadre structurant 
+	- Contrôler son environnement. 
+- Une véritable angoisse ne surgit que si ces mécanismes deviennent insuffisants et que les limites du moi deviennent incertaines 
+	- Cris, désorganisation gestuelle, automutilation, agression contre autrui : le débordement est devenu une réalité insupportable.
+		- Cette phase est souvent précédée d'un langage qui se déstructure, s'accélère, les mots se chevauchent.
+			- Il faut alors contenir par la parole et par des enveloppements.
+			- Apaiser en maintenant le corps de l'enfant tout en le rassurant sur sa soliditer.
+			- Puis : proposer de se reconstruire par:
+				- Immersion dans l'eau
+				- Massage
+				- Activité d'assemblage/modelage de terre glaise. 
+			- Permet de retrouver une cohésion intérieure. 
+
+- Evolution : ne va pas dans le sens d'une aggravation progressive.
+	- Contient des hauts/bas et phases passagères de désorganisation psychique / phase de répit.
+		- Parvient généralement à faire une scolarité convenable.
+			- Gêné dans la résolution de problèmes, demandant une flexibilité de la pensée rarement accessible. 
+			- Concentration parfois gênée par des bouffées fantasmatiques à la vue d'un objet apparemment anodin.
+				- Stéphane : les ronds des lettres rappelaient des bombes qui pouvaient éclater.
+					- Passait de longue périodes à remplir les cercles des d,p,q,b.
+				- Sylvaine : connait des phases ou elle refuse de séparer les mots les uns des autres. 
+	- Début de l'adolescence : délicat. Puberté = modification des repères corporels.
+		- Positif :
+			- Meilleure adaptation à la vie quotidienne 
+			- Régularité dans les tâches scolaires 
+			- Diminution des réactions impulsives 
+		- Négatif :
+			- Tendance à obsessionaliser les divers séquences de l'existence.
+			- Le monde imaginaire se raréfie au détriment de la créativité
+				- Qui a tendance à se fixer dans un secteur donné. 
+					- Parfois difficile sans anamnèse de différencier un adolescent présentant un syndrome d'Asperger ou la cicatrisation d'une "dysharmonie psychotique" antérieure. 
+		- Les anomalie sensorielles demeurent mais le sujet apprend à les gérer : évitement/apprivoisement. 
+

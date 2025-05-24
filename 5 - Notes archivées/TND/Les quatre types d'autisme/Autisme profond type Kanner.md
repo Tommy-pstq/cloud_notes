@@ -10,7 +10,7 @@
 		- En particulier : approches visuelles (périphérie + haut/bas -> pas de création volumique), réactions au bruits, sensibilité tactile.
 	- Limites floues du [[Schéma corporel]] - le corps est mal différencié de l'environnement. 
 	- Motricité défectueuse ou contenant des praxies insolites 
-	- Maniérismes/Stéréotypies nombreux 
+	- Maniérismes/Stéréotypies nombreu.x.ses
 	- L'espace est très peu investi : l'enfant erre ou se met en retrait dans une zone spatiale rétrécie. 
 	- Les séquences [[temporalité|temporelles]] doivent être immuables et figées. 
 	- La [[causalité]] quotidienne est bien perçue pour les activités quotidiennes mais absence/grande limitation de l'exploration/curiosité/expérimentation. 
