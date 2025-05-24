@@ -250,3 +250,22 @@
 			1. Pourquoi vous me dites 
 		8. Parce que vous allez en avoir besoin ! Quand on souffre autant, victime des autres et que, en plus, on n'a pas de chance, ça ne peut pas changer ! Et du courage, il faudra en avoir... 
 
+## Guidelines de départ 
+
+- Dès le premier contact:
+	- Définir rapidement le type de patient : *client, plaignant* ou *touriste*
+	- Garder à l'esprit qu'il est là car il souffre : moteur et objectif.
+	- Garder à l'esprit que si le thérapeute est là, c'est pour atteindre l'objectif : la diminution rapide, complète, durable de sa souffrance. Tout ce qui sera fait (tactiques) le sera dans cette optique (stratégie) et avec bienveillance. 
+	- C'est son problème, sa solution, son bénéfice.
+	- S'en tenir aux faits, attention aux sens donnés: on vérifie ce que l'on croit...
+
+
+| Touriste                                                    | Plaignant                                                                     | Client                                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
+| *N'a pas de problème*                                       | *A un problème attribué à l'extérieur*                                        | *A un problème et est prêt à se relever les manches.* |
+| 1. Triangulation                                            | 1. C'est son problème. Th = partenaire, en second rôle.<br>Test de motivation |                                                       |
+| 2. Tâches d'observation et de réflexion                     | 2. Ne changez surtout rien ! il est trop tôt pour changer                     |                                                       |
+| 3. Contrat entre plainte du référent et plainte du touriste | 3. Métaphore du fou qui court derrière                                        |                                                       |
+| 4. Baguette magique à trois coups: objectifs du touriste    | 4. Métaphore de la fracture au bord de l'autoroute                            |                                                       |
+| 5. Recadrage                                                | 5. C'est beau d'être fidèle à vos idées... même si ça vous coute cher         |                                                       |
+| 6. Exclusion                                                | 6. Intervention paradoxale : plaindre le plaignant, courage !                 |                                                       |
