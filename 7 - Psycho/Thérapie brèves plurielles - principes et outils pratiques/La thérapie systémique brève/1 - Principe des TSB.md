@@ -44,4 +44,42 @@
 	- Trop de patients se font aider sans savoir dans quelle voie ils s'engagent. 
 
 
+### Equifinalité 
+
+- Etat actuel d'un système : rapport très lointain avec ses conditions initiales.
+	- Impossible à prévoir son évolution de manière déterministe.
+
+- Important de distinguer *identité* et *comportement* 
+	- Comportement = temporaire, contexte dépendant.
+		- "Ma fille qui ment reste ma fille: Je condamne ton acte, pas toi! Ne te remets pas en cause, remets en cause ton comportement."
+	- Je suis "X" *MAINTENANT*, pas "je suis X."
+
+- Pour qu'un changement soit possible, deux conditions:
+	- Un contexte de changement
+	- Que ce changement soit accepté
+- Erickson : "Être thérapeute, c'est être contexte de changement"
+
+- Crainte du thérapeute de proposer telle intervention paradoxale rend la possible la continuité du paradoxe dans la vie du patient.
+	- Faire peur à un anxieux / enfoncer un dépressif : ne fait pas partie des classiques en thérapie. 
+	- Rassurer l'anxieux, remonter le dépressif : façon assez courante et d'apparent bon sens d'entrer dans leur scénario relationnel habituel.
+		- Mais : le thérapeute qui agit ainsi fait partie du problème et non de la solution.
+
+### Complémentarité et symétrie 
+
+- <u>L'escalade complémentaire:</u>
+	- "Moins tu en fais, plus je supplée à tes carences: escalade complémentaire qui peut aboutir à mon épuisement complet".
+	- Entraine une polarisation des rôles pour maintenant l'équilibre initial. 
+		- ex: balançoire, équilibre stable en position basse, ou équilibre instable en positions opposées.
+	- <u>Comment en sortir ?</u>
+		- Dans ce "jeu relationnel", tout effort "logique" pour amener l'autre à mon point de vue -> entraine une réaction dans le sens contraire et de même grandeur, augmentant encore la polarisation.
+			- -> Prescription paradoxale. 
+- <u>L'escalade symétrique:</u> 
+	- "Moins tu en fais, moins j'en fais". Peut aboutir à d'autres scénarios de crise.
+		- Bras de fer / discussion ou le ton monte = exemple quotidien.
+	- <u>Comment en sortir ?</u>
+		- En passant par la complémentarité.
+			- Le bras de fer s'arrête quand je donne raison à l'autre.
+				- "Tu es le plus fort" : il veut la position haute, je prends la position basse.
+
+- On traite l'escalade symétrique par la complémentarité et l'escalade complémentaire par la symétrie. 
 
