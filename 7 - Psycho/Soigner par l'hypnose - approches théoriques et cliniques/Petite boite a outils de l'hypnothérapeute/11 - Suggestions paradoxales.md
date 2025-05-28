@@ -1,0 +1,40 @@
+- Echange entre Erickson & Pao Alto : rôle déterminant dans l'utilisation de paradoxes en (hypno)thérapie.
+
+
+- Logique : un paradoxe est une proposition à la fois vraie et fausse 
+	- <u>Suggestion paradoxale</u> : demande quelque chose sans le demander, en demandant en même temps cette chose et son contraire ou en laissant un choix impossible entre deux proposition.
+		- Favorise la dissociation hypnotique 
+		- Active puissamment le fonctionnement inconscient 
+			- Efficace pour semer la confusion dans la ligne défensive d'un patient en hypnose ("Je préfère que vous ne m'obéissez pas.")
+		- <u>Double contrainte thérapeutique</u>:
+			- Donner une double injonction contradictoire sur deux plans différents:
+				- Ex: Secouer la tête et afficher une moue dubitative en disant "Oui, faites ça, c'est une très bonne idée"
+- Plusieurs variantes en hypnothérapie 
+	- [[prescription paradoxale]] : prescription d'un comportement pour provoquer le comportement inverse (compte tenu des mécanismes défensifs et de la "cuirasse logique" de certains patients)
+		- **Prescription du symptôme** : "J'aimerais que pendant quelques minutes vous augmentiez votre mal de tête"
+		- **Connotation positive** d'un comportement aberrant : "Vous avez surement d'excellentes raisons d'être sujet à des paniques"
+		- **Suggestion négative paradoxale** : "La prochaine fois que votre mari vous prendra dans ses bras, ne pensez surtout pas au prochain dégel de votre frigo"
+	- L'[[alternative illusoire]], forme de double contrainte:
+		- "Est-ce votre main gauche ou votre main droite qui ressentira en premier ces petits picotements de la transe ?"
+		- "Je ne sais pas si vous préférez entrer en transe dans ce fauteuil-ci ou sur cette chaise-là... tout de suite ou seulement dans 5 minutes, à vous de voir..."
+		- "Je me demande si vos yeux se fermeront avant ou après que je le dise"
+		- "Si votre inconscient désire vous voir entrer en transe, votre main droite se soulèvera, sinon c'est votre main gauche qui se soulèvera"
+	- [[Prétérition]] : Figure de rhétorique, dire ce que l'on ne dit pas ce que néanmoins l'on dit.
+		- Renforcer la vigueur du propos
+		- Feinte -> permet par exemple une anticipation qui hypothèque la résistance.
+			- On attend l'assentiment du patient en impliquant que si il manifeste son désaccord, ce serait faire preuve d'une compréhension limité:
+				- "Il existe une solution relativement simple, mais je ne suis pas certain qu'elle vous plaira."
+				- "Evidemment, ça a l'air ridicule, mais on pourrait dire que ..."
+	- [[Injonction du ralenti]] (*go slow technique*):
+		- Prescrire au patient de ralentir ses progrès, de ne pas aller trop vite dans la transe, de ne pas exagérer dans l'utilisation de ses ressources inconscientes (variante prescription paradoxale).
+			- Ex clinique: Demander à une patiente boulimique, dont les crises de fringales/vomissement sont liés à son manque d'affection, d'attribuer chacun des crises à venir à une personne. Une photo de cette personne devra être accrochée sur le frigo avant chaque crise et de vivre cette dernière en la contemplant. 
+				- Arrêt des crises sans récidive pendant une année. 
+	- [[Induction paradoxale]] :
+		- Prescription de "ne rien faire" (Gaston Brosseau). 
+			- Exercice favorisant le lâcher prise, particulièrement lors d'un premier contact.
+				- Demande de s'installer confortablement et de fermer les yeux. 
+				- Suggérer de ne rien faire.
+					- "Vous n'avez même pas à m'écouter, une partie de vous va demeurer à l'écouter et cela sera amplement suffisant... Vous avez le loisir d'aller vous promener intérieurement où vous le désirez. Sentez vous libre de toute contrainte... Vous ne faites rien, vous n'avez pas d'effort à faire pour vous détendre, vous ne dépensez aucune énergie à tenter de vous relaxer... Ces économies d'énergie s'accumulent en vous et vous pourrez les utiliser à votre guise.."
+				- En cas de quelque malaise, symptôme ou gêne : 
+					- Suggérer de ne rien faire pour les diminuer, peut se contenter de les identifier. En même temps, il lui est suggérer d'explorer ses perceptions sensorielles. 
+						- "Même si vous ne faites rien, vous prenez conscience des points de repère que vous donne vos sens pour vous aider à vous situer par rapport à l'extérieur... Cela vous rassure, cela vous permet d'établir votre point d'origine, cela vous met en contact avec votre propre identité, Vous continuez de ne rien faire..."
