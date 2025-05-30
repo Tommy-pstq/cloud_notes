@@ -1,5 +1,5 @@
 
-- *Graph de connaissances - dernier update: 15/05/2025*
+- *Graph de connaissances - dernier update: 25/05/2025*
 ![[Pasted image 20250515113144.png]]
 - [x] *Référence étudiée & résumée en une note dans le vault*
 - [ ] *Référence en cours d'étude OU lue et en attente d'une relecture pour constitution d'une note*
@@ -8,7 +8,7 @@
 ## Livres
 
 *DBS = Editions De Boeck Supérieur*
-- <u>L'autisme aujourd'hui</u>, Michel Lemay.
+- <u>L'autisme aujourd'hui</u>, Michel Lemay. *05/2025*
 - [ ] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj 
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
 - [ ] <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
