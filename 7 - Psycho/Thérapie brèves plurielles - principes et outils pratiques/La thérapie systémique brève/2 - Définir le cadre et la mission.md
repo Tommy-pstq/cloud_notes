@@ -99,9 +99,9 @@
 - Thérapie brève, focus sur *l'utilité de cette hypothèse dans le soin*.
 	
 - En consultation (analyse, thérapie, intervention) il n's'agit que d'un sens donné auquel les protagonistes adhèrent: il n'agit en aucun cas d'une "réalité" ou d'une "vérité".
-		- Point -malheureusement- fréquemment nié ou négligé.
-		- Intégrisme = confondre ce que je crois avec ce qui est.
-			- A l'origine de bien des conflits.
+	- Point -malheureusement- fréquemment nié ou négligé.
+	- Intégrisme = confondre ce que je crois avec ce qui est.
+		- A l'origine de bien des conflits.
 
 - Important : Ce sens donné fonctionne comme une prédiction autoréalisatrice: on vérifie ce que l'on croit = effet Rosenthal.
 	- Pratique clinique : pleine d'illustration.

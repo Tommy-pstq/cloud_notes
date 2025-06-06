@@ -419,3 +419,275 @@
 
 ### Maintenir l'intervention paradoxale dans la durée ? 
 
+- Si une intervention "logique" du thérapeute aggrave ou entretient le problème: *l'intervenant est du côté du problème*. 
+	- Quand une intervention paradoxale le solutionne, *l'intervenant est du côté de la solution...* 
+- Il peut être tentant pour l'intervenant de reprendre une attitude "logique", "plus gentille":
+	- Ca précipite à nouveau le client dans son problème. 
+
+- Si une intervention paradoxale a permit au patient de s'extraire d'un échec dû à un paradoxe préalable, le retour de l'intervenant à sa position antérieure peut entrainer la réapparition du problème.
+	- Il est trop facile - et normal - pour le client de reprendre sa position antérieure quand le thérapeute a repris la sienne. 
+
+### Doubles liens, doubles nœuds
+
+- 1954, Bateson, [[double contrainte]]:
+	- Une personne envoie à une autre des messages de niveaux différents qui se qualifient l'un l'autre et qui sont conflictuels. Le récepteur des messages est dans une situation où il ne peut répondre sans entrer en contradiction avec l'une ou l'autre des injonctions, se trouvant donc toujours dans l'erreur. Situation d'autant plus intenable que la "victime" ne peut pas partir ou faire de commentaire sur sa position insoutenable. 
+
+- Auteurs, notion plus simple : *double noeud* : façon de communiquer qui ne laisse qu'une seule possibilité à celui qui le reçoit : gagner dans tous les cas ; ou perdre dans tous les cas. 
+- Ex:
+	- <u>Le jeu de la trottinette</u>:  Je demande à la personne si elle à 10€. Elle me les confie. Le jeu est simple, elle doit répondre "Trottinette" à chaque question. Puis, après du multiples affirmations aisées : "Ce billet de 10€ est à moi".
+		- Si elle répond "Trottinette", j'empoche le billet
+		- Si elle répond autre chose, elle perd au jeu et j'empoche le billet. 
+	- Raymond Devos : l'esprit faussé.
+	- <u>"Mon mari ne m'offre plus de fleurs"</u>: Le jour même, le mari revient, tout souriant, avec un bouquet de fleur. Sa femme lui dit "Oui, tu m'offres des fleurs parce que je te l'ai demandé !" : Si cet homme apport des fleurs, ce n'est pas drôle, s'il n'en apporte pas, ce n'est pas drôle. Que peut-il faire ?
+		- Rendre conscient qu'il est dans un double noeud, puis:
+			- Offre des fleurs
+			- Un autre cadeau qui plairait à sa femme 
+			- Avoir une autre intention à laquelle elle est sensible 
+				- Le nombre de choix est augmenté.
+	- "Change... mais c'est trop tard !"
+	- "Tu devrais savoir ": formule magique pour créer une embrouille. 
+		- Dans un couple débutant : "Tu devrais savoir ce qui me fait plaisir sur ....": permet de distribuer les bons/mauvais points en total tyran. 
+	- <u>Le petit garçon qui pleure</u>: Un parent et son enfant en consultation d'une heure. Après une quinzaine de minutes, l'enfant exprime son impatience. Son sac de jouet lui est donné, ce qui l'occupe une dizaine de minutes avant le début des pleurs. Le parent a beau promettre monts et merveilles, rien n'arrête les pleurs.
+		- Puis, le docteur se met à pleurer lui aussi, fort, surprise. Il s'arrête et dit: "On va pleurer chacun son tour, je commence !" il reprend, puis :"Maintenant c'est ton tour: pleure pour me faire plaisir !" 
+			- 90% des cas : "Non !"
+			- 10% : l'enfant pleur.
+				- "Comme elle est obéissante ! Il suffit de lui demander de pleurer et elle le fait !"
+					- Arrêt des pleurs. 
+	- <u>Ex-compagnon très critique</u> à chaque rencontrer avec Stéphanie lorsqu'il récupère leur fille, un week-end sur deux. Stéphanie très affecté par ses critiques. Lui est proposé le double noeud suivant:
+		- "A chaque fois, tu me critiques sur ma façon de mener ma vie. Et moi, comme une conne, je te réponds toujours vertement ! Mes copines me disent pourtant que, depuis un an, j'ai beaucoup changé, que tu me connais mieux que personne et que tes remarques m'ont beaucoup aidée à m'améliorer. Elles ne comprennent pas pourquoi je t'engueule alors que c'est grâce à toi que je progresse. C'est vrai, désolé d'avoir été si désagréable. Et je voudrais te demander, à l'avenir, de continuer à m'aider de cette façon: je trouve ça génial ce que tu fais pour moi malgré tout ce qui s'est passé."
+			- Soit il arrête, c'est très bien. 
+			- Soit il continu et reçoit des remerciements. 
+				- Recadrage: ce qui était hier de la méchanceté devient une aide précieuse et gentille.
+	- <u>Le nouveau compagnon</u>. Sabrina, 12 ans, dit au nouveau compagnon de sa maman : "Je ne t'aime pas et ne t'aimerai jamais !" -> "J'espère bien que tu ne m'aimes pas !"
+		- Le lendemain, achète un petit flacon d'eau de toilette à la vanille (Sabrina aime beaucoup), demande un grand emballage et en l'offrant à Sabrina : "J'ai un petit cadeau pour toi mais si tu le veux, il faudra que tu me promettes que tu ne m'aimes pas et que tu ne m'aimeras jamais !"
+			- Sabrina promet.
+			- Après ouverture : "Je t'adore !"
+			- "Ah non, il faut tenir ta promesse !"
+	- Double noeud positif.
+
+- Dans la vie de tous les jours, énormément de double noeuds négatifs. 
+	- Peuvent passer inaperçus mais sont très dangereux : "L'art de rendre l'autre fou."
+		- La personne qui y est confrontée ressent un malaise confus dont elle n'identifie pas clairement l'origine. 
+			- Important d'aider les patients à les repérer. 
+- Il est également possible de produire des doubles noeuds négatifs envers nous même:
+- Ex:
+	- Patient dépressif, professeur d'économie, université.
+		- Déçu de ne pas être n°1 en éco de son pays. 
+		- S'il était n°1 : il serait sujet à critiques, ce qu'il ne supporterait pas non plus. 
+	- Patient souffrant de douleurs chroniques depuis 2 ans et demi.
+		- Un TTT lui offre une journée de répit, pour la première fois.
+			- Il dit à sa femme : "Tu vas voir ce que je vais avoir demain !"
+		- S'il a mal, c'est terrible, s'il n'a pas mal, c'est terrible : commet pourrait-il aller bien ?
+
+
+- Il faut donc: 
+	- S'entrainer à détecter les double noeuds négatifs et en sortir 
+	- S'exercer aux doubles noeuds positifs et particulièrement au *doubles liens en thérapies*
+		- Ouvrage = Traité pratique de l'hypnose, Erickson & Rossi, en contient pléthore. 
+
+### Vers une "grille de travail" : le schéma stratégique
+
+#### Grille classique en 5 points du MRI de Pao Alto
+
+1. Qui se plaint ? (Et non *de qui* se plaint-on !)
+2. Quel est le problème ?
+	1. En quoi ces faits sont un problème ? 
+	2. Pourquoi consulter maintenant ?
+	3. Exceptions et aggravations 
+3. Quelles sont les tentatives de solutions ? 
+4. Changement minimum ?
+5. Position du client ? 
+
+#### Grille d'intervention "Espace du Possible" (EDP)
+- Plus élaborée et explicite que la précédente. 
+	- Particulièrement claire lors de difficultés relationnelles / conflits 
+	- Logique applicable également lors de l'interaction du patient avec un élément de la vie 
+		- Partie "Definition du problème" : démonte le paradoxe préalable 
+		- Partie "Définition de la solution": construit l'intervention paradoxale
+
+
+1. **Définition du problème**
+	1. En quoi est-ce un problème ?
+	2. Pourquoi consulter maintenant ? 
+	3. Exceptions & aggravations ?
+2. **Définition de la solution**
+	1. Nouvelles solutions concrètes 
+		1. Axe
+		2. Variantes (franges)
+		3. Choix de la frange à apprendre
+		4. Tâche concrète 
+		5. Minimal change (1%)
+	2. Comment lui donner envie de cette nouvelle solution ?
+		1. Qu'est-ce qui, dans *sa* façon de voir, lui donnera envie de la nouvelle solution ? 
+		2. Utilisation
+
+
+#### Définition du problème 
+
+- Seuls les **faits** seront utiles pour définir le problème. 
+	- Séparer les **faits** des **sens** en deux colonnes.
+		- **faits** : observables - gauche
+		- **sens**: ressentis (physique, émotionnel), pensées. - droite
+			- filtres à travers les observables sont perçues. 
+
+- Travailler chaque éléments de la colonne de droite:
+	- "Que dit-il ?" 
+	- "Que fait-il qui vous faire dire cela ?"
+- Pour enrichir la colonne de gauche. 
+	- Demander ce que le client a *fait* pour chaque élément:
+		- "Que dit-il ? Que répondez vous ? Quelle est alors sa réaction ?" etc.
+			- Perspective circulaire. 
+- "Qu'avez vous répondu ?"
+	- Rien, je ne sais pas quoi faire 
+	- J'ai tout fait mais rien ne marche !
+- "J'aimerais savoir, pour chaque situation difficile que vous avez évoqué, quelles solutions spécifiques avez vous tentées ?"
+- Prise en compte des réactions des autres membres significatifs du système. 
+
+- L'intervenant dresse ainsi la liste des *tentatives de solution* du patient: toutes les réponses que le patient a eues en réaction aux comportements qui lui posent problème.
+	- Action concrète / comportement observables 
+
+
+- Permet le tracé d'une *boucle relationnelle*. 
+	- Dont pourra être extrait le fil rouge  qui relie toutes les tentatives de solutions.
+		- Le dénominateur commun de solutions apparemment différentes mais finalement simples variantes d'une même logique : des "Changement 1" selon Watzlawick.  
+			- Ex: des parents on punis de X manières différentes leur enfant, mais cela reste des punitions. file rouge = menace.
+				- Il auraient pu récompenser de X manières les bons comportements, le fil conducteur aurait été la récompense. 
+				- Il auraient pu punir & récompenser, intervenir de X manières différentes. file rouge = intervenir.
+					- -> Changement 2: ne pas intervenir. 
+	- Si le thérapeute apporte de nouvelles solution, elles doivent être d'une autre classe
+		- Sinon, les nouvelles solution ne feront que continuer le problème
+			- Il faut absolument les éviter.
+#### Comment vérifier qu'il s'agit du bon problème ? 
+
+- L'obtention d'un "grand oui": 
+	- "Si je comprends bien ..." - "Oui, c'est exactement ça !"
+- Tant qu'il existe la moindre incertitude à propos d'un "non" potentiel, il faut continuer d'investiguer :
+		- Ex : "Oui, c'est un peu ça mais ..."
+	- Demander plus d'informations 
+	- Retravailler la définition circulaire du problème 
+- Vérification que la boucle identifiée est bien l'inverse des exceptions.
+
+#### Les trois questions 
+
+##### En quoi ces faits sont un problème ? 
+
+ - Epictète : "Ce qui tourmente les hommes ce n'est pas la réalité mais les opinions qu'ils s'en font."
+	 - Après avoir recueilli les faits, on s'intéresse à pourquoi il sont un problème pour le patient, ils pourraient être plaisants pour d'autres.
+		 - *comment* cette personne se fait un problème, quand d'autre ne verrait pas de problème ou considérerait cela comme une opportunité 
+- Question complémentaire:
+	- **Comment ces faits affectent-ils votre vie de tous les jours au point de vous amener ici ?**
+
+##### Pourquoi consulter maintenant ? 
+
+- Problème répétitif / chronique:
+	- Pourquoi maintenant et pas il y a 6 mois ? 
+		- Quel levier puissant mobilise tout à coup les ressources de la personne ? 
+			- Il s'agit souvent d'un nouvel élément, le *moteur actuel* de la personne. 
+
+##### Y a-t-il des exceptions ou aggravations ?
+
+- ###### Aggravations :
+	- Permettent:
+		- "Il suffirait de faire ceci pour que les choses aillent plus mal ?" 
+		- "Je comprends mieux comment vous faites pour avoir un problème..."
+	- Tâche intéressante:
+		- Lister tout ce qui pourrait aggraver sa situation 
+			- Cocher chaque jour ce qu'elle a fait aujourd'hui
+		- La liste inverse = objet de la tâche suivante.
+
+- ###### Exceptions:
+	- Passent inaperçues car "tout se passe normalement"
+		- Il faut insister pour les débusquer. 
+	- Il faut *littéralement traquer* les exceptions:
+		- Le patient généralise volontiers sa plainte : "Je suis toujours fatiguée ; Je ne suis jamais bien  ; Je suis toujours dépressive / anxieuse."
+			- Faire dire des exceptions rend le problème plus léger:
+				- Tout n'est pas toujours tout noir. 
+		- Le patient à tendance à les disqualifier et à ne pas répéter ces comportements pourtant efficaces.
+			- <small> Exemple, une maman : "Tel jour j'étais très énervée, je lui ai mis un punition sévère et il s'est bien porté pendant quelques jours, je n'avais plus de problèmes. Mais je n'aime pas les punitions (ou tout autre raisons)" </small> 
+- <u>Deux types d'exceptions:</u>
+	- <u>Type 1</u> : concerne les comportements du client lui-même.
+		- Tel jour iel a "mis la balle à gauche" plutôt que de renvoyer comme d'hab, et B a dû en tenir compte.
+		- Succès temporaires qui n'ont pas été répétés, peut être même pas remarqués.
+		- Se poser la question :
+			- "**Comment fais-je pour que cela aille parfois bien ? Qu'est-ce qui m'empêche d'utiliser plus souvent ce comportement qui me réussit mieux ?** "  
+		- Question souvent pertinente : 
+			- "Comment cela se passerait si vous étiez absent.e quelques temps ? Comment cela se passerait-il ? Que ferait X ? Que ferait Y ? Que feraient les autres membres du système ?"
+	- <u>Type 2</u> : Certains intervenants du système n'ont pas/plus de problème avec cette personne. Ils ont trouvés des "franges qui marchent". Comment font ceux qui n'ont pas de problème ? Comment les modéliser ? 
+		- Quelqu'un qui n'a pas de problème avec cette personne ont trouvés une solution, inutile de réinventer la roue. 
+			- Est-ce que le client pourrait adopter ces comportements ? 
+- Exceptions permettent:
+	- Explorer les différents types d'interactions présent dans le système. 
+		- Anecdote souvent racontée aux parents lors de problèmes parent-enfant:
+			- "Un nourrisson a vite compris avec qui la colère fonctionne, avec qui le sourire est efficace, avec qui les pleurs marchent etc. Et il ne va pas se tromper, il mettra la bonne clé dans la bonne serrure. 10, 20, 40 ans plus tard, il sait toujours à qui il peut demander quoi et comment il faut le faire..."
+			
+- Exceptions = autoroute vers la solution: c'est une solution qui réussit déjà.
+
+#### Définition de la solution 
+
+#### Le jeu de l'écharpe à franges 
+
+- L'écharpe symbolise notre relation: nous sommes reliés par l'écharpe. Le patient tient un bout et le Th l'autre.
+	- Th. demande de le critiquer, insulter, et pour gagner du temps lui suggère : <small>"Docteur, vous êtes incompétent, malhonnête et vous sentez mauvais" </small> 
+		- D'entrée, on remarque : *nous n'avons pas de prise directe sur le comportement de l'autre*: nous ne pouvons pas l'empêcher de dire. Il nous est arrivé, nous arrivé et nous arrivera d'être critiqué. Peut être dans un instant en allant dans la rue. 
+	- Ensuite, est demandé : imaginer toutes les possibilités que le Th. aurait pour répondre. à ces trois critiques/insultes. 
+		- Le patient en énumère rarement plus de 4. 
+		- Dossier : une ligne est tirée dès qu'il cesse d'en exprimer de nouvelles. Le reste à été découvert en commun. La liste est complétée pour arriver à une quinzaines d'éléments. 
+			- <small> Ex: aggressivité, augmentation/justification, victimisation, droit à la différence, feedback utile, fin de la relation (réversible), suicide, humour, confusion, indifférence, recours à une tierce personne, déni, donner raison, position basse, revenons à nos montons, somatisation, silence, etc. </small> 
+- On constate alors:
+	- <u>Il y a plus de solutions que l'on pourrait croire</u>
+		- De 3/4 on est passé à une quinzaine. 
+			- Thérapie brève : très important d'augmenter les choix. 
+				- Le patient pensait souvent "avoir tout fait", ce jeu illustre qu'il en existe bien d'autres. Moins familières ou moins spontanées. 
+					- -> "Que se passerait-il s'il essayait de tirer telle ou telle nouvelle frange de l'écharpe ?"
+	- <u>Chaque option a ses avantages ou inconvénients</u>
+		- Aucune n'est gratuite. 
+			- Comparer les coûts/bénéfices permettra dans les classer selon l'échelle de valeur du client. 
+		- Les problèmes d'aujourd'hui sont les conséquences des apprentissages non réalisés avant.
+	- Cet apprentissage se réalise:
+		- <u>Suivant son choix:</u> Quelle frange/solution/comportement le client choisit d'apprendre ? C'est lui qui choisit. 
+		- En privilégiant l'apprentissage dans l'expérience plutôt que le savoir intellectuel.
+			- Jeux de rôles, tâches concrètes, hypnose
+			- L'important n'est pas ce que nous savons mais ce que nous faisons de ce que nous savons. 
+		- <u>Progressivement</u>: Tout apprentissage est progressif. 
+			- Il est trop facile de rater en voulant "tout, tout de suite".
+				- D'où la notion de "minimal change". 
+- On notera:
+	- A est responsable de ce qu'il dit et fait. 
+	- B est responsable du choix de sa réponse 
+	- A n'est pas capable de choisir les réponses de B.
+
+- Conflits de structure VS conflits de drapeau 
+	- Drapeau = ad nominem 
+		- Ex: ado qui dit quel tel ou tel parent de ses potes est sympa  LUI car il donne plus d'argent / laisse faire X.
+	- Important d'apprendre aux patients à faire la différence.
+	- Ne pas sauter à pied joints dans le piège 
+	- Utiliser les solutions spécifiques aux attaques personnelles. 
+		- Rien n'oblige à mettre le pied sur la mine qui est tendue 
+		- Se reconcentrer sur la négociation structurelle. 
+
+#### Axe de la solution 
+
+- Axe des exceptions = inverse de celui du problème 
+	- Axe de la solution = axe des exceptions 
+		- Exception = faits avérés $\neq$ hypothèses ou espoirs 
+
+#### Les variantes / franges de l'écharpe 
+
+- Elargir l'éventail des choix = brainstorming, lister tout les moyens possible sans les critiquer. 
+- Balance coûts/bénéfices : propre au patient.
+- Tâche concrète en minimal change, changement significatif quoique minime : premier pas dans la bonne direction 
+	- *Significatif*: Doit s'agir d'un changement 2, une solution qui sort de la classe des solutions inefficaces. 
+	- *Minime*: La préoccupation est que ce changement soit faisable et soit fait. 
+
+#### Comment donner envie de ce changement ?
+
+- Question de l'anthropologue + colonnes de droite (ressentis) donne de précieuses informations.
+- Caricature de l'intervention brève : permet à la personne de changer son comportement *au nom de ses propres valeurs*.
+	- Quelles sont les croyances/valeurs/raisons qui ont poussées le patient à agir ainsi jusqu'ici ?
+		- C'est la *position du client*.
+	- Ces valeurs mobilisatrices sont les leviers de ce patient.
+		- Cela fait longtemps que, fidèle à ces valeurs, il se comporte d'une façon qui nourrit son problème.
+			- Erreur de logique.
+				- Intervention paradoxale : en utilisant la position du client, le thérapeute va donner envie à son client d'adopter cette nouvelle solution. 
+
+![[Pasted image 20250606160725.png]]
