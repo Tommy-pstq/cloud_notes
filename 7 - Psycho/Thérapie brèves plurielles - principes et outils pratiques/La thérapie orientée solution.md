@@ -174,3 +174,189 @@
 
 ## Les ressources et compétences 
 
+- Un patient adressé soit décrit comme:
+	- "Paresseux, ambivalent, déprimé, démotivé, confus, dépendant des autres, obsessionnel, indiscipliné, se présentant toujours comme une victime"
+- Soit:
+	- "Brillant professionnelle, en bonne santé, travailleur, motivé, endurant, créatif pour résoudre ses problèmes, lucide, passionné, tenace, sociable, plein d'humour, épicurien"
+- Alors qu'il s'agit du même patient.
+	- Effet de l'annonce sur le thérapeute en début de thérapie ? 
+		- Quelle imagera aidera le mieux le thérapeute à aider son patient ?
+			- Sachant qu'elle se construit très rapidement. 
+			- + prédiction auto réalisatrice. 
+
+- Ne pas laisser le terme "d'alcoolique" ou "borderline" éclipser tout le reste de la personnalité du patient, y compris ses nombreuses compétences qu'il faut chercher à mobiliser, à trouver pour les transférer vers la résolution de son problème. 
+
+### Premièrement : préciser un objectif concret. 
+
+- Le dialogue est très différent quand il construit une réalité le sur le problème ou sur les objectifs. 
+	- Différence notable avec la TSB: 
+		- Pao Alto : absolue nécessité de bien définir le problème, jusqu'à 95% du temps y est consacré car une fois qu'il est défini correctement, la solution est évidente.
+		- TOS : moins orientée sur le problème, un objectif est donc choisit plus rapidement.
+
+- Si le patient dit que son objectif est : "De mieux se comprendre en couple".
+	- Th. : "Qu'est-ce que ça vous amènera de mieux ? Qu'attendez vous de nos rencontres ?"
+
+- S'il amène directement une "solution" : "Il faut que vous placiez ma fille" ou "J'ai envie de la tuer !" -> Il est clair qu'il s'agit d'un moyen plutôt que d'un objectif. 
+	- -> "Qu'est-ce que ça vous apportera ? Que souhaitez-vous y gagner ?"
+		- Accès à *l'objectif* de la personne.
+			
+- Le thérapeute examinera alors tous les *moyens* pour y accéder. On peut, comme souvent, être d'accord sur l'objectif mais pas sur les moyens mis en place.
+	- Il peut y en avoir beaucoup d'autre : élargir l'éventail de choix.
+	- Ou des moins couteux.
+
+- *Orientation vers la solution*: 
+	- Inscrire l'objectif dans une dynamique plus large de désir/aspiration/rêve : permettre un imaginaire, puissant moteur de mobilisation.
+		- Cet imaginaire = réalité impliquant le changement.
+
+- <u>Quelques phrases clés</u>:
+	- A quoi verrez-vous que le problème est résolu ? 
+	- Les choses ont évolué favorablement, qu'est-ce qui vous fait dire que vous êtes satisfait ? 
+	- Quel changement rendrait votre vie satisfaisante ? 
+	- Qu'y aura-t-il dans votre vie qui n'y est pas présent maintenant ? 
+	- Comment les choses seront-elles différentes ? 
+	- A quoi les autres verront-ils que vous êtes satisfait ? Décrivez-moi une journée à ce moment-là?
+
+### Traquer les compétences 
+
+- Chercher tous les faits, dans tous les domaines que le patient et le thérapeute appellent *ressources, compétences, habiletés* pour voir comment elles peuvent être utiles pour atteindre l'objectif. 
+	- Les domaines les plus variés sont explorés: passion, petites qualités reconnues
+		- A propos de quoi vous demande-t-on votre avis : succès, loisirs, expériences peu communes, compétences intellectuelles, manuelles, humaines, sociales etc.
+	- Il s'agit de compétences *concrètes*, pas de mot valise.
+- Construction d'une liste afin d'y puiser les plus appropriées.
+
+- Chaque compétence sera étudiée:
+	- Les gestes accomplis 
+	- Les tactiques/stratégies 
+	- Acquisition ?
+	- Style: proactif, réactif, passif, particularités 
+	- Comment il se protège des risque 
+	- Ce qu'il fait quand il perd/gagne 
+	- Persiste même quand ça ne fonctionne pas ? 
+	- Relation avec les autres acteurs 
+
+### Utiliser la compétence transférable pour atteindre l'objectif 
+
+- Si le lien est trop évident d'emblée dans le questionnement entre la compétence explorée et la solution : risque de résistance. 
+	- Tact, délicatesse et étonnement : amener le patient à faire des liens.
+		- Le laisser travailler, ne pas faire à sa place. 
+			- Le client décrit ses propres outils. 
+
+## Les échelles 
+
+- Permettent de sortir des logiques binaires. 
+- Idée implicite de progression
+
+- Particularité TOS:
+	- Permette de définir pour chaque point à quoi la personne *voit qu'elle y est*.
+		- Et donc *à quoi elle verra* qu'elle y est arrivée dans l'avenir. 
+		- Ex:
+			- "Vous estimez être à 3/10 sur votre échelle de sérénité. A quoi le voyez-vous ? Vous aimeriez passer à 4/10. A quoi verrez-vous que vous y êtes arrivé ? Qu'est-ce qui sera différent ? Et quelle différence cela fera-t-il pour vous d'être arrivé là ?"
+	- de 1/0 -> 10. 
+		- 10 = max de bien être.
+	- Importance : pas la valeur absolue mais son évolution. 
+- Cas pratique:
+	- Premier chiffre, 3 par exemple.
+		- Qu'est-ce qui fait que vous êtes déjà à 3 ?
+			- Les comportements observables 
+				- Qu'est-ce que vous faites que vous ne faisiez pas avant ?
+				- A quoi votre entourage voit-il que vous êtes à 3 ?
+			- Le monologue intérieur 
+				- Que vous dites vous à ce moment ? 
+			- Les moyens
+				- Qu'avez vous fait pour arriver à 4 ? De quoi avez vous besoin ?
+			- Le point de plus 
+				- Supposons que vous avez progressé d'un point d'ici la prochaine fois: à quoi le verra-t-on ? Que faudrait-il pour cela ? 
+				- Quand vous aurez un demi point de plus, faites le moi savoir. ("QUAND" et pas "SI").
+	- S'il y a eu des fluctuations, on examine:
+		1. La moyenne. 
+		2. Les hauts 
+			- "Une heure à 7 ? Comment avez-vous fait ?"
+		3. Les bas : permettent d'apprendre de ses erreurs, en s'attribuant la juste part qui lui revient. 
+			- "Qu'avez-vous oublié de faire ?"
+
+- Echelles, utilisées sur:
+	- Les éléments importants.
+	- Paramètres de travail : degré de motivation, espoir, solidité des progrès
+
+## Question miracle 
+
+- Peut être amenée par un *yes-set*: Vous finissez votre journée de travail, vous rentrez chez vous, vous voulez vous détendre, vous passez votre soirée comme d'habitude etc.
+- Dire à l'avance l'objection : "Ca peut paraitre étrange", "Vous allez dire que je suis dingue", "Je vais vous faire une proposition bizarre"
+
+- Cas pratique 
+	- <u>Si</u> le patient répond par une formulation négative : "Je *ne* serai *plus* triste ou anxieux": demander ce qu'il y aura à la place de la tristesse/anxiété : Gaieté/Sérénité par exemple.
+		- Important que ces termes soient les siens: utilisation. 
+	- Quand la patient amène une émotion : lui demander quelle action il commencera alors.
+	- Quand le patient amène une action : lui demande quelle émotion se présente.
+	- -> Pour chaque élément : cognition/sensation/émotion/action. 
+	- Utiliser tous les canaux sensoriels pour construire l'image complète de cet état désiré. 
+	- <u>Si</u> le patient dit : "Je ne sais pas"
+		- "Et si vous saviez, ce serait quoi ? Laissez le temps à une, petite, idée de venir. ""
+			- 1 minute de silence, puis : "Prenez votre temps, je vous attends"
+			- 1 minutes de silence.
+			- 90% de réponse 
+				- 10% : Thérapeute fait des proposition et demande l'avis du patient. 
+	- <u>Si</u> le patient propose un objectif où c'est l'autre qui change...
+		- Accepter ça comme point de départ, puis aller plus loin:
+			- "Quand votre mari fait cela, qu'est-ce que vous faites ?"
+			- "Qu'est-ce que cela changerait dans votre vie ?"
+			- "Qu'est-ce qui montrera à votre mari qu'il y a un miracle pour vous aussi ?"
+			- "Que pourriez vous faire pour l'amener à changer comme cela ?"
+		- *(Perso: pas fan. On base une réalité sur un élément hors de contrôle: le changement de l'autre, le problème a été mal défini.)*
+	- Demander s'il y a déjà des parties de l'état souhaité qui existent:
+		- Combien sur une échelle 
+		- Détailler, construire cette base. 
+	- <u>Si</u> le patient imagine un miracle impossible:
+		- "Les miracles ne sont plus ce qu'ils étaient... Si ce n'était pas cela, ce soir quoi ? Ou quoi encore ?..."
+		- "Vous avez toujours X, mais ce miracle change quelque chose d'important dans votre vie, c'est serait quoi ?"
+
+- Autre manière de préciser l'objectif: "S'il y avait une autre solution, ce serait quoi ?"
+	- Ex: une personne "alcoolique" a une difficulté à faire le choix de rester dans son couple ou pas, tâche:
+		- Décrire, dans une lettre, de façon réaliste et non idéalisée, un jour de votre vie après avoir fait un choix. Tout prendre en compte: finances, enfants, famille, amis, belle-famille.
+		- 48h plus tard: la même chose, mais pour l'autre choix. 
+
+- Avec réalisme : *le monde ne change pas, seulement moi.*
+	- Imaginer comment les difficultés seront gérées une fois le miracle accompli: "Une fois le miracle accompli, le lendemain votre fille fugue, qu'allez vous faire/dire etc."
+
+### Construire les tâche à partir de la question miracle 
+
+- Ex :
+	- Un patient souffrant d'attaques de panique décrit cinq éléments qui lui monteraient que le miracle s'est produit:
+		- Reprise de la natation, sport favoris 
+		- Reprend ses parties de jeu cartes le lundi soir au club
+		- Recommence à cuisiner et invite sa famille et ses amis 
+		- S'achète une nouvelle voiture 
+		- Va au cinéma et restaurant seul au moins 2x/mois. 
+	- Il croyait qu'il fallait *d'abord* que ses attaque de panique soient guéries pour qu'il puisse accomplir ces activités.
+		- Parfois, après une description aussi concrète, le client et le thérapeute peuvent imaginer les tâches qui favorisent ces activités *sans se préoccuper de l'élimination préalable des attaques de paniques*
+
+## Les tâches 
+
+- Petites : trop facile d'échouer en voulant trop.
+- Souvent: une seule tâche ne permet pas d'arriver à l'objectif. 
+	- Au thérapeute de l'annoncer.
+		- Avec des reculs occasionnels possible.
+- La tâche de la première séance est très souvent appliquée
+	- "Qu'est-ce qui s'est passé de bon aujourd'hui que vous souhaitiez continuer ?"
+	- "Ce qu'il veut absolument continuer dans sa vie ?"
+		- Tâche : prendre 5 minutes chaque soir pour penser à comment faire pour continuer. 
+- Pour les *touristes*, tâche d'observation.
+	- Le thérapeute ne pousse pas vers un changement puisque le patient ne voit pas où il va et surtout n'a pas l'intention d'aller où que ce soit. 
+	- Ex problème d'alcoolisme, feuille d'observation à remplir à chaque fois qu'il boit:
+		- Jour & heure 
+		- Quantité : s'intéresser à quand il a moins bu.
+		- Contexte : où, qui, comment ?
+		- Circonstances: émotions, sensations, comportements, pensées qui donnent envie de boire et leur intensité en échelle 
+		- Mode d'arrêt / reprise de contrôle 
+		- Commentaires 
+	- Un fumeur qui réfléchit à chaque fois pourquoi il commence et ce qu'il arriverait s'il arrêtait lui permet de réfléchir à son geste. 
+	- Retour du patient : chercher la moindre amélioration. 
+	- Plus tard, feuille d'observation des moments où il n'a pas bu alors qu'il avait envie de boire. 
+		- Tâche classique: maximiser les exceptions 
+		- Observer la différence entre les moments d'exception et les autres. 
+		- Observer les nouveaux (futurs) moments d'exception.
+		- Si les exceptions sont attribuées à l'extérieure (hasard, les autres)
+			- Faire prédire une bonne ou mauvaise journée. 
+			- Lendemain: vérifier la prédiction. 
+			- Expliquer les divergences.
+			- Double lien : Soit le patient trouve des raisons et sort de sa logique d'attribution externe, soit ses prédictions sont justes et il possède plus de contrôle qu'il ne le pense. 
