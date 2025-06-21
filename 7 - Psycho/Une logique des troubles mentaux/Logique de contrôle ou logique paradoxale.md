@@ -63,5 +63,5 @@
 	- Aigri
 	- Agressivité 
 
-## Le contrôle du monde 
+
 
