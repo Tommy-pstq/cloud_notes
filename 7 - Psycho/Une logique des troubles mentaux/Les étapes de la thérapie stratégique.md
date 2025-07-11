@@ -100,4 +100,92 @@
 
 ## Le diagnostic et la prescription des tâches thérapeutiques. 
 
+- Tout ce qui a été découvert, validé et redéfini pendant l'entretien :
+	- Présenté sous forme de prescriptions à mettre en pratique 
+		- -> Corriger les processus dysfonctionnels. 
+	- Concrétisation des changements de perspectives présentés jusque là. 
 
+- Phase la plus insécurisante pour le thérapeute débutant. 
+	- Pour se rassurer: observation d'exemples d'utilisation des différentes techniques suivie par leur mise en pratique sous supervision. 
+	- Avec l'expérience: association automatique entre tentatives de solutions observées et genre de tâche thérapeutique nécessaire pour débloque le problème. 
+		- Ex:
+		- Patient dit avoir perdu le goût de vivre.
+			- Peut fixer le mur de son voisin pendant 2h
+			- Angoissé, avenir bien sombre. 
+		- Hypothèse du th? : état de résignation. 
+			- *Tâches* permettant au patient de se remettre en action. 
+				- *Bloquer les ruminations* 
+				- *Couper toute projection dans l'avenir* 
+				- *Comment aggraver*
+				- *Couper les plaintes*
+				- *Comme si*
+		- Q. : "Depuis quand ?"
+			- Répond par un événement marquant & précis
+				- Cherche à savoir si l'événement le tourmente encore 
+					- Evitement de souvenirs trauma
+						- Tâche : *Récit du désastre*
+						- Introduite de façon stratégique pour que le patient en comprenne l'intérêt. 
+							- Métaphore d'une blessure qui ne guérit pas car pas suffisamment désinfectée etc.
+### Les prescriptions ou "tâches" thérapeutiques 
+
+- Les tâches visent le même objectif que le recadrage : **déstabiliser le pattern** de perception/réaction conduisant à des tentatives de solutions dysfonctionnelles. 
+	- Par l'action plutôt que la [[reformulation]]. 
+	- Meilleur moyen que le patient change sa perspective : l'[[expérience émotionnelle correctrice]], capable de réparer l'influence traumatique de ses expériences antérieures. 
+	- Construites sur mesure. 
+	- Impliquant un investissement affectif 
+- Frontière entre les tâches et le recadrage parfois très fine:
+	- Ex: Une femme s'est faite opérer des seins et veut à présent refaire de la chirurgie pour sa lèvre supérieure. 
+		- Pour traiter ce genre de dysmorphophobie, le TH. peut proposer la tâche suivante: "Je vous demande de faire, chaque jour, un examen complet de votre physique: vous allez vous munir d'un carnet et vous observer dans le miroir. Vous allez noter, à chaque fois, tous les défauts que vous remarquez et envisager les différentes parties de votre corps que vous *allez changer après avoir modifié vos lèvres*"
+			- Implicite fortement émotionnel: l'énoncé montre qu'il s'agit d'un processus sans fin. Peut suffire sans même être réalisé.
+
+- Tâches, souvent proposées en fin de séances, à faire avant la prochaine.
+	- Permet de densifier le travail entre les séances.
+		- Poursuite du mouvement stratégique définit dans le dialogue thérapeutique. 
+		- Transformer la répétition d'expériences correctrices en habitudes, pour remplacer celles misent en place par les tentatives de solution jusqu'alors.
+			- Pour contrer un mouvement de retrait dès les premiers signes d'anxiété, la personne devrai "prendre l'habitude" de l'affronter dès le départ. 
+	- La thérapie se poursuit pendant tout le traitement et ne s'arrête pas une fois la porte du cabinet/bureau franchie.
+	- Permet d'écourter la durée du traitement. 
+- Souvent, prescription de <u>plusieurs tâches.</u>
+	- Tâches principale: bloque la logique dominante.
+	- Tâches secondaires: contre les processus secondaires: ruminations, expression sociale du problème, tentatives de solution de l'entourage.
+	- Ex:
+		- Dans le cas d'une dépression, à la fin du premier entretien, th. : "Vous savez qu'on 'voit l'avenir avec les yeux du présent' et qu'il est donc important de ne pas se projeter dans l'avenir tant qu'on a plus aucun goût pour la vie. Il est donc trop tôt pour envisager ce que sera votre vie future. Nous allons prendre les choses au jour le jour. Chaque matin, je voudrais que vous preniez un moment pour réfléchir à ceci : Si je me sentais bien aujourd'hui, qu'est-ce que je pourrais faire pour me sentir bien ? Vous noterez 3 petites activités concrètes que vous pourriez faire pendant la journée. Attention, surtout ne vous forcez pas à les mettre en application, je vous demande juste de les noter."
+		- Si le patient à tendance à partager sa douleur avec son entourage, le thérapeute peut ajouter: "Vous avez pu constater que, plus vous parlez de vos difficultés à vos proches, plus vous vous sentez mal. Aussi, je vous demande d'éviter d'en parler jusqu'au prochain  RdV. Si vos proches vous demandent comment vous allez, je vous recommande de leur dire que vous préférez ne pas trop parler de vos difficultés pour le moment."
+
+### Les différents types de tâche 
+
+- Orientées "problème" ou orientées "solution"
+	- "Parler du pb renforce le pb".
+		- Recherche d'exception, utilisation d'échelles etc. en TOS.
+	- Mais dans de nombreux cas: un orientation prématurée vers un avenir débarrassé du problème ne permet pas de changement significatif durable, un travail préalable de déblocage est nécessaire. 
+		- Objectif de certaines tâches:
+			- **Bloquer les tentatives de solutions** qui enkystent le problème & empêche le patient de se projeter dans un avenir plus serein. 
+				- Situations dans lesquelles le patient est envahi par l'émotion - souvent la peur - . La tâche de *la demie heure du pire* est très fréquemment proposée pour assouplir le réflexe d'évitement. 
+			- **Ressentir la situation différemment**, et donc retrouver l'espoir d'une autre vie: construire un nouvel avenir avec le *Comme si*.
+
+- <u>Tâches d'observation</u>
+	- Permettent de <u>prendre du recul</u>.
+		- En portant son attention sur certains élément spécifiques.
+		- Ex: 
+			- Observer attentivement les moments où il se sent anxieux dans les cas d'inhibition émotionnelle ou sensorielle importante ou l'anxiété lui "tombe dessus".
+			- Demander d'être attentif aux réactions quand le patient est confronté à son problème: pour qu'il commence à percevoir qu'il y *réagit* (et donc n'est pas complètement passif) et permettre au th de récolter des infos. 
+				- Ex, couple conflictuel: proposer aux deux partenaires d'**être très attentifs à ce que chacun essaie de faire pour améliorer la situation**. 
+					- Tâche potentiellement très recadrante: peut faire prendre conscience aux individus qu'ils ne font plus rien pour que les choses s'arrangent et laissent le thérapeute s'en charger pendant qu'eux continuent à alimenter le dysfonctionnement. 
+- <u>Tâches d'imagination</u> 
+	- Préparent à l'action, augmenter la motivation à quitter sa réalité douloureuse.
+	- Majoritairement orientées solutions. 
+		- Conduisent le patient à envisager un avenir dégagé du problème : préparer une reconstruction. *(activité cognitive: imaginer une action = se préparer l'exécuter)* 
+		- Ex: Tâche du *Comme si* et ses variantes, les questions hypothétiques.
+	- Faire baisser le niveau d'anxiété 
+		- *Demie heure du pire*
+			- Plus la peur est irrationnelle et vague, plus l'intensité émotionnelle est forte.
+			- Plus on cerne l'objet de la peur en l'imaginant, plus son intensité diminue. 
+	- De manière paradoxale: 
+		- Comment le patient pourrait *aggraver sa situation*. 
+		- *Technique des échelles* (phases de consolidation des changements)
+			- Personne qui stagne après la phase de déblocage : "Sur une échelle de 1 à 10, où vous situez vous aujourd'hui ? Si le patient répond 6, le Th. demande d'imaginer serait la situation à 7, puis 8 etc."
+				- Permet de définir plus concrètement les attentes non satisfaites. 
+			- *Technique de l'alpiniste*: " L'alpiniste qui doit escalader une paroi abrupte envisage son parcours en partant de la fin: il commence par le sommet - ce qui correspond à 10 pour vous - et se demande quelle sera l'étape précédente - 9 - puis celle d'avant et ainsi de suite pour être sûr qu'il ne s'égarera pas en chemin et ne s'aventureras pas sur des voies sans issues". 
+				- Invite a concrétiser l'évolution attendue: "Qu'est-ce qui sera différent à chaque étape du changement ?"
+- <u>Taches d'action</u>
+- 
