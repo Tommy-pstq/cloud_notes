@@ -248,5 +248,22 @@
 
 ## Consolidation et arrêt du traitement. 
 
+- Une fois le pattern de solution dysfonctionnel ébranlé sans pour autant avoir atteint un nouvel équilibre:
+	- Th. souligne les nouveaux comportements/nouvelles attitudes utiles 
+	- Consolide les changements
+	- Intégration des tâches à la vie quotidienne 
+		- *Affronter le pire*: d'une demie heure d'un seul bloc à un fractionnement en 6 créneaux de 5 minutes.
+			- 1 minute à chaque signe d'anxiété, peu importe le contexte. 
+		- Perfectionniste: on prescrit au début comme tâche de dévoiler une petite faiblesse. Ce qui pourra évoluer à une petite faille chaque jour.  Finalement: Bilan à 18h si une petite faiblesse a été montrée durant la journée, sinon, mettre la soirée à profit pour le faire. 
+	- Logique de confirmation de croyance: Il faut attendre le moment où ils commencent à douter sur la base de l'expérience nouvelle.
+		- Réalisée grâce à une tâche d'observation systématique (*Journal du parano*)
+			- Puis : Décoder le processus de façon rationnelle avec le patient.
+
+- Pour bien **ancrer les changements** : possible d'envisager la rechute. 
+	- Ce qui veut dire: étudier les comportements que le patient devrait adopter pour être sûr que le problème revienne. 
+	- Voire même: prescrite la rechute de façon paradoxale.
+		- Erickson : "J'aimerais que, pour la fois prochaine, vous retourniez dans l'état ou vous étiez lorsque vous êtes venu me voir pour la première fois, pour vous assurer qu'il n'y a pas des choses que vous voudriez conserver de cette situation."
 
 
+- Phase ce consolidation : échange plus rationnel et moins métaphorique. 
+	- Langage du thérapeute: explicatif plutôt qu'injonctif. 
