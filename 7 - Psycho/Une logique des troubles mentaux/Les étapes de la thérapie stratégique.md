@@ -159,7 +159,7 @@
 		- Recherche d'exception, utilisation d'échelles etc. en TOS.
 	- Mais dans de nombreux cas: un orientation prématurée vers un avenir débarrassé du problème ne permet pas de changement significatif durable, un travail préalable de déblocage est nécessaire. 
 		- Objectif de certaines tâches:
-			- **Bloquer les tentatives de solutions** qui enkystent le problème & empêche le patient de se projeter dans un avenir plus serein. 
+			- **Bloquer les tentatives de solutions** qui enkystent le problème & empêchent le patient de se projeter dans un avenir plus serein. 
 				- Situations dans lesquelles le patient est envahi par l'émotion - souvent la peur - . La tâche de *la demie heure du pire* est très fréquemment proposée pour assouplir le réflexe d'évitement. 
 			- **Ressentir la situation différemment**, et donc retrouver l'espoir d'une autre vie: construire un nouvel avenir avec le *Comme si*.
 
@@ -187,5 +187,66 @@
 				- Permet de définir plus concrètement les attentes non satisfaites. 
 			- *Technique de l'alpiniste*: " L'alpiniste qui doit escalader une paroi abrupte envisage son parcours en partant de la fin: il commence par le sommet - ce qui correspond à 10 pour vous - et se demande quelle sera l'étape précédente - 9 - puis celle d'avant et ainsi de suite pour être sûr qu'il ne s'égarera pas en chemin et ne s'aventureras pas sur des voies sans issues". 
 				- Invite a concrétiser l'évolution attendue: "Qu'est-ce qui sera différent à chaque étape du changement ?"
-- <u>Taches d'action</u>
-- 
+- <u>Tâches d'action</u>
+	- Prescription pour que la patient agisse différemment face au problème.
+	- Pertinentes quand des blocages émotionnels ne les entravent pas, pour toutes les logiques.
+		- Ex:
+		- "Déclarer son anxiété" avant de prendre la parole devant un public (vs évitement)
+		- "Faire une erreur volontaire" en cas de peur d'être pris en défaut (contrôle)
+		- "Partir à la recherche de tous les indices qui confirme sa croyance" en cas de peur d'être l'objet de discrimination (croyance)
+	- Généralement: demander au patient de faire l'opposé de ce qu'il a l'habitude de faire, "Faire un virage à 180°":
+		- Dire au lieu de se taire 
+		- Montrer plutôt que dissimuler 
+		- Faire plutôt que d'essayer de s'en empêcher.
+		- etc.
+- Souvent, quand le contrôle est très rigide:
+	- Seule l'action peut conduire à un changement.
+		- Le patient à tendance à décortiquer tous les recadrages pour juguler ses craintes (autre forme de contrôle).
+	- Ex:
+		- Demander à un patient anxieux (en présence de la partenaire) souffrant d'éjaculation précoce: "La prochaine fois que vous aurez une relation sexuelle, je voudrais que vous battiez le record du monde de vitesse d'éjaculation. Ensuite vous resterez en contact avec votre partenaire, vous la cajolerez et la carresserez jusqu'à ce que vous ressentiez à nouveau du désir pour elle, et vous pourrez alors avoir un nouveau rapport plus tendre avec elle."
+			- Objectifs:
+				- Bloquer la tentative de contrôle lors du premier rapport, à le banaliser.
+				- Eviter les lamentations, ruminations, gêne qui s'installe souvent entre les partenaires après un acte sexuel peu satisfaisant.
+			- En prescrivant le problème dont il le se plaint (*prescription du symptôme*).
+
+### Elaboration des prescriptions
+
+- Pour imaginer des tâches, double approche de la situation:
+	- Rationnelle, ou digitale, pour décoder le fonctionnement du problème du patient
+	- Analogique, ressentir la façon dont le patient perçoit la situation
+- Par conséquent:
+	- Crucial de mettre en évidence la logique du problème. 
+		- Le th. peut alors comprendre la dynamique générale des tentatives de solutions.
+		- Mais également "se fondre" dans la logique du patient.
+	- Bateson, à propos d'un zoologiqte (Konrad Lorenz) : 
+		- <small> "Il a avantage presque injuste sur les autres zoologistes: Il peut voir beaucoup de choses en comparant ce qu'il observe chez l'animal et ce qu'il ressent en adoptant son comportement." </small> 
+			- <small> Lorsqu'il donnait des conférences, Lorenz modifiait son comportement en fonction de l'animal dont il parlait. Ses expression, gestes changent à tout moment </small> 
+
+- D'une séance à l'autre: le thérapeute questionne le patient sur le résultats de ses prescriptions afin de les évaluer.
+	- Rétroaction.
+	- Ex:
+		- Si un patient très anxieux n'obtient aucun bénéfice en appliquant *la demie heure du pire*, il y a peut être une croyance qui empêche toute amélioration à découvrir.
+
+- Si le patient n'effectue pas les tâches:
+	- La tâche peut être inadaptée ou mal comprise par le patient.
+		- En discuter de manière directe.
+	- Le patient n'arrive pas à les faire parce que son problème l'en empêche, il est trop bloqué. 
+		- Remercier le patient d'apporter de nouvelles infos
+		- Se focaliser sur les aspects émotionnels qui font obstacles. 
+			- Trouver un moyen stratégique d'en faire baisser l'intensité; 
+				- "Affronter le pire en immagination"
+		- Adapter les tâches en fonction des résistances.
+			- Contexte moins anxiogène (avec des proches plutôt que des inconnus)
+			- Imaginer ce qu'il se passerait si la tâche était mise en oeuvre mais ne pas l'effectuer. 
+	- Le patient a trouvé une échappatoire : pas le temps (enfants, autres soucis):
+		- Evaluer si la motivation n'est pas suffisante 
+			- Trouver des recadrages pour l'augmenter 
+				- Ex, de façon paradoxale, en freinant le changement: "Je pense qu'il est trop tôt pour envisager une vie débarrasser de ce problème"
+		- Question relationnelle (relation de confiance pas encore bien établie)
+		- Question communicationnelle (le th. n'a pas trouvé les bons mots)
+			- Reconnaitre ne pas avoir bien compris le problème et demande au patient de corriger sa perception. 
+
+## Consolidation et arrêt du traitement. 
+
+
+
