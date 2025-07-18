@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d75d7744cd10c915",
+        "id": "1da195aced09893b",
         "type": "tabs",
         "children": [
           {
-            "id": "3494b063f5fe8ef2",
+            "id": "2d1e66a769981eb4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Pasted image 20250415112747.png"
+                "file": "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/Base résiliente en MAP - Approche intégrative.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250415112747"
+              "icon": "lucide-file",
+              "title": "Base résiliente en MAP - Approche intégrative"
             }
           }
         ]
@@ -162,8 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3494b063f5fe8ef2",
+  "active": "2d1e66a769981eb4",
   "lastOpenFiles": [
+    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/Base résiliente en MAP - Approche intégrative.md",
+    "2 - Source Materials/Pasted image 20250415112747.png",
     "2 - Source Materials/Pasted image 20250415112809.png",
     "2 - Source Materials/Pasted image 20250515113144.png",
     "2 - Source Materials/Pasted image 20250606160725.png",
@@ -172,7 +186,6 @@
     "7 - Psycho/Une logique des troubles mentaux/Recadrages et tâches spécifiques/Enrayer les logiques à base d'évitement.md",
     "2 - Source Materials/518187777_743655624821727_7238091390835489120_n.jpg",
     "7 - Psycho/Une logique des troubles mentaux/Les étapes de la thérapie stratégique.md",
-    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/Base résiliente en MAP - Approche intégrative.md",
     "7 - Psycho/Une logique des troubles mentaux/Recadrages et tâches spécifiques",
     "7 - Psycho/Une logique des troubles mentaux/Untitled.md",
     "7 - Psycho/Une logique des troubles mentaux/Entretien stratégique et étapes du DOSS.md",
@@ -208,8 +221,6 @@
     "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/Petite boite a outils de l'hypnothérapeute",
     "2 - Source Materials/IMG_6396.jpg",
     "2 - Source Materials/IMG_6395.jpg",
-    "2 - Source Materials/Pasted image 20250415112747.png",
-    "2 - Source Materials/Pasted image 20250402190918.png",
     "Untitled.canvas"
   ]
 }
