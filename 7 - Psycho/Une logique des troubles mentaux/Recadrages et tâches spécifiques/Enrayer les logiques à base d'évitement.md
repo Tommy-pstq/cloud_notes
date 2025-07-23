@@ -170,3 +170,44 @@
 
 #### Le "Comme si"
 
+- Comment créer à partir de rien ?
+	- C'est la fonction du "Comme si". Tâche orientée solution.
+- Dans les cas ou le patient est trop envahi par son problème, au point qu'il ne peut lever la tête du guidon et tourne en boucle. 
+	- "Comme si" -> prise de recul virtuel, envisagé la question depuis un point de vue imaginé.
+		- "Et si le problème n'existait plus, que se passerait-il de différent ?", "Que feriez-vous d'autre ?"
+
+- Souvent utilisée:
+	- Evitement, Croyance. 
+	- Dépression.
+- Permet au patient d'imaginer que son problème pourrait disparaître -> qu'il a la possibilité de vivre autrement -> recadrage implicite. 
+
+- Egalement, une fois que le problème est débloqué, avec des patients aux croyances bien ancrées, quand le moment est venu de penser à construire l'avenir. 
+	- W. Shakespear: *"L'imagination est le commencement de la création. On imagine ce qu'on désire, on veut ce qu'on imagine, et enfin, on crée ce que l'on veut."*
+
+- Formulation de la tâche:
+	- "*Je vais vous demander, chaque matin, de vous installer dans un endroit confortable et de vous poser la question suivante: "Aujourd'hui, si j'allais bien, que pourrais-je faire dans la journée pour me faire du bien ?", et je vous demande de noter 3 petites activités concrètes qui pourraient vous faire plaisir si vous alliez bien*" 
+- Th. peut donner des exemples: 
+	- Téléphoner à un vieil amis, aller voir tel film au cinéma, faire une balade dans le parc, etc. 
+
+- Amène le patient à imaginer des objectifs concrets -> laisser réapparaître des choses attirantes, plaisantes dans son esprit ->  relance sa motivation, désir. 
+
+- Dans le cas ou le patient est particulièrement bloqué:
+	- Ajout d'une tâche paradoxale : "Imaginez trois petites activités que vous pourriez faire dans la journée pour vous faire du bien... mais surtout ne les faites pas, c'est trop tôt !"
+		- Interdit -> envie, frustration -> désir +.
+			- Double contrainte thérapeutique: s'il suit la prescription, il a de plus en plus envie de passer à l'action, s'il transgresse la consigne et commence à passer à l'action, le problème se débloque. 
+
+
+#### Comment aggraver ?
+
+- Patients dans l'évitement se sentent souvent démunis 
+	- -> Se raccrochent à des conduites, notamment sociales (plaintes incessantes, demande de réassurance, isolement), qui augmentent les symptômes et la souffrance.
+		- Pour mettre un terme à ces conduites parasites, on peut les amener à faire le constat de cette issue par eux-mêmes.
+		- Paradoxe:
+			- *"Que devriez vous penser (ou ne pas penser), dire (ou ne pas faire), faire (ou ne pas faire), si vous vouliez délibérément aggraver votre problème ?"*
+
+- La tâche ne sert pas à contrer spécifiquement une logique dominante mais vise à arrêter les conduites qui contribuent à renforcer le problème de façon plus générale.
+
+- Utilisable dans les logique de contrôle également. 
+	- Parfois, n'apporte que peu de changements intéressant : "Je sais que je ne devrais pas me comparer, m'isoler, m'examiner sans cesse... mais je n'y arrive pas".
+		- -> recours à d'autres tâches.
+
