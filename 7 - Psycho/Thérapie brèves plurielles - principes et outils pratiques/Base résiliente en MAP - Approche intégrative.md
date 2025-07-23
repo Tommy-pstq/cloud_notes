@@ -90,3 +90,68 @@
 
 #### L'absent mais implicite: quand aucune exception n'émerge dans un premier temps 
 
+- Absent mais implicité = notion.
+	- Approprié quand, dans un premier temps, aucune exception ne semble émerger de l'entretien thérapeutique.
+	- En pratique, par exemple pour un patient qui manifeste sa détresse liée à une expérience douloureuse à travers de la colère:
+		- "De quoi cette colère témoigne-t-elle ? A quoi dit-elle non ? Qu'est-ce que cette colère dit de ce qui est précieux pour vous et qui a été bafoué ?"
+			- Invite le patient à se relier à **ce qui s'inscrit en contraste avec son vécu de colère** 
+				- Puis: recherche de situation ou le patient à montrer ces valeurs ci. 
+
+- Intentions, Amener le patient à:
+	- Se percevoir non plus comme un récipient passif qui subit le phénomène mais comme un **acteur** qui, par sa réaction de souffrance, pose un acte de résistance. 
+	- Percevoir que cette souffrance **témoigne** de ce qu'il "tenait pour précieux et qui a été violé": ces intentions, buts, valeurs, espoirs, engagements
+	- Reprendre contact, se réassocier à ces éléments.
+- Praticien, posture de "double écoute":
+	- Du récit de l'histoire dominante et de la souffrance qu'elle implique 
+	- Détection attentive de tout ce qui n'est pas généralement ni perçu ni exprimé par le patient. 
+
+
+### Relier le sens revivifie : de l'initiative personne aux relations vivantes et significatives 
+
+- Exception / valeurs prisées transparaissant au travers des conversations = "fines traces" à amplifier grâce à un échafaudage de question -> début de réassociation. 
+	- Ex:
+		- "Pouvez vous me raconter une histoire qui me permette de comprendre comment vous avez appris ces *choses précieuses* ?"
+	- Important : précéder les question d'un bref résumé des intentions et valeurs mentionnées par le patient précédemment. (ligne éditoriale)
+- Favoriser l'effet de réassociation :
+	- Orienter la conversation vers les personnages significatifs de l'histoire du patient qui partagent/soutiennent les intentions & valeurs qui sous-tendent cette initiative personnelle.
+		- Approche narrative: "la relation à soi est médiatisée par la relation à l'autre"
+	- Ex:
+		- "Qui ne serait pas étonné de vous entendre dire cela ?"
+		- "Connaissez vous des personnes qui partagent cette vision des choses ?"
+
+- Secondement - si le patient est d'accord - développer la conversation autour de ces personnages significatifs. 
+	- "Pouvez vous me parler de ces personnes ?"
+		- Possible d'utiliser la carte du re-membering : favoriser une riche conversation centré sur ces relations vivantes. 
+- Inviter le patient à relier ses états intentionnels à un contexte social plus large :
+	- "Quelle différence cela ferait si plus de personnes partageaient cette vision des choses ?"
+- Finalement: possible d'engage la participation de témoins extérieurs à la conversation thérapeutique.
+
+### Renforcer durablement l'effet de réassociation 
+
+- Pour favoriser le tissage autour de l'identité préférée, à l'issue de ces conversations:
+	- Prendre contact avec son vécu sensoriel ("descendre dans son corps"):
+		- "Qu'est-ce que cela vous fait de parler de cette personne comme vous le faites là maintenant ?"
+	- Réfléchir aux nouveaux développement que cette réassociation peut permettre:
+		- "Quelles différences cela ferait-il, dans votre vie, si vous restiez connecté à cela, comme vous l'êtes à présent ? Qu'est-ce que cela rendra possible ?"
+		- "Quels nouveaux pas pourriez-vous accomplir, quelles nouvelles étapes pourriez-vous franchir, en accord avec cette compréhension des choses ?"
+- ->
+	- Renforcer durablement la réassociation
+		- Favoriser la mise en mouvement 
+			- Dans l'action & dans le futur.
+
+## MAP : une démarche intégrative 
+
+### Les mouvement alternatifs comme facilitateurs 
+
+- Lors d'un travail à partir d'une cible traumatique : mouvement alternatifs engendrent une double focalisation de l'attention engendrant de la confusion.
+	1. "Rester avec ça": Focus 1 sur la cible du travail 
+	2. "Suivez mes doigts": Focus 2 sur les mouvements alternatifs 
+	3. "Laissez venir ce qui vient": Invitation totalement permissive ~~ hypnose. 
+
+- Donc : mouvements = catalyseur des  dissociation-réassociation favorisées par l'hypnose.  
+
+### Logique centrale plurielle 
+
+- MAP = mouvement + hypnose ericksonnienne, thérapie stratégique, soluttionniste, narrative.
+
+### Efficience et sobriété 
