@@ -69,3 +69,104 @@
 - "J'aimerais avoir plus d'informations sur la façon dont les attaque de panique se manifestent, sir vos sensations et vos réactions. Pour cela, il faudrait que vous soyez attentif à la façon dont les choses se passent concrètement. Pour la prochaine fois, j'aimerais que vous ayez un petit carnet que vous garderez en permanence sur vous et qui vous permettra de décrire avec précision les caractéristiques de la crise. Vous tracerez des colonnes (montrer un modèle) pour **le jour, la date, l'heure, les personnes présentes, les réactions physiques, les réactions psychologiques.** Dès que vous ressentirez les premiers signes de panique, j'aimerais que vous sortiez immédiatement votre carnet et que vous remplissiez chacune des colonnes. Attention, je vous demande de le faire **dès les premiers signes**, pas avant ni après. Je veux une "photo" de la crise. Et vous devez le faire à chaque fois que vous ressentez les signes de panique, même si c'est dix fois par jour."
 
 #### Le "Roman du trauma" ou "Le récit des catastrophes" 
+
+- Inhibition cognitive : phénomène actif de focalisation de l'attention sur des éléments prioritaires.
+	- Ignorer les infos moins pertinentes. 
+- Expérience perturbant l'équilibre psychique : doit être prise en compte, traitée.
+	- Sous peine de réclamer l'attention de la personne de façon récurrente. 
+		- Tentative d'inhibition prématurée : vouée à l'échec.
+		- Les souvenirs réapparaissent à la moindre baisse de vigilance : fatigue, sommeil, moments de repos - quand l'esprit n'est plus occupé. 
+- Roman du trauma -> amène le patient à affronter ce qu'il évite (ici, souvenirs trauma).
+	- En l'écrivant, en détail, avec le plus d'émotion possible. 
+		- Forcé d'envisager tout le contexte où est survenu l'épisode
+			- Tenir compte de ses capacité à ce moments là.
+		- Affronter ce dont il est devenu l'esclave à force d'inhibition. 
+- "J'aimerais que vous décriviez cette expérience extrêmement douloureuse que vous avez vécue avec le plus de détails possible sur tout ce que vous avez ressenti. Je vous demande de ne jamais relire ce que vous avez écrit. Quand vous avez terminé le premier récit, vous mettez votre texte dans une enveloppe. Le lendemain vous recommencez le même récit, et il est possible que d'autres détails vous reviennent en mémoire. Et vous recommencez les jours suivants. Vous m'apporterez toutes les enveloppes la prochaine fois."
+
+- Affrontement du traumatisme -> réorganisation cognitive des souvenirs, envisagés non plus sous l'étiquette des émotions insupportables de l'époque mais à partir de la position actuelle. 
+
+- Introduction de la tâche par des recadrages:
+	- Pour sortir de la douleur, il faut la traverser 
+	- Pour qu'une plaie puisse bien guérir, il faut veiller à bien la drainer pour la désinfecter.
+
+- Extrêmement efficace pour les PTSD.
+	- CTS d'Arezzo : si le patient accepte la tâche et la met en œuvre: permet une disparition des symptômes entre la première et la deuxième séance.
+- Doit être présentée de façon bien argumentée et en anticipant toutes les résistances que l'affrontement peut soulever.
+- Si l'événement passé n'est pas un trauma mais une expérience très pénible (fin brutale d'un projet ex : licenciement abrupt non anticipé, autre types de situation douloureuses.) on peut utiliser une variante : *Récit des catastrophes* ou *Contemplation du désastre*
+
+#### Aller jusqu'au point où l'angoisse devient trop forte.
+
+- Utilisé lors des stratégies d'évitement systématique:
+	- Amener le patient à affronter progressivement ce qu'il évitait systématiquement.
+	- Ex, Agoraphobie:
+		- Demander au patient jusqu'où il se sent capable d'aller après avoir ouvert la porte de chez lui.
+			- 1 pied & encore en sécurité ?
+			- 2 pieds de hors en laissant la porte ouverte ?
+			- A reculons, en regardant l'intérieur de l'appartement ?
+	- Il découvre alors une "zone tampon" - limite floue qui permet alors d'effectuer un premier petit pas vers une approche plus directe du problème. 
+		- Répéter l'opération quotidiennement et dessiner une carte du territoire gagné au jour le jour. 
+
+- Evitement du monde.
+- Peurs d'objets ou d'animaux.
+- D'abord : affronter l'objet de la peur de manière virtuelle (internet, livre, à distance) 
+	- Puis : constater les progrès. 
+
+#### La "conspiration du silence" et la "chaire de vérité"
+
+- Tâches jumelées, fréquemment utilisées pour les problèmes d'évitement de soi accompagnés de délires et d'hallucinations. 
+- Patient délirant : besoin d'exprimer la souffrance, l'effroi ou les revendications que le délire véhicule. 
+	- Souvent : l'entourage cherche à le raisonner, de le convaincre que les voix n'existent pas ou que personne ne lui en veut. 
+		- Ce qui alimente les idées délirantes: le patient se sent incompris et va donc encore développer les idées délirantes pour convaincre ses proches. 
+			- Peut aller jusqu'à provoquer des crises aiguës/violentes 
+	- Sont réunis les membres de la famille concernés.
+		- Devant le patient, on leur donne la consigne, qui décrit la tâche de la conspiration du silence: 
+			- *"Votre fille (ex) a besoin de pouvoir vous expliquer en détail ce qu'elle ressent. Il faut donc que vous puissiez lui accorder un moment de complète attention. Je vous pour cela vous demander de vous réunir chaque soir dans le salon. Vous, les parents, vous vous installerez sur le canapé et, pendant une demi-heure, vous écouterez votre fille vous parler de tout ce qui la préoccupe. Vous l'écouterez en silence et vous ne répondrez pas. Lorsque la demi-heure sera terminée, chacun repartira vaquer à ses occupations".* 
+		- On expose alors à la jeune femme (ex) la tâche de la chaire de la vérité:
+			- *"Il est très important que vous puissiez exprimer complètement toutes vos idées et vos craintes. Chaque jour, vous aurez une demi-heure pour le faire. Vous pouvez préparer votre discours si vous le souhaiter car il important que vous puissiez leur dire tout ce que vous avez à dire."*
+		- On complète la tâche en disant:
+			- *Il est possible que votre fille souhaite vous parler en dehors la demi-heure mais, comme vous n'êtes pas suffisamment disponibles pour l'écouter, vous lui demanderez d'attendre l'heure prévue.* 
+	- De cette manière : éviter les messages contradictoires en coupant les échanges risqués.
+		- Pour le patient: 
+			- Permet de saturer le délire en l'encourageant.
+			- Obligation de parler dans un cadre défini, touche ordalique: il *doit* parler chaque jour, ce qui en fait une prescription de symptôme qui va a l'encontre des tentatives de solution de l'entourage. 
+		- Pour la famille:
+			- Soulagement en renvoyant le patient au temps imparti.
+		- Pour tous:
+			- Permet des échanges sur des sujets plus "normaux" de la vie quotidienne. 
+
+- Lorsque cette tâche commence à porter ses fruits (diminution des idées délirantes):
+	- Le Th. doit modifier les interactions entre les parents et le patient.
+		- Notamment: définition d'objectifs concrets pour l'enfant.
+
+#### La technique du pare-chocs 
+
+- Utilisée pour les évitements relationnels.
+	- Particulièrement pour les patients qui n'osent pas dire "non" ou craignent une réaction violente s'ils expriment leur position.
+
+	- Principe : précaution oratoire permettant de "dire sans vraiment dire".
+		- "Tu vas probablement me dire que je suis égoïste, que je te déçois..."
+		- "J'imagine que tu vas te mettre en colère, me faire la tête toute la semaine ..."
+		- -> "Mais je dois quand même te dire que ..."
+- Egalement utilisable dans les logiques de contrôles, notamment quand l'individu craint ses explosions de colères:
+	- "Vous me connaissez, je suis soupe au lait, donc je vous préviens que je vais probablement encore me fâcher aujourd'hui".
+		- Soulage le contrôle.
+
+#### Le check-up personnel
+
+- Pour l'hypocondrie construite sur une base d'évitement (essayer de chasser l'idée d'avoir une maladie).
+- Prescription:
+	- Check up complet 3x/jour.
+		- Examiner chaque partie de son corps afin d'y rechercher tous les indices de maladie ou de douleur et de les noter.
+- Similaire si crainte focalisée sur quelqu'un d'autre (bébé par exemple)
+
+- Peur provoquer un soulagement rapide mais il faut prendre le temps de consolider les améliorations pour éviter un retour des réactions habituelles en cas de forte émotion. 
+
+- Valable également pour l'hypochondrie basée sur du contrôle (le patient part à la recherche d'informations sur internet par exemple, pour vérifier ses craintes, comparer les différents symptômes etc.)
+	- Oblige le patient à faire des recherches 
+		- De manière ritualisée et cadrée -> effet paradoxale. 
+- Permet de déconstruire des croyances dans les cas de pathophobie.
+	- Patients convaincus qu'ils souffrent d'une maladie grave mais luttent néanmoins contre cette "fatalité"
+	- Tâche -> forcé de partir vraiment à la recherche de tous les signes et de les regarder en face. 
+
+#### Le "Comme si"
+

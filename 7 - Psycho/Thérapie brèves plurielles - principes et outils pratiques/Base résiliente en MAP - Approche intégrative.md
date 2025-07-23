@@ -155,3 +155,5 @@
 - MAP = mouvement + hypnose ericksonnienne, thérapie stratégique, soluttionniste, narrative.
 
 ### Efficience et sobriété 
+
+
