@@ -31,7 +31,7 @@
 
 - Tâche des troubles anxieux par excellence. 
 - Imaginer les situations qu'il redoute le plus. 
-	- "Je vais vous demander quelque chose de très difficile: chaque jour, idéalement à la même heure, vous vous installer confortablement dans un endroit tranquille. Vous prendrez un réveil que vous ferez sonner une demi-heure plus tard. Pendant cette demi-heure, vous imaginerez ce que vous craignez ou redoutez le plus. Ce sera une demi-heure de torture parce que j'aimerais que vous ressentiez vraiment la peur que toutes ces pensées évoquent chez vous. Après la demi-heure, vous pouvez passer à la salle de bains, vous rafraîchir le visage et reprendre le cours normal de votre vie. Mais pendant cette demi-heure du pire, vous ne focaliserez votre esprit que sur ce qui vous effraie le plus".
+	- *"Je vais vous demander quelque chose de très difficile: chaque jour, idéalement à la même heure, vous vous installer confortablement dans un endroit tranquille. Vous prendrez un réveil que vous ferez sonner une demi-heure plus tard. Pendant cette demi-heure, vous imaginerez ce que vous craignez ou redoutez le plus. Ce sera une demi-heure de torture parce que j'aimerais que vous ressentiez vraiment la peur que toutes ces pensées évoquent chez vous. Après la demi-heure, vous pouvez passer à la salle de bains, vous rafraîchir le visage et reprendre le cours normal de votre vie. Mais pendant cette demi-heure du pire, vous ne focaliserez votre esprit que sur ce qui vous effraie le plus"*.
 		- Souvent: les patients n'arrivent pas à déclencher leur peur, ou uniquement en partie: la peur n'atteint jamais l'intensité qu'ils redoutent. Certains s'endorment même pendant la demi-heure prescrite. 
 - Utilité: 
 	- Mettre en évidence ce qui a été annoncé par les recadrages, à savoir que l'affrontement de la peur rend plus courageux. 
@@ -66,7 +66,7 @@
 			- Elle découvre qu'elle est alors capable d'avoir un impact sur le phénomène. 
 	- Souvent associée à la demi-heure du pire.
 
-- "J'aimerais avoir plus d'informations sur la façon dont les attaque de panique se manifestent, sir vos sensations et vos réactions. Pour cela, il faudrait que vous soyez attentif à la façon dont les choses se passent concrètement. Pour la prochaine fois, j'aimerais que vous ayez un petit carnet que vous garderez en permanence sur vous et qui vous permettra de décrire avec précision les caractéristiques de la crise. Vous tracerez des colonnes (montrer un modèle) pour **le jour, la date, l'heure, les personnes présentes, les réactions physiques, les réactions psychologiques.** Dès que vous ressentirez les premiers signes de panique, j'aimerais que vous sortiez immédiatement votre carnet et que vous remplissiez chacune des colonnes. Attention, je vous demande de le faire **dès les premiers signes**, pas avant ni après. Je veux une "photo" de la crise. Et vous devez le faire à chaque fois que vous ressentez les signes de panique, même si c'est dix fois par jour."
+- *"J'aimerais avoir plus d'informations sur la façon dont les attaque de panique se manifestent, sir vos sensations et vos réactions. Pour cela, il faudrait que vous soyez attentif à la façon dont les choses se passent concrètement. Pour la prochaine fois, j'aimerais que vous ayez un petit carnet que vous garderez en permanence sur vous et qui vous permettra de décrire avec précision les caractéristiques de la crise. Vous tracerez des colonnes (montrer un modèle) pour **le jour, la date, l'heure, les personnes présentes, les réactions physiques, les réactions psychologiques.** Dès que vous ressentirez les premiers signes de panique, j'aimerais que vous sortiez immédiatement votre carnet et que vous remplissiez chacune des colonnes. Attention, je vous demande de le faire **dès les premiers signes**, pas avant ni après. Je veux une "photo" de la crise. Et vous devez le faire à chaque fois que vous ressentez les signes de panique, même si c'est dix fois par jour."*
 
 #### Le "Roman du trauma" ou "Le récit des catastrophes" 
 
@@ -81,7 +81,7 @@
 		- Forcé d'envisager tout le contexte où est survenu l'épisode
 			- Tenir compte de ses capacité à ce moments là.
 		- Affronter ce dont il est devenu l'esclave à force d'inhibition. 
-- "J'aimerais que vous décriviez cette expérience extrêmement douloureuse que vous avez vécue avec le plus de détails possible sur tout ce que vous avez ressenti. Je vous demande de ne jamais relire ce que vous avez écrit. Quand vous avez terminé le premier récit, vous mettez votre texte dans une enveloppe. Le lendemain vous recommencez le même récit, et il est possible que d'autres détails vous reviennent en mémoire. Et vous recommencez les jours suivants. Vous m'apporterez toutes les enveloppes la prochaine fois."
+- *"J'aimerais que vous décriviez cette expérience extrêmement douloureuse que vous avez vécue avec le plus de détails possible sur tout ce que vous avez ressenti. Je vous demande de ne jamais relire ce que vous avez écrit. Quand vous avez terminé le premier récit, vous mettez votre texte dans une enveloppe. Le lendemain vous recommencez le même récit, et il est possible que d'autres détails vous reviennent en mémoire. Et vous recommencez les jours suivants. Vous m'apporterez toutes les enveloppes la prochaine fois."*
 
 - Affrontement du traumatisme -> réorganisation cognitive des souvenirs, envisagés non plus sous l'étiquette des émotions insupportables de l'époque mais à partir de la position actuelle. 
 
@@ -146,7 +146,7 @@
 	- Principe : précaution oratoire permettant de "dire sans vraiment dire".
 		- "Tu vas probablement me dire que je suis égoïste, que je te déçois..."
 		- "J'imagine que tu vas te mettre en colère, me faire la tête toute la semaine ..."
-		- -> "Mais je dois quand même te dire que ..."
+		- -> **"Mais je dois quand même te dire que ..."**
 - Egalement utilisable dans les logiques de contrôles, notamment quand l'individu craint ses explosions de colères:
 	- "Vous me connaissez, je suis soupe au lait, donc je vous préviens que je vais probablement encore me fâcher aujourd'hui".
 		- Soulage le contrôle.
