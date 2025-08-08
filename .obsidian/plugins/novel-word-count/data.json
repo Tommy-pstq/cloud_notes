@@ -21855,6 +21855,56 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Intérêt et spécificités d'une classification basée sur les processus interpersonnels.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 346,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1533333333333333,
+      "characterCount": 2591,
+      "nonWhitespaceCharacterCount": 2139,
+      "readingTimeInMinutes": 1.3056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754661215814,
+      "modifiedDate": 1754669311056,
+      "sizeInBytes": 2668,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur l'évitement/Evitement des autres.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 371,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2366666666666666,
+      "characterCount": 2550,
+      "nonWhitespaceCharacterCount": 2085,
+      "readingTimeInMinutes": 1.4,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754669451547,
+      "modifiedDate": 1754670971259,
+      "sizeInBytes": 2614,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
