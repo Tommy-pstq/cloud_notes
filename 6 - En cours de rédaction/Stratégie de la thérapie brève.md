@@ -138,7 +138,7 @@ On pourrait sous-titrer : Eloge de l'utilisation.
 	- L'attention du patient est dirigée sur un élément : sensation, perception fantasme. LEs changements se produisant sont ratifiés : "Alors que vous m'écoutiez, votre pouls à changer, votre tête est dans une position différente", "vous manifestez les changements désirables"
 - Attribution 
 	- Association d'une signification à une ratification : "Vous hochez la tête différemment à présent car c'est votre façon non consciente d'être d'accord" -> "votre esprit non conscient coopère avec moi"
-- Prescription du symptôme
+- [[Prescription du symptôme]]
 	- Encouragement subtile du comportement symptomatique et du modèle dans la direction désirée. Ex: Utilisation du pianotemment des doigts pour calibrer l'entrée en transe hypnotique
 - Incorporation
 	- Ajout d'éléments disparates de la situation réelle dans le schéma d'induction. : "Vous pouvez ouvrir constructivement de nouvelles portes à la capacité de votre esprit profond de vous guider", après qu'une porte de soit soudainement ouverte lors de l'induction.

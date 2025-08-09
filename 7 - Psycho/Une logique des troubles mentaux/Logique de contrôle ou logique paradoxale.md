@@ -5,7 +5,7 @@
 	- Pour juguler une sensation ou une pensée effrayante, le patient veut exercer une action volontaire sur un phénomène avec lequel il ne peut composer QUE par l'expérience : le futur, les réactions spontanées, les sensations, le désir, les émotions, les réactions des autres.
 
 - Contrôle inefficient entraine:
-	- Ruminations 
+	- [[Ruminations]] 
 	- Pensées obsédantes 
 	- Stress
 	- Frustration

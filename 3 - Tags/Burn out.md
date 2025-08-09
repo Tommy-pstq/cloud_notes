@@ -1,0 +1,5 @@
+---
+aliases:
+  - burn-out
+  - burnout
+---

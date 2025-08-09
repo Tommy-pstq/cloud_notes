@@ -81,7 +81,7 @@ Quand consulter ?
 - Diminution de l’espérance de vie (maladies cardiovasculaires, troubles [[cognition|cognitifs]], métaboliques).
 - Pour les personnes dont le travail impact la régularité du sommeil :
 	- Quasiment proscrit pour les chronotypes matinaux, à ne pas considérer comme possibilité à long terme. 
-	- <u>Syndrome de désadaptation chronobiologique au travail posté</u> (similaire au burn-out).
+	- <u>Syndrome de désadaptation chronobiologique au travail posté</u> (similaire au [[Burn out|burn-out]]).
 		- Ex: pompier (de Paris) avec garde 24h:
 			* + blessures en sport 
 			* + erreurs taff (les autres le voyaient pas car chef)

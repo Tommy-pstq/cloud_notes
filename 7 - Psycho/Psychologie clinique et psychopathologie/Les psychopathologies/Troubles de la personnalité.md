@@ -356,7 +356,7 @@ TTT
 - TTT assez similaire que pour les individu présentant des [[phobie|phobies]] sociales. 
 - Ouvrage : <u>S'affirmer et communiquer</u>, Madeleine Beaudry & Jean Michel Boisvert
 
-### Personnalité dépendante 
+### [[Personnalité dépendante]] 
 
 - Personne comptant constamment sur les autres pour prendre des décisions, mêmes banales. 
 	- Des décisions pro aux tenues vestimentaires

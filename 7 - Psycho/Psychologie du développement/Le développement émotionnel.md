@@ -113,7 +113,7 @@
 			- Engagement dans des efforts volontaires pour analyser et modifier les situation émotionnelles 
 			- Polyrégulation
 		- Sophistication du répertoire de stratégies de régulation émotionnelles 
-		- Mobilisation plus fréquente que chez les enfants ou adultes de stratégies considérées comme non adaptatives (ex: Ruminations.)
+		- Mobilisation plus fréquente que chez les enfants ou adultes de stratégies considérées comme non adaptatives (ex: [[Ruminations]].)
 
 - Déclin temporaire des capacité de régulation émotionnelle durant l'adolescence ? 
 	- Utilisation de stratégies maladaptatives plus fréquente.

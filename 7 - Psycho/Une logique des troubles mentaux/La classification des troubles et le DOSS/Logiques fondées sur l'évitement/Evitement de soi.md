@@ -1,0 +1,5 @@
+- Conséquences souvent spectaculaires.
+- Fuir une pensée effrayant ou honteuse, souvenirs qui évoque une sensation trop pénible, sensation douloureuse ou effrayante, un désir ou une attirance que l'on trouve inacceptable, refuser de voir l'évidence (une trahison, grossesse):
+	- Ne peut se faire qu'au prix d'une coupure d'une partie de soi. 
+		- Décalage entre représentation consciente de la réalité et expérience perceptive globale. 
+			- Ses symptômes peuvent sembler *incompréhensibles* au patient parce qu'il ne peut y voir de lien avec ce qu'il évite.

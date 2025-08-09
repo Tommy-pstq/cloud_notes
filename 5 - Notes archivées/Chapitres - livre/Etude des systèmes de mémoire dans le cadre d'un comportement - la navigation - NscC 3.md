@@ -17,7 +17,7 @@ Tags:
 		- Chercher la solution à un problème par soi-même
 		- Conduire plutôt que d'être passager pour se rappeler d'un itinéraire 
 	- [[inhibition]] : En inhibant un comportement inadapté ou des pensées parasites, on favorise l'[[attention]].
-		- Stopper les rêvasseries/ruminations 
+		- Stopper les rêvasseries/[[ruminations]] 
 		- Se retenir de bavarder 
 		- Eviter de tourner au premier feu
 	- retour d'information

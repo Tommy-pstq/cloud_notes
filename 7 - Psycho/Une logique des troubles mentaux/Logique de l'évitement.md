@@ -36,7 +36,7 @@
 ### L'évitement des autres 
 
 - Eviter le jugement/regard des autres lorsqu'on le craint.
-	- Si rigidifié et répété à outrance -> rumination dans un isolement total
+	- Si rigidifié et répété à outrance -> [[ruminations|rumination]] dans un isolement total
 
 - Evitement relationnel = éviter la confrontation 
 	- Entraine une polarisation des rôles dans la relation 

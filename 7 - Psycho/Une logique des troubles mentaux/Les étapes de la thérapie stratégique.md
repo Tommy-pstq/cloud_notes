@@ -135,7 +135,7 @@
 	- Impliquant un investissement affectif 
 - Frontière entre les tâches et le recadrage parfois très fine:
 	- Ex: Une femme s'est faite opérer des seins et veut à présent refaire de la chirurgie pour sa lèvre supérieure. 
-		- Pour traiter ce genre de dysmorphophobie, le TH. peut proposer la tâche suivante: "Je vous demande de faire, chaque jour, un examen complet de votre physique: vous allez vous munir d'un carnet et vous observer dans le miroir. Vous allez noter, à chaque fois, tous les défauts que vous remarquez et envisager les différentes parties de votre corps que vous *allez changer après avoir modifié vos lèvres*"
+		- Pour traiter ce genre de [[dysmorphophobie]], le TH. peut proposer la tâche suivante: "Je vous demande de faire, chaque jour, un examen complet de votre physique: vous allez vous munir d'un carnet et vous observer dans le miroir. Vous allez noter, à chaque fois, tous les défauts que vous remarquez et envisager les différentes parties de votre corps que vous *allez changer après avoir modifié vos lèvres*"
 			- Implicite fortement émotionnel: l'énoncé montre qu'il s'agit d'un processus sans fin. Peut suffire sans même être réalisé.
 
 - Tâches, souvent proposées en fin de séances, à faire avant la prochaine.
@@ -147,7 +147,7 @@
 	- Permet d'écourter la durée du traitement. 
 - Souvent, prescription de <u>plusieurs tâches.</u>
 	- Tâches principale: bloque la logique dominante.
-	- Tâches secondaires: contre les processus secondaires: ruminations, expression sociale du problème, tentatives de solution de l'entourage.
+	- Tâches secondaires: contre les processus secondaires: [[ruminations]], expression sociale du problème, tentatives de solution de l'entourage.
 	- Ex:
 		- Dans le cas d'une dépression, à la fin du premier entretien, th. : "Vous savez qu'on 'voit l'avenir avec les yeux du présent' et qu'il est donc important de ne pas se projeter dans l'avenir tant qu'on a plus aucun goût pour la vie. Il est donc trop tôt pour envisager ce que sera votre vie future. Nous allons prendre les choses au jour le jour. Chaque matin, je voudrais que vous preniez un moment pour réfléchir à ceci : Si je me sentais bien aujourd'hui, qu'est-ce que je pourrais faire pour me sentir bien ? Vous noterez 3 petites activités concrètes que vous pourriez faire pendant la journée. Attention, surtout ne vous forcez pas à les mettre en application, je vous demande juste de les noter."
 		- Si le patient à tendance à partager sa douleur avec son entourage, le thérapeute peut ajouter: "Vous avez pu constater que, plus vous parlez de vos difficultés à vos proches, plus vous vous sentez mal. Aussi, je vous demande d'éviter d'en parler jusqu'au prochain  RdV. Si vos proches vous demandent comment vous allez, je vous recommande de leur dire que vous préférez ne pas trop parler de vos difficultés pour le moment."
@@ -207,7 +207,7 @@
 			- Objectifs:
 				- Bloquer la tentative de contrôle lors du premier rapport, à le banaliser.
 				- Eviter les lamentations, ruminations, gêne qui s'installe souvent entre les partenaires après un acte sexuel peu satisfaisant.
-			- En prescrivant le problème dont il le se plaint (*prescription du symptôme*).
+			- En prescrivant le problème dont il le se plaint (*[[prescription du symptôme]]*).
 
 ### Elaboration des prescriptions
 

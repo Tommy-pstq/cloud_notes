@@ -65,7 +65,7 @@
 #### Première dissociation : le cognitif gère l'affect. 
 
 - Lecture négative de l'intentionnalité de l'autre
-	- -> Question/Ruminations en pagaille. 
+	- -> Question/[[Ruminations]] en pagaille. 
 
 - Ressentis pénibles, perçu comme envahissants (comme les symptômes corporels)
 	- Mise en place de solutions d'apparence logique. 

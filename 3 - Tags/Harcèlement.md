@@ -1,0 +1,6 @@
+---
+aliases:
+  - harcelements
+  - harcèlements
+  - harcelement
+---

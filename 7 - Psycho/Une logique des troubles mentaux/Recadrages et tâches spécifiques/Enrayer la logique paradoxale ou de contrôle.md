@@ -10,7 +10,7 @@
 
 - En plus de l'abandon du contrôle de soi, certaines tâches ou recadrages spécifiques à la logique paradoxale visent à:
 	- Faire lâcher le contrôle des émotions 
-	- Interrompre les ruminations 
+	- Interrompre les [[ruminations]] 
 	- Abandonner le contrôle sur les réactions d'autrui
 
 ## Les recadrages 
@@ -72,9 +72,9 @@
 	- Tâche très simple: apprendre au patient qu'il peut gagner un certain contrôle sur des pensées récurrentes et parasites. 
 
 - D'abord: 
-	- Vérifier que les ruminations sont vaines, inutiles, pénibles, douloureuses même et qu'il n'est pas condamné à les subir. 
+	- Vérifier que les [[ruminations]] sont vaines, inutiles, pénibles, douloureuses même et qu'il n'est pas condamné à les subir. 
 - Ensuite:
-	- Conduire l'attention du patient sur le début des ruminations ou du questionnement incessant.
+	- Conduire l'attention du patient sur le début des [[ruminations]] ou du questionnement incessant.
 - Puis: 
 	- Lui proposer de changer délibérément de sujet, de faire n'importe quoi qui accapare son attention:
 		- "*Vous pouvez choisir d'aggraver votre problème en y pensant, mais vous pouvez choisir d'y mettre un terme en changeant de sujet*"

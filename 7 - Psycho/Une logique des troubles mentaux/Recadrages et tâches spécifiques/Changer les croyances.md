@@ -71,7 +71,7 @@
 
 - Similaire au journal du parano : recherche de tous les signes qu'ils sont jugés, critiqués etc. 
 - Remet la personne en action 
-	- La libère des ruminations 
+	- La libère des [[ruminations]] 
 - Focalise l'attention sur l'extérieur
 	- Stop les rétroaction positives de type pensées-> peur++ -> pensées ++ neg 
 - Mise à l'épreuve de la croyance 

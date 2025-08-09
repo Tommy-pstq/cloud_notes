@@ -108,7 +108,7 @@
 
 - Prise d'engagement devant des personnes = le plus efficace pour adopter de nouveaux comportements. 
 	- -> Normes groupales = levier puissant pour diffuser de nouvelles normes -> modification des comportements. 
-- Harcèlement scolaire : est principalement dû à l'ambiance générale de l'établissement plutôt qu'aux effets individuels. 
+- [[Harcèlement]] scolaire : est principalement dû à l'ambiance générale de l'établissement plutôt qu'aux effets individuels. 
 	- Utilisation de "seed group" (+/- 15% population) 
 		- 30% de baisse des événements disciplaires.
 			- jusqu'à 60% dans les cas ou le seed group était constitué d'individus populaires (au moins 20%)

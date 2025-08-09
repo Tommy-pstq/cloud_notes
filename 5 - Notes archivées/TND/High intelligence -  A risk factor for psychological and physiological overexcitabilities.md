@@ -36,7 +36,7 @@ Dabrowski, 1964-76 : "neurotically allergic or nervous" en pop HQI.
 
 Recherche récentes (1-3): réponses [[émotion|émotionnelles]] intenses -> rumination, associé à des [[capacités cognitives]] supérieures. 
 
-Ruminations = prédicteurs de troubles dépressifs & [[anxiété|anxieux]], notemment de l'arrivé de nouveaux épisodes. 
+[[Ruminations]] = prédicteurs de troubles dépressifs & [[anxiété|anxieux]], notemment de l'arrivé de nouveaux épisodes. 
 	-> Style [[cognition|cognitif]] ruminatif = vulnérabilité à la [[dépression]] majeur & contribue à la sévérité des symptomes
 
 Individus "s'inquiétant" plus souvent = meilleures perfs aux test de QI

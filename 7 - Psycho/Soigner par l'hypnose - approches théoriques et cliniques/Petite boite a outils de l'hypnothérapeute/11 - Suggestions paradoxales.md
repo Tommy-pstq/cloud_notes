@@ -11,7 +11,7 @@
 				- Ex: Secouer la tête et afficher une moue dubitative en disant "Oui, faites ça, c'est une très bonne idée"
 - Plusieurs variantes en hypnothérapie 
 	- [[prescription paradoxale]] : prescription d'un comportement pour provoquer le comportement inverse (compte tenu des mécanismes défensifs et de la "cuirasse logique" de certains patients)
-		- **Prescription du symptôme** : "J'aimerais que pendant quelques minutes vous augmentiez votre mal de tête"
+		- **[[Prescription du symptôme]]** : "J'aimerais que pendant quelques minutes vous augmentiez votre mal de tête"
 		- **Connotation positive** d'un comportement aberrant : "Vous avez surement d'excellentes raisons d'être sujet à des paniques"
 		- **Suggestion négative paradoxale** : "La prochaine fois que votre mari vous prendra dans ses bras, ne pensez surtout pas au prochain dégel de votre frigo"
 	- L'[[alternative illusoire]], forme de double contrainte:
