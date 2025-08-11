@@ -207,6 +207,6 @@
 - Lettre de colère : faire baisser l'intensité de l'émotion.
 	- On précise que les lettres ne seront pas envoyées.
 		- Bloquer tout autocensure.
-	- "Chaque fois que vous penserez à X et ressentirez de la colère: écrivez tout ce qui vous passe par la tête et par le coeur. Allez-y à fond, sans aucune censure, sans effet de style, juste l'expression brute de vos émotions"
+	- "Chaque fois que vous penserez à X et ressentirez de la colère: écrivez tout ce qui vous passe par la tête et par le cœur. Allez-y à fond, sans aucune censure, sans effet de style, juste l'expression brute de vos émotions"
 
 - Les lettres seront amenées au th dans des enveloppes et ne seront jamais relues. 
