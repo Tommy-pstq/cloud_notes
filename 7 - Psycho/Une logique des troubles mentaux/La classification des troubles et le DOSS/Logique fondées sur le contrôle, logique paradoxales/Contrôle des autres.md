@@ -112,7 +112,7 @@
 			- Montrer au proches que tout message verbal comporte deux aspects : **informatif et injonctif**. 
 				- Amener les parents à réaliser qu'il est "normal" de vouloir faire cesser des conduites irrationnelles (le "contenu" du message est donc adéquat).
 					- Tout en leur demandant d'évaluer si le moyen qu'ils utilisent - à savoir l'interdiction - est efficace : est-ce que le message porte bien les fruits espérés ? (aspect injonctif).
-						- Dans le cas ou l'autre n'obéit par à la demande, il faut avoir la sagesse d'y renoncer si on ne veut pas aggraver les choses.
+						- Dans le cas ou l'autre n'obéit pas à la demande, il faut avoir la sagesse d'y renoncer si on ne veut pas aggraver les choses.
 						- Dans le cas de parents qui essaient en vain de corriger le comportement de leur enfant rebelle : "*Interdire sans résultat revient à accepter une perte totale de l'autorité à terme.*" 
 				- Ne pas oublier qu'il faut modifier ce comportement correcteur pour **le remplacer par un comportement incitatif efficace**.
 					- Ex: prescrire le comportement concerné.
@@ -213,3 +213,154 @@
 - <u>Tâches</u>:
 	- *Accepter la réalité de l'autre*, pour arrêter l'escalade symétrique 
 	- *Conspiration du silence* & *Chaire de vérité*, pour couper toute tentative de contre-argumentation.
+
+#### Culpabiliser, faire honte 
+
+- Tentative de solution très répandues dans nos société:
+	- Induire un sentiment de culpabilité chez l'autre.
+		- Moyen de contrôle très puissant.
+		- Intervention normative : s'appuie sur des raisons morales/légales 
+			- Mais si quelqu'un transgresse cette règle : il y trouve un intérêt ou tu plaisir. 
+
+- Culpabilisation de l'auteur d'une conduite transgressive : peut paraître efficace dans un premier temps. 
+	- Vise à faire renoncer au plaisir.
+		- Donc lutter contre son désir, essayer de le contrôler : on connait le résultat.
+- Conséquences préjudiciables pour la personne qui se sent coupable 
+	- Entre en lutte avec elle même 
+- Mais aussi pour la relation entre et la personne qui la culpabilise:
+	- Dissimulation, désir de vengeance suite à la frustration. 
+
+- <u>Troubles, signes cliniques</u>: 
+	- Nombreux pb de couple ou relation parent/enfants notamment via violence intrafamiliale 
+	- Conso de substances 
+	- Tous les troubles entrainant des conduites "socialement inacceptable" (aux yeux de l'une ou l'autre des personnes concernées)
+	- Alimentation (obésité, régime)
+	- Sexualité (masturbation, exhibitionnisme)
+- **Recadrages**
+	- La personne coupable est censée reconnaître sa faute (objectivée par la référence à la règle) et s'amender.
+		- Si les transgressions se poursuivent : évaluer la tentative de solution de façon réaliste -> signaler les effets potentiellement pervers. 
+			- Incite l'accusateur à chercher une sanction qui mette un terme au préjudice plutôt que de poursuivre une torture qui aggrave le mal-être et la colère de l'autre. 
+- **Tâches**
+	- Transformer les reproches en demandes claires 
+	- Imaginer des sanctions réparatrices
+
+#### Contrôler par l'agressivité et la violence 
+
+- Selon les auteurs : agressivité et violence = tentatives de solution pour mettre un terme à un problème. 
+	- A quel type de situation la violence est-elle une tentative de solution ? 
+		- Pour se protéger de quoi ce sujet se montre-t-il agressif ? 
+		- Pour mettre un terme à quoi ?
+	- **Identifier la fonction que remplit l'acte violent = clé de la véritable solution** 
+
+- Dans les situation de violence dans une complémentarité pathologique
+	- Nécessaire d'introduire un élément de symétrie. 
+- Si issue d'une escalade symétrique:
+	- Introduire des éléments de complémentarité. 
+
+- <u>Troubles, signes cliniques</u>:
+	- Explosions de violence
+	- Maltraitance
+	- Abus
+	- Harcèlement
+	- Violences : conjugales/familiale 
+	- Automutilation
+- <u>Techniques utilisées</u>
+	- **Recadrages**
+		- Interventions en lien avec le cadre légal qui définit les conduites proscrites.
+		- Vision interactionnelle des situations de violence 
+			- Eviter au maximum un processus de victimisation 
+			- Eviter processus de stigmatisation de l'auteur des faits 
+				- Diag de "pervers narcissique" -> prophéties autoréalisatrices. 
+	- **Tâches**
+		- Au niveau individuel (pour le porteur de symptôme): voir les prescriptions pour le contrôle de la colère. 
+		- Au niveau relationnel: 
+			- Peut être intéressant de travailler avec la victime si celle-ci le souhaite.
+				- L'amener à repérer le type d'interaction susceptible de déclencher la réaction violente. 
+					- Evaluer les tentatives de solutions misent en œuvre lorsque l'escalade relationnelle s'amorce. 
+						- Demande à l'autre de se calmer ?
+						- Mise en garde ?
+						- Tentative de fuite ?
+					- Après l'explosion de violence :
+						- Culpabilisation ?
+						- Tentative de compréhension ?
+						- Pardon ?
+			- Objectif: trouver des réactions permettant un arrêt de l'escalade.
+				- i.e : bloquer les tentatives de solutions habituelles. 
+			- Permet à la victime de mobiliser ses propres ressources -> processus de changement -> sortir de la position de victime impuissante. 
+				- Certaines dispositions légales prévues pour la protection des victimes peuvent inciter la victime à rester dans cette position. 
+
+#### Envoyer des messages contradictoires 
+
+- Messages contradictoires, de 2 types:
+	- Simultanés (paradoxaux)
+		- Ex: "Vas-y" et implicite pour l'autre : "Dans le fond, je sais que tu en es incapable".
+		- Caractéristiques des situations de double contraintes
+			- Pouvant induire des réactions psychotiques:
+				- Hallucinations, délires, dépersonnalisation etc.
+	- Consécutifs
+		- Interdiction, suivie dès les premiers signes de tristesse/colère d'une autorisation.
+			- Souvent: parent/enfant.
+
+- <u>Troubles, signes cliniques</u>:
+	- Schizophrénie et autre troubles associés 
+	- Conduites violentes 
+	- Dépression sévères (messages simultanés)
+	- Conduites d'opposition (transgression, refus d'obéissance) (messages consécutifs).
+- <u>Techniques utilisées</u>
+	- **Recadrages**:
+		- Situations de doubles contraintes : difficultés pour le thérapeute. 
+			- Souvent face à des parents qui envoient le même type de message qu'à leur enfant. 
+				- Enfant envoyé la plupart du temps en HP à cause de comportements dangereux (pour lui ou les autres)
+			- Parents venant consulter : n'arriver par à gérer le comportement de leur enfant lorsque, revenu chez eux, il tente de s'autonomiser. 
+				- Cherchent à contribuer à le responsabiliser, gérer les questions administratives, payer ses factures, "faire qqch de sa vie".
+					- Mais son intimement persuadés que leur progéniture n'en est pas capable.
+						- Messages contradictoires : surveillent de près, le sauvant "in extremis" lorsqu'il risque de se mettre en tort.
+				- **Th**. : Fait remarquer qu'il serait sans doute nécessaire de permettre à leur fils ou fille (parfois un adulte de 40 ans+) d'être confronté aux conséquences de ses actes.
+					- Parents culpabilisent alors le thérapeute pour son irresponsabilité et son manque de compassion.
+		- Jay Haley : **la grande difficulté de ce genre de situation, c'est d'amener les parents à définir un objectif et à s'y tenir.** 
+			- L'engagement qu'implique la détermination d'un objectif soulève souvent beaucoup d'anxiété chez le ou les parents: tendance à l'annuler aussitôt formulé. 
+		- Th:
+			- Faire preuve de fermeté voire user d'autorité.
+				- Doit être sûr de l'efficacité du dispositif thérapeutique qu'il recommande. 
+			- Passer une sorte de contrat thérapeutique dès le début de la prise en charge (n'exclut pas un rappel ferme au cours de premières séances):
+				- Il est prêt à aider les parents dans la mesure où ceux-ci suivront ses consignes à la lettre et qu'il ne transigera pas. 
+			- L'essentiel: se joue au niveau relationnel. 
+				- Rassurer les parents: posture ferme et déterminée, clarté des consignes. 
+				- Prescrire les tâches de façons autoritaires:
+					- Pour qu'elle ne soient ni discutées ni remises en questions.
+		- Tous les recadrages:
+			- Visent à mettre en œuvre les bons moyens éducatifs : "Pour que leur enfant apprenne les règles de la vie en société".
+				- Même si cela implique la prise de certaines risques.
+		- TH. attentif à stopper les messages contradictoires :
+			- Limitant, voire empêchant, les moments de discussion entre les parents et le patient à propos des difficultés de celui-ci. 
+	- **Tâches**:
+		- *Conspiration du silence* & *Chaire de vérité* 
+			- Couper la communication très dysfonctionnelle.
+		- Si les parents s'impliquent dans le travail thérapeutique:
+			- Nécessaire de les voir. Ensemble ou séparément (suivant leur implication auprès du porteur de symptôme).
+				- Pour leur permettre de dépasser les difficultés personnelles qui les conduisent à ces messages contradictoires. 
+
+#### Vouloir convaincre l'autre 
+
+- Peut conduire à des escalades symétriques 
+	- Donc agressivité / violence 
+- Ou à un déséquilibre complémentaire extrême (femmes/enfants battus)
+	- Victime d'une relation complémentaire rigide peut vouloir convaincre l'autre de sa bonne foi, allant jusqu'à le supplier, ce qui conduit souvent à une exacerbation de la position du bourreau
+
+- <u>Troubles, signes cliniques</u>
+	- Pb couple
+	- Violence conjugale 
+	- Harcèlement
+	- Burn out 
+	- Personnalité dépendante 
+- <u>Techniques utilisées</u>
+	- **Recadrages**
+		- Proposer plutôt qu'imposer 
+		- Accepter le point de vue de l'autre pour mieux contrôler la relation 
+			- "Si tu veux contrôler ton cheval ou ta vache, offre lui une immense pâture"
+	- **Tâches**
+		- *Communication alternée*
+			- Forme cadrée d'échange concernant leur difficultés.
+				- Jour 1: A parle, B se tait
+				- Jour 2: inverse.
+			- "Dire ce qu'on a à dire et puis se taire"
