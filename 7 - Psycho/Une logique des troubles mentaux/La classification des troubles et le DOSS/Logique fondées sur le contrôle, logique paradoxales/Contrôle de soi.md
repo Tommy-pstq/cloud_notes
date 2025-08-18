@@ -1,0 +1,188 @@
+
+### Vouloir contrôler son comportement ou sa façon de s'exprimer 
+
+- Vouloir se contrôler -  problématique fréquente chez:
+	- Les perfectionnistes
+	- Idéalistes
+	- Grands timides 
+- Cherchent à éviter toute erreur/faire mauvaise impression/susciter un quelconque jugement négatif.
+	- Position du mille pattes essayant de réfléchir à la façon dont il bouge ses pattes individuellement et dans quel ordre.
+		- Ces personnes deviennent gauches, fragiles, crispées, exposant davantage le mal-être qu'elles s'efforcent de dissimuler -> s'attirent les réactions redoutées. 
+- Expérience de situations pénibles à répétitions ->
+	- Epuisement
+	- Nervosité
+	- Préoccupations 
+- Refuge dans des activités leur permettant d'échapper à leur torture mentale:
+	- Routines distrayantes -> envahissantes (jeux-vidéos, internet)
+	- Evitement de la société 
+
+- <u>Troubles, signes cliniques</u>:
+	- Dépression
+	- Burn out
+	- Perfectionnisme 
+	- Troubles obsessionnels 
+	- Syndrome de l'imposteur
+	- Problèmes de couple 
+- <u>Techniques utilisées</u>:
+	- **Recadrages**
+		- Pour leur faire sentir le blocage entrainé par leur désir de tout maîtriser avant de se lancer dans l'action:
+			- Histoire du mille pattes ou celle du bourdon (qui ne devrait pas pouvoir voler d'après certains calculs)
+		- Pour relativiser la peur de commettre la moindre erreur, vivre le plus petit échec:
+			- Thomas Edison : "Je n'ai pas échouer 10000 fois, j'ai trouvé 10000 solutions qui ne fonctionnent pas".
+	- **Tâches**
+		- Enjeu = <u>couper les tergiversations du patient en le plongeant dans l'action</u>.
+		- Lui demander de préparer une petite erreur 
+		- Laisser paraître une petite faille 
+		- Puis:
+			- L'amener à découvrir ce qui lui procure du plaisir 
+				- <u>Se laisser guider par l'envie plutôt que le devoir</u>. 
+
+
+### Contrôler son corps par la pensée 
+
+- Emotions (peur notamment) -> réactions physiologiques préconscientes. 
+	- Préconscientes = hors de contrôle volontaire.
+	- Tentative de les maîtriser -> effet paradoxal.
+		- En focalisant l'attention sur ces manifestations, elle peuvent s'emballer et déclencher une attaque de panique. 
+
+- Chercher à contrôler sa faim, son rougissement, les bruits de son corps, transpiration, érection, orgasme, sommeil, autres sensation corporelles.
+	- Entrainent les mêmes effets paradoxaux.
+	- Majorité des pb sexuels liés à cela 
+		- Egalement évitement / croyance à sa propre incapacité.
+
+- <u>Troubles, signes cliniques</u>
+	- Attaque de panique 
+	- Hypocondrie "obsessionnelle" 
+	- Pb sexuels:
+		- Ejaculation précoce
+		- Anorgasmie 
+		- Difficulté d'érection/maintien
+	- Troubles alimentaires 
+		- Obésité, boulimie
+	- Troubles du sommeil 
+	- Phobies:
+		- Peur de rougir, transpirer, vomir, diarrhée
+- <u>Techniques utilsées</u>:
+	- **Recadrages**
+		- Faire prendre conscience qu'il faut introduire un petit désordre pour maintenir l'ordre - "Trop de contrôle tue le contrôle".
+	- **Tâches**
+		- Nécessaire, parfois suffisant de <u>défocaliser l'attention</u> pour interrompre le processus de la "peur de la peur"
+			- *Carnet de bord*
+		- Possible de chercher à <u>saturer le contrôle</u>:
+			- Hypocondrie : ritualiser la recherche d'information, à certains moments précis, pendant une durée prédéfinie.
+				- Check up complet 3x/Jour, avec description de toutes les observations : *"Si vous voulez vraiment vous rassurer, il faut faire un contrôle systématique et général"*
+		- Peur de perdre le contrôle -> évitement.
+			- Ex: patient redoutait de perdre le contrôle de ses sphincters et évitait systématiquement tous les trajets en voiture pas 100% sûrs à l'égard de cette crainte, quitte à faire de longs détours.
+				- Lui est expliqué que l'évitement est préjudiciable.
+				- Préconiser de se munir de couches pour "parer à toute éventualité"
+				- Affronter un trajet qu'il évitait régulièrement. 
+					- Annonce par courriel qu'il a réussit à faire le trajet sans servir des couches, en les laissant dans le coffre. Elles y resteront quelques semaines avant qu'il se sente complètement à l'abris. 
+
+### Contrôle rationnel des sensations 
+
+- Craintes des débordements d'émotions : se laisser emporter par la colère, s'enfoncer dans la tristesse, trop souffrir, succomber à un plaisir interdit. 
+	- Tentative de contrôle volontaire sur ces sensations.
+		- Résultat paradoxale : la perte de contrôle aggrave le problème.
+
+- Dans de nombreux cas:
+	- Le patient de réalise pas que c'est sa tentative de contrôle, sa résistance face à l'expression émotionnelle qui amplifie la crainte d'une intensité émotionnelle excessive. 
+		- Un rire retenu se transforme en fou rire
+		- Une colère contenue accroit le sentiment de rage 
+		- Tentative rationnelles de réassurance -> accroissent le sentiment d''insécurité 
+- Dans ces problématiques:
+	- **"Apprivoiser les émotions plutôt que vouloir les maîtriser"**
+
+- Dans certains cas : *S'efforcer de ressentir* une certaine sensation (autre forme de contrôle), ou de l'amplifier de manière volontaire:
+	- Vouloir ressentir du désir ou plus de désir 
+	- Essayer d'éprouver de la colère, de se mettre en colère
+	- Chercher à se sentir triste
+- Dans ces cas: plus on cherche à ressentir, moins on ressent.
+
+- <u>Troubles, signes cliniques</u>:
+	1. Patients qui tentent de:
+		- Se rassurer par des arguments rationnels afin de contrôler la peur
+			- Troubles anxieux.
+			- Anxiété de performance 
+		- Se calmer - pour contrôler la colère 
+			- Passage à l'acte violent envers les autres ou soi-même
+			- Pensées obsessionnelles 
+		- Atténuer la douleur 
+			- Tristesse envahissante
+			- Dépression
+			- Mélancolie
+			- Anhédonie
+			- Deuil interminable 
+		- Ralentir le plaisir ou réfréner le désir 
+			- Pb sexuels : éjaculation précoce, compulsions sexuelles 
+		- Lutte contre les tentations (désirs, envies) agréables se retrouve dans de nombreuses problématiques 
+			- Pb de couple
+			- Addictions
+			- TCA (notamment vomissement/conduites d'élimination)
+			- Dépendance au sexe virtuel
+			- Dépendance au jeux en ligne
+			- Achats compulsifs 
+			- Recherche compulsive d'information
+		2. Patient qui cherchent à ressentir volontairement un sensation déterminée:
+			- Colère 
+				- Pb de couple 
+				- Harcèlement (relations complémentaires rigides)
+				- Difficultés parents/enfant (perte d'autorité, enfant opposant)
+			- Tristesse
+				- Sentiment de culpabilité/anormalité (après un deuil notamment)
+			- Plaisir, désir
+				- Pb de couple :
+					- Perte de libido
+					- Difficulté d'érection
+					- Anorgasmie 
+- <u>Techniques utilisées</u>
+	- #####  Pour la peur 
+		- **Recadrages** 
+			- Interventions dans le sens : aucun argument rationnel ne permet de mettre un terme à la peur lorsqu'elle est intense. 
+				- Il faudra bien la ressentir et y faire face : *"Reconnaitre ses faiblesses est le premier signe de courage"*
+		- **Tâches**
+			- Partir à la recherche des situations qui génèrent des signes de peur 
+				- Affronter et *ressentir* les peurs en imagination (*Demi-heure du pire*)
+	- ##### Pour la douleur 
+		- **Recadrages**
+			- Il faut désinfecter les plaies pour guérir 
+			- "Pour sortir de la douleur, il faut la traverser" (Robert Frost)
+		- **Tâches**
+			- *Chroniques du désastre* : distancie émotionnellement de la douleur, remet le passé dans le passé.
+			- *Galeries de souvenirs* : Le patient est invité à, peu à peu, remettre ses souvenirs douloureux dans le passé en imaginant une galerie dans laquelle ils sont représentés par un tableau.
+				- Possible d'aller les contempler de façon régulière.
+				- Puis : encouragé à compléter chacun des souvenirs douloureux par un élément positif. 
+	- ###### Chercher à ressentir de la tristesse
+		- Interdire d'y penser, couper les ruminations obsessionnelles (techniques du bûcheron) afin de laisser la nature s'exprimer. 
+	- ##### Pour la colère 
+		- **Recadrages**
+			- "La colère est pareille à un cheval fougueux ; si on lui lâche la bride, son trop d'ardeur l'a bientôt épuisée". *Shakespear* 
+			- Une fois que l'intensité émotionnelle a baissé : "*Se mettre en colère, c'est montrer sa faiblesse...*" (plutôt humilier l'autre par un sourire)
+		- **Tâches**
+			- Diminuer la colère en la canalisant : *Lettres de colère*
+			- Proposer un choix illusoire au patient : annoncer avant une réunion qu'il risque de s'énerver ou alors s'en excuser après. 
+			- Evaluer la colère sur une échelle de 1 à 10:
+				- Permet de comprendre qu'elle est un processus évolutif et non une explosion hors de contrôle
+			- Pour les personnes qui n'arrivent pas à se mettre en colère:
+				- *Sabotage bienveillant*. (maman sandwich draps)
+			- Contre la colère d'un autre:
+				- Connoter la colère comme une manœuvre de séduction : *"Je dois vous avouer qu'à chaque fois que vous arrivez dans mon bureau pour critiquer mon travail, j'éprouve une certaine excitation...* 
+	- #### Pour le plaisir & désir 
+		- **Recadrages**
+			- Amener à reconnaître et accepter son désir : le combat contre la tentation accentue le besoin compulsif/envie de transgresser. 
+				- O. Wilde : *"La meilleure manière de résister à la tentation c'est d'y céder*. 
+					- L'arrêt de l'interdiction -> diminution de l'intensité de la sensation.
+			- Tentative d'éprouver du désir : Bloquer les efforts volontaires.
+				- Lui proposer d'imaginer ce qui se passerait s'il constatait qu'ils n'éprouvera jamais de désir ou d'envie pour la personne/chose concernée. 
+				- "L'obligation tue l'envie !"
+		- **Tâches**
+			- Lutte contre le désir : préférable de le canaliser -> le laisser s'exprimer dans une mesure acceptable. 
+				- Préparer avec le patient une transgression qui se passera dans les meilleurs conditions afin que ce dernier interrompe son contrôle et puisse retirer le plaisir qu'il espère à chaque fois, mais qu'il gâche. 
+					- Tenir compte du contexte socioculturel et légal.
+					- Remplacer une compulsion par contrainte en prescrivant un comportement :
+						- Faire des recherches sur internet UNE heure par jour 
+						- Obligation de miser 5 euros par jours. 
+				- -> Encadrer le plaisir dans un temps limité et libérer du temps pour autre chose. 
+				- Ritualiser la recherche de plaisir : 5 minutes obligatoires toutes les heures, puis espacer.
+			- Provocation du plaisir: interdiction de l'amélioration.
+				- Après avoir imaginer un contexte à l'apparition spontanée du plaisir (ex: se lancer dans des jeux sexuels), le thérapeute interdit le changement escompté: *"Pas question d'avoir un orgasme ou une érection jusqu'à la prochaine séance."*
+				- 
