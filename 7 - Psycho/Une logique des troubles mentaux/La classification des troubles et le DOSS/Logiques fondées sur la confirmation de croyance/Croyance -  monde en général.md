@@ -1,0 +1,37 @@
+- Diverses formes possibles.
+- Une chose en commun pour les personnes sujette à ces croyances:
+	- Le monde, le sort s'acharne contre elle.
+		- "Je n'ai pas de chance dans la vie"
+		- "Je suis victime d'un complet mondial"
+		- "Ma vie ne vaut pas la peine d'être vécue"
+			- Fréquent dans certains cas de dépression
+
+- Ce type de pensée: pousse au fatalisme.
+	- Rien n'est possible avec de telles convictions. 
+		- Donc: aucune raisons de s'investir dans une psychothérapie. 
+			- C'est l'entourage qui pousse à la démarche. 
+
+- Thérapeute :
+	- Travaille de façon indirecte avec les proches demandeurs d'aide.
+	- S'il peut rencontrer le patient, même une seule fois:
+		- Essaie de détecter si la croyance recèle d'une faille:
+			- Qu'est-ce qui fait que la personne choisit de continuer à vivre malgré tout ?
+			- Existe il un aspect de son existence qui l'intéresse encore ?
+		- Opération déjà tentée sans succès par les proches en général.
+		- Th. peut se trouver face à un mur inébranlable.
+
+- <u>Troubles, signes cliniques</u>:
+	- Dépression sévère
+	- Idées suicidaires
+	- Agressivité 
+	- Ruminations perpétuelles 
+- <u>Techniques utilisées</u>
+	- **Recadrages**
+		- Le patient défend une position inattaquable 
+			- Met au défi tout le monde de lui prouver que sa croyance est fausse.
+		- Th : évite de rentrer la dedans en s'abstenant de faire toute contre argumentation
+	- **Tâches**
+		- Pour les proches:
+			- Tenir une position semblable à celle du thérapeute: ne pas contre argumenter.
+			- Proposer une *La chaire de vérité* -> donner un espace limité aux lamentations incessantes
+			- *Conspiration du silence* : coupe les proposition de contre argumentations 
