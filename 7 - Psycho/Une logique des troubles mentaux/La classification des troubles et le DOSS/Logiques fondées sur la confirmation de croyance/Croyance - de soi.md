@@ -69,7 +69,7 @@
 	- Sentiment d'échec invasif 
 	- Anxiété intense 
 	- Périodes dépressives (parfois durables)
-	- Conduites de type "maniaque" souvent vengeresse
+	- Conduites de type "[[manie|maniaque]]" souvent vengeresse
 - <u>Techniques utilisées</u>
 	- **Recadrages**
 		- Pas de recadrage possible de la croyance.
@@ -97,7 +97,7 @@
 	- Elle en conclut qu'elle était responsable de sa mort, sans espoir de pardon et que rien ni personne ne pourrait lui ôter cette croyance définitive. 
 - <u>Troubles, signes cliniques</u>
 	- Culpabilité dévorante
-	- Dépression
+	- [[Dépression]]
 	- Tous les troubles dans lesquels la culpabilité bloque une possibilité de solution. 
 - <u>Techniques utilisées</u>
 	- **Recadrages**

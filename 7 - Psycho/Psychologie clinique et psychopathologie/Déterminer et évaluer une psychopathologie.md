@@ -55,7 +55,7 @@
 	- <u>1968</u>, plusieurs facteurs influencent un diag en santé mentale et peuvent compromettre sa validité : film représentant une entrevue dont le texte est représentatif de deux personnes en parfaite santé mentale. Il est visionné par des psychiatres/psychologues/étudiants. 
 		- Si, on informe que c'est en entretien d'embauche : les  participants perçoivent plutôt le candidat comme en santé mentale
 		- Si une suggestion est faite que le candidat est en santé mentale, 100% le décrivent comme en santé mentale 
-		- Si une suggestion est faite que c'est un patient psychotique, les résultats varient selon le prestige de celui qui fait la suggestion (médecin réputé, PhD ou étudiant)
+		- Si une suggestion est faite que c'est un patient [[symptômes psychotiques|psychotique]], les résultats varient selon le prestige de celui qui fait la suggestion (médecin réputé, PhD ou étudiant)
 	- <u>1973</u> : "Etre sain dans des endroits malsain":
 		- 12 faux patients entrainés à simuler un [[symptômes psychotiques|symptôme psychotique]] ([[Hallucinations|hallucination]] auditive) sont envoyés dans des établissements réputés. 
 		- Ils sont effectivement hospitalisés après avoir été diagnostiqués comme ayant un problème grave de psychose. 

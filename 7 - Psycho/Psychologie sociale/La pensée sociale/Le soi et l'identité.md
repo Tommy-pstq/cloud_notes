@@ -190,7 +190,7 @@
 - Réseaux sociaux:
 	- 10 minutes suffisent à altérer l'estime de soi.
 		- Effet encore plus important pour les personnes ayant tendance à réaliser des comparaisons ascendantes (Alfasi, 2019.)
-			- Plus à risque de dépression que les autres.
+			- Plus à risque de [[dépression]] que les autres.
 
 - Stagner financièrement quand l'entourage progresse = effet dévastateur.
 

@@ -2,7 +2,7 @@
 ### Vouloir contrôler son comportement ou sa façon de s'exprimer 
 
 - Vouloir se contrôler -  problématique fréquente chez:
-	- Les perfectionnistes
+	- Les [[perfectionnisme|perfectionnistes]]
 	- Idéalistes
 	- Grands timides 
 - Cherchent à éviter toute erreur/faire mauvaise impression/susciter un quelconque jugement négatif.
@@ -17,9 +17,9 @@
 	- Evitement de la société 
 
 - <u>Troubles, signes cliniques</u>:
-	- Dépression
+	- [[Dépression]]
 	- Burn out
-	- Perfectionnisme 
+	- [[Perfectionnisme]] 
 	- Troubles obsessionnels 
 	- Syndrome de l'imposteur
 	- Problèmes de couple 
@@ -108,7 +108,7 @@
 			- Pensées obsessionnelles 
 		- Atténuer la douleur 
 			- Tristesse envahissante
-			- Dépression
+			- [[Dépression]]
 			- Mélancolie
 			- Anhédonie
 			- Deuil interminable 

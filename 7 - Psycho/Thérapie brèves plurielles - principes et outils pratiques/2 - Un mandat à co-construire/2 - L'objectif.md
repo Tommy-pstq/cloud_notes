@@ -57,7 +57,7 @@
 5. <u>L'objectif sera petit et donc réalisable</u> 
 	- Important que le tandem soignant/soigné soit minimaliste.
 		- La déception vient de l'espoir. 
-	- Le soignant va aider le patient à quitter des utopies maximalistes, perfectionnistes, manichéennes. 
+	- Le soignant va aider le patient à quitter des utopies maximalistes, [[perfectionnisme|perfectionnistes]], manichéennes. 
 		- Plus l'objectif est petit, plus il est réalisable.
 			- Créons de mini objectifs, à court terme. (d'ici la prochaine fois ...)
 			- Mieux valent de petits succès répétés que de grands échecs : on a assez d'échecs dans la vie sans les chercher. 

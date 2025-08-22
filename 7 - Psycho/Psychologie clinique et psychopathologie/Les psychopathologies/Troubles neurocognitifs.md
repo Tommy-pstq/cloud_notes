@@ -3,7 +3,7 @@
 	- Divers types de démence et troubles amnésiques.
 	- Origine des difficulté = biologique. Mais impact le fonctionnement psychologique des personnes.
 		- Anxiété, déprime 
-		- Paranoïa 
+		- [[Paranoïa]] 
 		- [[Agitation]] / [[agressivité]] 
 
 ## Etat confusionnel (délirium)

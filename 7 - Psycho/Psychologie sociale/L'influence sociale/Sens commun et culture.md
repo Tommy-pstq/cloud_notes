@@ -110,7 +110,7 @@ Moscivici, 3 modes de communication médiatiques:
 - Pas forcément irrationnel du point de vue des "croyants":
 	- Vecteur identitaire 
 	- Personnes souvent isolées -> se trouvent un groupe 
-	- Croire en UNE théorie du complot -> prédicteur le plus fort d'autre croyances. 
+	- Croire en UNE théorie du [[complot]] -> prédicteur le plus fort d'autre croyances. 
 	- Simplification du monde -> apaise l'anxiété. 
 - Variable selon les catégories sociales:
 	- Classe inférieures : complots visant les élites 

@@ -121,7 +121,7 @@
 	- Sont réunis les membres de la famille concernés.
 		- Devant le patient, on leur donne la consigne, qui décrit la tâche de la conspiration du silence: 
 			- *"Votre fille (ex) a besoin de pouvoir vous expliquer en détail ce qu'elle ressent. Il faut donc que vous puissiez lui accorder un moment de complète attention. Je vous pour cela vous demander de vous réunir chaque soir dans le salon. Vous, les parents, vous vous installerez sur le canapé et, pendant une demi-heure, vous écouterez votre fille vous parler de tout ce qui la préoccupe. Vous l'écouterez en silence et vous ne répondrez pas. Lorsque la demi-heure sera terminée, chacun repartira vaquer à ses occupations".* 
-		- On expose alors à la jeune femme (ex) la tâche de la chaire de la vérité:
+		- On expose alors à la jeune femme (ex) la tâche de la [[chaire de la vérité]]:
 			- *"Il est très important que vous puissiez exprimer complètement toutes vos idées et vos craintes. Chaque jour, vous aurez une demi-heure pour le faire. Vous pouvez préparer votre discours si vous le souhaiter car il important que vous puissiez leur dire tout ce que vous avez à dire."*
 		- On complète la tâche en disant:
 			- *Il est possible que votre fille souhaite vous parler en dehors la demi-heure mais, comme vous n'êtes pas suffisamment disponibles pour l'écouter, vous lui demanderez d'attendre l'heure prévue.* 

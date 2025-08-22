@@ -2,14 +2,14 @@
 
 - Présences de symptômes positifs & négatifs 
 	- <u>Positifs</u> = les plus apparents. 
-		- **[[Délire|délires]]** / Idées de persécution
+		- **[[Délire|délires]]** / Idées de [[persécution]]
 			- Sensation de menace sans [[raisonnement|raison]] évidente / amplification conséquente d'une menace
 			- **Idées de grandeur** (mégalomanie) : se prendre pour un personnage célèbre par exemple. 
 			- **Aspect somatique**
 				- Croire être envahi de microbe
 				- Qu'un organe a été enlevé et remplacé par des extraterrestres 
 				- Qu'une puce a été placée dans son cerveau suite à un examen médical
-			 - **Croire qu'une personne célèbre** est amoureux.se d'elle, les messages amoureux étant transmis dans les chansons. 
+			 - **Croire qu'une personne célèbre** est amoureux.se d'elle, les messages amoureux étant transmis dans les chansons. [[Erotomanie]] 
 				 - L'entourage de l'artiste empêcherait ce dernier d'entrer en contact.
 			- Thématiques liées à l'informatique ou aux forces occultes. 
 		- **Expériences [[sensorialité|sensorielles]]** : [[hallucinations]].
@@ -48,7 +48,7 @@
 	- Début vers la fin de l'adolescence / vie adulte
 		- Habituellement : consolidations des connaissances & acquisition de l'[[autonomie]] 
 	- Etapes:
-		- <u>Prodrome</u> : déclin du fonctionnement précédent le premier épisode psychotique.
+		- <u>Prodrome</u> : déclin du fonctionnement précédent le premier épisode [[symptômes psychotiques|psychotique]].
 			- Détérioration du fonctionnement social
 			- Contact avec les autres difficiles 
 			- Fonctionnement académique / occupationnel diminue 
@@ -64,13 +64,13 @@ DSM
 	- [[Délire|idées délirantes]]
 	- [[Hallucinations]] 
 	- [[Discours désorganisé]] 
-	- Comportement désorganisé ou catatonique 
+	- Comportement désorganisé ou [[catatonie|catatonique]] 
 	- Symptômes négatifs 
 2. Doit avoir manifesté une baisse de niveau de fonctionnement par rapport au niveau antérieur. 
 3. Les signes du trouble, incluant la phase prodromique, existent depuis au moins 6 mois.
 4. Tous les autres diagnostiques (trouble schizo-affectif, [[dépression]] avec caractéristiques psychotiques, [[trouble bipolaire]] avec [[symptômes psychotiques]]) ont été exclus 
 5. Pas attribuable à des substances / autre problème médical
-6. Si présence antérieure de [[TSA]] ou trouble de la [[communication]], le diag de [[3 - Tags/schizophrénie]] est posé seulement si des symptômes importants de la schizophrénie sont présents. 
+6. Si présence antérieure de [[TSA]] ou trouble de la [[communication]], le diag de [[schizophrénie]] est posé seulement si des symptômes importants de la schizophrénie sont présents. 
 
 
 - Autrefois : hospitalisation / ressources [[troubles psychiatriques]] à long terme - souvent pour la vie. 
@@ -79,7 +79,7 @@ DSM
 	- -> Institutionnalisation à long terme intolérable. (à partir des années 70s)
 - Méthodes comportementales pour préparer à la désinstitutionalisation
 	- Théorie du renforcement
-		- Habiletés [[social|sociales]] 
+		- [[Habiletés sociales]]
 		- Habiletés occupationnelles 
 
 - Meilleure manière d'aider ces patients : prise en charge aux premiers signes de la maladie et offrir une intervention s'appuyant à la fois sur la pharmaco ([[neuroleptiques]]) et une [[Approche cognitivo-comportementale]]. 

@@ -60,8 +60,8 @@
 - Erickson : "Être thérapeute, c'est être contexte de changement"
 
 - Crainte du thérapeute de proposer telle intervention paradoxale rend la possible la continuité du paradoxe dans la vie du patient.
-	- Faire peur à un anxieux / enfoncer un dépressif : ne fait pas partie des classiques en thérapie. 
-	- Rassurer l'anxieux, remonter le dépressif : façon assez courante et d'apparent bon sens d'entrer dans leur scénario relationnel habituel.
+	- Faire peur à un anxieux / enfoncer un [[dépression|dépressif]] : ne fait pas partie des classiques en thérapie. 
+	- Rassurer l'anxieux, remonter le [[dépression|dépressif]] : façon assez courante et d'apparent bon sens d'entrer dans leur scénario relationnel habituel.
 		- Mais : le thérapeute qui agit ainsi fait partie du problème et non de la solution.
 
 ### Complémentarité et symétrie 

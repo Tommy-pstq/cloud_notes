@@ -61,7 +61,7 @@
 	- Ex: 
 		- Le file de l'auteur revint de l'université : "J'ai rencontrée une copine cette semaine, elle m'a dit : 'Ton père c'est un con ! J'ai été le voir pour arrêter de fumer, il m'a dit que je n'en serais pas capable. J'ai arrêté le jour même ...', ce à quoi il lui répondit : 'Mais... C'était le but du jeu !'  "
 		- La caïd "handicapée de la vaisseille"
-		- L'acoolique dépressive voulant seulement être écoutée, mais qui, si c'est le mardi à 14h car après le repas et les autres jours sont pris, fini par aller en cure.
+		- L'acoolique [[dépression|dépressive]] voulant seulement être écoutée, mais qui, si c'est le mardi à 14h car après le repas et les autres jours sont pris, fini par aller en cure.
 		- Le mari "cartésien" reproduisant des comportements sans effets positifs.
 - La religion, pour certains croyants. La culture également.
 	- Ex:
@@ -69,7 +69,7 @@
 		- Homme de 70 ans, voulant arrêter de fumer, catholique. Avait arrêté une fois car l'avais promis à sa défunte femme, et en tant que catholique il ne voulait pas être un parjure en ne respectant pas sa promesse. -> Lui faire promettre à nouveau d'arrêter de fumer.
 - Utiliser une personne de l'environnement du patient ou du soignant:
 	- Ex:
-		- Patient perfectionniste, grande admiration pour son patron et son "esprit d'entrepreneur". Patient : dépression anxieuse sévère. Th. propose au patient d'aller ensemble devant l'usine puisque seul cela lui génère de grandes angoisses. Une fois devant, Th. demande au patron : "Vous avez dû faire beaucoup d'erreurs pour en arriver là ?" - "Oh, oui docteur ! J'en ai fait beaucoup et j'ai beaucoup douté chemin faisant, c'est en apprenant de mes erreurs et cultivant mes doutes que j'ai progressé". Ces mots, prononcé devant le patient le considérant comme un mentor on été particulièrement efficaces.
+		- Patient [[perfectionnisme|perfectionniste]], grande admiration pour son patron et son "esprit d'entrepreneur". Patient : dépression anxieuse sévère. Th. propose au patient d'aller ensemble devant l'usine puisque seul cela lui génère de grandes angoisses. Une fois devant, Th. demande au patron : "Vous avez dû faire beaucoup d'erreurs pour en arriver là ?" - "Oh, oui docteur ! J'en ai fait beaucoup et j'ai beaucoup douté chemin faisant, c'est en apprenant de mes erreurs et cultivant mes doutes que j'ai progressé". Ces mots, prononcé devant le patient le considérant comme un mentor on été particulièrement efficaces.
 - Utiliser les compétences d'une personne dans un domaine en les transférant dans le domaine d'objectif du patient:
 	- Ex:
 		- Couple, 63 ans les deux. Madame douleur chronique. Mr. commercial à grand succès, ne rentre que les week-ends, durant lesquels il ne s'intéresse qu'à son petit jardin. Ramène des cadeaux à sa femme, qui elle voudrait partir en week-end, faire des activités. Th. demande à Mr. la clé de son succès : "Comprendre quelle langue parle mon client, j'ai souvent 15 pas pour le deviner", suivi d'un exemple. Suite à quoi le Th. demande : "Quelle langue parle votre femme ? Vous avez 15 pas pour le deviner."
@@ -231,7 +231,7 @@
 	- Avoir l'enfer en voulant le paradis.
 
 - Dessinateur humoristique, un squelette dans les habits d'une dame : "Elle attendait l'homme parfait"
-- Les perfectionnistes, dont on verra le tribut qu'ils paient à l'anxiété, au manque d'estime de soi et à la dépression sont les experts les plus assidus de ce type de paradoxes.
+- Les [[perfectionnisme|perfectionnistes]], dont on verra le tribut qu'ils paient à l'anxiété, au manque d'estime de soi et à la dépression sont les experts les plus assidus de ce type de paradoxes.
 
 - Les enfants attendent reconnaissance et encouragements de leurs parents.
 	- Pour certains enfants de 50 ans, cette quête se poursuit encore, ravageant tout sur son passage.
@@ -408,7 +408,7 @@
 
 - Plus sûr, plus prudent, recommandé pendant la phase d'apprentissage de la méthode. 
 - Le thérapeute ne peut s'en passer que si les deux première conditions sont remplies et sil se sent "sûr de son coup". Débutants s'abstenir. 
-	- Ex du patient dépressif:
+	- Ex du patient [[dépression|dépressif]]:
 		- "Je suis touché par ce que vous me dites 'Je suis nul' "
 		- Vous avez surement de bonnes raisons de me dire cela 
 		- Maintenant que vous me l'avez expliqué, je vous comprends mieux.
@@ -632,7 +632,7 @@
 	- Ensuite, est demandé : imaginer toutes les possibilités que le Th. aurait pour répondre. à ces trois critiques/insultes. 
 		- Le patient en énumère rarement plus de 4. 
 		- Dossier : une ligne est tirée dès qu'il cesse d'en exprimer de nouvelles. Le reste à été découvert en commun. La liste est complétée pour arriver à une quinzaines d'éléments. 
-			- <small> Ex: aggressivité, augmentation/justification, victimisation, droit à la différence, feedback utile, fin de la relation (réversible), suicide, humour, confusion, indifférence, recours à une tierce personne, déni, donner raison, position basse, revenons à nos montons, somatisation, silence, etc. </small> 
+			- <small> Ex: aggressivité, augmentation/justification, victimisation, droit à la différence, feedback utile, fin de la relation (réversible), [[suicide]], humour, confusion, indifférence, recours à une tierce personne, déni, donner raison, position basse, revenons à nos montons, somatisation, silence, etc. </small> 
 - On constate alors:
 	- <u>Il y a plus de solutions que l'on pourrait croire</u>
 		- De 3/4 on est passé à une quinzaine. 

@@ -97,7 +97,7 @@ TTT
 ## Accès hyperphagique
 
 - Episodes de gloutonnerie sans comportement compensatoire
-- Souvent accompagnés de hontes, dégoût, dépression.
+- Souvent accompagnés de hontes, dégoût, [[dépression]].
 - Souvent en situation d'obésité 
 
 TTT

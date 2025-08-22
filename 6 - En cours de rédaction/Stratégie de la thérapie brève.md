@@ -24,7 +24,7 @@ Paul Watzlawick, Giorgio Nardone
 			- Einstein : "La théorie décide de ce que nous allons observer"
 
 - Lien avec la psycho ?
-	- Exemple du cas d'une patiente décrite comme psychotique/en crise de schizophrénie avec [[dissociation]] et devant être transférée d'hôpital. 
+	- Exemple du cas d'une patiente décrite comme [[symptômes psychotiques|psychotique]]/en crise de schizophrénie avec [[dissociation]] et devant être transférée d'hôpital. 
 		- Les ambulanciers trouve une femme parfaitement calme dans une salle et lui demande de les accompagner.
 			- La femme entre dans un état violent avec des signes de déréalisation, conformément aux informations fournies aux personnels chargés du transport.
 		- L'ambulance sera arrêtée à un barrage routier par la police, la femme dans l'ambulance n'étant qu'une personne extérieur attendant de visiter un proche.
@@ -117,7 +117,7 @@ Technique utilisable en fonction du type de patient:
 		- Conduit le sujet à changer sans s'en rendre compte. 
 - [[antagonisme|Antagonistes]], opposés à la collaboration:
 	- Utilisation de la résistance, prescriptions paradoxales
-- Ni en mesure de collaborer, ni de s'opposer ; présentant une narration d'eux-mêmes loin de la réalité "raisonnable" (délire, manie de persécution)
+- Ni en mesure de collaborer, ni de s'opposer ; présentant une narration d'eux-mêmes loin de la réalité "raisonnable" (délire, [[manie]] de [[persécution]])
 	- Le thérapeute doit entrer dans la logique de la représentation délirante. 
 		- En adoptant les codes linguistiques et attributionnels.
 		- Eviter toute négation et disqualification des constructions dysfonctionnelles. 
@@ -150,12 +150,12 @@ On pourrait sous-titrer : Eloge de l'utilisation.
 
 <u>En thérapie individuelle et familiale</u> 
 
-- Patiente supposée en dépression. - 
+- Patiente supposée en [[dépression]]. - 
 	- Expliquait avoir des problèmes psychosomatiques.
 		- Non interprétés comme de la dépression masquée, mais à la place il lui fut demander de trouver une pierre de la taille d'un poing, de la peindre en noir et de la transporter pendant 10 jours. 
 			- Lors de la séance suivante: "Je ne savais pas quoi en faire, je l'ai déposée dans la bibliothèque de mon mari"
 				- -> Intégration du mari dans la thérapie, avec aspect thérapie de couple. 
-		- La pierre noire était supposée représenter symboliquement la dépression (similairement aux symptômes psychosomatiques de la patiente). Finalement, le problème n'était pas tant la dépression qu'un enjeu de couple. 
+		- La pierre noire était supposée représenter symboliquement la [[dépression]] (similairement aux symptômes psychosomatiques de la patiente). Finalement, le problème n'était pas tant la dépression qu'un enjeu de couple. 
 
 - Fred, 10 ans, insupportable, cherchant à se faire remarquer et négatif. 
 	- Trois schémas de comportements:

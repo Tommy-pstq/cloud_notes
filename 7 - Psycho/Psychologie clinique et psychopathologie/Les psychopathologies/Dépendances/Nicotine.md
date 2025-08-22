@@ -4,7 +4,7 @@
 - Une des substances stimulantes longtemps perçue comme "normale". 
 
 - Désormais : [[3 - Tags/nicotine]] = psychoactif entrainant [[dépendance]], [[Tolérance]] & [[sevrage]]. 
-- Utilisation souvent lié à d'autres problèmes, notamment des états dépressifs. 
+- Utilisation souvent lié à d'autres problèmes, notamment des états [[dépression|dépressifs]]. 
 
 DSM 
 1. [[Altération du fonctionnement]] ou s'accompagnant d'une souffrance clinique avec présence d'au moins 2 manifestations au cours des 12 derniers mois 

@@ -123,10 +123,10 @@
 - Epictète : "Si quelqu'un t'as mis en colère, c'est ton propre jugement qui le rend responsable de ta colère".
 - Exemples:
 	- 40 ans, martine culpabilise toujours.
-		- Sa mère, qui avait fait de nombreuses tentatives de suicide a réussi le jour à sa fille est partie au lycée après lui avoir dit "Suicide-toi si tu veux, moi j'en ai marre !"
+		- Sa mère, qui avait fait de nombreuses tentatives de [[suicide]] a réussi le jour à sa fille est partie au lycée après lui avoir dit "Suicide-toi si tu veux, moi j'en ai marre !"
 		- Les frères et soeurs de Martine n'ont pas fait, face aux tentatives précédentes, un dixième de ce qu'elle avait fait : ils vivaient au loin.
 			- Ils lui firent le reproche de ne pas avoir pu empêcher le drame.
-		- Le thérapeute lui dit : "Qui, au monde, a fait plus que vous pour empêcher les suicides de votre mère ?"
+		- Le thérapeute lui dit : "Qui, au monde, a fait plus que vous pour empêcher les [[suicide|suicides]] de votre mère ?"
 	- Damien entreprend des études de commerce, 4 ans. 
 		- Première année : 80% de cours de langue 
 			- Après 6 mois : " j'arrête, je n'ai pas choisi ces études pour faire des langues mais du commerce"
@@ -174,7 +174,7 @@
 		- *Il est plus facile de faire manger quelqu'un plutôt que de traiter une anorexie mentale*
 	- Ex: 
 		- <small> <li> Docteur je viens vous voir parce que je fais une dépression</li> <li> Qu'entendez vous par là? </li> 
-		<li>Mais docteur, vous savez bien ce qu'est une dépression ! vous êtes médecin </li><li>Je sais ce qu'est une dépression dans les livres de médicine, je sais ce que veut dire une dépression dans mon expérience personnelle mais je n'ai aucune idée de ce que cela veut dire pour vous, je voudrais être sûr de bien comprendre: expliquez moi. </li> <li> Liste des plaintes exprimées, voilà ce qu'elle appelle dépression </li> <li> Demande un description concrète de ce qui se passe dans ses interactions</li> <li> Je dis à mon mari X </li> <li>Que fait il et que dit il alors ?  </li> <li>Y et Z </li> <li> Et ça vous aide ?</li> <li>Mais non! il est très gentil... mais il ne comprend pas... </li></small> 
+		<li>Mais docteur, vous savez bien ce qu'est une [[dépression]] ! vous êtes médecin </li><li>Je sais ce qu'est une dépression dans les livres de médicine, je sais ce que veut dire une dépression dans mon expérience personnelle mais je n'ai aucune idée de ce que cela veut dire pour vous, je voudrais être sûr de bien comprendre: expliquez moi. </li> <li> Liste des plaintes exprimées, voilà ce qu'elle appelle dépression </li> <li> Demande un description concrète de ce qui se passe dans ses interactions</li> <li> Je dis à mon mari X </li> <li>Que fait il et que dit il alors ?  </li> <li>Y et Z </li> <li> Et ça vous aide ?</li> <li>Mais non! il est très gentil... mais il ne comprend pas... </li></small> 
 - Objectif : arriver à une description interactionnelle du problème. :
 	- Développé dans une "grille personnelle" (grille EDP)
 

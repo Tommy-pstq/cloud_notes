@@ -105,7 +105,7 @@
 		- Trouble oppositionnel des enfants ou adolescents
 		- Compulsions (alimentaires, sexuelles, TOC)
 			- Tentatives de contrôle venant généralement de l'entourage et de la personne elle même. 
-		- Troubles psychotiques
+		- Troubles [[symptômes psychotiques|psychotiques]]
 			- Lorsque les proches (souvent la famille) essaient d'interdire ou corriger les propos délirants. 
 	- <u>Techniques utilisées</u> 
 		- **Recadrages**
@@ -128,14 +128,14 @@
 					- Alcool, parents d'anorexiques.
 					- Il a été constaté que les interdits renforcent le problème.
 				- Dans le cas de propos "bizarres" 
-					- *Conspiration du silence* / *Chaire de la vérité*.
+					- *Conspiration du silence* / *[[Chaire de la vérité]]*.
 
  #### Rassurer une personne anxieuse. 
 - Empathie -> ressentir la peur de nos proches anxieux -> tente de leur apporter un soulagement. 
 - Peur : échappe à la "rationnalité"
 	- Tentatives de réassurances = ne soulage que l'intellect et sont donc fondamentalement inefficaces. 
 - La personne doit trouver les moyens de se rassurer elle même, et pour cela il lui faut affronter la peur. 
-- Dans le cas de troubles liés à une logique de croyance (jalousie, paranoïa) : **le problème est encore plus sérieux parce que les tentatives de réassurance l'aggravent** et font perdre tout crédit à ceux qui les entreprennent.
+- Dans le cas de troubles liés à une logique de croyance (jalousie, [[paranoïa]]) : **le problème est encore plus sérieux parce que les tentatives de réassurance l'aggravent** et font perdre tout crédit à ceux qui les entreprennent.
 - <u>Troubles, signes cliniques concernés</u>:
 	- Rassurer : solution très fréquente par les proches de personnes souffrant de:
 		- Troubles anxieux 
@@ -205,7 +205,7 @@
 			- Utile d'expliquer qu'il peut être maladroit voire grossier de vouloir à tout prix que l'autre partage notre point de vue - exemples d'autres cultures - même si on a le sentiment de détenir le juste/vrai.
 		- Montrer qu'en laissant l'autre exprimer ce qu'il perçoit sans essayer de le contredire, on lui permet de s'apaiser. 
 			- Th. Peut le démontrer en reformulant de manière empathique la plainte du patient.
-			- Ex: individu qui dénonce un "complot mondial" face à des parents qui essaient de démontrer qu'il n'y a pas de complot, il peut dire : "*Pour vous, il est important de pouvoir avertir vos parents des risques encourus, et cela dans les meilleurs conditions. Je vais vous demander demander de leur exposer toutes vos craintes pendant une demi-heure chaque soir. A vous, parents, je vais demander d'écouter votre enfant en silence et sans réagir. Il est très important qu'il puisse parler sans être interrompu pour aller au bout de sa pensée*"
+			- Ex: individu qui dénonce un "[[complot]] mondial" face à des parents qui essaient de démontrer qu'il n'y a pas de [[complot]], il peut dire : "*Pour vous, il est important de pouvoir avertir vos parents des risques encourus, et cela dans les meilleurs conditions. Je vais vous demander demander de leur exposer toutes vos craintes pendant une demi-heure chaque soir. A vous, parents, je vais demander d'écouter votre enfant en silence et sans réagir. Il est très important qu'il puisse parler sans être interrompu pour aller au bout de sa pensée*"
 		- Etant entendu, le patient s'apaise.
 			- Les parents peuvent alors constater assez rapidement que le discours irrationnel perd progressivement de sa vigueur lorsqu'il n'est plus amplifié par leurs efforts de rationnels de l'arrêter. 
 		- Avec l'épouse du couple plus haut : *"Lorsque votre mari vous a trompée avec votre amie, vous vous êtes sentie humiliée. Et pour vous, c'est important qu'il puisse le reconnaître, n'est-ce pas ?"*
@@ -295,7 +295,7 @@
 	- Simultanés (paradoxaux)
 		- Ex: "Vas-y" et implicite pour l'autre : "Dans le fond, je sais que tu en es incapable".
 		- Caractéristiques des situations de double contraintes
-			- Pouvant induire des réactions psychotiques:
+			- Pouvant induire des réactions [[symptômes psychotiques|psychotiques]]:
 				- Hallucinations, délires, dépersonnalisation etc.
 	- Consécutifs
 		- Interdiction, suivie dès les premiers signes de tristesse/colère d'une autorisation.

@@ -4,7 +4,7 @@
 		- "Je n'ai pas de chance dans la vie"
 		- "Je suis victime d'un complet mondial"
 		- "Ma vie ne vaut pas la peine d'être vécue"
-			- Fréquent dans certains cas de dépression
+			- Fréquent dans certains cas de [[dépression]]
 
 - Ce type de pensée: pousse au fatalisme.
 	- Rien n'est possible avec de telles convictions. 
@@ -21,8 +21,8 @@
 		- Th. peut se trouver face à un mur inébranlable.
 
 - <u>Troubles, signes cliniques</u>:
-	- Dépression sévère
-	- Idées suicidaires
+	- [[Dépression]] sévère
+	- Idées [[suicide|suicidaires]]
 	- Agressivité 
 	- Ruminations perpétuelles 
 - <u>Techniques utilisées</u>

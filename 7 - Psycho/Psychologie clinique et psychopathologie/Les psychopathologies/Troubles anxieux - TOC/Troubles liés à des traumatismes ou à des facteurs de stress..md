@@ -129,7 +129,7 @@ TTT
 
 - Détresse [[psychologie|psychologique]] perdurant plus de 3 mois après un facteur de stress : perte d'emploi, séparation, déboires financiers, présence permanente d'une personne très malade auprès de soi, mort d'une personne proche.
 
-- Potentiellement accompagné de symptômes dépressifs / anxiété / combinaison des deux.
+- Potentiellement accompagné de symptômes [[dépression|dépressifs]] / anxiété / combinaison des deux.
 
 TTT
 

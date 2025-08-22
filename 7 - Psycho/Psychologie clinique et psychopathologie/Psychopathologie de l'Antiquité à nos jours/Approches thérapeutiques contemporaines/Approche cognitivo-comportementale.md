@@ -51,7 +51,7 @@
 		- Maximisation (des échecs)
 		- Minimisation (des réussites : attribuées à la chance par exemple)
 	- Attribution : recherche des causes.
-		- <u>attribution internes excessives </u>chez les dépressifs (Ex: "si je n'ai pas eu cet emploi, c'est parce que je suis pas bon", pas de considération des facteurs externes comme les autres candidats)
+		- <u>attribution internes excessives </u>chez les [[dépression|dépressifs]] (Ex: "si je n'ai pas eu cet emploi, c'est parce que je suis pas bon", pas de considération des facteurs externes comme les autres candidats)
 
 - [[Thérapie cognitive|Approche cognitive]] : traitement se basant sur des méthodes de "**[[restructuration cognitive]]**" :
 	- Identifier et modifier les cognitions inappropriées. (colonnes de Beck)
@@ -90,7 +90,7 @@
 	- Réduit les risque de rechute de [[dépression]]
 
 - **Thérapie dialectique comportementale**, Marsha. M. Linehan 2000. (hosp. [[troubles psychiatriques]] pdt la jeunesse, border)
-	- S'applique notamment aux suicidaires & [[trouble de la personnalité limite]].
+	- S'applique notamment aux [[suicide|suicidaires]] & [[trouble de la personnalité limite]].
 		- Border : [[dysrégulation émotionnelle]]. 
 			- Grande réactivité au [[stimulus|stimuli]] externes & internes. 
 				- Exacerbée par l'environnement qui dénigre ces difficultés, exacerbant encore plus le déficit de contrôle [[émotion|émotionnel]]

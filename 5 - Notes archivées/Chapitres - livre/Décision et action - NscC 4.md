@@ -304,7 +304,7 @@ Etudier les mécanismes de choix proprement dits (et non d'évaluation):
 
 - l'[[apathie]] (diminution pathologique de la motivation) peut être conceptualisée en un trouble de la prise de décision:
 	- Toutes les options ont une valeur similaire et/ou bruitée -> aucune action n'est entreprise. 
-- La [[dépendance]], manie ou impulsivité pourraient être causées par une évaluation aberrante de certains types de comportement. 
+- La [[dépendance]], [[manie]] ou impulsivité pourraient être causées par une évaluation aberrante de certains types de comportement. 
 ### V - 1 Troubles de la prise de décisions causés par des lésions.
 
 Lésions [[cortex préfrontal ventro-médian|VMPFC]] & OFC : affectent de manière assez spécifique les décisions basées sur les valeurs. 
@@ -364,7 +364,7 @@ Troubles [[anxiété|anxieux]] et [[dépression]]:
 - Augmentation de l'indécision
 - [[anxiété|Anxiété]] uniquement : comportement d'[[Evitement|évitement]] des menaces & aversion au risque
 
-Dépression associée à:
+[[Dépression]] associée à:
 - L'[[apathie]]
 - Surestimation des efforts physique à effectuer
 - Déficit dans la recherche de récompense

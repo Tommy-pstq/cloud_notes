@@ -80,7 +80,7 @@
 - Saillance du comportement a un effet. 
 - "Contagions de suicide" (effet Werther) 
 	- Les compagnies de transport évitent de communiquer  (faire la pub) précisément sur ces incidents pour diminuer le plus possible l'identification. 
-	- "13 Reasons Why" : augmentation du taux de suicide chez les adolescents.
+	- "13 Reasons Why" : augmentation du taux de [[suicide]] chez les adolescents.
 - L'effet s'applique aussi lors de la diffusion de scène d'espoir etc.
 
 

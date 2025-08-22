@@ -16,7 +16,7 @@
 	- [[Difficultés relationnelles]] en terme de d'établissement, de maintiens et de compréhension. 
 		- Comportements on adaptés à des contextes [[social|sociaux]] variés, jusqu'à l'incapacité d'établir des relations et l'absence d'intérêt pour établir des relations
 - <u>Aspect limites et répétitifs des activités</u>
-	- Aspects stéréotyp et [[répétitifs]] de comportements/mouvements/utilisation des objets/expression verbale
+	- Aspects stéréotypés et [[répétitifs]] de comportements/mouvements/utilisation des objets/expression verbale
 	- Routines inflexibles et [[rigidité|difficultés à tolérer des changement]].
 	- Intérêts très limités dans leur fréquence et leur intensité.
 - <u>Réactions sensorielles altérées</u>:

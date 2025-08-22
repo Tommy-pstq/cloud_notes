@@ -217,7 +217,7 @@
 #### Signaler au patient ses intentions / ce qui va se passer
 
 - Important si un contact physique entre le thérapeute et le/la patient.e va avoir lieu. 
-	- Ex : prise de pouls/vérifier la catalepsie du poigner/essuyer les larmes. 
+	- Ex : prise de pouls/vérifier la [[catalepsie]] du poigner/essuyer les larmes. 
 - Si non respectée : risque d'être perçu comme une intrusion. 
 	- Désoriente le focus vers l'extérieur, hors du sujet de la trance.
 

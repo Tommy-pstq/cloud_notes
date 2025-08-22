@@ -31,7 +31,7 @@
 			- Voire dissociation : coupure entre ce qui est perçu consciemment et certaines expériences/sensations/Souvenirs 
 		- Sentiment de peur envahissant 
 			- Résignation voire  abandon total du combat/de la résistance
-				- Dépression / idées suicidaires 
+				- [[Dépression]] / idées [[suicide|suicidaires]] 
 - C'est une succession de causes et effets cohérents qui finit par former un système dysfonctionnel générant beaucoup de souffrance.
 ### L'évitement des autres 
 
@@ -129,7 +129,7 @@
 		- Ruminations morbides 
 		- Angoisses
 		- Amertume
-		- Envies suicidaires
+		- Envies [[suicide|suicidaires]]
 		- Agressivité
 	- Thérapeute:
 		- Soutenir le patient mais montrer de la fermeté 

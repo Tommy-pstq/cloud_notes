@@ -349,7 +349,7 @@
 		- "Depuis quand l'anxiété est entrée dans votre vie ?"
 		- "Qu'est-ce que la colère vous amène à faire ?"
 		- "Comment la tristesse a-t-elle essayé de vous convaincre de rester seul avec vous-même ?"
-		- "Qu'est-ce que la dépression a envie que vous croyiez sur vos capacités"
+		- "Qu'est-ce que la [[dépression]] a envie que vous croyiez sur vos capacités"
 	- Objectif : créer un espace de liberté. 
 - Similaire pour les conflits de couple
 	- "Quelle influence ce conflit a-t-il sur votre relation ?"
@@ -385,7 +385,7 @@
 		- <u>Carte du contexte et du discours</u> 
 			1. Situer le problème dans un contexte plus large 
 				- Analyser les discours à l'oeuvre dans ces contextes
-				- Ex: Une jeune femme mère de deux enfants, plutôt perfectionniste, fatiguée avec un sentiment d'échec, peut - dans ce contexte - tirer des conclusions négatives sur ses capacités.
+				- Ex: Une jeune femme mère de deux enfants, plutôt [[perfectionnisme|perfectionniste]], fatiguée avec un sentiment d'échec, peut - dans ce contexte - tirer des conclusions négatives sur ses capacités.
 					- Questionnement:
 						- **Amener la personne à se rendre compte qu'elle n'est pas la seule femme ayant des enfants à présenter ce problème.**
 							- **"Est-ce que d'autres femmes seraient d'après vous susceptibles d'avoir le même problème ? "**

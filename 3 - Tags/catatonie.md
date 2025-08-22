@@ -1,0 +1,6 @@
+---
+aliases:
+  - catatonies
+  - catatonique
+  - catatoniques
+---

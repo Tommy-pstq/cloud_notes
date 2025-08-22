@@ -8,7 +8,7 @@
 	- **B**: Dramatique, émotionnel, erratique 
 		- Antisociale, [[trouble de la personnalité limite|borderline]]/limite, histrionique, narcissique 
 	- **C**: Craintives & anxieuses
-		- Evitante, dépendante, obsessive-compulsive
+		- Evitante, dépendante, obsessive compulsive
 - Structuration vers la fin de l'adolescence / début de la vie adulte. 
 
 - [[Ouvrage]] : <u>Les Personnalités pathologiques</u>, Quentin Debray & Daniel Nollet.
@@ -34,7 +34,7 @@ DSM
 	- Reste rancunier de manière prolongé
 	- Perçoit sans raison des attaques contre elle et contre attaque ou se met en [[colère]] 
 	- A des doutes sur la fidélité de son/sa partenaire. 
-2. Problème pas relié à d'autres problèmes grave de santé mentale (psychose, trouble bipolaire, schizophrénie, dépression caractérisée avec [[symptômes psychotiques]]) ou à une autre affection médicale. 
+2. Problème pas relié à d'autres problèmes grave de santé mentale ([[symptômes psychotiques|psychose]], trouble bipolaire, schizophrénie, [[dépression]] caractérisée avec [[symptômes psychotiques]]) ou à une autre affection médicale. 
 
 TTT
 
@@ -108,7 +108,7 @@ DSM
 TTT
 
 - Entrainement aux compétences sociales / habiletés nécessaires pour fonctionner dans la société en combinaison avec des antipsychotiques. 
-- Prise en charge précoce : peut potentiellement empêcher une aggravation vers des difficultés plus graves de nature psychotiques. 
+- Prise en charge précoce : peut potentiellement empêcher une aggravation vers des difficultés plus graves de nature [[symptômes psychotiques|psychotiques]]. 
 ## Personnalités dramatiques, émotionnelles ou erratiques 
 
 ### Personnalité antisociale 
@@ -168,7 +168,7 @@ TTT
 	- Impression de vide intérieur 
 	- Emotions non contrôlées
 	- Grande [[peur]] de l'abandon
-	- Automutilation / gestes suicidaires. 
+	- Automutilation / gestes [[suicide|suicidaires]]. 
 - Finissent souvent dans des urgences psychiatriques. 
 
 - Facteurs biologiques (réseau limbique)
@@ -177,7 +177,7 @@ TTT
 	- Réactivité émotionnelle importante à la base.
 	- Vulnérabilité psychologique généralisée / lors d'événements spécifiques reliés à des traumas précoces -> les événements sont souvent perçus comme des menaces.
 		- La manière de réagir, depuis tôt dans la vie, est mal perçue par l'[[milieu social|environnement social]] : réagit mal ou invalide ces personnes -> aggravation du problème.
-	- -> Réaction explosives, contres les autres mais aussi contre elles-mêmes par des gestes automutilateurs ou suicidaires.
+	- -> Réaction explosives, contres les autres mais aussi contre elles-mêmes par des gestes automutilateurs ou [[suicide|suicidaires]].
 
 DSM
 - Grande instabilité dans les réactions interpersonnelles, dans la perception de l'image de soi et des affects. Apparition au début de l'âge adulte, 5 manifestations suivantes:
@@ -190,11 +190,11 @@ DSM
 		- Dépense
 		- Conduite automobile à risque 
 	- Sentiment de vide intérieur qui se perpétue 
-	- De manière répétée : Gestes/Menaces d'automutilation ou suicide.
+	- De manière répétée : Gestes/Menaces d'automutilation ou [[suicide]].
 	- Instabilité affective avec humeur très réactive.
 	- Colère inappropriées et intenses, difficulté à contrôle ses colères 
 	- Survenue temporaire dans des situations de stress :
-		- Idées de persécution
+		- Idées de [[persécution]]
 		- Symptômes graves de [[dissociation]] (amnésie, fugues, dépersonnalisation)
 
  TTT
@@ -209,7 +209,7 @@ DSM
 	- Apprentissage des [[habiletés sociales]] en groupe 
 	- Thérapie individuelle 
 		- Gestion des crises
-			- Eviter les comportements automutilateurs / suicidaires 
+			- Eviter les comportements automutilateurs / [[suicide|suicidaires]] 
 		- Régulariser les émotions : méthode des résolutions des problèmes face à des situations difficiles. 
 	- Apprendre à accepter que certains situations difficiles sont inchangeables.
 		- Se débattre à vouloir les changer = [[détresse]] supplémentaire -> réactions [[Disproportion|excessives]].
@@ -290,7 +290,7 @@ TTT
 - Dans le cas d'obstacles s'opposant à leurs schémas:
 	- Nier envers et contre tous 
 	- Réaction hostile, potentiellement grave/[[violence|violente]] 
-	- Dépression
+	- [[Dépression]]
 		- Augmente la réceptivité à l'idée d'un traitement.
 
 DSM
@@ -393,7 +393,7 @@ TTT
 - Non nécessairement relié à des TOC
 
 DSM
-1. Age adulte, divers contextes et dans le fonctionnement général : manque de souplesse, d'ouverture et d'efficacité. Préoccupations pour l'ordre, le contrôle mental et interpersonnel, le perfectionnisme. Au mois 4 manifestations suivantes:
+1. Age adulte, divers contextes et dans le fonctionnement général : manque de souplesse, d'ouverture et d'efficacité. Préoccupations pour l'ordre, le contrôle mental et interpersonnel, le [[perfectionnisme]]. Au mois 4 manifestations suivantes:
 	- Préoccupé, dans une activité, par : les détails, règles, inventaires, plans, l'organisation, au point que l'objectif de cette activité est perdu de vue.
 	- Difficulté à terminer une tâche car les exigences sont trop élevées / l'individu vise la perfection
 	- Investissement dans le travail à l'exclusion des loisirs et des relations interpersonnelle amicales 
@@ -405,7 +405,7 @@ DSM
 
 TTT
 
-- Remplacer le perfectionnisme par des habitudes/objectifs plus réalistes.
+- Remplacer le [[perfectionnisme]] par des habitudes/objectifs plus réalistes.
 - Remplacer la [[pensée dichotomique]] par quelque chose de plus nuancé, permettant les objectifs intermédiaires.
 - Changement dans les habitudes excessives dans le domaine du travail ou autre.
 - Travail sur l'[[abstraction sélective]]:

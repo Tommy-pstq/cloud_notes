@@ -5,9 +5,9 @@
 			- Ses symptômes peuvent sembler *incompréhensibles* au patient parce qu'il ne peut y voir de lien avec ce qu'il évite.
 
 - On retrouve de l'évitement dysfonctionnel de soi dans:
-	- Les troubles psychotiques (schizophrénie et associés)
+	- Les troubles [[symptômes psychotiques|psychotiques]] (schizophrénie et associés)
 	- Les troubles bipolaires 
-	- La paranoïa 
+	- La [[paranoïa]] 
 	- Bouffées délirantes 
 - Travail sur le délire -> le patient se confronte aux émotions qu'il tente d'éviter
 	- Pouvant être générées à partir de croyances à propos de soi ou des autres.
@@ -73,7 +73,7 @@
 			- Importance capitale de la relation thérapeutique. 
 				- Climat de confiance total pour que le patient puisse accepter d'affronter, progressivement, ce qu'il redoute le plus. 
 - Stratégie très lourde et accaparante 
-	- Peut entrainer une levée totale des inhibition -> phase de type maniaque.
+	- Peut entrainer une levée totale des inhibition -> phase de type [[manie|maniaque]].
 
 - Parfois : conflit entre l'envie, le désir et la raison:
 	- Attrait pour un comportement qu'il réprouve intellectuellement/moralement.
@@ -94,7 +94,7 @@
 				- Tentative d'évitement -> comportement compulsif -> renforcement de l'attirance -> qui parait donc plus effrayante -> tentative d'évitement. 
 
 - <u>Troubles ou signes cliniques concernés</u>: 
-	- Dépression
+	- [[Dépression]]
 	- Troubles bipolaires
 	- Schizophrénie 
 	- Troubles somatoformes (dissociation, conversion)
@@ -149,7 +149,7 @@
 - PdV interactionnel : dépression = conséquence de l'abandon de toute tentative de changement, d'amélioration. Perte du goût de l'interaction, de  la découverte, de l'exploration. 
 - Tentative de solution dominante de ce type de trouble : **résignation**. 
 	- Repli sur soit de plus en plus important 
-		- Ruminations morbides, angoisse, amertume, envie suicidaires, agressivité.
+		- Ruminations morbides, angoisse, amertume, envie [[suicide|suicidaires]], agressivité.
 - Résignation partielle, concernant un unique aspect de la vie ou totale. 
 
 - Souvent: lamentations, partage social de leur misère - Largement compréhensible car continuelle - 
@@ -166,7 +166,7 @@
 	- Si patient ne croit même plus en l'efficacité de la thérapie: mobiliser les ressources des personnes en contact réguliers avec le patient. 
 
 - <u>Troubles ou signes cliniques </u>:
-	- Dépression 
+	- [[Dépression]] 
 - <u>Techniques utilisées</u>:
 	- **Recadrages**
 		- Si absence de force/volonté, la poursuite d'objectifs = génère des déceptions à répétition. 

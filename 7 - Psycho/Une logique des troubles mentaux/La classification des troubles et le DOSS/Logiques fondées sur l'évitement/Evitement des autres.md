@@ -15,7 +15,7 @@
 	- Isolement social
 	- [[Ruminations]] 
 	- Perte de confiance en soi
-	- Etat dépressif 
+	- Etat [[dépression|dépressif]] 
 
 - Ce type d'[[Evitement|évitement]] peut être la conséquence d'une croyance apprise et confirmée dans le passé qu'il faudra déconstruire pour redonner de la souplesse au processus de changement. 
 

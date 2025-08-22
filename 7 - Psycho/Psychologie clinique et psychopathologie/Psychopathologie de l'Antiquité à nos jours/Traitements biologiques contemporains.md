@@ -1,6 +1,6 @@
 
 
-- [[Electroconvulsivothérapie]] pour la dépression sévère et résistante.
+- [[Electroconvulsivothérapie]] pour la [[dépression]] sévère et résistante.
 - Pharmaco
 	- Début XXieme : barbiturique pour calmer + sommeil
 		- Maintenant : [[benzodiazépines]] 
@@ -20,7 +20,7 @@
 			- Clozapine rispéridone, olanzapine, quetiapine
 			- Effet secondaires dangereux, donc sous contrôle médical stricte.
 				- Syndrome métabolique : résistance à l'insuline, prise de poids ... 
-		- Premier épisode psychotique : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
+		- Premier épisode [[symptômes psychotiques|psychotique]] : TTT pharmaco & psycho pour éviter que ça ne se reproduise. 
 	- [[Antidépresseurs]] (dépression, [[phobie]] sociale, TOC, boulimie)
 		- Tricycliques (sérotonine et [[noradrénaline|norépinéphrine]])
 			- Amitriptyline, clomipramine, désipramine, imipramine

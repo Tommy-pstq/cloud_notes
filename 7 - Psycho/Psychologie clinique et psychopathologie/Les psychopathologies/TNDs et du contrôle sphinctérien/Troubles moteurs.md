@@ -26,7 +26,7 @@
 				- Provocation d'une contraction musculaire [[antagonisme|antagoniste]] au tic. 
 		- Considérer le tic comme une manière de relâcher la tension accumulée. 
 			- Réorganisation des comportement pour limiter l'accumulation de tension. 
-		- Minimisation des aspects [[cognition|cognitifs]] facteurs de tension tels que le perfectionnisme. 
+		- Minimisation des aspects [[cognition|cognitifs]] facteurs de tension tels que le [[perfectionnisme]]. 
 	- Pharmaco : 
 		- Légère doses d'[[Antipsychotiques]] : diminution des tics mais effets secondaire conséquents. 
 
@@ -53,7 +53,7 @@
 	 - Subdivision de tâches complexes en étapes simples 
 	 - Ergothérapeute.
 
-### Mouvements stéréotypés
+### Mouvements [[répétitifs|stéréotypés]]
 
 - Mouvement sans buts qui semblent être appréciés.
 - [[Répétitifs]] 

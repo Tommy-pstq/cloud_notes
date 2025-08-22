@@ -57,7 +57,7 @@
 				- Ex: conduites agressives / fuite / passivité. 
 	- Stade de la résignation : 
 		- Confrontation chronique -> accepter que les besoins fondamentaux ne seront pas remplis. 
-			- Etats dépressif
+			- Etats [[dépression|dépressif]]
 			- Faible estime de soi 
 			- Sentiment de charge pour les autres 
 			- Chaque interaction sociale est perçue comme risquée. 

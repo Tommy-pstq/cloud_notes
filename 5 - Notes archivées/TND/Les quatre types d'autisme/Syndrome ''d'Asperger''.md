@@ -23,7 +23,7 @@
 					- Agréable surprise au début
 				- Vers 4 ans et demi : B. monologue et entraine ses parents dans des séries de questions répétitives entièrement centrées sur les variations du temps.
 					- N'écoute pas les réponses et reprend sa litanie. 
-				- Stéréotypie des jeux:
+				- [[Stéréotypie]] des jeux:
 					- Longs alignement d'objets qui s'étiraient à travers la pièce.
 						- Le ruban d'objet rappelait au parent le "ruban de mots" des monologues.
 				- Voulait avoir des amis, mais:
@@ -38,7 +38,7 @@
 						- "Fonçait sur les petits tel un bulldozer, les touchait, les collait dans une quête de relation tellement intense que les partenaires se dérobaient."
 					- Avec les adultes:
 						- Posait des questions inadéquates, au point de questionner son intelligence alors qu'il émettait parfois des réflexions au dessus de son âge.
-				- 7 ans : début des manies. 
+				- 7 ans : début des [[manie|manies]]. 
 					- Porter les mêmes vêtements
 					- Exiger les mêmes itinéraires en voiture 
 				- 8 ans : capable de passer des heures devant un jeu d'échec en sachant organiser des stratégies. 
@@ -84,5 +84,5 @@
 		- Opposé des autres formes d'autisme. 
 	- Motricité pataude 
 	- Prise de conscience progressive de son étrangeté par rapport aux personnes de son âge   -> sentiment de dévalorisation. 
-		- Emergence d'idées dépressives avec risque de passage à l'acte suicidaire/gestes dangereux pour soi-même. 
+		- Emergence d'idées [[dépression|dépressives]] avec risque de passage à l'acte suicidaire/gestes dangereux pour soi-même. 
 

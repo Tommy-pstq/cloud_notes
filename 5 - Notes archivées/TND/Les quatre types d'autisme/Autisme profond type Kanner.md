@@ -19,7 +19,7 @@
 		- Survient habituellement lors de changement d'activité/transition
 		- Peut s'accompagner d'actes automutilateurs. 
 	- Langage généralement inexistant -> quelques écholalies -> utilisation de quelques mots pour formuler des demandes utilitaires. 
-	- Limitation des autres modes d'expression symbolique à quelques jeux stéréotypés (particulièrement : encastrement) ou quelques tracés sur une feuille de papier.
+	- Limitation des autres modes d'expression symbolique à quelques jeux [[répétitifs|stéréotypés]] (particulièrement : encastrement) ou quelques tracés sur une feuille de papier.
 	- Attachement privilégié très souvent remarqué à l'égard de quelques personnes significatives.
 		- Impossible d'obtenir des [[communication|échanges]] réciproques autrement que part des contacts [[sensorialité|sensoriels]]
 	- [[attention]] conjointe / pointage à valeur de désignation sont rares.

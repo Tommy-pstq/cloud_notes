@@ -1,0 +1,5 @@
+---
+aliases:
+  - perfectionniste
+  - perfectionnistes
+---

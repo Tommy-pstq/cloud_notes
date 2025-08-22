@@ -124,7 +124,7 @@
 	- Si ils ne sont pas motivés à devenir *actif de la résolution de leur problème*, c'est à dire *clients de leur solution*, ils pourront s'installer chroniquement dans un statut de "victime": 
 		- Qui va résoudre son problème ?
 
-- Patient qui se pose en victime (dépressif, phobique, etc.) = prends les autres en otage. (entourage, système familial voire professionnel).
+- Patient qui se pose en victime ([[dépression|dépressif]], phobique, etc.) = prends les autres en otage. (entourage, système familial voire professionnel).
 	- Pourra tenter de prendre le thérapeute en otage également:
 		- "Vous ne me comprenez pas.", "Là, vous vous moquez de moi". etc.
 			- **URGENT** pour le thérapeute de sortir de cette dynamique et travailler cet épisode. 

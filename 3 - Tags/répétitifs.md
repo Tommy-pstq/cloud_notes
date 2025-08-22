@@ -1,5 +1,6 @@
 ---
 aliases:
   - répétitif
-  - stéréotypie
+  - stéréotypé
+  - stéréotypés
 ---

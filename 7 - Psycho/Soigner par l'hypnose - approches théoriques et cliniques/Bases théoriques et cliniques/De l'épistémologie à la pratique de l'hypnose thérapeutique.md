@@ -80,7 +80,7 @@
 - Traitement :
 	- Des troubles dissociatifs liés à un PTSD
 	- Des comportement involontaires 
-		- Bégaiement, tics, obsessions, troubles compulsifs, phobies, manies. 
+		- Bégaiement, tics, obsessions, troubles compulsifs, phobies, [[manie|manies]]. 
 
 - Erickson : Les protocoles techniques n'ont pas leur place dans le contexte thérapeutique. 
 	- Ne servent qu'à standardiser des expérimentations. 

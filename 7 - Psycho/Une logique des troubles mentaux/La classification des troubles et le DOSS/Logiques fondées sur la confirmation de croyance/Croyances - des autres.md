@@ -1,5 +1,5 @@
 
-### On me cherche - paranoïa 
+### On me cherche - [[paranoïa]] 
 
 - Tentative de solution découlant de la croyance "On me cherche" = "Je vais le prouver !"
 - Symptômes apparaissent quand quelqu'un a le sentiment qu'il est en danger et a un ennemis précis (ou diffus "les autres", "certains") contre lequel il doit se défendre. 
@@ -11,7 +11,7 @@
 		- de l'abandon
 		- de la trahison
 		- de l'humiliation
-		- Peut devenir extrême dans les cas de délires de persécution. 
+		- Peut devenir extrême dans les cas de délires de [[persécution]]. 
 		- Souvent composée de:
 			- Peur de souffrir 
 			- Liée à grand sentiment d'insécurité personnelle 
@@ -30,7 +30,7 @@
 	- Recouper les diverses informations 
 	- Suggérer des réponses 
 	- Piéger l'autre par des questions orientées 
-- Dans le cas de croyance en un complot:
+- Dans le cas de croyance en un [[complot]]:
 	- Les individus peuvent devenir extrêmement actifs pour:
 		- Prouver leur bonne foi
 		- Chercher des alliés 
@@ -48,7 +48,7 @@
 	- Vivent de façon intense la colère et la douleur.
 		- Qui sont parfois incontrôlables. 
 
-- Obsessions, paranoïa, délire voire épisodes franchement psychotiques :
+- Obsessions, [[paranoïa]], délire voire épisodes franchement [[symptômes psychotiques|psychotiques]] :
 	- Peuvent être interprétés comme une tentative de solution résultant de l'incapacité de défendre de la peur et/ou de la douleur.
 		- Solution : fuite dans le délire. 
 
@@ -65,7 +65,7 @@
 - <u>Troubles, signes cliniques</u>
 	- Personnalité paranoïaque 
 	- sous forme d'épisodes dans:
-		- Dépression
+		- [[Dépression]]
 		- TOC
 		- Schizophrénie 
 - <u>Techniques utilisées</u>
@@ -107,7 +107,7 @@
 				- Ex: Jeune femme entendant des voix hostiles faire des commentaires désobligeants - sortaient de la cafetière de la cuisine, la patiente évitait donc d'y aller mais sans pouvoir échapper aux voix.
 					- Lui est demandé: ne pas attendre que les voix se manifestent mais des les "convoquer" et de les interroger elle-même.
 						- Les voix n'ont pas eu le courage d'affronter sa détermination.
-		- **Délire persécutoire**:
+		- **Délire [[persécution|persécutoire]]**:
 			- Suggérer de meilleures manières de se protéger, généralement en accentuant le délire : G. Nardone, <u>La psychothérapie stratégique</u>, *Comprendre et traiter la souffrance psychique, op. cit., p. 451 -454* 
 
 ### "Iel me trompe"
@@ -147,7 +147,7 @@
 - Une fois qu'elle réalise qu'elle ne pourra pas posséder "l'être aimé", le risque est grand d'un passage à l'acte contre celui-ci.
 
 - <u>Troubles, signes cliniques</u>
-	- Erotomanie 
+	- [[Erotomanie]] 
 - <u>Techniques utilisées</u>
 	- Voir "On me cherche"
 

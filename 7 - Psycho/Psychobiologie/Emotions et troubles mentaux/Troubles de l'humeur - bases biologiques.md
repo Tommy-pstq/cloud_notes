@@ -1,9 +1,9 @@
 
-- Dépression unipolaire : alternance avec des épisodes de vie émotionnellement normaux. 
+- [[Dépression]] unipolaire : alternance avec des épisodes de vie émotionnellement normaux. 
 	- Peut survenir sans stress apparent. 
 	- 13 - 20% de la population à n'importe quel moment de la vie. 
 - Sans traitement : peut durer généralement plusieurs mois. 
-- Peut conduire au suicide. 
+- Peut conduire au [[suicide]]. 
 	- 80% des suicidés étaient profondément déprimés.
 		- Actes impulsifs :
 			- 6% des 500 personnes empêchées de sauter d'un pont se suicidaient par la suite. *(à relativiser vu le choix de suicide spectaculaire)*
@@ -38,7 +38,7 @@
 
 	- Sérotonine semble être la molécule avec le rôle le plus important dans la dépression.
 		- Victimes de suicides : taux très bas.
-		- Tentatives de suicides : ceux qui présentent les taux les plus bas sont les plus susceptibles de recommencer. 
+		- Tentatives de [[suicide|suicides]] : ceux qui présentent les taux les plus bas sont les plus susceptibles de recommencer. 
 
 	- Inhibiteur de la recapture sélective de la sérotonine (IRSS) 
 		- Rats : augmentation de la neurogénèse dans l'[[hippocampe]]
@@ -64,7 +64,7 @@
 			- Seulement 50% des personnes prenant des IRSS arrivent à une guérison complète
 			- 20% d'obtiennent aucune amélioration.
 		- 2006 : <u>Aucune preuve que les IRSS sont plus efficaces que le placebo chez l'adolescent et l'enfant</u> 
-			- Par contre, augmente le risque de suicide dans ces populations. 
+			- Par contre, augmente le risque de [[suicide]] dans ces populations. 
 			- Pas mal de faits troublant à propos des labos pharmaceutique à ce sujet. Doc arte + mentionné dans le livre.
 - <u>Substances alternatives :</u>
 	- [[kétamine]] : antagoniste des récepteurs [[glutamatergique]] 
@@ -136,7 +136,7 @@
 
 ### Trouble bipolaire 
 
-- Cycles rapides >= 4 cycles dépression/manie par an. 
+- Cycles rapides >= 4 cycles dépression/[[manie]] par an. 
 
 - Elargissement des ventricules observé chez les personnes atteintes de trouble bipolaire.
 	- Perte de matière grise - dans d'autres zones que celles de la schizophrénie. 
@@ -148,7 +148,7 @@
 	- Interaction avec une protéine de l'horloge biologique. 
 	- Stimulation de l'activité du BDNF
 		- Pourrait réduire la mort neurale sous jacent à l'érosion de la substance grise. 
-	- Arrête le côté exaltant des épisodes de manie
+	- Arrête le côté exaltant des épisodes de [[manie]]
 		- Pourrait être la cause d'un arrêt de la médication par certains patients. 
 			- Les dépression reviennent aussi
 

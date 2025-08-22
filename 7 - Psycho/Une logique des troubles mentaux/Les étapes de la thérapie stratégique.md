@@ -254,7 +254,7 @@
 	- Intégration des tâches à la vie quotidienne 
 		- *Affronter le pire*: d'une demie heure d'un seul bloc à un fractionnement en 6 créneaux de 5 minutes.
 			- 1 minute à chaque signe d'anxiété, peu importe le contexte. 
-		- Perfectionniste: on prescrit au début comme tâche de dévoiler une petite faiblesse. Ce qui pourra évoluer à une petite faille chaque jour.  Finalement: Bilan à 18h si une petite faiblesse a été montrée durant la journée, sinon, mettre la soirée à profit pour le faire. 
+		- [[perfectionnisme|Perfectionniste]]: on prescrit au début comme tâche de dévoiler une petite faiblesse. Ce qui pourra évoluer à une petite faille chaque jour.  Finalement: Bilan à 18h si une petite faiblesse a été montrée durant la journée, sinon, mettre la soirée à profit pour le faire. 
 	- Logique de confirmation de croyance: Il faut attendre le moment où ils commencent à douter sur la base de l'expérience nouvelle.
 		- Réalisée grâce à une tâche d'observation systématique (*Journal du parano*)
 			- Puis : Décoder le processus de façon rationnelle avec le patient.

@@ -53,7 +53,7 @@
 ### Altérations neurochimiques dans le cerveau schizophrène 
 
 - <u>Hypothèse dopaminergique</u> : Excès de dopamine dans la fente synaptique OU hypersensibilité postsynaptique à la dopamine. 
-	- [[Psychose amphétaminique]] : paranoïa avec illusion de persécution, hallucinations auditives, suspicions, comportements moteurs étranges. (après énorme consommation d'amphétamines)
+	- [[Psychose amphétaminique]] : [[paranoïa]] avec illusion de [[persécution]], hallucinations auditives, suspicions, comportements moteurs étranges. (après énorme consommation d'amphétamines)
 		- Très similaire à la schizophrénie. 
 			- Elle même exacerbée par les amphétamines.
 		- Soulagée par la chlorpromazine : agoniste de la dopamine.

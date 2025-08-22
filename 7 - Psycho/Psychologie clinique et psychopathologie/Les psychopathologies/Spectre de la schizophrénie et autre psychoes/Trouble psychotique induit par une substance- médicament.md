@@ -10,7 +10,7 @@
 	- Phencyclidine (PCP)
 	- Sédatifs/Hypnotiques 
 - Même en absence de prédispositions.
-- Pour considérer qu'on est en présence de psychose, il faut que les symptômes soient plus sévères que ceux associés à une intoxication.
+- Pour considérer qu'on est en présence de [[symptômes psychotiques|psychose]], il faut que les symptômes soient plus sévères que ceux associés à une intoxication.
 
 DSM
 

@@ -1,6 +1,10 @@
 ---
 aliases:
   - depression
+  - dépressif
+  - dépressifs
+  - dépressive
+  - dépressives
 ---
 - [[apathie]]
 - Surestimation des efforts physique à effectuer

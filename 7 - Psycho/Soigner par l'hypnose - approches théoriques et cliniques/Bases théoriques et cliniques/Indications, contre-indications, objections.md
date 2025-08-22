@@ -14,7 +14,7 @@
 	- troubles du sommeil
 	- stress
 	- troubles anxieux / phobies 
-	- dépression
+	- [[dépression]]
 	- obsessions
 	- PTSD
 	- Psychosomatique 
@@ -60,8 +60,8 @@
 		- Si le thérapeute n'est pas formé à faire face à une abréaction affective violente, mieux vaut éviter les forte régressions. 
 
 
-- Patients psychotiques en phases aiguës
-- Paranoïa 
+- Patients [[symptômes psychotiques|psychotiques]] en phases aiguës
+- [[Paranoïa]] 
 - Enfants de moins de trois ans 
 - Arriérations mentales 
 
@@ -95,7 +95,7 @@
 
 ##### Je peux perdre la raison si l'on m'hypnotise 
 
-- Risque réel qu'auprès de patients sévèrement perturbés, souffrant de trouble de la personnalité ou troubles psychotiques
+- Risque réel qu'auprès de patients sévèrement perturbés, souffrant de trouble de la personnalité ou troubles [[symptômes psychotiques|psychotiques]]
 	- = contre-indications. 
 		- Sauf si thérapeute expérimenté, familier de ce genre de pathologie et solide relation de confiance. 
 

@@ -104,7 +104,7 @@
 - Indiqué quand : Le thérapeute se rend compte qu'il fait fausse route. 
 	- Prendre une position basse et avouer au patient que l'on s'est trompé, présenter nos excuses;
 - Ex:
-	- André, "dépressif majeur suicidaire".
+	- André, "[[dépression|dépressif]] majeur suicidaire".
 	- Th. au départ lui a parlé "avec un apparent bon sens qui ne marche pas".
 		- A compris son erreur, fait volte-face:
 			- "Vous m'avez dit comvien il était inutile de vous traiter, de déployer les grands moyens. Et moi, stupidement, je me suis mis à m'occuper de vous, au point même de vous hospitaliser en espérant que cela vous fasse du bien. Quelle bêtise ! Je vous dois des excuses:  je ne vous ai pas écouté ! Maintenant, j'ai compris que vous ne valiez rien et que vous n'arriverai jamais à rien. C'est mon boulot de m'occuper des gens comme vous."
@@ -226,7 +226,7 @@
 		- Que se passerait-il s'ils n'étaient pas respecté.es ? 
 - Le contrat peut comporter des *contraintes particulières*, elles sont annoncées.
 
-- Dépression majeure, utilisation de la "*mise au lit*":
+- [[Dépression]] majeure, utilisation de la "*mise au lit*":
 	- Le patient décrit son *absence de désir* de faire quoique ce soit et une *profonde asthénie*.
 	- Proposition : contrat en blanc qu'il devra suivre à temps plein <u>pendant 2 mois</u>. 
 		- Il doit donc avertir son conjoint, ses proches afin que toutes les dispositions soient prises pour s'adapter à ce nouveau contexte. 
@@ -272,7 +272,7 @@
 	- Poursuite de la thérapie avec un patient qui a retrouvé une partie de son désir, de ses activités. 
 - Indiqué en cas de: dépression *MAJEURES* ! (pas les petites)
 - *Bénéfices, le patient:
-	- Se rend compte : "Qu'on attrape pas une dépression" comme on attrape la grippe.
+	- Se rend compte : "Qu'on attrape pas une [[dépression]]" comme on attrape la grippe.
 	- Découvre qu'il peut faire des choses pour aller bien et d'autres pour aller mal.
 	- En quelques semaines: retrouve un désir puissant, alors qu'il était totalement absent depuis longtemps
 

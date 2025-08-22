@@ -1,5 +1,5 @@
 
-- Sans présenter des problèmes psychotiques : altérations importantes dans la perception du soi ou de la réalité. 
+- Sans présenter des problèmes [[symptômes psychotiques|psychotiques]] : altérations importantes dans la perception du soi ou de la réalité. 
 	- Dissocier d'elle même, de ses pensées, de ses émotions, de ses mémoires avec des phénomènes amnésiques. 
 - Dans des états de grande fatigue, de stress, d'anxiété, de panique. 
 - Si la personne se regarde elle même comme si elle était dans un [[Rêves|rêve]] : [[dépersonnalisation]]. 
@@ -9,7 +9,7 @@
 ## Dépersonnalisation / Déréalisation 
 
 - Manifestations majeures de perturbation psychologique. 
-	- Entrainent une déformation dans la perception de la réalité, mais le contact avec la réalité est préservé : pas des phénomènes psychotiques. 
+	- Entrainent une déformation dans la perception de la réalité, mais le contact avec la réalité est préservé : pas des phénomènes [[symptômes psychotiques|psychotiques]]. 
 - Phénomènes les plus souvent rapportés:
 	- L'environnement semble irréel
 	- Impression d'être étranger à son propre corps 
@@ -30,7 +30,7 @@ DSM
 2. Maintien du sens de la réalité pendant les épisodes.
 3. [[Détresse]] significative / [[altération du fonctionnement]] 
 4. Pas la conséquence d'utilisation de substances ou d'une autre affection médicale (ex: épilepsie).
-5. D'autres diagnostiques de trouble mental comme la schizophrénie, trouble panique, dépression caractérisée, PTDS ont été éliminés. 
+5. D'autres diagnostiques de trouble mental comme la schizophrénie, trouble panique, [[dépression]] caractérisée, PTDS ont été éliminés. 
 
 TTT
 
