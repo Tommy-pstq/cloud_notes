@@ -1,6 +1,6 @@
-- *Dernier update: 03/06/2025* 
-- *Graph de connaissances *
-![[Pasted image 20250515113144.png]]
+- *Dernier update: 22/08/2025* 
+- *Graph de connaissances*
+![[Pasted image 20250822150715.png]]
 - [x] *Référence étudiée & résumée en une note dans le vault*
 - [ ] *Référence en cours d'étude OU lue et en attente d'une relecture pour constitution d'une note*
 - *Référence lue sans prévision de note lors de la dernière actualisation*
@@ -8,9 +8,10 @@
 ## Livres
 
 *DBS = Editions De Boeck Supérieur*
-- [ ] <u>Une logique des troubles mentaux</u>, J.J. Wittezaele, G. Nardone
+- <u>Comprendre et traiter la souffrance psychique</u>, Mony Elkaïm
+- [x] <u>Une logique des troubles mentaux</u>, J.J. Wittezaele, G. Nardone *08/2025*
 - <u>L'autisme aujourd'hui</u>, Michel Lemay. *05/2025*
-- [ ] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj 
+- [x] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj *07/2025*
 - [ ] <u>Soigner par l'hypnose, Approches théoriques et cliniques</u>, Eric Bonvin, Gérard Salem
 - <u>Psychologie des foules et Analyse du Moi</u>, Sigmund Freud.
 - <u>Les Jardiniers de la folie</u>, Edouard Zarifian. *03/2025*
