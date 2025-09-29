@@ -5,7 +5,7 @@
 
 - Le développement du système sensoriel commence avant la naissance, les différents capteurs étant formés à l'issue de la période embryonnaire (8 semaines après la fécondation)
 	- Observations des premiers signes de fonctionnement:
-		- Tact : 13-14 semaines post fécondation, auto-contact, contact avec le cordon ombilical & paroi placentaire 
+		- Tact : 13-14 semaines gestation : auto-contact, contact avec le cordon ombilical & paroi placentaire 
 		- Vestibulaire : 21-25 semaines post fécondation
 		- Odorat & gout : 24-25 semaines post fécondation
 		- Ouïe : 32 semaines

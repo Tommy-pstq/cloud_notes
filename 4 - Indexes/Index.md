@@ -8,7 +8,10 @@
 ## Livres
 
 *DBS = Editions De Boeck Supérieur*
-- <u>Comprendre et traiter la souffrance psychique</u>, Mony Elkaïm
+- <u>L'Art du changement</u>, Nardone, Watzlawick, *09/2025*
+- <u>Une logique de la communication</u>, Watzlawick, *09/2025*
+- <u>La stratégie de résolution des problèmes</u>, Nardone, *09/2025*
+- <u>Comprendre et traiter la souffrance psychique</u>, Mony Elkaïm *09/2025*
 - [x] <u>Une logique des troubles mentaux</u>, J.J. Wittezaele, G. Nardone *08/2025*
 - <u>L'autisme aujourd'hui</u>, Michel Lemay. *05/2025*
 - [x] <u>Thérapies brèves plurielles : principes et outils pratiques</u>, Y. Doutrelugne, O. Cottencin, J. Betbèze, I. Barrois, V. Likaj *07/2025*

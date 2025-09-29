@@ -37,7 +37,8 @@
 	- **[[Soi - non-soi]]** 
 		- Références aux autres, opinion des autre sur soit. 
 
-- **Intersubjectivité** = capacité à partager des pensées, des [[émotion|émotions]] et des expériences avec autrui. Construction de l'intersubjectivité : processus progressif qui comment dès la naissance, se développe via interactions sociales et affectives. 
+- **Intersubjectivité** = capacité à partager des pensées, des [[émotion|émotions]] et des expériences avec autrui. 
+- Construction de l'intersubjectivité : processus progressif qui comment dès la naissance, se développe via interactions sociales et affectives. 
 	- [[Imitation]] néonatale -> intentionnelle -> différée -> identification aux autres -> sentiment d'appartenance à un groupe. 
 		- -> précurseur de l'[[identité sociale]].
 	- Perception [[sensorialité|sensorielle]] du corps propre (dès la naissance) -> conscience implicite -> [[conscience|conscient]] [[conscience|explicite]] de soi différencié d'autrui. 

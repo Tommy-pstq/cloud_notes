@@ -1,5 +1,6 @@
 
 #### CM - 1 
+
 - ***Cognition sociale*** = Etude des processus psychologiques par lesquels l'individu donne du sens à lui même, aux autres, au monde qui l'entoure ainsi qu'aux conséquences de ces processus sur les comportements. Fiske & Taylor, 2008.
 
 	- Ces processus -> cognitions sociales (attitudes, stéréotypes...) à partir des interactions avec l'environnement. 

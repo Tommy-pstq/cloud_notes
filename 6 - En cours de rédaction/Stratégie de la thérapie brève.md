@@ -133,7 +133,7 @@ On pourrait sous-titrer : Eloge de l'utilisation.
 
 **Techniques d'utilisation**
 
-<u>En [[hypnose]].</u>
+En [[hypnose]].
 - Ratification 
 	- L'attention du patient est dirigée sur un élément : sensation, perception fantasme. LEs changements se produisant sont ratifiés : "Alors que vous m'écoutiez, votre pouls à changer, votre tête est dans une position différente", "vous manifestez les changements désirables"
 - Attribution 
