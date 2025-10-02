@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/TD Psycho enfant/TD2 - Dev prénatal.md",
+                "file": "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TD2 - Dev prénatal"
+              "title": "TD1"
+            }
+          },
+          {
+            "id": "dd56038a957097c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/I - Cognition sociale et cognitions sociales.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I - Cognition sociale et cognitions sociales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,12 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d1e66a769981eb4",
+  "active": "dd56038a957097c7",
   "lastOpenFiles": [
-    "4 - Indexes/Index.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/TD2 - Dev prénatal.md",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD1.md",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/I - Cognition sociale et cognitions sociales.md",
+    "2 - Source Materials/Pasted image 20251002160608.png",
+    "2 - Source Materials/Pasted image 20251002155329.png",
+    "2 - Source Materials/Pasted image 20251002154320.png",
+    "0 - Cours Psycho/L2/TD Psycho enfant/TD2 - Dev prénatal.md",
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1.md",
+    "PDF/TD2 - Dev prénatal.pdf",
+    "4 - Indexes/Index.md",
     "7 - Psycho/Psychologie sociale/L'influence sociale/Attitudes et changement d'attitudes.md",
     "0 - Cours Psycho/L2/Pb cours psychologie de l'enfant clinique.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM1 Rythmes Biologiques.md",
@@ -207,8 +237,6 @@
     "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/La thérapie systémique brève/1 - Principe des TSB.md",
     "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/2 - Un mandat à co-construire/4 - Le choix d'un tandem.md",
     "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/2 - Un mandat à co-construire/3 - L'engagement.md",
-    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/2 - Un mandat à co-construire/1 - Le problème.md",
-    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/2 - Un mandat à co-construire/2 - L'objectif.md",
     "2 - Source Materials/Pasted image 20250822150715.png",
     "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance",
     "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales",
@@ -219,10 +247,6 @@
     "2 - Source Materials/Pasted image 20250515113144.png",
     "2 - Source Materials/Pasted image 20250606160725.png",
     "2 - Source Materials/{1BEE3B75-5462-4D2C-9EE8-A05476CA4380}.png",
-    "2 - Source Materials/{1A8E4B2A-4728-40C0-BDEF-0999AD86629E}.png",
-    "2 - Source Materials/518187777_743655624821727_7238091390835489120_n.jpg",
-    "7 - Psycho/Une logique des troubles mentaux/Recadrages et tâches spécifiques",
-    "2 - Source Materials/IMG_6539.jpg",
     "Untitled.canvas"
   ]
 }
