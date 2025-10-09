@@ -30,8 +30,33 @@
 		- *Application réelle: comment l'étude de la cognition sociale peut fournir des éléments à d'autres activités (i.e : santé, thérapie, marketing ...)* 
 
 
+- Deuxième séance, questions corrigées 
+1. Qu'est-ce que la cognition sociale ? Sur quelles bases/principes nourrit elle son approche 
+	- Cognition sociale = étude de la manière dont les gens se donnent du sens et en donnent à autrui
+		- Via étude des représentations et processus mentaux intervenant dans cette production de sens (mentalisme)
+			- Décrire *Comment* les éléments cognitifs se forment, fonctionnent et changent avec le temps pour comprendre *Pourquoi* une réponse émerge en réaction à un stimulus 
+			- Décrire les relations dynamique entre l'environnement social et l'individu qui traite les informations disponibles en vue de s'adapter aux enjeux présents les contextes sociaux 
+		- Pour décrire le plus finement:
+			- Utilisation de savoir issue de psychologie cognitive 
+			- Méthodes pour les confronter à la réalité sociale 
+				- Application dans le monde réel 
+				- Pour s'informer des problèmes important 
+					- Focalisation sur les problèmes sociaux 
+	
+2. En quoi l'approche de la cognition sociale est-elle semblable/différente de la psychologie cognitive ?
+	- Point commun : intérêt cognition / processus cognitif. 
+	- Différence :
+		- Cognition sociale = TTT information autres individus & portée sociale 
+			- "Les gens ne sont pas des choses"
+		- Psycho cognitive = Ce que les gens penses d'objets abstraits/inanimés 
 
-- Réfléchir au éléments de réponse 
-- Echanger les questions avec celles d'un autre groupe. 
-- Correction
-- Discussion
+3. Quelles sont les deux tendances qui oriente les travaux en cognition sociales ? En quoi sont-elles différentes ?
+	- Elémentaire 
+		- Fragmente pour expliquer 
+	- Holistique 
+		- Vision globale : le tout > la somme des éléments constitutifs 
+- Psycho sociale :
+	- Groupe = aggréga d'individualité sans existence propre // Elementaire
+		- Comportement du groupe = somme des cpmts individuels 
+	- Groupe >= collection d'individu // Holistique 
+		- Existence et fonctionnement propre dépassant la somme des fonctionnements des individus 
