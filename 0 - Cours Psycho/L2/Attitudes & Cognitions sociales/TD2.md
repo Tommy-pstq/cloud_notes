@@ -64,7 +64,7 @@
 		- Indiquer son accord/désaccord sur échelle graduée. 
 	- Inverser scores des items négatifs 
 	- Elaboration d'indicateurs moyens 
-- Eviter proposition extreme 
+- Eviter proposition extrêmes 
 - Pas de proposition neutre 
 - Items = croyances ou préférences 
 - Proposition claires 
