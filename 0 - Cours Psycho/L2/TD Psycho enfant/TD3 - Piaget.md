@@ -1,0 +1,159 @@
+
+- Questions 
+
+	- **Qu'est-ce que l'intelligence sensori-motrice ?** 
+		- *Piaget : "adaptation = développement de l'intelligence"*
+			- *Manière de réagir/comprendre (à) son environnement* 
+				- *Sensori-motrice = inclue dans le champ perceptif/mouvements* 
+					- *i.e intelligence sensoro-motrice = manière d'interpréter son champ perceptif et d'adapter ses réflexions pour atteindre un but définir* 
+					- *Via : schématisation & représentations symbolique* 
+
+	- **Pourquoi peut-on parler d'une pensée sans langage ?** 
+	
+		- *"Source de la pensée = fonction symbolique"*
+			- *Association signifiant/signifié* 
+	
+		- *Qtité de fonctionnement logique pré-verbal* 
+		- *Fonction symbolique* 
+			- *Jeu de faire semblant* 
+			- *Imitation retardée* 
+		- *Fonction logique de négation*  
+			- *Retrait du bras*
+		- *Instrumentalisation d'objet*
+		- *Fonction réciproque* 
+			- *Symétrie corporelle* 
+		- *Imitation*
+
+	- **Rôle du langage sur la pensée ?** 
+		- Dissociation signifiant / signifié 
+		- *Permet l'abstraction de concepts/raisonnement  et par conséquence l'élargissement/complexification  des réflexions* 
+			- *Développement du raisonnement hypothético-déductif par application des opérations logiques combinatoire au langage lui même.* 
+				- *"Nécessaire mais non suffisant".* 
+				- *Favorise le développement de la pensée*
+
+
+- **Eléments de correction:**
+	- Epistémologie : étude critique des sciences
+		- Identifier leur origine logique/valeur/portée 
+	- Épistémologie génétique 
+		- Théorie de la connaissance 
+		- Explication l'acquisition de la connaissance chez l'enfant = construction
+	- Psychologie génétique : 
+		- Etudie le psychisme dans sa formation & transformation
+	- Piaget 
+		- Langage = pensée verbale 
+		- Focus : interaction langage // pensée 
+			- Formation de l'intelligence 
+				- Notamment: opérations logiques
+- **Qu'est-ce que l'intelligence sensori-motrice ?** 
+	- 8-10 mois : sensori-moteur //possède déjà une intelligence 
+		- Dont les seules expressions sont sensori-motrices
+			- Champ perceptif/mvmts 
+		- " Bébé emprisonné dans l'ici / maintenant" 
+			- Pas de permanence de l'objet 
+			- Ce qui n'est pas perçu n'existe pas. 
+		- Pas de différenciation moi/non-moi 
+			- sensation d'Omnipotence 
+		- Pas de pensée mais un "pré-pensée"
+			- Intelligence pratique 
+			- Pas de langage 
+			- Pas de symbolisme 
+		- Construction des premiers schèmes 
+			- Schème = structure/organisation d'action qui se transfert/généralise lors de la répétition d'une action en des circonstances semblables ou analogues.
+			- Assimilation 
+				- Assimiler le réel dans un schème pré-existant 
+			- Accomodation 
+				- Modification d'un schème par le réel, devenu inadapté. 
+					- Ex: 2 mains pour un objet plus lourd. 
+			- Assimilation + Accomodation = adaptation. 
+	- **Stade Pré-opératoire (2-7 ans)**
+		- Langage : modification progressive de l'intelligence 
+			- Sensori-motrice -> pensée
+		- Evocation de situation non-actuelles 
+			- Hors du champ perceptif 
+		- Début de maniement des symboles
+			- Via imitation 
+		- Toujours égocentré
+			- Pas de conception du PdV de l'autre 
+		- Très perceptif 
+			- Séparation billes -> nombres +
+	- **Stade Opératoire concret 7-12 ans** 
+		- Acquiert réversibilité 
+		- Meilleure théorie de l'esprit 
+		- Libération de l'égocentrisme 
+		- Langage : permet de dissocier les concepts de leur immédiateté 
+			- Schématisation représentative 
+			- Transitivité : report d'une caractéristique d'un objet à un autre.. 
+	- **Stade formel : pensée abstraite** 
+		- Emergence de la morale 
+		- INRC
+			- Identité / 
+			- Négation/inversion 
+				- Enfant : notion de vide 
+			- Réciproque : 
+			- Corolaire 
+		- Pensée hypothético-déductive
+			- Application de règle générale à des cas particuliers 
+		- INRC : pensée complexe chez l'enfant, système de pensée combinatoire
+			- Pensée combinatoire = pensée formelle consistant à combiner de façon systématique selon des principes mathématique des objets matériels ou propositions logique et les opérations qui les relient.
+
+- **Pourquoi peut-on parler d'une pensée sans langage ?** 
+	- Enfant : chercher des moyens pour acquérir une fonction symbolique. 
+		- Différencier signifiant et signifié 
+			- Signifiants = Ce que l'on tente de trouver pour décrire/parler/représenter un signifié 
+				- **Qu'est-ce que l'enfant utilise ?** 
+					- <u>L'imitation différée</u> (après immédiate) : imiter ce qu'ils construisent dans leur rapport à l'environnement.
+						- On représente l'action de quelqu'un qui n'est pas "ici/maintenant" -> l'action a été intégrée / représentée 
+							- Forme de symbolisme 
+						- Imitation différée : différenciation entre le moi et non moi. 
+					- Puis <u>jeu symbolique</u>
+						- "re-présentation" de l'objet absent à travers le jeu. "Comme si"
+							- Semblant de téléphoner/dormir etc.
+						- Apparaît à peu près en même temps que le langage 
+							- Mais indépendant. 
+						- Le jeu participe à l'acquisition du langage
+							- Importance du jeu/des histoires.
+							- Plus l'enfant joue -> + interaction -> + langage
+							- **Jeu chez l'enfant : permet une plus grande différenciation des rôles et états psychiques** 
+								- Tolérer la frustration inérante à l'absence de l'objet. 
+						- Ecole / Activité : doivent participer au devmt de la fonction symbolique.
+					- <u>Dessin symbolique</u> 
+						- Dessin = signifiant 
+						- Avant 2 ans :
+							- Gribouillage = satisfaction perciptivo-moteur 
+								- Pas de réelle intentionnalité représentative 
+						- Après 2 ans:
+							- Début intentionnalité 
+							- Perfectionnement de la représentation
+							- Via échange avec adulte:
+								- Conscience que le dessin peu ressembler  à qqch
+									- Fonction symbolique.
+			- **Langage = constitué par un ensemble de signes (signifiants arbitraires conventionnels)** 
+	- Fonction symbolique : via imitation, jeu, dessin, vocabulaires. 
+
+- Piaget : dans certaine opération motrices (concrète), on observe des fonction/opération logique de la future pensée complexe.
+	- Ex: adaptation marche en approchant escalator. 
+	- Ex: Enfant Sours-muets présente tout de même une pensée complexe 
+- **Pensée complexe : se construit sur le concret.** 
+
+- **Rôle du langage sur la pensée ?** 
+	- Nécessaire mais insuffisant pour la pensée complexe, pour la construction des opérations logiques 
+		- Sans système d'expression symbolique : les opérations concrètes demeurent à l'état d'action successive sans jamais s'intégrer dans des systèmes simultanés. 
+	- Permet abstraction/généralisation 
+		- Sortir des manipulations concrètes.
+		- Ex: calcul mental sans langage = difficile pour l'enfant
+	- 7 ans : socialisation de la pensée
+		- Sortir de l'égocentrisme 
+			- De la pensée 
+			- Du langage
+	- Certaines fonctions acquises dans le langage ne le sont pas forcément dans les opérations réalisées:
+		- Ex: savoir que rose = fleur, pas toujours associé à une réussite dans les tâches d'inclusions des classes. 
+		- Ex: Enfants qui régressent au niveau scolaire 
+			- Revenir au concret.
+	- Pensée a ses racines dans les mécanismes sensori-moteurs. 
+		- Plus profond que le seul fait linguistique. 
+	- "On se met à penser dès l'instant ou on est en mouvement avec l'environnement".
+	- Le monde est moins perçu que construit subjectivement 
+		- Chacun à sa propre construction. 
+		- Environnement : facilitateur ou inhibiteur de la pensée d'un enfant. 
+			- Donc pour le dev d'une pensée complexe en dépend. 

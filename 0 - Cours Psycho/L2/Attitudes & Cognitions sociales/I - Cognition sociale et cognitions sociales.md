@@ -218,13 +218,59 @@
 - Intention d'implémentation et contraste mental 
 ### Intention d'implémentation et contraste mental 
 
+
+#### Intention d'implémentation *Gollwitzer*
+
 - Forte intention comportementale : nécessaire mais pas suffisant.
 	- **Facteurs bloquant** *Gollwitzer*
 		- Autres (pré) occupations non anticipées interférant avec le comportement 
 		- Conflits entre but recherché et autres buts
 			- Non prévu, perçu a posteriori
-		- Evenements inattendus : captation de l'attention
+		- Événements inattendus : captation de l'attention
 			- Oublis de l'intention
 		- Ne pas identifier une opportunité ou ne pas savoir quoi/comment faire
 			- Aurait permis d'agir en adéquation avec l'intention 
 
+- *Gollwitzer* : "Comment réduire écart entre intention et comportement ?"
+	- Une intention d'action se transforme en comportement à condition d'avoir établi une intention d'implémentation. 
+	- *Gollwitzer* -> Accompagner les individus à mettre en oeuvre les intentions
+		- Souvent : pas assez d'intention d'implémentation. 
+
+- **Intention d'implémentation**
+	1. <u>Anticiper</u>
+		- De manière réaliste 
+		- Les opportunités d'agir (en adéquation avec l'intention)
+		- Les obstacles/difficultés
+	2. <u>Planifier les réponses</u>
+		- De manière concrète
+			- IMPORTANT : le comportement planifié doit être concrète, précis et détaillé pour répondre à une situation précise. 
+			- Résultats d'autant plus marqués que l'implémentation est faite avec précision. 
+- S'apparente à un **raisonnement conditionnel** 
+	- *Si je me retrouve dans la situation X (anticipation), alors j'applique le comportement Y (planificiation)*
+	- Décider de quelque chose ET du **comment**
+- Objectif: construire une nouvelle habitude de manière délibérée et délibérative.
+	- Nécessite introspection.
+		- Pas automatique/facile pour tous les individus. 
+
+#### Contraste mental *Oettingen*
+
+- Complément de l'implémentation d'action. 
+	- Stratégie <u>d'auto-régulation</u> 
+		1. Evocation de <u>l'avenir désiré</u> 
+			- Imagination libre d'un futur souhaité 
+				- Images, sentiments..
+			- *Apporte motivation*
+		2. Evocation de la <u>réalité actuelle</u>
+			- Concrètement
+				- Focus sur les aspects déplaisants 
+		3. Mise en relation explicite des deux 
+			- Focus sur les aspects de la situation actuelle qui empêche l'atteinte de l'avenir désiré 
+				- Evite le déni/évitement 
+	- Favorise:
+		- Une évaluation objective des obstacles 
+		- La motivation à changer de réalité. 
+			- Individu dans un état réceptif -> recherche de solution possible. 
+
+- Contraste mental = phase préalable aux intentions  d'implémentation 
+	- Bénéfique seul 
+	- Couplé aux intentions d'intention = statistiquement mieux que les deux stratégies isolées. 

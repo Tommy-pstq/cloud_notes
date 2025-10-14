@@ -264,7 +264,7 @@
 	3. Pseudo unipolaires 
 		- Dans les ganglions 
 
-### Diversité fonctionnelle 
+### Diversité fonctionnelle des neurones 
 
 1. Neurones sensitifs 
 	- Afférent 
@@ -278,4 +278,28 @@
 
 ## Cellules gliales 
 
+- Au moins aussi nombreuses que les NN
+- Pas de conduction nerveuses 
+
+#### Fonctions 
+
+- Remplir l'espace entre neurones : glue, soutient 
+- Rôle essentiel pendant le développement du SN et pour son fonctionnement 
+	- Soutient structurel
+	- Nutritif 
+		- Apport métabolites 
+	- Protection des neurones 
+
+#### Différentes cellules 
+
+- Dans le SNC 
+	- Astrocytes 
+	- Oligodendrocytes 
+	- Microgliales
+	- Ependymocytes (cellules épendymaires)
+- SNP
+	- Satellite
+	- Cellule de Schwann 
+
+### Astrocytes 
 
