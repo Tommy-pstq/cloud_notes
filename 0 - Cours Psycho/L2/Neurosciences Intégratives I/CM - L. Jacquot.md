@@ -1,6 +1,6 @@
 
 
-#### Structure et fonctionnement SN 
+## Structure et fonctionnement SN 
 
 - SN = système de TTT de l'information 
 	- Plus rapide / complexe 
@@ -26,7 +26,7 @@
 	- Somatique = fonctions volontaire 
 	- Végétatif = respiration, digestion 
 
-## Protections du SNC 
+### Protections du SNC 
 
 #### 1er Niveau: Méninges 
 
@@ -152,7 +152,7 @@
 
 #### Eléments spécifiques du neurone 
 
-- Beaucoup de mitochondrie 
+- Beaucoup de **mitochondrie** 
 	- Métabolisme neurones élevé : besoin énergétique important 
 - Présence de **R**éticulum **E**ndoplasmique **G**ranuleux (REG)
 	- En amas = ***Corps de Nissl***
@@ -221,7 +221,7 @@
 		- Principalement axones. qlq dendrites 
 	- Gaine conjonctive = tissu conjonctif + vaisseaux sanguins 
 		- Deux grands <u>types de gaine conjonctive protectrice</u>:
-			1. Myéline 
+			1. **Myéline** 
 				- Enroulement de la membrane plasmiques des cellules gliales (Oligodendrocytes SNC ou cellules de Schwann SNP)
 					- Membrane plasmique riche en lipides 
 						- Aspect blanc nacré 
@@ -230,7 +230,7 @@
 					- Protection
 				- Interruption de la gain = Noeuds de Ranvier
 					- Permettent l'augmentation de la vitesse de l'influx nerveux 
-			2. Gaine de Schwann
+			2. **Gaine de Schwann**
 				1. Accolement de cellules de Schwann non myélinisante 
 					- Rôle de protection/maintien 
 - <u>Types de fibres nerveuses</u>
@@ -303,3 +303,89 @@
 
 ### Astrocytes 
 
+- Cellules gliales les plus nombreuses 
+- Grandes 
+	- Structure étoilée 
+		- Prolongement cytoplasmiques ramifiés 
+- Entourent les neurones 
+	- Contact avec les vaisseau sanguins 
+
+- <u>Fonctions</u>
+	- Soutient cohérence 
+	- Nutrition : stock de glycogène (carburant essentiel NN)
+	- Protection 
+		- Pieds des astrocytes = couche externe de la Barrière hémato-encéphalique
+
+#### Barrière Hémato-Encéphalique 
+
+![[Pasted image 20251020144306.png|500]]
+
+- <u>Cellule endothéliales</u> cérébrales autour des vaisseaux sanguins 
+	- Collés via **jonction serrées**
+- <u>Péricyte</u>: 
+	- Cellule musculaire lisse 
+	- Régulation flux sanguin 
+- <u>Astrocytes</u>:
+	- Pieds astrocytaires recouvrent les vaisseau
+		- Isolation.
+- <u>Fonction</u>:
+	- Empêche le passage de grosse molécules (virus, protéines)
+		- Mais aussi certains médocs. 
+- <u>Aspect patho</u>
+	- Vieillissement 
+		- Augmentation de la perméabilité de la BHE (Alzheimer)
+			- Perte de contrôle homéostatique local.
+
+### Oligodendrocytes 
+![[Pasted image 20251020144843.png]]
+- Petites cellules 
+- **Elaboration de la gaine de myéline dans le SNC**
+	- Via l'enroulement de leur cytoplasme autour des axones (jusqu'à 40 feuillets)
+		- Augmentation de la vitesse de conduction de l'influx nerveux
+- <u>Aspect patho</u>:
+	- Sclérose En Plaques.
+		- Apparition  ~~ 30 ans 
+		- Inflammation chronique du SNC
+		- Auto-immune 
+			- Destruction de la myéline autour des axones (visible IRM)
+				- Dégénérescence neuronale 
+		- Stades précoce
+			- Remyélinisation possible 
+				- Hétérogène entre individu 
+				- Processus finissant par s'épuiser. 
+
+### Cellules microgliales 
+- Petites 
+
+- Dérivent des monocytes, **macrophages cérébraux** 
+	- Elimination des débris par **phagocytose** 
+	- Protection du SNC
+		- Déclanchement **réaction inflammatoire** 
+	- **Sécrétion facteur trophiques** 
+
+- Activation chronique exacerbée de la microglie : nocif.
+	- Sécrétion facteurs toxiques 
+		- Radicaux libres 
+		- Pro-inflammatoire
+	- Aggravation lésions tissulaires 
+	- Chronique:
+		- Pathologies liées à la neuroinflammation 
+
+### Ependymocytes 
+- Petites
+![[Pasted image 20251020150135.png|500]]
+- Paroi des ventricules cérébraux 
+	- Présence de cils à la surface 
+		- Déplacement -> circulation et échange du LCR
+
+### Glie du SNP
+
+#### Cellule de Schwann 
+
+- Responsable myélinisation dans le SNP 
+	- Beaucoup moins efficace que Oligodendrocytes 
+		- 1 seul axone (jusqu'à 50 pour oligo)
+#### Cellule Satellite 
+
+- Fonction de support / soutien mécanique 
+- Entourent neurones 

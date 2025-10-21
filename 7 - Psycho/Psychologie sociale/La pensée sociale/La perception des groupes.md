@@ -128,13 +128,13 @@
 
 ### Poids des rôles, choc des structures
 
-- Modèle du Contenu des stéréotypes (MCS):
+- <u>Modèle du Contenu des stéréotypes (MCS):</u>
 	- Deux questions essentielles préoccupent les gens dans leurs interactions avec autrui :
 		- Savoir ce que les autres veulent ?
 			- Est-ce que les intentions sont bienveillantes ou hostiles ?
-				- -> Notion de "chaleur"
+				- -> Notion de "**chaleur**"
 		- Quels sont les moyens à leurs disposition ?
-					- -> Notion de "compétence"
+					- -> Notion de "**compétence**"
 	- -> Caractérisation bi-dimensionnelle des groupes.
 		- Phénomène de "compensation dimensionnelle"
 			- Un groupe ne peut pas être jugés comme parfaitement compétent ET chaleureux.

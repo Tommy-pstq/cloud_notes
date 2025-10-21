@@ -59,7 +59,7 @@
 - Likert 
 - Osgood 
 
-- Likert 
+- #### Likert 
 	- Présentation : plusieurs propositions exprimant des opinions opposées 
 		- Indiquer son accord/désaccord sur échelle graduée. 
 	- Inverser scores des items négatifs 
@@ -73,3 +73,15 @@
 	- Réponse médiane ? pas de consensus
 		- Avis mitigé 
 		- Sans avis 
+
+- #### Différenciateur sémantique - Osgood
+	- Principe général : évaluer une entité
+		- Valence et intensité 
+	- Via : liste d'adjectifs.
+		- Par paires d'antonymes. 
+		- Termes positivement/négativement
+		- Individu se positionne entre les deux. 
+		- Alternance de position des termes (pas tout le temps négatif à gauche)
+		- Adapter son vocabulaire 
+	- Scores
+		- -> Moyenne

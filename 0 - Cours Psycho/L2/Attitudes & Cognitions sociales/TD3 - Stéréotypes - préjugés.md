@@ -1,0 +1,41 @@
+- Définir / expliquer ce que sont stéréotypes / préjugés ? 
+	- Préjugé = attitude, opinion évaluative,  souvent négative, à l'encontre d'une personne ou d'un groupe de personne basé sur leur appartenance à un groupe social. 
+		- Représente la dimension affective d'une attitude 
+		- **Différenciation sociale** 
+		- Notion de source/cible 
+		- Sans lien direct. "pré"
+			- Partagé socialement 
+				- "Relais social"
+	
+	- Stéréotype = **croyances** partagées concernant les caractéristiques personnelles, souvent la personnalité des personnes appartenant à un groupe. 
+		- Rationalisation + justification du préjugés 
+		- Dimension cognitive des attitudes 
+		- Sans lien directe avec des expériences vécues 
+		- **Idée consensuelle** : partagés socialement 
+		- Stéréotypisation -> catégorisation. 
+			- Processus adaptatif 
+		- Caractère opérant:
+			- Guide le comportement -> discrimination 
+		- Répond au besoin :
+			- Valorisation de l'endogroupe 
+			- Simplification de la réalité 
+
+- Techniques de mesure des stéréotypes 
+	- Explicites
+		- Questionnaires 
+		- Echelles 
+			- Scalaire
+			- Distance sociale 
+		- Attribution de traits 
+		- Observations comportements discriminatoires 
+	- Implicites 
+		- Utilisation d'amorçage visuel et étude de l'impact sur la vitesse de prise de décision.
+			- Mesure du caractère inconscient en prime. 
+
+		- Méthode des corrélations inversées 
+			- Ajout de masques de pixels successifs ou de leur négatifs (choisi) à une image de visage.
+			- -> Evaluation de l'image finale.
+				- Les participants les plus racistes produisent des des images jugées les moins positivement par les juges dans le cas d'image de base d'individus Marocains.
+
+- Eléments de correction 
+	- 
