@@ -1,0 +1,73 @@
+
+- CdC
+	- Mesure 1 attitude 
+		- Likert / OSgood 
+	- Différencier au moins 2 groupes 
+	- Inclure une autre échelle 
+		- Mesure une autre variable Qtitative 
+			- Supposée corrélée à l'attitude 
+	- Inclure des questions complémentaires 
+		- Ex: caractéristiques socio-démographiques / comportements 
+
+- Thèmes
+	- Accueil & intégrations migrants FR
+	- Genre et inégalités sociales/pro en FR
+	- Troubles psycho et recours au psychologues 
+	- Réseaux sociaux 
+	- Intelligence artificielle 
+	- Conso substance 
+	- Protection environnement 
+	- Acté physique quotidienne 
+- Retenu:
+	- Conso de substances.
+	- Retenu 
+		- Ecrans 
+
+- Attitude à l'égard des écrans / numériques 
+
+- Hypothèse argumentée : une autre variable argumentée corrélée à l'attitude 
+- 2 groupe sociaux 
+- Variables complémentaires pertinentes 
+
+
+- Hypothèse :
+	- Connaissance du numérique -> influence l'attitude 
+		- Connaissance du numérique = dissociations des écrans selon leurs différentes utilisations possibles. 
+			- Via les utilisations concrètes. 
+				- Possibles:
+					- Télé 
+						- Console/jeux  
+						- Infos 
+						- Documentaires 
+						- Films
+					- Ordinateurs
+						- Travail
+						- Jeux 
+						- Réseaux/Communication 
+						- Achats/Réservations
+					- Téléphone 
+						- Réseaux 
+						- Communication 
+						- Jeux
+						- Travail
+						- Achats/Réservations
+		- Critère à définir : niveau d'intégration des écrans dans le quotidien de la personne 
+		- Possible également : recule / critique de sa propre consommation 
+	- Questions mesure attitude : Likert 
+		- Les écrans sont une menace pour la société 
+		- Le temps d'écran des enfants devrait être strictement régulé 
+		- Les écrans ouvrent de nombreuses possibilité 
+		- Les écrans simplifient grandement ma vie 
+		- Les écrans diminuent la quantité de contact sociaux 
+		- Les écrans diminuent la qualité des contact sociaux 
+		- Les écrans permettent de rester en contact avec mes proches 
+		- Les écrans prennent une place trop importante dans ma vie. 
+		- Les écrans ont un effet néfaste sur les capacité cognitive 
+		- Certaines activités disponibles sur les écrans permettent le développement de capacité applicables à d'autres domaines
+		- Les écrans sont un passe temps tout aussi acceptable qu'une autre occupation comme la lecture ou le dessin 
+		- Les écrans sont souvent liés à une consommation déraisonnées 
+		- Je considère passer trop de temps sur les écrans, ce qui m'empêche de m'investir dans d'autres activités 
+		- Les écrans devraient être interdit avant un certain âge 
+		- Evaluation tps journalier devant un écran 
+		- J'ai du mal à utiliser les nouvelles technologies 
+		- 

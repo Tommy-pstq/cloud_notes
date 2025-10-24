@@ -23233,31 +23233,6 @@
         "nonWhitespaceCharacterCount": 4727
       }
     },
-    "3 - Tags/2025-10-16.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1760616310764,
-      "modifiedDate": 1760616310764,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "0 - Cours Psycho/L2/TD Psycho enfant/CM - Psycha.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -23550,6 +23525,56 @@
       "createdDate": 1760968566589,
       "modifiedDate": 1760968566589,
       "sizeInBytes": 340917,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1 - D. Mor- Test cptmtx rongeur.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 819,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.73,
+      "characterCount": 7454,
+      "nonWhitespaceCharacterCount": 5785,
+      "readingTimeInMinutes": 3.090566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761112705482,
+      "modifiedDate": 1761119243807,
+      "sizeInBytes": 7640,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD Questionnaire.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 307,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0233333333333334,
+      "characterCount": 2645,
+      "nonWhitespaceCharacterCount": 2035,
+      "readingTimeInMinutes": 1.1584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761231888717,
+      "modifiedDate": 1761234225927,
+      "sizeInBytes": 2730,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
