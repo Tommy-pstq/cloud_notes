@@ -32,26 +32,6 @@
 	2. Qu'est-ce qu'un "objet mamaïsé" (Françoise Dolto), quel lien faire avec un objet transitionnel ? 
 	- Objet mamaïsé = objet transitionnel (continuum des perceptions = maintien de l'existence -> constitution  de représentation mnésique (d'objet)    dans le monde extérieur) permettant le maintient de la "mêmeté" de l'enfant en lui fournissant un accès à la représentation maternelle même en son absence via des stimulations sensorielles semblables (olfactives, gustatives), lui offrant ainsi un sentiment de  sécurité. Possible avant les 4 mois de Winnicott. 
 
-		- « Des mots dont cet enfant n’a pas le vocabulaire, l’objet transitionnel
-				est peut-être le lexique, non déchiffrable, promu
-				à représenter l’entièreté du sujet qui s’intuitionne
-				dans sa relation d’objet-corps potentiellement
-				érogène et dans sa relation fonctionnelle encore
-				fusionnelle à “la mère” (l’adulte dont dépend la
-				survie de l’enfant 6). »
-		-  Il le protège des brisures et préserve
-			son sentiment de « mêmeté ». Ainsi, la mère partie,
-			l’enfant garde en lui, soutenu par l’objet choisi, le
-			continuum des perceptions répétées et reconnue
-
-		- d’objets « mamaïsés », « qui font surgir en l’enfant, par associations de
-fantasmes, la présence sécurisante mémorisée de sa mère 7 ». 
-
--   cet objet matériel, choisi par le nourrisson « dans son environnement immé-
-diat », lui permet d’établir une transition entre la relation primitive au sein maternel et la constitu-
-tion d’objets dans le monde extérieur ; et devient une part de l’enfant, tout en restant extérieur à
-lui 
-
 
 - Eléments de correction 
 
