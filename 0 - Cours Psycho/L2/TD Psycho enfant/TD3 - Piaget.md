@@ -11,7 +11,7 @@
 	- **Pourquoi peut-on parler d'une pensée sans langage ?** 
 	
 		- *"Source de la pensée = fonction symbolique"*
-			- *Association signifiant/signifié* 
+			- *dissociation signifiant/signifié* 
 	
 		- *Qtité de fonctionnement logique pré-verbal* 
 		- *Fonction symbolique* 
