@@ -7,7 +7,9 @@
 
 ## Livres
 
-*DBS = Editions De Boeck Supérieur*
+- <u>Conflits de famille : Comment sortir des impasses relationnelles entre parents et enfant</u>, Gianotti, Rocchi, Nardone, *11/2025* 
+- <u>L'amour et la haine de la nourriture : Ou comment résoudre rapidement les troubles du comportement alimentaire</u>, Nardone, *10/2025*
+- <u>Manuel Pratique de Thérapie orientée solution</u>, Alain Vallée, *10/2025*
 - <u>L'Art du changement</u>, Nardone, Watzlawick, *09/2025*
 - <u>Une logique de la communication</u>, Watzlawick, *09/2025*
 - <u>La stratégie de résolution des problèmes</u>, Nardone, *09/2025*
@@ -31,7 +33,7 @@
 - <u>Psychopathologie de la vie quotidienne</u>, Sigmund Freud. *2024*
 - <u>Où est le sens</u>, Stephan Bohler. *2022*
 - <u>L'homme Thermomètre</u>, Laurent Cohen. *2021*
-
+*DBS = Editions De Boeck Supérieur*
 ## Articles
 
 ### Neurosciences
