@@ -95,7 +95,7 @@
 
 ### Tissu nerveux 
 
-- Deux types de cellules : 50%/50%   au moins. *TD : 85% cellules gliales*
+- Deux types de cellules : 50%/50%   au moins. *TD : 85% cellules gliales dans certaines zones*
 	- Neurones 
 	- Cellules Gliales 
 
@@ -186,7 +186,7 @@
 	- **Possède son propre cytoplasme** (axoplasme, membrane = axolemme)
 		- <u>Contenu</u>:
 			- Mitochondrie +++
-			- Absence de REG
+			- Absence de REG -> pas de prod protéines
 			- Microtubules ++
 				- Transport **Antérograde** : acheminement protéines produites dans le corps cellulaire
 				- Transport **Rétrograde** : Elimination déchets  
@@ -389,3 +389,30 @@
 
 - Fonction de support / soutien mécanique 
 - Entourent neurones 
+
+## Anatomie du système nerveux 
+
+- SNC = encéphale + ME 
+	- Substance grise = corps cellulaire neurones, cellules gliales, capillaires sanguins 
+	- Substance blanche = axones myélinisés 
+- Encéphale :
+	- Sub. grise périphérique, blanche centrale 
+- ME 
+	- Grise centrale, blanche périphérique 
+
+### L'encéphale 
+
+![[Pasted image 20251112143706.png]]
+
+- Développement : 5 vésicules 
+	- Prosencéphale 
+		- **Télencéphales** : hémisphères = "cerveau"
+		- **Diencéphale** : Thalamus, hypothalamus 
+	- Mésencéphale 
+		- **Mésencéphale**
+	- Rhombencéphale 
+		- **Métencéphale** : Pont, cervelet 
+		- **Myélencéphale** : Bulbe rachidien 
+
+### Cerveau 
+
