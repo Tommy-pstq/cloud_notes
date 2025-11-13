@@ -416,3 +416,132 @@
 
 ### Cerveau 
 
+- Siège des fonctions cérébrales complexes 
+	- Perceptions 
+	- Mouvement volontaires 
+	- Processus cognitifs complexes:
+		- Mémoire, langage, planificatoin 
+- 2 parties : hémisphères 
+	- Séparées : scissures longitudinale 
+
+- Croisement des voies nerveuse: chaque hémisphère reçoit info et envoie commande de manière contro-latérale 
+
+- <u>Communication entre hémisphère </u>
+	- Corps calleux.
+		- Pathologie : "Split Brain"
+			- Malformation congénitale / Destruction accidentale ou chir 
+			- Symptômes:
+				- Retard dev moteur/cognitif 
+				- Difficultés communication / interaction sociales 
+				- Difficultés coordination 
+
+- <u>Cortex cérébral</u>
+	- Bosses = circonvolutions / gyri (il existe des espèces lissencéphale)
+	- Plissures : augmentent la surface. 
+		- A plat : 60cm² 
+- <u>Sillons - Scissures </u>
+	- Centrale - de Rolando 
+	- Latérale - de Sylvius 
+	- -> Délimitation des lobes cérébraux. 
+- <u>Lobes</u>
+	- Frontal, Temporal, Pariétal, Occipital, Insulaire 
+![[Pasted image 20251113103829.png|400]]
+
+### Structures  et fonctions des aires cérébrales 
+
+#### Lobe frontal 
+
+- Le plus volumineux : 1/3 V_tot
+- Fonctions intellectuelles :
+	- Régulation émotionnelle 
+	- Personnalité 
+	- Langage 
+	- Mouvement volontaires 
+	- Raisonnement, Planification, prise de décision
+	- Fonction exécutives 
+- <u>Cortex Préfrontal</u>
+	- Fonctions cognitives supérieures 
+		- Raisonnement, Planification, Prise de décision
+		- Mémoire de travail
+		- Régulation émotionnelle 
+		- Personnalité 
+	- Gère les fonctions exécutives:
+		- "Chef d'orchestre" -> pour agir de manière adaptée à la vie sociale 
+	- Siège de l'inhibition 
+	- Fonctions connues à partir de lésions 
+		- Cas de Phénéas Cage (barre de fer)
+			- Changement de personnalité 
+				- Impulsivité, instabilité, grossier
+			- Décés 12 ans plus tard épilepsie 
+- <u>Cortex moteur</u>
+	- **Cortex moteur primaire**
+		- Exécution du mouvement 
+		- Organisation somatotopique (homonculus de Penfield)
+			- Proportionné en fonction de la finesse des mouvements possibles 
+	- **Cortex prémoteur**
+		- Organisation des séquences motrices
+			- Après planification issue de CPF
+- <u>Aire de Broca</u>
+	- Composante motrice du langage 
+		- Aphasie de Broca
+
+#### Lobe pariétal 
+
+![[Pasted image 20251113104809.png|400]]
+- Sensibilité du corps, somesthésie.
+	- 4 modalités:
+		- Tactile 
+		- Thermique 
+		- Nociceptive
+		- Proprioceptive
+	- Infos venant différentes parties du corps 
+		- Peau, muscles, tendons, articulations 
+
+- <u>Cortex Somato-Sensoriel</u>
+	- **Cortex Somato-Sensoriel Primaire**
+		- Organisation somatotopique 
+			- Fonction de la sensibilité sensorielle 
+		- Sensorialité primaire : tactile, thermique, nociceptive, proprio 
+	- **Cortex Somato-Sensoriel Secondaire**
+		- Traitement d'informations plus complexes:
+			- Reconnaissance de formes / textures 
+
+#### Lobe temporal 
+
+- Emotions, mémoire, langage, audition 
+
+- <u>Cortex auditif</u>
+- ![[Pasted image 20251113111111.png|250]]
+	- **Aire auditive primaire**
+		- Encodage des caractéristique fondamentale des sons : fréquence, amplitude.
+	- **Aire auditive secondaire**
+		- Traitement plus complexe : interprétation signaux sonore
+	- **Aire de Wernicke**
+		- Compréhension du langage
+			- Parlé et écrit 
+- <u>Cortex olfactif primaire</u>
+	- **Cortex pirforme**
+	- **Cortex entorhinal**
+
+- <u>Amygdale et Hippocampe</u>
+- ![[Pasted image 20251113111052.png|250]]
+	- Profondeur du lobe temporal
+	- Inclues dans le système limbique 
+		- Emotions, mémoire, comportement motivationnel 
+	- <u>Amygdale</u>
+		- Traitement des émotions : peur, anxiété +++
+	- <u>Hippocampe</u>
+		- Formation & consolidation des souvenirs 
+
+#### Lobe occipital 
+
+- Traitement des informations visuelles 
+![[Pasted image 20251113111304.png|250]]
+- <u>Aire visuelle primaire</u>
+	- Porte d'entrée cortex visuel
+		- Réception & analyse de base formes visuelles 
+- <u>Aires visuelles secondaire</u>
+	- Réception les infos des aires visuelles primaires
+		- Intégration & analyse plus fines. 
+
+#### Lobe insulaire 
