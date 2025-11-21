@@ -1,6 +1,6 @@
 #### CM - 1 
 
-- ***Cognition sociale*** = Etude des processus psychologiques par lesquels l'individu donne du sens à lui même, aux autres, au monde qui l'entoure ainsi qu'aux conséquences de ces processus sur les comportements. Fiske & Taylor, 2008.
+- ***Cognition sociale*** *Fiske & Taylor, 2008.*  = Etude des processus psychologiques par lesquels l'individu donne du sens à lui même, aux autres, au monde qui l'entoure ainsi qu'aux conséquences de ces processus sur les comportements. 
 
 	- Ces processus -> cognitions sociales (attitudes, stéréotypes...) à partir des interactions avec l'environnement. 
 
@@ -15,11 +15,11 @@
 		- Constructivisme et  Déterminisme influencent:
 			- Processus cognitifs 
 
-- ***Attitude*** = Tendance psychologique avec laquelle une entité est évaluée avec faveur ou défaveur. *Fiske*
+- ***Attitude*** *Eagly* = Tendance psychologique avec laquelle une entité est évaluée avec faveur ou défaveur. 
 	- Disposition
 	- Structure mentale "stockée"
 		- Activable. 
-- Attitude = « Un état de préparation mental et neuronal, organisé par l'expérience, exerçant une influence directive ou dynamique sur la réponse de l'individu à tous les objets et situations avec lesquels il est en relation » *Allport.* 
+- **Attitude** *Allport.*  = « Un état de préparation mental et neuronal, organisé par l'expérience, exerçant une influence directive ou dynamique sur la réponse de l'individu à tous les objets et situations avec lesquels il est en relation » 
 
 - ***Fonction*** des attitudes:
 	- Instrumentale - guider le comportement 
@@ -120,15 +120,15 @@
 
 - Facteurs rendant une attitude forte. 
 	- *Bassili* 1996 : 
-		- Subjectifs : ressentis, méta-cognition (auto-évaluation)
-		- Objectifs - Sans poser de question
+		- **Subjectifs** : ressentis, méta-cognition (auto-évaluation)
+		- **Objectifs** - Sans poser de question
 			- Structure intra-attidudinale 
 				- Force d'association 
 					- Activation 
 			- Mesure : vitesse de réponse. 
 	- *Visser* 2006 :
-		- Motivateurs - importance de l'attitude -> motive l'action 
-		- Capacitants - Hautes connaissances / certitude 
+		- **Motivateurs** - importance de l'attitude -> motive l'action 
+		- **Capacitants** - Hautes connaissances / certitude 
 			- L'individu se sent capable de faire un choix. 
 - Lien de causalité entre facteurs:
 	- Importance --(modulo milieu social)--> Recherche d'information -> Elaboration de la structure attitudinale 
@@ -265,7 +265,7 @@
 				- Focus sur les aspects déplaisants 
 		3. Mise en relation explicite des deux 
 			- Focus sur les aspects de la situation actuelle qui empêche l'atteinte de l'avenir désiré 
-				- Evite le déni/évitement 
+				- *Evite le déni/évitement* 
 	- Favorise:
 		- Une évaluation objective des obstacles 
 		- La motivation à changer de réalité. 
@@ -323,7 +323,7 @@
 		- Sphère majeure de la socialisation : **famille**
 			- Culture familiale 
 			- Pratiques éducatives 
-				- Ex: Adorno : favorise l'autoritarisme (allemagne post 1ere WW)
+				- Ex: Adorno : favorise l'autoritarisme (Allemagne post 1ere WW)
 				- **Acquisition d'un système de catégorisation sociale** 
 		- Cristallisation des positions à l'âge adulte 
 	3. **Causes cognitives et motivationnelles**

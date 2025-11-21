@@ -230,3 +230,27 @@ Si oui, de quel type ?
 	- [ ] 2
 	- [ ] 3
 	- [ ] Plus de 4 
+
+### Echantillonnage & procédures 
+
+- Critère sociaux:
+	- Gen Z : (18 - 28)
+	- GenX : (45 - 60)
+- Hypothèse retenue:
+	- Soutien social perçu 
+
+#### Echantillon
+
+- Population cible ?
+	- 18 - 60
+- Technique d'échantillonnage ? 
+	- Random tq effectifs OK. 
+		- Dépend autres facteurs sociaux
+	- Ou si hypothèse de variabilité plus élevée dans un des groupes 
+		- sur-échantillonné. 
+- Effectif minimal ?
+	- Pratique : 
+		- 50 - 50 = 1/cat/personne 
+
+--- 
+

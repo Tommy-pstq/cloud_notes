@@ -60,9 +60,9 @@
 			- Pas de symbolisme 
 		- Construction des premiers schèmes 
 			- Schème = structure/organisation d'action qui se transfert/généralise lors de la répétition d'une action en des circonstances semblables ou analogues.
-			- Assimilation 
+			- **Assimilation** 
 				- Assimiler le réel dans un schème pré-existant 
-			- Accomodation 
+			- **Accomodation** 
 				- Modification d'un schème par le réel, devenu inadapté. 
 					- Ex: 2 mains pour un objet plus lourd. 
 			- Assimilation + Accomodation = adaptation. 

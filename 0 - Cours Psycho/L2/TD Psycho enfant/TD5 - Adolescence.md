@@ -1,0 +1,153 @@
+
+Intro
+
+- Gutton : modèle adolescence en France. 
+	- Processualité psychique spécifique à l'adolescence
+		- Plutôt que développemental 
+	- Après infantile et avant adulte :
+		- Process spécifique adolescnce
+			- Pubertaire 
+			- Adolescens
+	- Si "processus psychique" adolescent
+		- Alors on peut les retrouver chez l'adulte
+			- Sans que ce soit patho 
+
+- Txt de François Marty 
+	- Adolescence = processus complexe
+		- Interroger la place du corps et des émotions à  l'adolescence. 
+			- Métamorphoses liées au corps = centrales à l'adolescence
+				- Corps réel / Biologique 
+				- Mais aussi : investissement psychique du corps (-> corps singulier & désirant) 
+		- Ce qui demande un grand travail psychique :
+			- Accès sexualité génitale. 
+			- Corps devient érotique 
+
+- Questions:
+	- Comment comprenez-vous les liens entre le corps et les émotions à l'adolescence ?
+		- *Emotions : effet physiologiques. Proche des pulsions car interface psyché - somatique. Adolescence = Métamorphose structurelle du corps -> émotions intenses car inconnu, perte de contrôle, sensation de dépersonnalisation -> peur/rejet/haine. + CPF immature -> régulation émotionnelle encore plus difficile.* 
+		- *Surpasse les défenses mises en place.*
+		- *Nécessité de les accepter & canaliser plutôt que de les renier*
+	- De quel corps parle-t-on à l'adolescence  ?
+		- *Métamorphoses intenses et violentes*
+			- *Impact l'identité*
+		- *Corps désirant,  sexualité génitale, importance du regard*
+			- *Recherche de contrôle sur son évolution trop rapide/intense*
+				- *Grande sensibilité *
+	- Comment - à partir txt - :
+		- Concepts d'adolescence
+			- *Présence de process d'évolutions corporelles- puberté - et psychique : pubertaire* 
+			Rejet figure parentale, se détermine comme une génération propre *  
+		- Puberté 
+			- *génitalisation du corps.*
+		- Pubertaire 
+			- *Puberté du psychisme : réinterprétation de la sexualité infantile : donne forme et sens au sex génital*
+	- En quoi les processus d'adolescence peuvent-ils conduire à des attaques du corps ou à recourir à l'agir ?
+		- *Etrangeté vis à vis de soi même* *car évolution brutale & violente*
+			- *Le corps n'appartient plus* 
+				- *Il est étranger*  
+					- *Extérieur = mauvais (stabilité temporaire du moi)*
+						- *Haine de son propre corps *
+		- *Emotions trop intenses* 
+			- *Pas d'autre solution que d'agir.*
+			- *Non verbalisé -> ne reste que l'action.*
+
+- Eléments de correction
+	1. Liens entre corps  & émotions à l'adolescence :
+		- Corps = réceptacle de toutes les métamorphoses pubertaires - en particulier : des angoisses adolescentes 
+			- Enjeu de l'adolescence : réussir à unifier le corps infantile (Freudien) et le nouveau corps  pubère de l'adolescence
+				- lieu d'éprouvés inconnus : La plupart sexualisés sinon érotisés 
+		- Alternance entre un corps persécuteur car échappe au sujet et un corps séducteur.
+			- Inquiète, angoisse le sujet
+		- Souvent : corps <u>repérer comme le lieu de la souffrance </u>
+			- Angoisse liées à un corps qui change
+				- Somatisation / dysmorphophobie ... 
+		- La puberté & tout ce qu'elle draine comme éprouvé corporel inédit : est à l'origine des émotions souvent intenses voire débordantes des adolescents. 
+		- Différence entre émotions et affects:
+			- Principalement épistémologique.
+				- <u>Emotion</u> = reliée au corps réel, articulée à la puberté.
+					- Traduction de la sensibilité corporelle 
+				- <u>Affect</u> : terme psychanalytique, corpus théorique :
+					- Relié au corps psychique. 
+						- Articulé au pubertaire
+							- Traduction subjective de la pulsion 
+								- A l'adolescence : pulsion = génitalisée. 
+									- Car ado a accès sexualité génitale.
+	2. Les corps de l'adolescence :
+		- Corps **biologique** (toile de fond des changements qui surviennent)
+		- Corps **érotique & fantasmatique** = "socle véritable de cette renaissance"
+			- Identité = identité corporelle 
+				- Corps adolescent -> rupture, surprise 
+					- -> Stupeur. 
+		- Changements --> discontinuité : **changement = accès sexualité génitale** 
+			- Etrangeté vis à vis de soi même 
+				- Souffrance de ces changements violents. 
+				- Peur de déformation 
+					- -> Grosse vulnérabilité 
+					- Soin pour l'apparence 
+			- Accès sexualité génitale 
+				- Nécessité de se tenir à distance des figures parentales 
+					- Si trop grande proximité :
+						- Vécu de proximité incestueuse ou parricidaire
+					- Une des tâches les plus importante :
+						- Se détacher des figures parentales 
+							- impérieux mais douloureux. 
+							- 
+		- **Puberté** : met le corps sexué au centre des considérations 
+			- **oblige** l'adolescent à intégrer une nouvelle identité corporell & sexuelle
+				- Gros travail psychique 
+					- Possible : difficultés temporaires. 
+						- **Processus adolescents = séparation -> deuil.** 
+							- Difficulté à renoncer au monde de l'enfance 
+								- Rejet/déni/attaque du corps 
+									- Des changements qu'il représente. 
+	3. 
+		- "Adolescence est un véritable processus qui consiste à nommer tout ces éprouvés"
+		- "Adolescence relie et interprète la sexualité infantile à la lumière du pubertaire"
+		- "De l'auto-érotisme qui prévaut dans l'enfance à l'investissement de l'autre génital qui porte la marque de l'adolescence"
+			- Quitter les objets de l'enfance pour en investir de nouveaux 
+		- Aujourd'hui : on parlera plutôt des processus adolescents au pluriel que de l'adolescence au singulier
+		- Processus adolescents (ou processualité adolescente) caractérise un moment que l'on ne peut pas véritablement borner en terme d'âge de grands remaniement psychique et identificatoire et de bouleversements corporels et physiologique.
+			- Englobent :
+				- La puberté articulée au pubertaire
+				- Transformation des identification & idéalisation 
+				- Investissement marqué de la culture 
+					- Construction de soi
+					- Souvent : dans des objets culturels méprisés par les parents. 
+		- **Puberté**, Freud, 1905, *Trois Essaies* = 
+			- La puberté, renvoie au corps réel, biologique, caractérisée par le prima des zones génitales (**rassemblement pulsionnel : toutes les pulsions convergent vers la zone génitale, fin de la pulsion partielle = différence avec la sexualité infantile**) et par la différenciation des sexes et la découverte de l'objet (-> première relation amoureuse). 
+			- A l'origine de plusieurs transition
+				- Auto-érotisme -> hétéro-érotisme. 
+				- Sexualité infantile -> génitale 
+				- Indifférenciation des sexes -> rencontre de l'autre / découverte de l'objet
+			- Pour toutes ces raisons : souvent, **période conflictuelle & souffrante.** 
+		- **Pubertaire**, Gutton = 
+			- Le pubertaire est à la psyché ce que la puberté est au corps. 
+				- = Génitalisation de la vie psychique
+				- Doit métamorphoser les représentation infantiles (freudienne = oedipe) en fonction de la pulsion génitale 
+					- Via accès à des objets extérieurs au cercle familiale, nécessaire. 
+						- Rôle de la culture. 
+	4. Attaque du corps / recours à l'agir
+		- En réponse à la violence des processus adolescents. 
+			- "Comment ne pas être violent quand on sent que ce qu'il se passe à l'intérieur de soit est une violence à soi même"
+			- "L'agir violent montre que l'adolescent est débordé"
+			- "Une forme ordinaire de dépression transparait dans nombre d'attitudes"
+		- Souvent, pour but de : 
+			- Détruire les traces de la puberté. 
+				- Car le corps pubère peut être vécu comme insupportable ou trop en écart avec une image de soit idéalisée qui renvoie souvent à l'infantile. 
+					- Ascétisme : abstinence visant à lutter contre les pulsions sexuelles et agressives. Mode de vie dépourvu de plaisir. 
+		- Aujourd'hui : recours à l'agir très polysémique.
+			- Recours à l'acte à l'adolescence = appel lancé à l'environnement. 
+				- C'est un symptôme. 
+				- S'adresse à quelqu'un. 
+				- Renvoie à beaucoup d'actes symptomatiques 
+					- TS, conduites à risque, scarification, fugues...
+				- Si considérer comme une forme de langage :
+					- Recours à l'acte = voie d'accès pour favoriser la dimension élaborative de la dépressivité adolescente. 
+						- Dépressivité ado = processus inévitable qui participe à la maturation psychique. 
+		- Attaque du corps + recours à l'acte = symtômes.
+			- Donc : ils ont une fonctionne.
+				- Expression de la souffrance. 
+		- Forme ordinaire de dépression chez l'ado;
+			- Nécessaire qu'il déprime : présence de moments dépressif
+				- Ne pas s'en inquiéter trop rapidement. 
+			- Il est déprimant de grandir, mais c'est nécessaire.  

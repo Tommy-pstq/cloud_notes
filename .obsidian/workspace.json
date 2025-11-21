@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
+                "file": "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vidéo - Sommeil"
-            }
-          },
-          {
-            "id": "c90cda63600b5a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - L. Jacquot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CM - L. Jacquot"
+              "title": "CM - V. VW"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,54 +175,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c90cda63600b5a7c",
+  "active": "2d1e66a769981eb4",
   "lastOpenFiles": [
-    "2 - Source Materials/Pasted image 20251113152301.png",
-    "3 - Tags/Untitled.md",
+    "2 - Source Materials/Pasted image 20251121171553.png",
+    "2 - Source Materials/Pasted image 20251121171117.png",
+    "2 - Source Materials/Pasted image 20251121170940.png",
+    "2 - Source Materials/Pasted image 20251121170430.png",
+    "2 - Source Materials/Pasted image 20251121170049.png",
+    "2 - Source Materials/Pasted image 20251121170002.png",
+    "2 - Source Materials/Pasted image 20251121165919.png",
+    "2 - Source Materials/Pasted image 20251121165542.png",
+    "2 - Source Materials/Pasted image 20251121164048.png",
+    "2 - Source Materials/Pasted image 20251121163537.png",
+    "2 - Source Materials/Pasted image 20251121163424.png",
+    "0 - Cours Psycho/L2/TD Psycho enfant/TD3 - Piaget.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - L. Jacquot.md",
-    "2 - Source Materials/Pasted image 20251113145628.png",
-    "2 - Source Materials/Pasted image 20251113144529.png",
-    "2 - Source Materials/Pasted image 20251113144056.png",
-    "2 - Source Materials/Pasted image 20251113143354.png",
-    "2 - Source Materials/Pasted image 20251113142748.png",
-    "2 - Source Materials/Pasted image 20251113141226.png",
-    "2 - Source Materials/Pasted image 20251113111304.png",
-    "2 - Source Materials/Pasted image 20251113111111.png",
-    "2 - Source Materials/Pasted image 20251113111052.png",
-    "4 - Indexes/Index.md",
-    "2 - Source Materials/Pasted image 20251113104809.png",
-    "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
+    "0 - Cours Psycho/L2/TD Psycho enfant/TD5 - Adolescence.md",
+    "PDF/TD5 - Adolescence.pdf",
+    "0 - Cours Psycho/L2/TD Psycho enfant/TD4 - Objet transitionnel.md",
+    "PDF/TD3 - Piaget.pdf",
+    "0 - Cours Psycho/L2/TD Psycho enfant/TD1 - TTT visage.md",
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD3 Mor - CD24 protein.md",
+    "7 - Psycho/La thérapie brève systémique et stratégique.md",
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/I - Cognition sociale et cognitions sociales.md",
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD1 Cognition Sociale.md",
     "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD Questionnaire.md",
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD3 - Stéréotypes - préjugés.md",
+    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/CM - Stéréotypes, préjugés, discrimination.md",
+    "3 - Tags/Untitled.md",
+    "4 - Indexes/Index.md",
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
     "PDF/Vidéo - Sommeil.pdf",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD - Sommeil.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1.md",
     "0 - Cours Psycho/L2/Pb cours psychologie de l'enfant clinique.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/TD4 - Objet transitionnel.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/TD3 - Piaget.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/TD2 - Dev prénatal.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/TD1 - TTT visage.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/CM - Psycha.md",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/I - Cognition sociale et cognitions sociales.md",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD Questionnaire.md",
     "PDF/TD Questionnaire.pdf",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD3 - Stéréotypes - préjugés.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1 - D. Mor- Test cptmtx rongeur.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD2 - D. Mor.md",
     "PDF/TD4 - Objet transitionnel.pdf",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/Untitled.md",
     "3 - Tags/2025-10-16.md",
-    "7 - Psycho/Psychologie sociale/L'influence sociale/De la présence d'autrui à a la formation des normes.md",
-    "7 - Psycho/Psychologie sociale/La pensée sociale/Le jugement social.md",
-    "7 - Psycho/Psychologie sociale/La pensée sociale/La perception des groupes.md",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD2 Attitudes.md",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD1 Cognition Sociale.md",
     "PDF/CM - Psycha.pdf",
     "PDF/I - Cognition sociale et cognitions sociales.pdf",
     "PDF/TD2 - Dev prénatal.pdf",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I",
     "0 - Cours Psycho/L2/TD Psycho enfant",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales",
-    "0 - Cours Psycho/L2",
     "Untitled.canvas"
   ]
 }
