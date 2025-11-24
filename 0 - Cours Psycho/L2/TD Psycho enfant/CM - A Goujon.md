@@ -164,12 +164,119 @@
 		- Imitation différée 
 			- Représentative
 ##### Critiques stade sensori-moteur 
+- Perma objet = 8 mois environ pour Piaget.
+	- Etudes plus récentes via regard préférentiel & paradigme de violation des normes 
+		- Présence de la permanence de l'objet dès 3 mois $1/2$ 
+	- Identité de l'objet : 6 mois. 
+- Globalement : Piaget a sous-estimé les capacités des bébés à se représenter des objets. 
+- Notion de gravitation : 4 mois. 
+- Habiletés numériques : 4-5 mois 
+	- Addition/Soustraction contesté 
+	- Interprétation perceptive
 
+#### Fonction sémiotique 
 
-#### Période de l'intelligence préopératoire (de 2 à 6 ans), divisée en 2
-stades.
-#### Période des opérations concrètes ou de l'intelligence opératoire (de 6 à
-10 ans).
+- **Fonction sémiotique** = capacité à représenter les signifiés en leur absence au moyen de signifiants différenciés.
+	- Permet une pensée symbolique 
+		- Dissociation signifiants/signifiés 
+		- Evocation de réalités absentes à partir de symboles/signes 
+	- Permet une mémoire d'évocation
+		- Bcp de critique; ça serait présent bien avant 18 mois. 
+- Au stade sensori-moteur 
+	- La représentation ne fonctionne qu'en présence du signifié 
+	- Les signifiants de sont pas détachés du signifiés 
+- Emergence des premières véritables représentations mentales pour Piaget. 
+
+##### Manifestations de la fonction sémiotique 
+
+- Imitation différée 
+	- Passage des conduites sensori-motrice aux conduites représentatives (différées)
+- Jeu symbolique = faire semblant 
+- Dessin
+- Image mentale (imitation intériorisée)
+	- Au stade pré-opératoire : reproductives & statiques 
+- Langage 
+	- <small> Langage : « forme particulière de la fonction symbolique (…) . La pensée
+précède le langage (…)
+le langage transforme profondément la pensée en l’aidant à atteindre ses
+formes d’équilibre par une schématisation plus poussée et une abstraction
+plus mobile ».
+En conclusion, le langage ne suffit pas à expliquer la pensée car les
+structures qui caractérisent cette dernière plongent leurs racines dans
+l’action et dans des mécanismes sensori-moteurs plus profonds que le fait
+linguistique. Plus les structures de la pensée sont raffinées, plus le langage
+est nécessaire à l’achèvement de leur élaboration </small> 
+
+#### Période de l'intelligence préopératoire (de 2 à 6 ans), divisée en 2 stades.
+
+- Stade pré-opératoire : suite à l'apparition de la fonction sémiotique. 
+- Période d'intériorisation de l'action & des schèmes sensori-moteurs. 
+	- Tout ce qui a été vu au niveau sensori-moteur est à reconstruire sur un nouveau plan:
+		- **Décalage vertical**
+- Après 2 ans : développement des opérations mentales.
+	- Ne sont finalement que des schèmes sensori-moteurs intériorisés 
+		- Qui doivent être reconstruit sur un plan représentatif 
+- Période de préparation aux opérations concrètes 
+
+- 2 sous stades:
+	- Pensée symbolique ou pré-conceptuelle (2 - 4 ans)
+	- Pensée intuitive (4 - 7 ans)
+##### Pensée Symbolique 
+
+- Acquisitions:
+	- Notion de quantité 
+	- Capacité langagière 
+- **Caractéristiques essentielles**
+	- <u>Usage de préconcepts </u>
+		- Conceptions imprécise entre individu et généralité 
+			- Tendance au globalisme, Ex:
+				- 'wa wa' pour désigner n'importe quel animal
+				- Jacqueline -> "Les jacquelines" pour désigner les petites filles 
+				- Lausanne pour désigner la maison de grand mère 
+		- Absence de classe générale 
+			- Impossible de dire si "les limaces" = ensemble ou individus
+		- Absence d'identité individuelle
+			- L'enfant sur la photo =/= celui qui parle =/= celui dans le miroir 
+	- <u>Pensée égocentrique</u>
+		- Incapable de se placer du point de vue d'autrui 
+		- Défaut de subjectivité 
+		- Considère que etats mentaux = réel
+			- Ne conçoit pas que l'autre puisse penser autrement. 
+		- Incapacité de l'enfant à se décentrer et de coordonner son point de vue avec celui d'autrui
+			- Incapable de se mettre à sa place.
+			- Ex : tâche des 3 montagnes 
+		- Egocentrisme équivalent à l'adualisme du stade sensori-moteur au niveau de la représentation. 
+		- Autres manifestations:
+			- Animisme : attribuer un caractère vivant aux objets 
+			- Artificialisme : tous les phénomènes naturels sont le fait d'humains 
+			- Réalisme : état mentaux = réalité 
+			- Finalisme : attribution de causalité étrange 
+##### Pensée intuitive 4 - 7 ans 
+
+- Emergence de la pensée intuitive :
+	- L'enfant manipule des concepts -> complexification de la pensée 
+	- Diminution de l'égocentrisme intellectuel 
+		- Envisager les choses comme extérieures à lui même 
+		- Accorder une existence indépendante de sa volonté
+- Pensée intuitive car se passe de raisonnement 
+	- Pré-logique.
+		- Prima du figuratif. 
+			- Raisonnement basé sur des aspects perceptifs.
+			- ![[Pasted image 20251124172127.png|400]]
+
+- Raisonnement transductif : 
+	- Cas particulier -> généralité par un lien de causalité basé sur une analogie immédiate. 
+	- ![[Pasted image 20251124172635.png]]
+- Syncrétisme perceptif : l'enfant centre sa perception sur le tout. 
+	- Les détails sont juxtaposés et non intégrés 
+
+- Vers 7 ans:
+	- Bascule vers la pensée logique.
+		- Intériorisation des opérations
+			- Capacité d'abstraction 
+			- Transformations mentales 
+
+#### Période des opérations concrètes ou de l'intelligence opératoire (de 6 à 10 ans).
 #### Période des opérations formelles (de 10 à 16 ans).
 #### Critiques de la théorie piagétienne
 
