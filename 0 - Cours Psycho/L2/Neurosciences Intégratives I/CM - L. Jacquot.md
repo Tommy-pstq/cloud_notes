@@ -1040,3 +1040,118 @@
 
 ![[Pasted image 20251124151432.png|400]]
 
+
+
+ ### Intégration de PPS E/I et genèse PA
+
+  - Tissu nerveux : complexité ++ 
+	  - Chaque neurone connecté à des milliers d'autres
+	  - Reçoit 10.^3 PPS E & I en même temps 
+		  - Intégration = processus par lequel il y a existence, ou non, d'un PA.
+
+- Intégration = $\sum(pps)$ 
+	- Intégration temporelle :
+		- Plusieurs PPS d'une synapse dans une $\Delta$t court -> s'additionnent. 
+	- Intégration spatiale:
+		- Plusieurs synapses avec PPS individuels < I_seuil 
+			- S'additionnent et génère PA. 
+	- ![[Pasted image 20251127110849.png|400]]
+
+### Pharmacologie de la transmission synaptique 
+
+#### Effets des principaux neurotransmetteurs 
+
+- <u>Glutamate</u>
+	- Principale ntt excitateur 
+	- Fonction : mémoire, apprentissage 
+	- Déficit : diminution de l'activité neuronale 
+		- Trouble de l'apprentissage / de la mémoire
+	- Excès : Neurotoxique 
+		- Alzheimer : accumulation de glutamate dans les synapses
+- <u>GABA</u>
+	- Principal ntt inhibiteur 
+	- Fonction : détente, sommeil, régulation émotionnelle
+	- Déficit : anxiété, agitation, épilepsie 
+	- Excès : sédation, somnolence 
+- <u>Acétylcholine</u>
+	- Présent SNC & SNP
+		- SNC :
+			- Apprentissage, mémoire attention 
+		- SNP :
+			- Contraction musculaire volontaire & SNA (muscle cardiaque)
+	- Déficit :
+		- Trouble mémoire & attention (Alzheimer)
+		- Faiblesse musculaire 
+		- Augmentation freq cardiaque. 
+	- Excès :
+		- Agitation, crampe, ralentissement cardiaque. 
+- <u>Dopamine</u>
+	- Fonctions:
+		- Motivation & Récompense 
+		- Contrôle mouvement 
+		- Attention & cognition
+	- Déficit 
+		- Trouble moteur, perte motivation (parkinson, dépression)
+	- Excès  
+		- Psychose, impulsivité (schizophrénie)
+- <u>Sérotonine</u>
+	- Synthétisé à partir de tryptophane (AA essentiel: oeufs, volaille, chocolat noir, graines)
+		- 10% sécrétion SNC, 90% intestin
+	- Fonctions:
+		- Régulation humeur & anxité 
+		- Régulation cycle veille sommeil
+			- Mélatonine = dérivée sérotonine
+		- Contrôle de l'appétit/T° corporelle/Comportement sexuel
+			- Via hypothalamus 
+	- Excès : Syndrôme sérotoninergique 
+		- Agitation, confusion, délire, hyperthermie sévère, troubles cardiovasculaires
+	- Déficit:
+		- Troubles de l'humeur / sommeil. 
+
+#### Mode d'action neurotropes 
+
+- **Agoniste** : facilite effet d'un ntt.
+	- Augmentation de la synthèse 
+	- Fixation & activation récepteur post-synaptique 
+	- Bloque la désactivation du ntt
+- **Antagoniste** : empêche l'activation de récepteurs 
+	- Bloque la synthèse 
+		- Via destruction des enzymes de synthèse 
+	- Bloque exocytose 
+	- Occupation récepteur post-synaptique 
+		- Empêche la fixation. 
+
+##### Substances à effet agoniste
+
+- <u>Anxiolytique</u> : benzodiazépines
+	- Fixation spécifique récepteurs GABA.
+		- Favorise l'affinité avec GABA
+			- Maximise l'inhibition. 
+
+- <u>Substances addictives</u>
+	- Agissent sur les neurones dopaminergiques : récompense/motivation
+		- Augmentation de la concentration en dopamine dans la fente synaptique 
+			- **Inhibition de la recapture**
+				- Via inhibition transporteur 
+				- Cocaine, MPH
+			- **Favorise libération dopa** : amphet, Met'
+				- Entre dans le neurone 
+					- Bloque vésicules 
+						- Accumulation de dopamine 
+							- Sortie par exocytose. 
+
+##### Effets antagonistes 
+
+
+- <u>Curare</u>
+	- Végétal
+	- Paralysie gibier / patient
+	- Via action sur la jonction neuro-musculaire 
+		- Fixation récepteur Acth
+			- Bloque.
+- <u>Botox</u> = toxine botulique 
+	- Bloque la transmission en empêchant l'exocytose de l'Acth.
+- Les 2 : myorelaxants. 
+
+## Vieillissement du système nerveux
+

@@ -1354,5 +1354,5 @@
 	- Chirurgie invasive 
 	- Connexion d'un récepteur directement à la cochlée 
 		- Active directement le nerf auditif à la place des cellules ciliées
-			- Se substitue aux cils
+			- Se substitue aux cils 
 		- Retrouve une audition, pas 100 qualitative mais énorme bénéfice dans les cas de surdité totale. 
