@@ -10,11 +10,11 @@
 
 	- **Pourquoi peut-on parler d'une pensée sans langage ?** 
 	
-		- *"Source de la pensée = fonction symbolique"*
+		- *"Source de la pensée = fonction sémiotique"*
 			- *dissociation signifiant/signifié* 
 	
 		- *Qtité de fonctionnement logique pré-verbal* 
-		- *Fonction symbolique* 
+		- *Représentation symbolique* 
 			- *Jeu de faire semblant* 
 			- *Imitation retardée* 
 		- *Fonction logique de négation*  
@@ -53,7 +53,8 @@
 			- Pas de permanence de l'objet 
 			- Ce qui n'est pas perçu n'existe pas. 
 		- Pas de différenciation moi/non-moi 
-			- sensation d'Omnipotence 
+			- sensation d'Omnipotence = psycha....
+			- Adualisme.
 		- Pas de pensée mais un "pré-pensée"
 			- Intelligence pratique 
 			- Pas de langage 
@@ -94,11 +95,12 @@
 			- Corolaire 
 		- Pensée hypothético-déductive
 			- Application de règle générale à des cas particuliers 
+			- Conception & vérification d'hypothèses 
 		- INRC : pensée complexe chez l'enfant, système de pensée combinatoire
 			- Pensée combinatoire = pensée formelle consistant à combiner de façon systématique selon des principes mathématique des objets matériels ou propositions logique et les opérations qui les relient.
 
 - **Pourquoi peut-on parler d'une pensée sans langage ?** 
-	- Enfant : chercher des moyens pour acquérir une fonction symbolique. 
+	- Enfant : chercher des moyens pour acquérir une pensée symbolique // fonction sémiotique  
 		- Différencier signifiant et signifié 
 			- Signifiants = Ce que l'on tente de trouver pour décrire/parler/représenter un signifié 
 				- **Qu'est-ce que l'enfant utilise ?** 
@@ -120,7 +122,7 @@
 					- <u>Dessin symbolique</u> 
 						- Dessin = signifiant 
 						- Avant 2 ans :
-							- Gribouillage = satisfaction perciptivo-moteur 
+							- Gribouillage = satisfaction perciptivo-motrice 
 								- Pas de réelle intentionnalité représentative 
 						- Après 2 ans:
 							- Début intentionnalité 
@@ -133,7 +135,7 @@
 
 - Piaget : dans certaine opération motrices (concrète), on observe des fonction/opération logique de la future pensée complexe.
 	- Ex: adaptation marche en approchant escalator. 
-	- Ex: Enfant Sours-muets présente tout de même une pensée complexe 
+	- Ex: Enfant Sourds-muets présente tout de même une pensée complexe 
 - **Pensée complexe : se construit sur le concret.** 
 
 - **Rôle du langage sur la pensée ?** 

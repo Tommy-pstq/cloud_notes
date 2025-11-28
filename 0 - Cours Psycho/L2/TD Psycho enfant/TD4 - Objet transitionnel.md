@@ -42,9 +42,8 @@
 			- ***A différencier schéma corporel***
 				- **Commun à tous** = représentation +/- consciente du corps, de sa position dans l'espace, posture différemment segment corporels. Résulte de l'intégration des informations sensorielles. 
 				- En partie inconscient, mais aussi préconscient et conscient 
-				- 
 		- IIC = liée au sujet et à son histoire. 
-			1. Singulière & désirante. 
+			-  Singulière & désirante. 
 			- Totalement inconsciente. 
 			- Dolto : grâce IIC associé à schéma corporel : permet d'entrer en interaction avec autrui. 
 			- S'élabore à partir de l'histoire du sujet : "**C'est une synthèse vivante des expériences émotionnelles/affectives**" 
@@ -157,9 +156,8 @@
 	- Objet transitionnel = objet trouvé-créé.
 		- Objet paradoxal car ni dans la réalité intérieure ni extérieure mais à cheval entre les deux. 
 		- Trouvé-créé car : 
-			- Au même moment, trouve dans la réalité extérieur ce qu'il pense crée dans son intérieur. (car indifférenciation du soi-monde)
+			- Au même moment, trouvé dans la réalité extérieur ce qu'il pense crée dans son intérieur. (car indifférenciation du soi-monde)
 				- Illusion d'être le créateur du monde 
-					- Pense être le créateur du monde. 
 	- Winnicott : invente un troisième niveau de réalité : la réalité transitionnelle (en plus d'intérieure & extérieure.)
 	- Frustration : nécessite de trouver un moyen de la tolérer : l'objet transitionnel. 
 		- Le doudou permet d'élaborer l'absence et tolérer la frustration. 

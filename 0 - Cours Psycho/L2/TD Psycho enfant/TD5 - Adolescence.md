@@ -5,9 +5,9 @@ Intro
 	- Processualité psychique spécifique à l'adolescence
 		- Plutôt que développemental 
 	- Après infantile et avant adulte :
-		- Process spécifique adolescnce
+		- Process spécifique adolescence
 			- Pubertaire 
-			- Adolescens
+			- Adolesens
 	- Si "processus psychique" adolescent
 		- Alors on peut les retrouver chez l'adulte
 			- Sans que ce soit patho 
@@ -58,7 +58,7 @@ Intro
 				- lieu d'éprouvés inconnus : La plupart sexualisés sinon érotisés 
 		- Alternance entre un corps persécuteur car échappe au sujet et un corps séducteur.
 			- Inquiète, angoisse le sujet
-		- Souvent : corps <u>repérer comme le lieu de la souffrance </u>
+		- Souvent : corps <u>repéré comme le lieu de la souffrance </u>
 			- Angoisse liées à un corps qui change
 				- Somatisation / dysmorphophobie ... 
 		- La puberté & tout ce qu'elle draine comme éprouvé corporel inédit : est à l'origine des émotions souvent intenses voire débordantes des adolescents. 
@@ -91,9 +91,9 @@ Intro
 					- Une des tâches les plus importante :
 						- Se détacher des figures parentales 
 							- impérieux mais douloureux. 
-							- 
+
 		- **Puberté** : met le corps sexué au centre des considérations 
-			- **oblige** l'adolescent à intégrer une nouvelle identité corporell & sexuelle
+			- **oblige** l'adolescent à intégrer une nouvelle identité corporelle & sexuelle
 				- Gros travail psychique 
 					- Possible : difficultés temporaires. 
 						- **Processus adolescents = séparation -> deuil.** 

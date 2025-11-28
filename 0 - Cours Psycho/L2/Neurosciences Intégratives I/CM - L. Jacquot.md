@@ -1155,3 +1155,134 @@
 
 ## Vieillissement du système nerveux
 
+- Contexte :
+	- Espérance de vie globale en hausse.
+		- 1980 = 60 ans 
+		- 2025 = 73 ans 
+	- Donc : augmentation des troubles liés à l'âge. 
+		- Entrainant une perte des fonctions supérieures 
+			- Baisse des capacité intellectuelles 
+			- Changement de personnalité 
+- Vrai question désormais n'est plus de comment vieillir vieux mais comment vieillir en bonne santé ?
+
+- Vieillissement du SN :
+	- Changement/modifications **progressives**
+		- Moléculaire -> Cellulaire -> physiologique + psychosociaux 
+![[Pasted image 20251128154540.png|500]]
+
+### Vieillissement physiologique 
+
+- Vieillissement physiologique = modifications anatomiques/structurelles, neurochimiques et fonctionnelles.
+
+#### Vieillissement anatomique / structurel 
+
+- Diminution du poids et du volume du cerveau.
+	- Naissance = 350 - 400g
+	- Adulte = 1400g
+		- Diminution de 2% / 10 ans à partir de 50 ans.
+	- 1100 - 1200g à 90 ans. 
+		- Sans lien systématique avec un déclin cognitif.
+		- Aspect pathologique si la masse du cerveau < 1000g
+- A quoi est due cette diminution du poids ? 
+	- <u>Perte neuronale</u> via dégénérescence
+		- Après 65 ans, perte de neurone de manière non homogène dans le SNC.
+			- Zones principalement concernées:
+				- **Cortex** : frontaux, temporaux, occipitaux
+				- **Sous-corticale** : 
+					- <u>Substance noire</u> : jusqu'à 30% de perte. Bien plus en cas de Parkinson
+					- <u>Hippocampe</u> : Jusqu'à 20%. Dépend des aires.
+	- <u>Atrophie neuronale</u>
+		- Des corps cellulaires ou prolongements 
+		- Hippocampe & cortex temporaux & frontaux 
+			- Apprentissage, mémoire, fonction intellectuelles complexes
+		- Entraine donc:
+			- **Baisse de la densité synaptique**
+			- **Baisse du volume cortical**
+		- Mais : 
+			- Le phénomène de plasticité neuronale permet (peut être) de palier un temps à ces atrophies : entre 50 & 70 ans -> allongement des axones
+			- ![[Pasted image 20251128155437.png|400]]
+#### Vieillissement : Architecture interne des neurones 
+
+![[Pasted image 20251128155534.png|400]]
+
+- Apparition de lésions:
+	1. <u>Dégénérescence neurofibrillaire</u> (DNF) : intra-neuronal
+		- Formation de **faisceaux de filaments protéiques en hélices**.
+			- Suite à une altération des **Protéines Tau** associés au **microtubulles** du cytosquelette.
+				- Microtubulles assurent le flux axonal -> envoie de protéines & ntt du corps cellulaire vers le prolongement axonique. Fonction de maintien morphologique également.
+			- **Normalement** : Protéine Tau stabilisent les microtubules en étant associées à des groupements phosphates : 2 ou 3 groupements.
+
+			- **Avec l'âge** : il y a phosphorylation anormale des protéines Tau.
+				- S'associent avec jusqu'à 7 - 9 groupements phosphates. 
+				- Se rassemblent en filaments denses.
+					- Perte de la fonction de stabilisation des microtubules 
+						- Blocage du transport axonale 
+							- Mort du neurone. 
+
+	2. <u>Plaque séniles</u> : extra-neuronal
+		- Dépôts sphériques. dans le **cortex ou l'hippocampe**
+			- **Coeur** composé d'un peptide $\beta$ amyloïde 
+				- Issue d'une anomalie métabolique de la protéine précurseur APP (Amyloid Protein Precursor)
+					- protéine APP : présente dans le fonctionnement normal du cerveau. Mais en se coupant (on sait pas pk) : libère un peptide $\beta$ amyloïde. 
+				- Effet neurotoxique.
+			- **Couronne périphérique**
+				- Composée de prolongements neuronaux : axones en dégénérescence (DNF).
+					- Formation de **plaque neuritique** = neurotoxique. 
+						- Entraine la mort de neurones 
+#### Vieillissement des cellules gliales 
+![[Pasted image 20251128161841.png]]
+- Les astrocytes et les cellules microgliales entrent en **état de sénescence** 
+	- Changement de morphologie 
+	- Arrêt de la division cellulaire 
+	- Sécrétion de facteurs pro-inflammatoire. 
+
+- <u>Astrocytes</u>
+	- Sénescence ->
+		- Altération du maintien de l'homéostasie 
+			- Apport en nutriments / élimination déchets 
+		- Dysfonctionnement de la synapse glutamatergique 
+			- Normalement : astrocytes recyclent le glutamate.
+			- Sénescence -> accumulation dans la fente synaptique 
+				- Neurotoxique. 
+- <u>Cellules microgliales</u>
+	- Cellules immunitaires SNC.
+	- Sénescence ->
+		- Réduction de l'activité phagocytaire 
+		- Diminution de la motilité (capacité de déplacement)
+			- Donc : diminution de la capacité à éliminer des débris / atteindre les lésions
+		- Neuroinflammation.
+
+#### Vieillissement: Modifications neurochimiques 
+
+##### Des systèmes de neurotransmission
+
+- Baisse de la concentration en neurotransmetteurs : Acth, Dopa, Séro, Noradré
+	- Car : baisse de la concentration en enzyme & perte de neurones le synthétisants.
+- Baisse du nombre et de la capacité des récepteurs post-synaptiques 
+- Modification activité des enzymes de synthèse
+- Modification des processus de :
+	- Libération
+	- Recapture de neuromodulateurs 
+
+- **Conséquences**:
+	- Perturbation de l'influx nerveux 
+		- Troubles moteurs
+		- Dégradation processus cognitifs 
+			- Attention, mémoire, apprentissage 
+
+#### Modifications fonctionnelles 
+
+- Performances intellectuelles **intactes mais ralenties**
+- Car : baisses des compétences attentionnelles & augmentation temps de réaction.
+	- Temps de réaction augmente.
+	- Baisse de la capacité à maintenir une concentration longue 
+	- Baisse de la vitesse du traitement de l'information
+	- Troubles liés aux **pertes de capacité attentionnelles** 
+		- Problème d'attention divisée -> difficile de multitasker.
+	- Troubles liés à la **baisse de l'inhibition** : 
+		- Sensibilité aux interférences
+		- Problème d'attention sélective
+	- **Mémoire de travail** moins efficace.
+
+- -> La plainte mnésique exprimée est davantage liée à une baisse des performances attentionnelles et à un ralentissement plutôt qu'à un véritable déficit mnésique. 
+
