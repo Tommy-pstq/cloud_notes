@@ -402,7 +402,37 @@
 - Toujours à propos d'autre groupe ?
 	- Non.
 
-- Intériorisation du stéréotype:
-	- L'endosser par opposition aux normes 
-	- "Menace du stéréotype" = 
-		- Pression ressenti quand un individu est dans une situation ou il peut confirmer le stéréotype. 
+- **Intériorisation du stéréotype**:
+	- L'endosser par opposition aux normes :
+		- A acquis l'idée que l'endogroupe serait **inférieur** dans une activité 
+	- Via socialisation / partiques éducatives / culture (média) / paires
+		
+- <u>Menace du stéréotype</u> = 
+	- Pression psychologique ressenti quand un individu est dans une situation ou il peut confirmer le stéréotype. 
+		- Peut avoir un impact : diminution des performances.
+	- Nécessite d'avoir intégré le stéréotype
+		1. Stéréotype négatif 
+		2. Conscience d'être stéréotypé 
+		3. Crainte d'être réduit à ce stéréotype 
+		4. Pression/Stress
+		5. Effet néfaste sur le fonctionnement normal
+			- Comportement différents - auto-handicap 
+				- Etude test perf cérébrales US : blancs vs noirs 
+					- Soit : mention de comparaison des performances "intrinsèques" des groupes -> activation du stéréotypes chez la population noire
+					- Soit : pas d'idée d'évaluation de perf -> pas d'activation stéréotype. 
+					- Output : sans activation -> mêmes perfs.
+						- Avec : groupe stéréotypé sous-performe. 
+	- Mécanismes sous-jacents 
+		- Perturbations cognitives: 
+			- Mémoire de travail occupée par la pression du stéréotype 
+		- Perturbations Motivationnelles:
+			- Intériorisation du "nous sommes moins bons"
+				- Fatalité -> perte de motivation.
+- **Favorise le maintien/confirmation** de stéréotypes.
+	- Avec pleins d'autres mécanismes 
+
+### Tendance des stéréotypes à persister 
+
+
+
+
