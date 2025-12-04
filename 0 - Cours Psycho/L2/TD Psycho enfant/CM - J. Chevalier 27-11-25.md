@@ -3,7 +3,7 @@
 - Souffrances / symptômes de l'adolescence. 
 	- Multiples 
 	- D'abord : signes massifs / puissants avec grde intensité souffrance. 
-		- Pas nécessaire niquiétude immédiate 
+		- Pas nécessaire inquiétude immédiate 
 	- Ne correspondent pas nécessairement à une orga psychopatho def.
 		- Sujet immature -> pas de diag sur l'orga psychique définitive. 
 		- Ex: scarification 
@@ -32,10 +32,10 @@
 	- Adolescence : grande désillusion voire intense déception
 		- Sur les différences entre monde de l'enfance & adulte.
 		- Génère des moments de déprimes/dépression.
-			- Questionnement sens de la vie/more 
+				- Questionnement sens de la vie/mort
 			- Qmt sur le sens du rapport à soi même/ aux autres 
 			- Qmt le sens du monde en général. 
-		- Ado : contrains de trouver un sens nouveau pour surivre à cette désillusion
+		- Ado : contrains de trouver un sens nouveau pour survivre à cette désillusion
 			- A travers ce nvx sens : indépendance 
 			- Plus jamais enfant 
 				- A jamais séparé de l'autre 

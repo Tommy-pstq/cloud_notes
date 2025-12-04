@@ -1286,3 +1286,4 @@
 
 - -> La plainte mnésique exprimée est davantage liée à une baisse des performances attentionnelles et à un ralentissement plutôt qu'à un véritable déficit mnésique. 
 
+## 

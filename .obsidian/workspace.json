@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1da195aced09893b",
+        "id": "31480e74da61c82c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d1e66a769981eb4",
+            "id": "0239728780763cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - L. Jacquot.md",
+                "file": "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "CM - L. Jacquot"
+              "title": "CM - V. VW"
             }
           }
         ]
@@ -175,38 +175,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d1e66a769981eb4",
+  "active": "0239728780763cef",
   "lastOpenFiles": [
-    "2 - Source Materials/Pasted image 20251128161841.png",
-    "2 - Source Materials/Pasted image 20251128155534.png",
-    "2 - Source Materials/Pasted image 20251128155437.png",
-    "2 - Source Materials/Pasted image 20251128154540.png",
-    "0 - Cours Psycho/L2/Neurosciences Intégratives I/Rappel base biologique.md",
+    "2 - Source Materials/Pasted image 20251204164425.png",
+    "2 - Source Materials/Pasted image 20251204164016.png",
+    "2 - Source Materials/Pasted image 20251204162815.png",
+    "2 - Source Materials/Pasted image 20251204162728.png",
+    "2 - Source Materials/Pasted image 20251204161903.png",
+    "2 - Source Materials/Pasted image 20251204160006.png",
+    "2 - Source Materials/Pasted image 20251204155807.png",
+    "2 - Source Materials/Pasted image 20251204155602.png",
+    "2 - Source Materials/Pasted image 20251204154843.png",
+    "2 - Source Materials/Pasted image 20251204153951.png",
+    "2 - Source Materials/Pasted image 20251204153556.png",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - L. Jacquot.md",
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
+    "0 - Cours Psycho/L2/TD Psycho enfant/CM - J. Chevalier 27-11-25.md",
+    "5 - Notes archivées/TND/Mindblind eyes, an absence of spontaneous theory of mind in Asperger syndrome.md",
+    "PDF/TD1 - TTT visage.pdf",
+    "PDF/TD3 - Piaget.pdf",
+    "PDF/TD4 - Objet transitionnel.pdf",
+    "PDF/TD5 - Adolescence.pdf",
+    "PDF/Revision TD Psycha Adolescence.md",
+    "PDF/Réponses révision adolescence.md",
+    "PDF/Revision TD Psycha objet transi winni dolto.md",
+    "PDF/Réponses révisions objet transi.md",
+    "3 - Tags/Untitled 1.md",
+    "0 - Cours Psycho/L2/Neurosciences Intégratives I/Rappel base biologique.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/TD4 - Objet transitionnel.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/CM - A Goujon.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/TD5 - Adolescence.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/TD3 - Piaget.md",
     "0 - Cours Psycho/L2/TD Psycho enfant/TD1 - TTT visage.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/CM - J. Chevalier 27-11-25.md",
     "PDF/CM - J. Chevalier 27-11-25.pdf",
     "0 - Cours Psycho/L2/TD Psycho enfant/CM - Psycha.md",
-    "2 - Source Materials/Pasted image 20251127110849.png",
-    "PDF/TD1 - TTT visage.pdf",
-    "0 - Cours Psycho/L2/Neurosciences Intégratives I/CM - V. VW.md",
     "Untitled",
-    "2 - Source Materials/Pasted image 20251126094745.png",
-    "2 - Source Materials/Pasted image 20251126094137.png",
-    "2 - Source Materials/Pasted image 20251126093841.png",
-    "2 - Source Materials/Pasted image 20251126093722.png",
-    "2 - Source Materials/Pasted image 20251126093533.png",
-    "2 - Source Materials/Pasted image 20251126093456.png",
     "PDF/CM - L. Jacquot.pdf",
     "PDF/CM - V. VW.pdf",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1 - D. Mor- Test cptmtx rongeur.md",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD1.md",
-    "PDF/TD5 - Adolescence.pdf",
-    "PDF/TD3 - Piaget.pdf",
     "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD3 Mor - CD24 protein.md",
     "7 - Psycho/La thérapie brève systémique et stratégique.md",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/I - Cognition sociale et cognitions sociales.md",
@@ -214,15 +221,8 @@
     "5 - Notes archivées/Vidéos/Vidéo - Sommeil.md",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD Questionnaire.md",
     "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/TD3 - Stéréotypes - préjugés.md",
-    "0 - Cours Psycho/L2/Attitudes & Cognitions sociales/CM - Stéréotypes, préjugés, discrimination.md",
-    "3 - Tags/Untitled.md",
-    "4 - Indexes/Index.md",
     "PDF/Vidéo - Sommeil.pdf",
-    "0 - Cours Psycho/L2/Neurosciences Intégratives I/TD - Sommeil.md",
-    "0 - Cours Psycho/L2/Pb cours psychologie de l'enfant clinique.md",
-    "0 - Cours Psycho/L2/TD Psycho enfant/TD2 - Dev prénatal.md",
     "PDF/TD Questionnaire.pdf",
-    "PDF/TD4 - Objet transitionnel.pdf",
     "Untitled.canvas"
   ]
 }
