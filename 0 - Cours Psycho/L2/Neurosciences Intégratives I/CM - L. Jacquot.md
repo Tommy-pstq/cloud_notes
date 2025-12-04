@@ -1286,4 +1286,247 @@
 
 - -> La plainte mnésique exprimée est davantage liée à une baisse des performances attentionnelles et à un ralentissement plutôt qu'à un véritable déficit mnésique. 
 
-## 
+## Vieillissement pathologique du SN
+
+- Vieillissement patho entraine :
+	- Troubles séniles / démences
+		- Diminution progressive et irréversibles des capacités cognitives 
+			- Mémoire/Attention/Orientation spatio-temporelle/Langage/Raisonnement/Planification 
+
+ - 2 grands types de démences 
+	 - Neurodégénératives : 60% des cas 
+		 - Alzheimer (MAz) : 75% des cas
+		 - Démence fronto-temporale : 10%
+		 - Démence à corps de Levy : 15%
+	 - Cardiovasculaires (AVC) -> altération neurones suites pb vasculaire. 
+
+### Démences neurodégénératives 
+
+#### Maladie d'Alzheimer 
+
+- Forme principale de démence & incurable.
+- Existe sous 2 formes:
+	- Forme sporadique : 99% des cas, non héréditaire, cause inconnue 
+	- Forme familiale : 1% = mutations génétiques (prot APP, PSEN 1, 2)
+
+- <u>Prévalence</u>
+	- 0.5%  < 65 ans 
+	- 2 - 4% > 65 ans 
+	- 15% à 80 ans 
+	- France 2024 : 1.10^6 cas.
+		- Prévision 2050 : 2.10^6 cas.
+			- -> Enjeu économique / social / médical / scientifique 
+
+- <u>4 principaux marqueurs historiques</u>
+	- Lésions :
+		- Plaques séniles
+		- Dégénérescence neurofibrillaire
+	- Structure cérébrale
+		- Atrophie des cortex et de l'hippocampe 
+		- Dilatation des ventricules 
+- <u>"Nouveaux" marqueurs</u>
+	- Perte neuronale & synaptique 
+	- Neuroinflammation 
+
+- <u>Atrophie & dilatation</u> 
+	- **Diminution du poids du cerveau**
+		- MAz à début précoce : -200 / 300g = -15/25%
+		- MAz début tardif : perte < 10%
+	- **Atrophie**
+		- Corticale : temporal > pariétal > frontal 
+		- Hippocampique : de 10 à 50% selon les formes (débutantes -> modérées -> sévères)
+	- **Dilatation** "spectaculaire" des ventricules 
+
+- <u>Lésions histopathologiques</u>
+	- DNF & plaques séniles 
+	- Présentes en grandes quantités dans le cortex et l'hippocampe 
+		- On sait comment elles apparaissent, pas pourquoi. 
+	- **Longtemps asymptomatique** : 10 ans environ.
+		- Complique la prise en charge, souvent tardive. 
+	- **Progression différente** selon le type de lésion 
+	- ![[Pasted image 20251204170820.png|500]]
+		- Plaques séniles dans le sys olfactif + DNF cortex entorhinal (olfactif) très tôt -> troubles olfactifs précoces dans MAz
+
+- <u>Pertes synaptiques & dysfonctionnement des sysètmes de neurotransmetteurs</u>
+	- Déficit en acétylcholine -> mémoire.
+		- Perte de neurones cholinergiques 
+		- Déficit en enzyme 
+	- Accumulation de glutamate dans les synapes 
+		- Car baisse de la recapture 
+			- Car astrocytes impactés par le peptide $\beta$-amyloïde (ppba)
+
+##### Neuroinflammation 
+- Recrutement de la microglie & des astrocytes 
+- <u>Microglie & MAz</u>
+	- Microglie = cellule immunitaire cérébrale 
+	- MAz : activation de la microglie = "gliose"
+			- Par ppba & protein tau
+		- Au début : **effets bénéfiques**
+			- Phagocytose ppba 
+			- Libération de facteurs neurotrophiques & AI
+		- Mais activation **chronique** -> effets **délétères** 
+			- Inflammation chronique : libération de molécule pro-inflammatoire 
+			- Réduction de la capacité de phagocytose 
+				- -> Accumulation ppba 
+- <u>Astrocytes & MAz</u>
+	- Précoce : bénéfique.
+		- Homéostasie ionique
+		- Elimination ppba 
+	- Chronique : délétères 
+		- Production de molécules pro-inflammatoire
+
+##### Symptômes 
+![[Pasted image 20251204172449.png|400]]
+- Espérance de vie : 8 - 12 ans post diag. 
+- Début 2 - 4 ans :
+	- Difficulté à se rappeler évents récents 
+	- Oublis de plus en plus importants 
+	- Nie les pertes de mémoire 
+	- Périodes de confusions : moins de communication
+	- Sautes d'humeur 
+	- Bonne habilité motrice 
+- Stade intermédiaire : 2 - 10 ans
+	- Désorientation spatio-temporelle 
+	- Effacement progressif souvenirs 
+	- Ne retient plus les faits récents 
+	- Impossibilité de faire de nouveaux apprentissages 
+	- Jugement déficient
+	- Perte coordination/équilibre 
+- Stade tardif: 1 - 3 ans 
+	- mémoire inexistante
+	- ne reconnait personne 
+	- incapacité à lire/parler/marcher/manger 
+
+##### Dépistage 
+
+- Suite à une plainte des proches ou du sujet.
+	- Mémoire/rapport au temps/irritabilité 
+		- Confusion possible avec d'autres troubles 
+
+- Diag : cliniciens 
+	- Test standardisé + bilan neuro 
+	- Dosages biologiques 
+		- Ponction lombaire (concentration tau & ppba)
+		- Récemment : dosage sanguin japon 
+	- IRM 
+		- Eliminer potentielle tumeur. 
+- Certitude :
+	- Autopsie -> histologie -> DNF & plaques séniles. 
+
+##### Facteurs de risques 
+
+- Via épidémiologie 
+1. Âge
+2. Sexe : femme > homme (peut être simplement car esprance de vie plus longue)
+3. Génétique & Atcd familiaux 
+	- Prédispositions 
+4. Vécu + environnement 
+	1. Niveau instruction > tabagisme > sédentarité > dépression > hypertension artérielle 
+	2. Exposition aluminium, trauma crâniens 
+
+
+##### Traitements 
+
+- <u>Médicamenteux</u>
+	- Inhibiteur acétylcholinestérase 
+	- Antagoniste glutamate 
+	- Immunothérapie (recherche actuelle) : lésions 
+	- TTT non-spécifiques 
+		- Somnifères, antidep, neuroleptiques 
+- <u>Thérapie non-médicamenteuses</u>
+	- Stimulation cognitives 
+	- Orthophonie 
+	- Kiné
+	- Psychothérapie 
+		- Patients  & aidants. 
+
+#### Démence fronto-temporale 
+
+- Trouble sporadique ou héréditaire 
+- 10% des démences 
+- Similaire MAz mais touche principalement lobe frontal & temporal 
+	- Peu de trouble de la mémoire 
+##### Causes 
+- Mort progressives neurones lobes frontal & temporal 
+- Accumulation anormale protéines (surtout Tau)
+##### Symptômes 
+![[Pasted image 20251204173756.png]]
+
+#### Démence à corps de Levy
+
+- 15% des cas de démences 
+- Prévalence augmente avec l'âge.
+
+##### Causes 
+
+- Accumulation de corps de Levy dans le SNC
+		- Surtout cortex 
+	- Inclusions neuronales intra-cytoplasmique constitué d'une protéine: alpha-synucléine 
+	- Alpha-synucléine anormalement agrégée en filaments 
+
+##### Symptômes 
+
+- Episodes confusionnels fluctuants 
+- Syndrome psychiatrique :
+	- Hallucinations (visuelles surtout)
+	- Idées délirantes
+	- Trouble de l'humeur 
+- Syndrome parkinsonien (sans tremblement)
+
+### Démences vasculaires 
+
+- Syndrome secondaire : lésions d'origine vasculaires 
+
+- **Cause principale = AVC**
+	- Ischémique = 80%
+		- "Infarctus cérébral"
+		- Caillot qui bouche une artère cérébrale 
+			- Interruption circulation sanguine 
+				- Plus d'apport en oxygène 
+					- Neurones pas contents. 
+	- Hémorragique 
+		- Rupture d'une artère 
+			- Rupture d'anévrisme ou trauma. 
+##### Symptômes
+
+- Dépendent de la sévérité et de la zone de la lésion
+- Troubles cognitifs 
+	- Mémoire 
+	- Langage
+	- Fonctions exécutives 
+- Troubles moteurs 
+	- Difficultés motrices
+
+### Démences et facteurs protecteurs 
+
+- Mode de vie 
+	- Alimentation
+	- Activité physique 
+- Niveau d'étude / activité intellectuelle 
+	- Augmente la **Capacité de réserve cognitive**
+		- Permet de mieux résister aux altérations du SNC dues aux démences
+	- Profession exercée 
+	- Activités de loisirs de types cognitifs
+		- Planification / réflexion
+- Interactions sociales 
+	- Isolement social : deux fois plus de cas de MAz chez les personnes vivant seules 
+	- Protections : simulations intellectuelles, affectives, sensorielles
+
+### Maladie de Parkinson 
+
+- Deuxième maladie neurodégénérative après MAz
+- Deuxième cause de handicap après AVC
+
+- <u>Prévalence</u>
+	- 0.04% 40 - 49 ans 
+	- 2% > 65 ans 
+	- Age moyen d'apparition : 60 ans 
+	- Moins lié à l'âge que MAz.
+- <u>Symptômes moteurs</u>
+	- Pleins, mais 3 manifestations principales 
+		- **Triade parkinsonienne**
+			- Akinésie : le plus typique & remarquable 
+			- Rigidité 
+			- Tremblement (que 30%)
+
+
