@@ -433,6 +433,102 @@
 
 ### Tendance des stéréotypes à persister 
 
+##### Biais de confirmation
+
+- Personne en situation de jugement social
+	- Tendance à prêter attention aux comportements qui confortent/correspondent les stéréotypes. 
+	- Tendance à ignorer ce qui s'y oppose 
+	- Influence des éléments mémorisés sur le traitement de l'information. 
+	- **Ex: Etude Snyder & Swann 1978**:
+		- Etudiants devant déterminer si une personne est intro ou extravertie. 
+			- A partir d'une description typique fournie 
+		- Groupes: Reçoivent une description de la personne au préalable. 
+			- Soit intra soit extra.
+			- Sans savoir si elle est vraie.
+		- Puis, étudiants doivent choisir 12 questions parmi 26 proposés.
+			- 3 types de questions : neutre/plutôt extra/plutôt intra. 
+			- Pour départager, il faudrait 6 questions extra/intra
+		- Output : **le choix des questions est significativement impacté par la description préalable fournie de la personne.** 
+			- Et donc : plus on pose de questions à propos de quelque chose plus on a de chance de le confirmer. "Les questions font les réponses"
+				- -> Confirme le stéréotype 
+				- -> Empêche de découvrir des traits qui ne confirment PAS les stéréotypes
+
+- **Stéréotypes = persistants & stables**
+	- Via mécanismes des cibles (ex: menace du stéréotype) et des observateurs (biais confirmation)
+	- **Mais : possible de changer**.
+		- Echelle de temps longue.
+		- Contexte social/politique 
+			- Influe l'accessibilité en mémoire -> donc l'activation -> donc les comportements
+		- **-> Donc progressivement**
+
+- **Influence du contexte sur les stéréotypes**
+	- Les Stéréotypes et préjugés sont mémorisés 
+		- Disponibles pour influencer le TTT de l'info
+			- Pas nécessairement "actif" à un instant donné.
+		- Activation en mémoire du travail :
+			- **Dépend beaucoup du contexte**
+				- Qui module l'accessibilité en mémoire.
+	- -> Impossible de considérer l'individu du contexte.
+
+- Politique & contexte :
+	1. Interdire d'en parler pour limiter l'activation
+	2. En parler + moduler + remplacer par des concepts moins discriminants
+
+- **Co-présence chez une même personne de 2 stéréotypes à propos d'un même groupe**
+	- Si exposé cette personne est exposé à 2 sources d'informations aux conclusions différentes dans des contextes de socialisation
+		- Ex: "chômeur" vs "demandeur d'emplois"
+	- Variance inter-individuelle : **degré d'intériorisation**
+		- -> Différence d'accessibilité en mémoire 
+			- Certains stéréotypes +/- accessibles 
+				- Influence du contexte
+
+- **Un stéréotype est une construction sociale et est donc partagé**
+	- Il peut exister une incongruence entre cognition implicite et explicite 
+		- Un stéréotype peut être rejeté explicitement 
+			- Mais influencer de manière implicite les comportements/jugements si une attention volontaire n'est pas déployée pour limiter cette impact
+			- -> Différences entres attitudes explicites et implicites 
+	- Dans notre société :
+		- Héritage de stéréotypes historiques lors de la socialisation 
+			- Pouvant être intériorisés malgré-nous.
+				- Mais explicitement rejetés (voire institutionnellement)
+			- --> Situation de dualisme.
+				- Impact les études car les mesures sont principalement explicites.
+
+- Influence maximisée d'un stéréotype en absence de temps/énergie pour réfléchir. 
+
+### Forme du stéréotype 
+
+- Forme : contenu & structure 
+- Stéréotypes : repose sur le phénomène de catégorisation sociale
+	- Entraines des représentations nécessairement simplistes
 
 
+- **Fisk et al 2002 : modèle du contenu du stéréotype**
+	- La majorité des stéréotypes s'expriment sur 2 dimensions:
+		- Chaleur 
+			- Exprime les qualités relationnelles, attitudes & intensions vis à vis d'autrui : honnêteté, sympathie, agressivité
+		- Compétence
+			- Exprime la notion de capacité : travailleur, intelligence, force, résistance etc.
+	- **Pour Fiske, les dimensions sont indépendantes**
+		- Souvent : <u>stéréotypes ambivalents</u> 
+			- Implique un jugement positif sur une dimension mais négatif sur l'autre
+				- **C'est le phénomène de compensation**
+					- Supposé comme très fort dans les sociétés dualistes 
+					- Pour masquer une forme de discrimination larvée 
+	- Evaluation des stéréotypes sur 2 dimensions, donc 4 types de stéréotypes:
+		- ![[Pasted image 20251205155352.png]]
+		- Paternalistes -> pitié & compassion
+		- Admiratifs ->  admiration, respect 
+		- Envieux -> envie, jalousie 
+		- Méprisants -> mépris, dégout
+- L'existence de ces 2 dimensions permet de **cacher des discrimination via la compensation**.
+	- Mais dans les économie libérales : les ressources sont attribuées exclusivement selon la dimension de compétence.
+		- Hiérarchisation sociale sur cet axe.
+
+- Tout groupe social est sujet à des stéréotypes.
+	- Ex du sexisme : "Préjugés à l'égard d'une personne sur la base de son sexe biologique. Particulièrement associé au sexe féminin."
+	- 2 formes de sexismes:
+		- Le sexisme bienveillant : compensation. + répandu.
+		- Le sexisme hostile : dénigrement assumé
+	- Co-existent souvent sous une forme ambivalente aujourd'hui. (Dardenne et al 2006.)
 
