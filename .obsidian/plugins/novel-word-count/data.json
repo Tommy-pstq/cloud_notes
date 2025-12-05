@@ -26183,31 +26183,6 @@
         "nonWhitespaceCharacterCount": 11003
       }
     },
-    "0 - Cours Psycho/L2/TD Psycho enfant/CM - J. Chevalier 27-11-25.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1683,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.61,
-      "characterCount": 13547,
-      "nonWhitespaceCharacterCount": 10846,
-      "readingTimeInMinutes": 6.350943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1764250348225,
-      "modifiedDate": 1764855469108,
-      "sizeInBytes": 13918,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.61,
-        "wordCount": 1683,
-        "characterCount": 13547,
-        "nonWhitespaceCharacterCount": 10846
-      }
-    },
     "0 - Cours Psycho/L2/Pb cours psychologie de l'enfant clinique.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -26575,6 +26550,31 @@
       "createdDate": 1764946432584,
       "modifiedDate": 1764946432585,
       "sizeInBytes": 117342,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 - Cours Psycho/L2/TD Psycho enfant/CM - J. Chevalier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2246,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.486666666666666,
+      "characterCount": 18234,
+      "nonWhitespaceCharacterCount": 14581,
+      "readingTimeInMinutes": 8.475471698113207,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764250348225,
+      "modifiedDate": 1764950646723,
+      "sizeInBytes": 18753,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

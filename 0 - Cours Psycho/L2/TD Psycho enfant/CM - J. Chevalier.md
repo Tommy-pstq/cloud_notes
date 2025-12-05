@@ -1,4 +1,103 @@
-## CM - J. Chevalier 27/11/25
+## CM1 J. Chevalier 
+
+- Processualité adolescente = moment de grands bouleversements émotionnels.
+	- Période de "13-18 ans" peu représentatif.
+		- Existence de "pré-adolescents"
+		- Difficile de borner 
+			- Clinique : début vers 9-11 ans et dure plus longtemps : notion de "jeunes adultes"
+
+- Tous les "penseurs" (très précis ça ....) de l'adolescence:
+	- Détachement de l'autorité et de la structure parentale.
+		- Difficile & important. 
+			- Accès au pubertaire 
+				- Culture externe au contexte parental -> permet la sublimation et donc la construction de soi dans l'opposition face aux figures parentales. 
+
+##### Théories de l'adolescence
+
+- Freud 
+	- Pas de mention/définition/conceptualisation particulière de l'adolescence mais parle de "jeunes adultes"
+		- Intérêt que pour sa théorie de la sexualité infantile
+	- Il s'exprime cependant à propos de la **Puberté**:
+		- Passage de la sexualité infantile à la sexualité génitale 
+			- Nouveau prima de zone génitale 
+				- Regroupe désormais toutes les pulsions 
+				- Donc : fin de l'indifférenciation.
+			- Différenciation entre les sexes 
+			- Découverte de l'objet :
+				- Passage de l'auto-érotisme à l'hétéro-érotisme 
+				- Objet = autre amoureux 
+		- Ce changement de sexualité s'accompagne par une métamorphose nécessaire des représentations infantiles -> génitalisés, processus douloureux. 
+			- Nécessite le détachement des figures parentales 
+				- Sinon: rappelle œdipe (on va faire genre que ça existe)
+	- Pour ce tocard : corps = corps sexuel
+		- "informe car organisé par les pulsions sexuelles"
+			- A l'adolescence : changement de sexualité 
+				- Donc implique un "changement de structration"
+					- Structuré par le regard 
+						- Composante libidinale essentielle 
+
+
+- Adolescence = seconde chance de résolution des conflits infantiles 
+	- Car apporte une radicale nouveauté. 
+		- Au stade phallique : l'immaturité physique limite l'assouvissement des pulsions 
+			- Ce n'est plus le cas à l'adolescence 
+
+- Enjeu de l'adolescence : trouver un objet sexuel non incestueux 
+	- Donc extra familial 
+
+- Puberté : nécessité d'intégrer une nouvelle identité ("commande à l'adolescent de choisir un sex")
+- Adolescent : doit se battre pour "conquérir son indépendance":
+	- sépération, perte, deuil
+
+
+- **Théorie du pénis** 
+	- Métamorphose du corps : les éléments du corps sont considérés via leur formes et tailles.
+		- -> Comparaisons 
+			- Structuration & construction du corps via ces comparaisons
+- Corps en morceau -> dialectiques genrées (ça n'a aucun sens ptn)
+
+- Théories sexuelles sur le corps = genèse de la rencontre des corps 
+
+- Théorie sexuelle : rapport masochisme et sexualité parentale 
+	- Sexualité, Sensualité mêlée à de l'agressivité 
+
+- Corps sexuée = scénarisé.
+
+- <u>Post Freudiens </u>
+	1. Ecole de **l'égo-psychologie** - Anna Freud 
+		- Ego psychologie : mécanismes de défense du moi 
+			- "Moi-sujet" = instance adaptative à la réalité extérieure, non créatrice.
+			- Première définition de l'adolescence (au singulier): 
+				- "Moment de rupture et de surgissement de passage à l'acte"
+			- En références aux adolescentes "à problèmes"
+				- Dimension péjorative
+				- Qu'il faut discipliner et remettre en ordre
+	2. En parallèle : M. Klein & Winnicott 
+		- Adolescence : jeu & créativité
+		- **Mélanie Klein** Motivée par son intérêt pour l'angoisse (de perte principalement)
+			- "Position parano-schizoïde"
+				- Présence d'une angoisse persécutrices dans les premiers moi  mène à une position parano-schizoïde 
+					- L'enfant se sent persécuté par tout objet considéré comme mauvais (=frustrant) et cherche à intégrer exclusivement les bons : apparition du **clivage** entre bons & mauvais objet 
+			- Position dépressive succède à parano-schizoide, après 6 mois
+				- Commence à comprendre que bon & mauvais existent dans le même objet (la mère)
+					- Provoque des angoisses dépressives  : peur d'avoir abimé l'objet par sa prorpre agressivité (au secours)
+				- Emergence de sentiments plus complexes 
+			- Puberté : se manifeste différemment selon le genre 
+				- Filles, suite au premières règles 
+					- Angoisses persécutrices & dépressive
+						- persécution : car issue du corps : sensation de perte de contrôle
+						- dépressive : signe la fin de l'enfance
+				- Garçons : sexualité génitale
+					- Entraine la peur/angoisse de castration -> sentiment de culpabilité 
+		- **Winnicott**
+			- Transformation du fantasme par la processualité adolescente:
+					- Enfant : mort 
+					- Adolescent : meurtre des figures parentales au niveau psychique
+				- Primordiale pour acquérir son indépendance & sa "liberté d'exister"
+			- Liberté d'exister -> Maturité affective.
+				- La santé de l'adolescent dépend de sa capacité à "**faire avec l'affect**"
+				- Le sujet gagne en autorité sur ce qui le traverse et apprend à composer avec = maturité affective. 
+## CM2 - J. Chevalier 27/11/25
 
 - Souffrances / symptômes de l'adolescence. 
 	- Multiples 
