@@ -63,7 +63,7 @@
 
 - Corps sexuée = scénarisé.
 
-- <u>Post Freudiens </u>
+- ##### Post Freudiens  
 	1. Ecole de **l'égo-psychologie** - Anna Freud 
 		- Ego psychologie : mécanismes de défense du moi 
 			- "Moi-sujet" = instance adaptative à la réalité extérieure, non créatrice.
@@ -89,14 +89,115 @@
 						- dépressive : signe la fin de l'enfance
 				- Garçons : sexualité génitale
 					- Entraine la peur/angoisse de castration -> sentiment de culpabilité 
-		- **Winnicott**
-			- Transformation du fantasme par la processualité adolescente:
-					- Enfant : mort 
-					- Adolescent : meurtre des figures parentales au niveau psychique
-				- Primordiale pour acquérir son indépendance & sa "liberté d'exister"
-			- Liberté d'exister -> Maturité affective.
-				- La santé de l'adolescent dépend de sa capacité à "**faire avec l'affect**"
-				- Le sujet gagne en autorité sur ce qui le traverse et apprend à composer avec = maturité affective. 
+- **Winnicott**
+	- Transformation du fantasme par la processualité adolescente:
+		- Enfant : mort 
+		- Adolescent : meurtre des figures parentales au niveau psychique
+			- Primordiale pour acquérir son indépendance & sa "liberté d'exister"		
+	- Liberté d'exister -> Maturité affective.
+		- La santé de l'adolescent dépend de sa capacité à "**faire avec l'affect**"
+			- Le sujet gagne en autorité sur ce qui le traverse et apprend à composer avec = maturité affective. 		
+	- Pulsions génitalisés entrainent une **agressivité et destructivité**.
+		- Les adultes doivent "y survivre", en gérant les affects des adolescents.
+			- Sans chercher à se venger ou mettre en place de représailles 
+				- Mais plutôt **accompagner et aider à verbaliser**.
+	- L'adolescent vit une <u>position paradoxale</u> :
+		- Désir d'indépendance
+		- Mais cette indépendance est redoutée et un retour dans l'enfance est parfois souhaitée. 
+			- Dualité caractéristique de **l'immaturité affective** de l'adolescence. 
+				- Qu'il faut respecter 
+				- C'est également un facteur précieux de santé car est une **source de créativité**.
+		- Important pour les adultes de ne pas céder trop vite à ce désir d'indépendance 
+			- Risque de développer une fausse indépendance
+	- Winnicott : conception différente de la **délinquance adolescente**
+		- C'est **un symptôme** donc la source est à rechercher dans **relation entre l'ado et son environnement familial** d'abord, puis social.
+		- Importance ++ de l'environnement pour Winnicott:
+			- Passage de considérations intra à inter-subjectives.
+				- -> Il existe des symptômes intersubjectifs spécifique à l'adolescence
+					- <u>Tendance antisociale</u>
+						- "Difficile à traduire"
+						- Délinquance =/= asocial
+						- Peut survenir à tout âge
+							- Forme + inquiétante à l'adolescence 
+								- Car peut avoir le contrôle de son environnement par rapport enfant. 
+									- -> Les pulsions sexuelles & agressives peuvent potentiellement devenir dangereuses
+						- "S'exprime quand l'ado est déçu se sentant lésé par son environnement"
+							- -> **Demande réparation** à son environnement en cherchant à l'attaquer/détruire par l'acte antisocial, il exprime son environnement comme défaillant. 
+						- **Fonction symptomatique** :
+							- Signe de souffrance -> espoir de retrouver un **bon** environnement 
+								- Nécessaire que les parents/adultes s'engagent **authentiquement** auprès des ados.
+							- Mais difficile à tolérer pour la société 
+							- Confronte l'adulte à  un sentiment d'impuissance
+					- <u>Conduite à risque, délinquances, conduites agressives</u>
+					- <u>Phénomène de régressions</u>
+						- Inévitable, non péjoratif.
+							- Retour en arrière actualisé avec les acquis du présent. 
+								- Eprouve le besoin de dépendance expériencée différemment que durant l'enfance
+						- Fonction de **Holding** de l'environnement
+						- Banal, ordinaire : à accepter.
+						- On retrouve des phénomènes de régression chez l'adulte également. 
+	- Winnicott : *Il existe un unique remède à l'adolescence: l'écoulement du temps.* 
+		- Il est long, douloureux et complexe de grandir.
+##### Ecole Française 
+(en même temps, la psychanalyse n'existe plus qu'en France....) 
+- 1984 : Pierre Mâle 
+	- "Premier" (mdr) à considérer que les adolescents sont éligibles à des psychothérapies non normatives.
+		- Création des premiers services pour ado en milieu hospit
+- Les Laufer
+	- Conceptualisation du **"Break down"** à l'adolescence
+		- Processus de rupture du développement à l'adolescence
+			- Peut devenir pathologique si aboutit à une relation faussée à soi même en tant qu'individu sexué.
+		- Adolescence : peut être à l'origine d'épisodes psychotiques transitoires (en tant que symptômes)
+			- Rejet du corps en transformation
+				- Au profit du corps idéalisé pendant l'enfance
+			- Face à l'intégration d'un corps irrémédiablement sexué.
+
+##### Aujourd'hui 
+
+- Gutton 
+	- Métapsychologie de l'adolescent
+		1. Le pubertaire
+		2. L'adolesens 
+	- Passage de "l'adolescence" au singuliers aux "processus adolescents"
+		- Différents de ceux de l'enfance et de l'adulte
+		- Non péjoratif 
+- <u>Le Pubertaire</u>
+	- "La puberté du psychisme"
+		- Puberté = passage de la sexualité infantile à génitale 
+		- Pubertaire = génitalisation de la vie psychique 
+	- L'adolescent doit abandonner ses anciennes théories, en contradiction avec les nouvelles 
+	- En cas de coïncidence entre désirs inconscient manifestations parentales
+		- Situation difficile 
+	- L'adolescent doit effectuer un intense travail de contenance :
+		- Le deuil des objets infantiles 
+			- Au profit d'objets socialement acceptables 
+			- Doit refouler la sexualité infantile 
+- <u>L'adolesens</u>
+	- **Processus d'idéalisation** : recherche de nouvelles figures à investir de manière fantasmatique 
+		- Ouvre le sujet à une "seconde latence" (première = après oedipe)
+			- Favorise la désexualisation des relations incestueuses
+				- Déculpabilise l'adolescent 
+					- Par des fantasmes orientés vers des objets adéquats (=extérieur famille)
+	- Processus psychique comparable à la subjectivation
+		- Favorise la séparation.
+
+- Pubertaire + Adolesens entrainent une dynamique psychique de résistance/acceptation de la génitalité. 
+	- Qui about à un remaniement des processus d'identification et idéalisation 
+		- **Identification** : processus inconscient 
+			- Met au premier plan l'opposition avec les figures parentales 
+		- **Idéalisation** : conscient dirigé vers des figures/objets culturels 
+			- C'est à travers les processus d'idéalisation que la culture prend une place importante dans l'adolescence 
+				- Participe à la construction de l'adolescent 
+					- En opposition des figures parentales 
+						- Qui marque le début de l'indépendance.
+
+- Processualité adolescente = moment de restructuration du lien à l'objet.
+	- Sépare l'enfant des objets internalisés 
+			- Petit enfant : se sépare de la mère réel par internalisation de celle-ci 
+		- Pour permettre la rencontre d'un nouvel objet réel
+	- Permettre l'instauration d'un espace psychique personnel 
+- Moment de tension existentiel extrême.
+
 ## CM2 - J. Chevalier 27/11/25
 
 - Souffrances / symptômes de l'adolescence. 
@@ -120,7 +221,7 @@
 	- Pouvoir différencier les troubles transitoires // chronique 
 		- Ex : symptômes psychotiques transitoire ou entrée en psychose. 
 - Important d'entendre variétés / souffrances / symptômes à l'ado 
-	- **Il ne peut pas exister de continuité épistémologique dans la façon de concevoir/définir les symptômes très hétérogènes à l'adolescence.**
+	- **Il ne peut pas exister de continuité épistémologique dans la façon de concevoir/définir les symptômes très hétérogènes à l'adolescence.** 
 
 
 - Aspect pathologique = dimension excessive, jamais le type de symptôme.
