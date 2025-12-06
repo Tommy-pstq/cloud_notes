@@ -1,7 +1,7 @@
 
-CM 1 : La métapsychologie Freudienne
+## CM 1 : La métapsychologie Freudienne
 
-Partie 1 : Les bases théoriques psychanalytiques
+### Partie 1 : Les bases théoriques psychanalytiques
 
 On va étudier
 
