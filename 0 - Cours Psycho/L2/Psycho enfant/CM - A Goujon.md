@@ -273,10 +273,140 @@ est nécessaire à l’achèvement de leur élaboration </small>
 - Vers 7 ans:
 	- Bascule vers la pensée logique.
 		- Intériorisation des opérations
-			- Capacité d'abstraction 
+			- Capacité d'abstraction  + 
 			- Transformations mentales 
 
 #### Période des opérations concrètes ou de l'intelligence opératoire (de 6 à 10 ans).
+
+- Stade opératoire : "Capacité d'exécuter mentalement une même action dans les deux sens de
+parcours, mais en ayant conscience qu'il s'agit de la même action" 
+- Réversibilité + pensée logique concrète 
+
+- Passage de "pré" à l'opératoire : 
+	- Implique que l'enfant s'est **libéré** de l'égocentrisme perceptif 
+		- Conservation du nombre lors d'une transformation 
+			- -> Réussite tâche de conservation de quantité discrète : l'écartement de pièces n'entraine plus la perception d'un plus grand nombre de pièce. 
+				- **Réversibilité acquise/intériorisée** -> principe de conservation -> réussite tâche conservation quantité : **invariance.**
+					- <u>Début de logique concrète</u>
+		- Logique des classes + inclusion. 
+	- Présence de phases d'équilibration successives entre les stades.
+
+- **Comment émerge le concept du nombre ?**
+	- Concept de nombre différent de la quantité -> différent de réciter.
+	- Synthèse logico-mathématique de deux opérations cognitives:
+		- La classification/catégorisation/logique de classe -> **inclusion** 
+		- La sériation/relation -> **transitivité**
+
+- <u>Logique des classes</u> : tâche logique d'inclusion
+	- "Il y a plus de tulipes que de fleurs" 
+		- Jusqu'à **6 ans** : défaut d'inclusion des tulipes dans la classe des fleurs.
+	- Différents niveaux 
+		1. Comparaison horizontale de deux sous-classes
+		2. Réponses fluctuantes 
+			- Encore sensibilité perceptive et  comptage empirique  
+		3. Opératoire 
+			-  Réponse concrète + explication logique 
+	- Mais : âge des bonnes réponses dépend des objets.
+		- Pas de synchronisme horizontal 
+			- -> grosse critique de l'apparition du nombre. 
+
+- <u>Logique des relations</u> : tâche logique de transitivité 
+	- Transitivité abstraite de la perception.
+	- Tâche : faire un escalier à partir de réglettes de différentes longueurs. 
+	- **Niveau 1 < 5 ans:**
+		- Formation de couple/trio avec sériation +/- correcte
+	- **Niveau 2 : 5 - 7 ans:**
+		- Pas de systématique dans la construction de l'escalier : réussite via tâtonnement empirique.
+		- Incapacité a insérer un nouvel élément dans une série déjà établie. 
+	- **Niveau 3 : 6 - 8 ans:**
+		- Sériation avec méthode systématique 
+		- Insertion d'un élément dans une série déjà constituée 
+		- Transitivité. 
+
+- Logiques des classes & des relations en même temps = **Sychronisme opératoire**
+	- Permet d'accéder au concept de nombre.
+	- Mais jamais vraiment observé. 
+
+- <u>Logique du nombre</u>
+	- Permet l'invariance au transformations 
+	- Conservant:
+		- **Niveau 1 : Non conservant**  
+			- Prima du figuratif : une transformation modifie la quantité 
+		- **Niveau 2 : Conservant intermédiaire** 
+			- Fluctuation, réponses contradictoires 
+		- **Niveau 3 : Conservant** 
+			- Réponses stables 
+			- Résistances contre suggestions 
+			- Explication logique:
+				- Identité : "c'est pareil on a rien enlevé/ajouté"
+				- Réversibilité : "on peut refaire l'inverse"
+				- Compensation : "plus long mais plus plat"
+
+
+- Pensée opératoire : **réversible**, s'appuie sur des **invariants**.
+- Opérations concrètes : portent sur des objets concrets : directement manipulable ou facilement représentable; pas sur les propositions elles mêmes. 
+
+
+- ##### Critiques de Piaget au stade opératoire
+- Souvent : c'est les interprétations et non les résultats qui sont critiqués. 
+
+- Si présence effective d'un synchronisme opératoire : toutes les épreuves devraient être réussite au même âge, eh ben non : **Décalage horiztontal collectif**
+
+![[Pasted image 20251210120313.png|500]]
+
+- <u>Tâche des 3 montagnes</u>
+- **Helen Borke (1975)** Tâche des 3 montagnes : pas approprié.
+	- Expérience répliquée avec des jouets que l'enfant connait bien.
+	- Au lieu de 4 points de vues différents, l'enfant peut tourner autour d'une seconde table et s'arrêter quand il est sur le point de vue du jouet.
+		- <u>Réussite dès 3-4 ans</u> : preuve d'une certain conscience de la perspective de l'autre, alors que le tâche de piaget était réussite systématiquement vers 9-10 ans seulement. 
+- Plusieurs variables sont susceptibles d'expliquer la réussite +/- tardive des enfants:
+	- Nombre & genre des objets utilisés 
+	- Type de réponse exigée 
+		- Désigner une photographie ou rotation du dispositif
+	- Nature de l'observateur : poupée ou individu
+	- Position de l'observateur 
+
+- -> **Les erreurs dites égocentriques sont dues à l'incapacité des enfants à résoudre des tâches trop difficiles : ils donnent donc la seule réponse qui leur est possible, leur propre perspective.**
+
+- <u>Critique de la logique de classe / tâche d'inclusion</u>
+	- Age de réussite : dépend des objets : animaux réussis avant fleurs.
+		- -> **Est-ce que l'enfant comprend bien tout les aspects de la question ?**
+			- Situation déroutante:
+				- Doit coordoner les infos pertinentes mais surtout **résister à des schémas intuitifs non pertinents** (inhibition)
+					- Ex : biais cognitifs: erreur de conjonctions (guichetière dans une banque ou guichetière dans une banque ET active mouvement féministe)
+
+- <u>Critique transitivité</u>
+	- **Bryant & Tabasso 1971** : les erreurs de sériation seraient dues à une mémoire de travail limitée -> impossible de retenir mentalement la taille des batons 
+		- Si les enfants sont entrainé.es à retenir la taille des batons en amons : bien meilleure réussite.
+
+- <u>Critique conservation quantité discrète</u>
+	- Effet de l'implication de l'observateur : l'enfant suppose que l'adulte ne rien au hasard donc qu'il y a un lien entre ses actions et la question.
+	- La même expérience mais si on dit que cest "le vilain teddy" qui a mélanger les objets :
+		- Réussite bien plus précoce
+
+- <u>Critique conceptuelle: comptage et nombre</u>
+	- Tâche de comptage/conservation :
+		- Réussite plus tôt si on demande explicitement de compter avant de répondre.
+	- Réussite dès 2 ans si 2-3-4 bonbons.
+		- Ne fonctionne plus avec 6.
+		- Présence d'une sensibilité numérique dès 4-5 mois (animaux aussi.)
+
+- Erreurs aux épreuves de conservations:
+	- Résulte d'heuristiques (stratégies rapide)
+		- **Défaut d'inhibition** du schème longueur = nombre
+				- Schème potentiellement renforcé par le matériel scolaire utilisé 
+- Réussite pourrait plutôt être lié à la capacité à inhiber l'heuristique longueur = nombre plutôt qu'à l a capacité à activer un algorithme de comptage.
+
+- Aspect logico-mathématique du nombre excessif ? 
+	- Focus d'autres aspects fonctionnels : comment ça marche / fonctionne réellement chez l'enfant.
+
+
+- Finalement:
+	- Présence d'un décalage horizontal systématique 
+	- Absence de synchronisme opératoire 
+- -> Le concept du nombre n'est pas au centre de tout.
+
+
 #### Période des opérations formelles (de 10 à 16 ans).
 #### Critiques de la théorie piagétienne
 

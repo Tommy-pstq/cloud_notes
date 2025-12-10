@@ -511,7 +511,7 @@
 - Emotions, mémoire, langage, audition 
 
 - <u>Cortex auditif</u>
-- ![[Pasted image 20251113111111.png|250]]
+- ![[Pasted image 20251113111111.png|500]]
 	- **Aire auditive primaire**
 		- Encodage des caractéristique fondamentale des sons : fréquence, amplitude.
 	- **Aire auditive secondaire**
@@ -524,7 +524,8 @@
 	- **Cortex entorhinal**
 
 - <u>Amygdale et Hippocampe</u>
-- ![[Pasted image 20251113111052.png|250]]
+- ![[Pasted image 20251113111052.png|400]]
+- 
 	- Profondeur du lobe temporal
 	- Inclues dans le système limbique 
 		- Emotions, mémoire, comportement motivationnel 
@@ -536,7 +537,8 @@
 #### Lobe occipital 
 
 - Traitement des informations visuelles 
-![[Pasted image 20251113111304.png|250]]
+![[Pasted image 20251113111304.png|400]]
+
 - <u>Aire visuelle primaire</u>
 	- Porte d'entrée cortex visuel
 		- Réception & analyse de base formes visuelles 
@@ -802,13 +804,13 @@
 	- Sécrétion excessive de cortisol 
 		- Si absence de rétrocontrôle négatif / inefficace 
 			- Effets **physiologiques**
-				- Troubles métaboliques 
+				- Troubles <u>métaboliques</u> 
 					- Hyperglycémie 
 						- Diabètes 
 						- Prise de poids : résistance à l'insuline 
-				- Troubles immunitaires 
+				- Troubles <u>immunitaires</u> 
 					- Chute des défenses immunitaires
-				- Troubles cardiovasculaires 
+				- Troubles <u>cardiovasculaires</u> 
 					- Hypertension artérielle
 			- Effets **Cérébraux**
 				- Hypervigilance, anxiété, irritabilité 
@@ -950,7 +952,7 @@
 	- Deuxieme PA possible si $I_(stim)$ augmente 
 ![[Pasted image 20251124145447.png|400]]
 
-- 1) + 2) assurent que le message nerveux est unidirectionnel. 
+- Périodes de réfractions (absolues & relatives) assurent que le message nerveux est unidirectionnel. 
 
 ### Conduction de l'influx nerveux 
 
