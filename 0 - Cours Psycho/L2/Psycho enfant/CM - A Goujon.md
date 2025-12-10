@@ -406,7 +406,138 @@ parcours, mais en ayant conscience qu'il s'agit de la même action"
 	- Absence de synchronisme opératoire 
 - -> Le concept du nombre n'est pas au centre de tout.
 
-
 #### Période des opérations formelles (de 10 à 16 ans).
-#### Critiques de la théorie piagétienne
+
+- Maturation du système de pensée -> nouveau mode.
+	- Donc : développement de l'intelligence de l'ado.
+		- Accès à la logique formelle : résolutions de problèmes abstraits
+		- Se base sur des hypothèses détachées du monde sensible/perceptible.
+		- Mise en place du raisonnement hypothético-déductif.
+
+- Inversion du réel et des possibles:
+	- Avant : possible = 1 cas du réel.
+	- Après : réel = 1 cas des possibles.
+
+- 5 propriétés du passage au stade formel:
+	1. Concret -> Abstrait
+	2. Réel -> Possible
+	3. Prévision des conséquences à long terme 
+	4. Logique déductive
+	5. Résolution systématique des problèmes.
+
+- <u>Raisonnement hypothético-déductif</u>
+	- Appliquer une règle générale à un cas particulier 
+	- Se base sur des prémisses réputées vraies.
+		- Pour aboutir à une conclusion qui ne supporte pas d'alternative
+	- Utilisation de la logique formelle :
+		- Les conclusions sont justes si les prémisses sont vraies.
+- Raisonnement certain.
+
+- **Raisonnement propositionnel** 2 règles de déductions
+	- Modus ponens = affirmation
+		- Ex : S'il pleut, il y a des nuages.
+			- J'observe qu'il pleut.
+				- Donc il y a des nuages.
+	- Modus tollens = négation
+		- Ex : S'il pleut, il y a des nuages.
+			- J'observe qu'il n'y a pas de nuage 
+				- Donc il ne pleut pas.
+![[Pasted image 20251210165643.png|500]]
+- A partir de l'adolescence:
+	- Mise en place de structure logique abstraite 
+		- Utilisables pour la résolution de tous les problèmes.
+
+- Pour Piaget : 
+	- Raisonnement de l'adulte se base sur des structures de logique générale
+		- Il peut opérer directement sur les propositions 
+		- Libéré des aspects relatifs : le raisonnement est indépendant de la forme et des contraintes 
+	- Le sujet épistémique dispose au stade formel **d'une structure de pensée qui autorise un raisonnement isomorphe à la logique des propositions.**
+
+- Logique mentale 
+	- Structure de pensée = combinatoire + IRNC
+
+- **Méthodes d'étude du raisonnement:**
+	- Tâche d'évaluation de la conclusion:
+		- 2 prémisses, 1 conclusion présentées.
+		- Est-ce que la conclusions suit nécessairement les prémisses ?
+
+- Recherche depuis les années 1970:
+	- Les adultes sont médiocres pour le raisonnement logique. (Piaget avait déjà remarqué que la logique formelle n'était pas présente partout: au travail mais pas dans la vie quotidienne)
+	- Enorme influence de la sémantique des prémisses. 
+		- Beaucoup de biais:
+			- Biais de croyance : taux d'acceptation conclusions avec prémisses crédibles 
+			- Biais de raisonnement : erreur systématiques 
+		- Si confusion entre validité empirique et logique : choix de la validité empirique 
+	- Test de logique formelle : // Martorano 1977
+		- Les enfants entrainés y arrive
+		- 18 ans : de 15 à 95% de succès.
+			- Trop de variabilité inter-individu
+				- Il n'existe PAS un seul stade formel.
+
+### Modèles Néo-piagécien et théories de traitement de l'information
+
+- Emergence dans les années 70 - 80.
+- Remise en question des explications de Piaget 
+- Conservation des stades et des structures de pensée 
+- Intégration des limites cognitives 
+	- Pour expliquer certaines erreurs
+
+- -> Interprètent l'évolution des capacité cognitives comme la maturation des fonctions exécutives :
+	- Attention, inhibition, mémoire de travail, planification
+
+#### Développement des fonctions exécutives 
+
+- Fonctions exécutives = fonctions de haut niveau.
+	- MT, Inhibition, Déplacement/gestion de l'attention, résolution de problème, planification.
+- **3 composantes de base :**
+	- **Contrôle inhibiteur** 
+	- **Mémoire de travail**
+	- **Flexibilité : attentionnelle, cognitive et mentale** 
+
+- Permettent:
+	- Fixer des objectifs
+		- Planifier, initier & superviser des actions volontaires pour les atteindre
+	- Adaptation a des situations nouvelles / changement de stratégie
+	- Résister à des distractions, inhiber des automatismes, élaborer des stratégies nouvelles adaptées à la tâche en cours.
+	- Concentration volontaire:
+		- Etablir des priorité, résister aux impulsions, filtrer les distractions, focaliser l'attention sur la tâche à réaliser. 
+
+- Important pour le bon fonctionnement émotionnel & social.
+
+- <u>Théorie Daniel Kahnemann</u> : système 1 vs système 2.
+	- Système 1, par défaut :
+		- Automatique, intuitif, créatif, rapide.
+		- Economie d'énergie
+	- Système 2:
+		- Concentration + attention, analytique résolution de problème 
+		- Activé si le système 1 est mis en défaut 
+		- Plus lent, plus couteux en énergie.
+- Les enfants sont plus enclins à répondre aux questions Piagétienne via le système 1.
+	- Car le système 2 repose sur les fonctions exécutives qui se développent lentement (notamment mémoire travail)
+
+- <u>Mémoire de travail</u>
+	- Adulte : 4 - 5 éléments.
+		- Possible de chunker pour augmenter l'info contenue.
+	- Développement de la <u>mémoire à court terme</u>, bien documenté :
+		- Adulte  : 7 +/- 2 éléments, atteintes adolescence.
+		- 7 ans : 5 éléments
+		- 9 ans : 6 éléments
+	- Développement <u>mémoire de travail</u>:
+		- Plus lent & plus compliqué à évaluer.
+			- Dépend des tâches 
+			- Développement de stratégies de maintien.
+		- Développement rapide vers 4-5 ans & 8 ans.
+- Mémoire de travail surchargée -> désynchronisation des ondes cérébrales entre le CPF, champ oculaire frontaux & zone intrapariétale latéral (Miller 2018)
+
+- Augmentation perf mémoire avoir l'âge:
+	- ![[Pasted image 20251210172713.png]]
+- <u>Critique Piaget </u>:
+	- Transitivité/Sériation : Erreur non due à absence de conception du nombre ou de la transitivité, le tri des baguettes est limité par la mémoire de travail. 
+	- Conservation des quantité : Les enfants ont oubliés leur première réponse ?
+
+- <u>Développement de stratégies de mémorisation</u>
+	- répétition mentale : augmente avec l'âge
+	- Organisation/chunking pour regrouper des éléments : augmente avec l'age 
+	- Elaboration : analogie avec d'autres situations étudiées antérieurement 
+		- Se base sur connaissances en MLT
 
