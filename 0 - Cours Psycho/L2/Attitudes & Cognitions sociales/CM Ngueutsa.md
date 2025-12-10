@@ -128,10 +128,161 @@
 - *On réagit en correspondance avec les explications que l'on donne aux événements*
 
 ## Séance 2: Une application des théories de l’attribution causale aux accidents
+
 ### a. Le modèle de l’explication causale naïve des accidents (Kouabenan, 1999)
+- Explication causale naïve = Comment les cognitions permettent de comprendre les comportements face au risque.
+	- Découle des théories de l'attribution causale.
+
+- Accident = événement brusque, imprévisible, inattendu.
+	- Qui entraine des dommages : pour soi, autrui ou l'environnement.
+
+- Entraine un **Besoin d'explication**.
+	- "Monsieur tout le monde" : Fonction de sécurité psychologique.
+		- Explication -> restaure sécurité psycho via **sensation de contrôle.**
+	- Experts : 
+		- Prévention/Sécurité/Responsabilité
+
+- Les explications d'un accident varient **en fonction du but recherché.**
+	- Souvent : trouver un coupable.
+	- Maitriser les risques 
+	- Empêcher la reproduction d'un accident. 
+
+- <u>Modèle des explications causales naïves</u> (très utilisé terrain.)
+	- Explications causales fournies <u>spontannément</u> par les personnes impliquées ( donc pour comprendre leur comportement) sont des informations précieuses même si non rationnelles. 
+		- Pour éclairer la <u>causalité</u> 
+			- Causes : cachées/objectives/subjectives.
+	- <u>Privilégie la parole</u> des personnes qui font face aux accidents 
+		- Car ces personnes deviennent des spécialistes de la prévention.
+		- Permet d'éviter le contournement & maximise l'utilisation des dispositifs de préventions.
+	- En plus de <u>l'expertise</u> théorique qu'elle vient moduler.
+
+- <u>Facteurs explicatifs</u>
+
+![[Pasted image 20251210155117.png]]
+
+
 ### b. Les déterminants de l’explications naïve
+
+- <u>Le statut :</u>
+	- L'individu est susceptible de fournir des explications qui protègent ceux qui ont le même statut que lui et met en exergue la responsabilité de ceux qui ont un statut différent. 
+- <u>La culture:</u>
+	- Contexte culturel collectiviste -> recherche de facteurs situationnelles 
+		- Collectiviste : contexte où l'on prend soin de l'enfant sans rien attendre en retour, se définit à travers le "on"
+		- Le collectif fait partie de l'individu
+	- Contexte individualiste -> recherche facteurs dispositionnels 
+		- Individualiste : Enfant = personne entière, attribution de propriétés (ex: isolement dans la chambre -> individualisation), se définit par le "je"
+		- L'individu doit contrôler le collectif, lui imposer son opinion
+	- Contextes culturels nuancés par la mondialisation.
+
+- <u>Le fatalisme</u>
+	- Tendance à croire que tout est prédéterminé et qu'on a aucun contrôle dessus. 
+		- -> Entraine des explications externes systématiques. 	
+	- Croyances fatalistes souvent oubliées des études en occident.
+
+- <u>L'expertise</u>
+	- Experts privilégient les facteurs internes aux victimes aux dépend des causes liées à l'environnement (Etude 500 PV gendarmerie.)
+		- Analyse **avec son hypothèse en tête**
+			- -> Biais de confirmation.
+				- Attention sélective.
+					- Ignore ce qui va contre.
+	- Focus sur causes internes donc préconise des actions focus sur les victimes et pas le contexte.
+
+- <u>L'expérience d'accident</u>
+	- Exposition à des accidents favorise les explications via facteurs hors de contrôle
+		- 1->3 accidents : fait attention
+		- 3 + -> Balec.
+	- Banalisation possible du risque par une croyance en "une bonne étoile"
+
+- <u>Degré d'implication</u>
+	- Tendance à se protéger, soi ou ses proches: relativise les causes liés à soi ou aux proches.
+		- Avant de chercher réellement les causes.
+	- Victimes : malchance.
+	- Témoins : explication internes.
+
+- <u>Lien avec la victime</u>:
+	- Hiérarchie + élevée -> explication interne victime 
+	- Même niveau hiérarchie -> plus d'explications externes
+
+- <u>Gravité de l'accident</u>
+	- Dépend de la **pertinence personnelle** et **pertinence situationnelle**
+		- Dimensions du "à quel point ça peut m'arriver".
+	- Victimes d'accidents graves -> explications défensives.
+		- -> identifications majoritaires voire exclusive de facteurs externes pour expliquer l'accident en omettant tout ce qui lui est interne.
+	- Si pertinence situationnelle & personnelle ++ & grave :
+		- -> explications externes à la victime 
+			- Motivation : évitement du blâme, car ça aurait pu arriver à l'individu
+				- **Protection de l'estime de soi**
+	- Si absence de pertinences & grave 
+		- -> explications internes : blâme
+			- Motivation : éviter de subir le préjudice, par juste incriminer.
+- Pour obtenir des explications internes :
+	- Il faut d'abord donner raison à l'individu puis ensuite chercher les facteurs internes (afin d'obtenir des changements de comportements.)
+		- Rassurer d'abord pour ne pas porter atteinte à l'estime de soi de l'autre.
+
+- <u>Biais et erreurs</u>
+	- Biais = préférence subjective pour une conclusion par rapport aux alternatives. 
+	- Dans le cas d'accidents : il n'y a pas de bonnes/mauvaises explications.
+		- Toutes suggères des raisons du comportement.
+			- En les modifiant -> diminue la proba que ça se reproduise.
+	- Perception du risque & explications : **très biaisé.**
+
+### Mécanismes de biais 
+
+- **Protection de l'estime de soi** / évitement du blâme.
+
+- **Illusion de justice** / croyance en un monde juste.
+	- "Chacun mérite ce qu'il obtient et obtient ce qu'il mérite".
+	- Entraine des recherche des causes internes exclusivement.
+	- Très présent dans sociétés individualistes.
+
+- **Saillance / disposition de l'information**
+	- Tendance à utiliser uniquement les infos auxquelles on a accès **facilement** au moment des faits pour émettre son jugement : full biais.
+		- <u>Biais d'échantillonnage</u>
+			- Considérer des data limitées comme représentatives.
+				- Entraine des généralisation.
+		- <u>Erreur fondamentale d'attribution</u>
+			- Tendance générale à favoriser les explications dispositionnelles plutôt que situationnelles.
+		- <u>Biais acteur-observateur</u>
+			- Acteur -> explication situationnelle
+			- Observateur -> explication dispositionnelle
+
 ### c. Explication causale naïve et comportements de sécurité
+
+- Pourquoi comprends/analyser les biais ?
+	- L'individu agit en fonction d'inférences causales **biaisées** (Kelley 1972)
+	- Explications : définissent le comportement.
+		- Ex : erreurs médicales attribuées à des AS/Inf -> formations des AF/Inf.
+
+- Montrer les biais = retravailler les processus attributionnels.
+	- Focus les éléments vraiment contrôlables.
+
+- Personnes qui fournissent des explications défensives -> comportements inadaptés.
+
+- Managers qui attribuent accidents à des collaborateurs -> tendance à mettre en place des mesures punitives et/ou formatives. 
+
+- Conducteurs qui réagissent avec colère ?
+	- Attribuent les conditions de trafic à des causes internes & stables des autres conducteurs.
+
 ### d. Explication causale naïve et diagnostic de sécurité
+
+
+- Explication causales naïves : indispensables.
+- Les diagnostics de sécurité sont fait par des experts., se basant sur:
+	- Des hypothèses a priori
+	- Des infos disponibles & saillantes
+	- La recherche de causes objectives.
+		- Toutes les causes d'un accident ne sont pas objectivable.
+		- Focus cause objectives -> modifications structurales sans impact sur les comportements réels.
+
+- Les explications des opérateurs fournissent des <u>informations complémentaires</u> à celles de l’expert, nécessaires à un diagnostic exhaustif de sécurité et à l’élaboration des mesures acceptées de tous
+- Si uniquement basé avis d'experts : dispositifs boycottés.
+
+- Etude 2023 sur des accidents en entreprise.
+	- Expertise -> recommandation de barrières de sécurité
+		- Taux d'accident augmente encore plus.
+			- Consultation des opérateurs : 15 causes d'accidents trouvées.
+				- Seulement 7 identifiées par les experts.
+		- Barrière = gêne la productivité donc contournées.
 
 ## Séance 3: La perception du risque : intérêt, déterminants et biais (Kouabenan et al., 2006)
 ### a. Définition et intérêt d’étudier la perception du risque
