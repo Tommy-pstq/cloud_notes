@@ -285,9 +285,147 @@
 		- Barrière = gêne la productivité donc contournées.
 
 ## Séance 3: La perception du risque : intérêt, déterminants et biais (Kouabenan et al., 2006)
+
 ### a. Définition et intérêt d’étudier la perception du risque
+
+- Risque = **Probabilité** qu'une situation entraine des dommages (pour soi, autrui, l'environnement).
+	- **Perception du risque = évaluation subjective** de la probabilité qu'un événement entraine des dommages pour soi, autrui ou l'environnement.
+
+- **Pourquoi étudier la perception du risque ?**
+	- Dispositifs de préventions et techniques d'évaluation du risque plus performants.
+		- Mais accident grave toujours en hausse 
+			- -> Comment les personnes évaluent elles les risques ? 
+	- Comportement = centraux dans la survenue d'accident.
+		- **La perception que l'individu a du risque -> influence son comportement.** 
+	- Nécessaire de connaitre les risques & leur analyses pour prévenir les accidents.
+
+- Tout le monde est préoccupé par la prévention.
+	- Investisseurs -> opérateurs.
+		- Mais : différentes réactions, en fonction des catégories de personnes.
+			- Comment ces personnes évaluent elles le risque ?
+				- Si évaluation de la probabilité comme faible -> pas de mesures préventives.
+
+- Il existe beaucoup de modèles d'évaluation du risque.
+	- Souvent: idée que la perception mène aux comportement via l'intention. 
+
+##### Modèle de croyance en matière de santé (Becker 1987)
+- Vaccins à dispo mais population ne se vaccine pas, pourquoi ?
+	- Niveau de croyance : gravité et probabilité d'accident.
+	- Si pas de menace perçue / efficacité perçue -> pas de comportement
+
+##### Modèle de Rogers : motivation à la protection  1983
+
+- Motivation dépend de l'évaluation de:
+	- Risque, capacité, efficacité des mesures 
+
+##### Modèle séquentiel d'autoprotection - Dejoy 1996
+
+- Adoption du comportement de sécurité = 4 étapes.
+	1. Evaluation du danger 
+		- Menace perçue, Evaluation perçue de la mesure de sécurité 
+	2. Prise de décision 
+		- Efficacité perçue de la mesure, auto-efficacité, conditions facilitatrices, climat de sécurité 
+	3. Initiation de l'action 
+		- Conditions facilitatrices + climat de sécurité 
+	4. Adoption et maintien du comportement 
+		- Conditions facilitatrices + climat sécurité
+
+- <u>Principaux éléments des modèles d'évaluation du risque</u>
+	- Perceptions: 
+		- Risque : lié à l'activité/événement/situation
+		- Vulnérabilité 
+		- Gravité 
+	- Evaluation subjective du rapport Cout/bénéfice du comportement de sécurité. 
+	- Croyance en ces propres capacité à appliquer ce comportement (auto-efficacité)
+	- Pression sociale perçue à s'engager dans le comportement (croyances normatives)
+	- Perception des conditions : facilitatrices ou non.
+		- Subjectif. Peuvent être objectivement facilitatrices mais l'individu peut développer des croyances inverses
+
+
 ### b. Déterminants de la perception du risque
+
+![[Pasted image 20251211151430.png]]
+
+
+### Banalisation du risque 
+
+- S'opère via:
+	- Surexposition aux risques 
+		- Personnel nucléaire
+			- Nouveaux : surprotection
+			- Anciens : balec.
+	- Surexposition aux accidents sans conséquences graves 
+		- Ex : effets stochastiques -> conséquences diffuses (exposition nucléaire)
+	- Risque comme valeur sociale 
+		- Armée, police, pompiers
+	- Risque inhérent activité professionnelle 
+
 ### c. Biais dans la perception du risque
+
+- Biais dans la perception du risque -> Sur ou sous estimation.
+- Lors de l'évaluation du risque lié à un événement, l'individu est d'avantage préoccupé par:
+	- Le besoin de se protéger
+	- Sauvegarder une bonne image de soi 
+- Que par l'estimation de la probabilité réelle.
+
+- <u>Surconfiance / surestimation des capacités</u> Mène à l'illusion de contrôle
+	- Tendance à se croire plus habile à faire face au risque.
+		- Donc il est banalisé 
+			- Donc comportements inadaptés 
+	- Tendance à croire qu'un accident est dû à un contrôle insuffisant 
+		- L'individu se pense capable de faire mieux.
+			- Sur-estime ses capacités -> sous estime le risque. 
+	- Ex : accident type (500 PV gendarmerie)
+		- Proche domicile, bonne condition de conduites
+			- -> baisse de la vigilance -> temps de réaction augmente > temps évitement accident. 
+
+- <u>Illusion de contrôle</u>
+	- Tendance à anticiper une probabilité de contrôle personnel plus forte que la probabilité réelle. 
+
+- <u>Optimisme comparatif</u>:
+	- Tendance à croire que les probabilités 
+		- Positif(soi) > positif(autrui)
+		- Négatif(autrui) > Négatif(soi)
+	- Lié au système de pensé
+
+- <u>Illusion d'invulnérabilité</u>
+	- Se percevoir comme peu susceptible de subir un accident.
+	- Se construit via expérience personnelles 
+		- Accident grave sans conséquences
+		- Plusieurs accidents sans conséquences
+	- Expérience de non-accident = prise de risque sans conséquences
+		- Illusion de contrôle.
+
+- **Heuristiques** = raccourcis mentaux.
+	- Simplifier la solution face à un problème complexe
+		- Tendance de l'esprit humain car complexe implique absence de maitrise et c'est désagréable 
+	- Donc : heuristiques -> simplifie -> restaure sentiment de maitrise -> FeelsGood.
+
+- <u>Heuristiques de représentativité</u>
+	- Inférence sur la probabilité qu'un objet soi inclus dans une catégorie.
+		- Sur la base de caractéristique superficielles (stéréotypes/protoypes)
+	- -> Simplification par catégorisation.
+	- En cas de situation complexe à risque :
+		- Simplifiée pour apparaître moins risquée **POUR SOI** : "Il suffit de ..."
+			- Le reste est omis.
+
+- <u>Heuristique de disponibilité</u>
+	- Estimation de la probabilité d'un fait à partir de l'expérience personnelle.
+	- Via ce qui est disponible en mémoire 
+	- Généralisation à partir d'un cas unique : corrélation simplifiée.
+
+- <u>Heuristique d'ancrage et d'ajustement</u>
+	- En cas d'incertitude et d'absence de connaissances / expérience :
+	- Prise d'une référence connue +/- similaire = ancrage.
+		- Ajustement intuitif pour solutionner l'incertitude.
+	- Ex : un nouveau repas est évalué par rapport à ce qui est connu plutôt que via ses caractéristiques propres. 
+
+- **Heuristiques:**
+	- Favorisent l'estime de soi.
+	- Peuvent rendre aveugle au détails contraire aux croyances.
+	- Paresse cognitive : filtrage des infos pertinente pour l'objectif suivi
+		- Dev mental + capacité intellectuelle influe la complexité de ce qui est compréhensible. 
+			- Nécessaire d'adapter son discours 
 
 ## Séance 4: Perception du risque et management de la sécurité et de la santé
 ### a. Perception du risque et comportements de sécurité et de santé
