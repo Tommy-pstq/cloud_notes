@@ -541,3 +541,124 @@ parcours, mais en ayant conscience qu'il s'agit de la même action"
 	- Elaboration : analogie avec d'autres situations étudiées antérieurement 
 		- Se base sur connaissances en MLT
 
+- <u>Développement du contrôle inhibiteur</u> : beaucoup invoqué pour rendre compte des erreurs d'interprétation de Piaget.
+	- Contrôle inhibiteur chaud = régulation émotionnelle 
+	- Contrôle inhibiteur froid = activité cognitive 
+		- N'impliquent pas les mêmes réseau neuronaux 
+	- **Erreur A non B** : permanence de l'objet.
+		- Soulever le tissu B pour trouver l'objet caché sous A (devant lui) : pas avant 8 mois. 
+			- En fait un défaut d'inhibition d'une réponse motrice habituelle .
+				- Car maturation insuffisante CPF
+	- **Test marshmallow** : gratification différée.
+		- Pour évaluer contrôle inhibiteur
+		- La résistance à la tentation augmente avec l'âge.
+
+- <u>Développement de la métacognition</u>
+	- Les 4-5 ans sont **surconfiants**
+	- Dès 9 ans : connaissances sur le propres connaissances sont plus justes
+
+- <u>Quelques facteurs explicatifs des erreurs</u>
+	- Limitation d'encodage : la question est écoutée mais pas correctement encodée 
+	- Limitation computationnelle : la question est bien encodée mais les bonne stratégies/capacités pour traiter les infos ne sont pas disponibles 
+	- Limitation de récupération : Encodage OK, Stratégie OK mais erreur dans le choix de la stratégie 
+	- Limitation stockage/MDT : Utilisation de la bonne stratégie mais incapacité à garder en mémoire tous les éléments de l'opération en cours.
+
+##### Critiques majeures 
+
+- Méthode clinique uniquement - 0 stats 
+- Survalorisation du qualitatif : échange verbaux et 0 stats 
+- Chronologie des faits (âges d'acquisition)
+- Décalage horizontal dans la réussite aux épreuves 
+- Existence de stade 
+- Les explications
+- Le constructivisme 
+
+## Développement conceptuel & théories naïves 
+
+- Théories naïves = construites à partir des expériences quotidiennes 
+	- Explications mentales plutôt que théories scientifiques 
+		- Structurées autour de principes organisateurs 
+			- Causales, prédictrices & réfutables 
+- -> Développement de théories intuitives chez l'enfant.
+	- Comment et à quel âge l'enfant développe des théories sur le monde ? 
+		- Ex : conception du vivant ? Développement des capacité métacognitives ?
+
+
+- **Comment se construisent ces théories ?**
+	- Via les<u> processus de catégorisation</u>: des objets, actions, événements...
+		- Sur la base d'observations 
+			- -> Extraction de traits spécifiques 
+		- Mise en relation de propriétés 
+			- -> Extraction d'invariants 
+		- Inférence par induction d'un concept. 
+	- -> Généralisation & regroupements.
+
+##### Théories sur le monde physique 
+
+- Etude via regard préférentiel + violation des attentes.
+
+- Permanence de l'objet : Baillargeon 1991
+	- Grande/petite carotte 
+	- Permanence de l'objet dès 3 mois et demi ?
+
+- Notion de gravitation : dès 4 mois.
+- Notion de collision -> mouvement : 2 mois et demi.
+
+- <u>Distinction apparence / réalité</u>
+	- 3 ans : très peu de pattern OK
+	- 4 ans : distinction acquise.
+	- -> Les plus jeunes ne seraient pas capable de faire un double encodage d'un unique objet.
+
+
+#### Développement de théories sur le monde psychologique 
+
+- Compréhension de l'autre permet de faire des prédictions sur son comportement 
+- Représentation de la situation -> celle que l'autre peut avoir également 
+
+- --> Théorie de l'esprit.
+	- Première évocation chez les chimpanzés 
+		- Ils ont conscient de soi (test miroir validé)
+		- Compréhension mutuelle & conscience récursive 
+		- Font preuve de métacognition : capable de ne pas répondre à une question s'ils ne sont pas sûr. 
+
+- ToM = attribuer à autrui des états mentaux différents des siens.
+
+- **Comment ces théories s'acquièrent elles ? **
+	- Compréhension de l'esprit a 2 dimensions
+		1. **Compréhension du lien entre désir et action**
+			- Dès 18 mois: études crackers vs brocoli.
+				- L'adulte reçois de l'enfant de 18 mois ce pour quoi il a manifesté une préférence, même si c'est différent de ce que l'enfant préfère.
+				- A 14 mois : l'enfant donne ce qu'il préfère : des crackers. Peu importe les préférences montrées par l'adulte.
+			- "Vouloir" = dès 2 ans dans le vocabulaire.
+				- "Penser" ou "savoir" = 1 an plus tard.
+		2. **Compréhension des relations entre croyance & action**
+			- Perspectives visuelles : cache-cache compliqué à 2-3 ans.
+			- **Prémisses de la compréhension du point de vue d'autrui**
+				- 9 - 18 mois : <u>attention conjointe</u>
+					- Capacité à partager avec autrui un événement.
+					- Attirer + maintenir attention : regard conjoint.
+					- 6-9 mois : bébé regarde où regarde sa mère.
+					- 12 mois : capacité à localiser une cible via mouvement de tête de la mère 
+					- 18 mois : capacité à se retourner pour trouver une cible derrière soi
+					- 18 mois : développement du pointage.
+				- 18 - 24 mois : <u>Imitation & habiletés à faire semblants</u>
+					- Simulation -> se met à la place des autres.
+						- Développement de l'empathie.
+				- <u>Travaux de Flavell</u>
+					- Avant 3 ans : enfants incapables de se "mettre à la place" de l'autre.
+					- Puis : capacité à dire que l'expérimentateur voit autre chose 
+					- 4/5 ans : précise leurs réponses et décrivent ce que vois l'expérimentateur 
+					- -> Incapacité des jeunes à se représenter mentalement le pdv d'autrui
+			- <u>Attribution de croyances</u>
+				- **Travaux de Wimmer & Perner 1983**
+					- Paradigme de fausse croyance.
+						- 3 ans : échec, désigne ce que eux savent.
+						- 4/5 ans : décrivent un comportement basés sur ce qu'ils pensent que l'autre pense.
+				- Critique tâche de fausse croyance:
+					- Défaut d'inhibition ?
+					- Incompréhension des consignes ?
+					- Etude dans Science (Mais que 50% de reproductibilité....)
+						- Bébés de 15 mois
+						- Avec tâche de familiarisation : meilleure réussite aux tâches de fausses croyances 
+						- Mesuré via regard préférentiel & violation des attentes 
+							- -> Les échecs des autres tâches seraient dues à des problèmes de fonctions exécutives pour les auteurs.
