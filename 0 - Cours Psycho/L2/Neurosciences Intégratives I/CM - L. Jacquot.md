@@ -1524,11 +1524,199 @@
 	- 2% > 65 ans 
 	- Age moyen d'apparition : 60 ans 
 	- Moins lié à l'âge que MAz.
-- <u>Symptômes moteurs</u>
+- ##### Symptômes moteurs
 	- Pleins, mais 3 manifestations principales 
 		- **Triade parkinsonienne**
-			- Akinésie : le plus typique & remarquable 
-			- Rigidité 
-			- Tremblement (que 30%)
+			- <u>Akinésie</u> : le plus typique & remarquable 
+				- **Bradykinésie** : retard d'initiation du mouvement
+					- Augmentation de la latence entre volonté de mouvement et exécution.
+					- Fonctionnement normal : mouvement fluide sans effort, capacité à réaliser plusieurs actes moteurs simultanés.
+					- Sauf activités motrices sophistiqués.
+						- Difficulté similaire à ça H24 pour Parkinsonien.
+				- **Perte des mouvements automatiques**
+					- "Tout ce qui anime une personne"
+					- Perte de spontanéité du geste 
+					- **Amimie** : absence d'état de non-repos. 
+				- **Difficulté de mouvements volontaires**
+					- Initiation : hésitante, lente, différée
+					- Incapacité à initier un second mouvement avant la fin du premier en cours.
+						- Charcot : "Condamnés au mouvement volontaire à perpétuité"
+				- **Démarche typique**:
+					- Bégaiement de la marche 
+					- Festination (accélération)
+					- Blocage en cas de changement de direction : blocage cinétique/freezing
+						- Retour au bégaiement
+			- <u>Rigidité</u> 
+				- **Hypertonie**
+					- Insuffisance de relâchement 
+					- Ralentissement des mouvements 
+				- Raideur / Tension musculaire / Ankylose (voire crampes musculaires)
+				- Affecte principalement le rachis et la racine des membres
+					- Nuque, dos, épaules, lombaire
+					- -> Entraine une posture typique 
+					- **Posture fléchie**
+						- Buste voutée, regard vers le sol 
+						- Absence de ballant des bras 
+						- ![[Pasted image 20251212153741.png]]
+			- <u>Tremblement</u> (que 30%)
+				- Non obligatoire, 1/5 patients jamais affecté 
+				- Souvent : un seul côté concerné. 
+					- Haut du corps : mains.
+						- Lents & réguliers : "émietter du pain"
+					- Bas du corps : pieds/orteils.
+						- Plus rapide : 5Hz environ
+				- Condition d'apparition variable
+					- Repos 
+					- Situation de stress
+				- Décision de mouvement volontaire -> disparition des tremblements 
+- ##### Symptômes non moteurs 
+	- Troubles digestifs 
+		- Hypersalivation car diminution de la déglutition
+		- Constipation
+	- Troubles génito-urinaires
+		- Envies impérieuses
+		- Incontinence
+		- Troubles sexuels : libido/érection
+	- Cutanés 
+		- Bouffées chaleur
+		- Sudation
+	- Troubles sensoriels 
+		- Odorat : facteur précoce
+		- Sensitifs 
+		- Visuels 
+	- Psychiques 
+		- Dépression (50%)
+		- Anxiété
+		- Cognitifs (concentration/attention)
+- ##### Evolution
+	- Lente & progressive.
+	- Début de la maladie : 5 à 10 ans avant les premiers symptômes moteurs 
+		- Correspond à une perte de 50 - 70% des neurones dopaminergiques substance noire
+			- Premier signes peu évocateurs : fatiguabilité, crampes, douleurs 
+	- Signe précoce: Hyposmie 
+	- Diag : triade 
+	- Espérance de vie : variable, meilleur cas = moyenne de la population.
 
+##### Mécanismes 
 
+- Neurodégénérescence toute petite partie du SNC
+	- Disparition prématurée, progressive des **neurones dopaminergiques de la substance soire**
+		- Symptômes typiques : 50 à 70% de perte.
+		- Substance "noire" car production de mélanine.
+- Autres marqueurs:
+	- **Corps de Levy** : inclusion intra-cytoplasmique.
+		- Composée de protéine $\alpha$ -synucléide anormale 
+			- S'aggrège pour forme des structure 3D non soluble -> neurotoxique.
+		- **Se propage dans le neurone puis dans les neurones proches**
+		- <u>Hypothèse de Braak</u>
+			- "Synucléino-pathie"
+			- Début dans le SN périphérique : neurones tubes digestifs 
+				- Entraine des troubles gastriques précoce
+			- Remonte SNC via nerf vague : atteint le bulbe olfactif 
+				- Hyposmie précoce
+			- Atteint la substance noire
+				- Troubles sommeil/moteur
+			- Puis le cortex.
+				- Troubles cognitifs
+
+### Noyaux gris centraux 
+![[Pasted image 20251212155121.png|500]]
+- Composés de:
+	- Striatum
+		- Dorsal = noyaux caudé + putamen
+		- Ventral = Noyaux accumbens + tubercule olfactif 
+	- Globus Palidus 
+	- Noyaux sous-thalamiques
+	- Substance noire 
+
+- <u>Fonctions</u>:
+	- Etablissement de réflexes : station debout 
+	- Etablissement de l'équilibre, marche, tonus 
+	- Exécution du geste 
+	- Aspects cognitifs & émotionnels du comportement 
+
+### Substance noire 
+
+- Petit noyau : 400k neurones 
+- Libère de la dopamine 
+	- Acheminée jusqu'au striatum 
+		- Régulation des mouvements volontaires & involontaires 
+![[Pasted image 20251212155422.png|500]]
+
+- Voire directe/indirecte : différents récepteurs -> rôle excitateur ou inhibiteur 
+
+- Parkinson -> Perte des neurones dopaminergiques -> déficit de dopamine 
+	- Dégénérescence voie nigro-striée
+	- Déficit d'activité dopaminergique dans le striatum
+		- Suractivation de la voie indirecte
+			- Inhibition thalamus & cortex 
+				- Difficultés motrices 
+
+### Cause de la maladie de Parkinson 
+
+- ni virale, ni auto-immune (supposé pdt un temps)
+
+- Combinaison de facteurs génétiques + environnement.
+	- Il existe une forme familiale (monogénique + héréditaire) : 5% des cas
+	- 95% des cas : formes sporadiques 
+		- Sans mutation génétique.
+		- Mais des vulnérabilité prédispose à un développement de la maladie en cas d'exposition à des facteurs environnementaux. 
+
+- **Facteur environnementaux suspectés**
+	- Via : syndrôme parkinsonnien découvert héroïnomanes home-made.
+		- S'injectaient MPTP (aujourd'hui c'est un modèle animal)
+			- Entrainant une destruction spécifique n dopa substance noire
+		- Montre qu'une molécule externe peut cible spécifique une population de neurones après passage de la BHE.
+	- MPTP : proches herbicides 
+	- **Métaux lourds** : plomb, cadnium
+	- **Pesticides**
+		- Surtout organochlorés (insecticides)
+		- Mpa maladie professionnelle agriculteurs car bcp plus de cas dans cette population
+
+- **Facteurs protecteurs**
+	- Caféine & Tabac.
+
+### Moyens thérapeutiques
+
+#### Dopathérapie 
+
+- Médicamenteux 
+	- Précurseur dopamine : L-dopa 
+		- Qui peut passer la BHE contrairement à dopamine 
+	- Associé à un inhibiteur pour s'assurer que la L-Dopa est métabolisée en dopa uniquement dans le SNC.
+	- Efficace : après 2-3 mois de traitement.
+	- Retour des symptômes après quelques jours d'arrêt
+- <u>Complication TTT L-dopa</u>:
+	- **Fluctuation motrice**
+		- Alternance de période d'amélioration/résurgence symptômes 
+			- Certains cas : effets ON/OFF
+	- **Fluctuation non motrice**
+		- Troubles : digestif, humeur, sommeil, transpiration
+	- **Dyskinésie**
+		- Mouvements anormaux involontaires 
+			- Chorée : mouvement rapides des pieds/mains 
+		- Dystonie : spasmes musculaires prolongés 
+
+#### Intervention chirurgicale 
+
+- Thalamotomie (1960s) : destruction petite partie d'un thalamus 
+	- Efficace, mais bon, on crame un bout de cerveau 
+
+- <u>Stimulation électrique haute fréquence</u>
+	- Localisée : noyaux sous-thalamiques 
+	- Implant d'électrodes : stimulation continue à 135Hz
+		- Chir : 15h anesthésie locale 
+	- Non lésionnelle, réversible.
+	- Faible morbidité 
+	- Supprime tous les symptômes de la triade 
+
+- Critère d'éligibilité 
+	- Tremblements résistants au TTT médicamenteux 
+	- Présence de complication motrice liée à L-dopa
+	- Age & état de santé général
+	- Tests cliniques 
+
+#### Suivit psycho 
+
+- Etat dépressif / anxieux 
+- Apathie & labilité émotionnelle. 
