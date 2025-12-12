@@ -1598,3 +1598,193 @@
 		- Héminégligence 
 		- Agnosie (incapacité reconnaitre objet)
 		- Apraxie (incapacité mouvement volontaires)
+
+## Olfaction - Gustation 
+
+- Olfaction = Sensibilité chimique, détection de molécules véhiculées dans l'air.
+	- Molécules solubles mucus nasale.
+
+- Modalité sensorielle :
+	- La plus ancienne 
+	- Sans connexion directe avec le thalamus 
+	- Exposition directe des neurones à l'environnement externe. 
+
+- Fonction : 
+	- Alimentation, reproduction, communication, qualité de vie. 
+
+- Longtemps délaissée car atténuée chez l'humain par rapport à d'autres mammifères 
+	- Humains = microsmatiques 
+	- Vs chiens : macrosmatiques 
+		- 1000 - 10 000x plus développée.
+			- Détection précoce de cancers 
+
+### Stimuli olfactifs 
+
+- Doivent avoir 2 caractéristiques pour atteindre les récepteurs 
+	- Volatile 
+	- Soluble dans le mucus nasale 
+
+- Généralement : molécules qui se ressemblent ont des odeurs similaires.
+	- Mais beaucoup d'exceptions.
+		- Difficile de prévoir à partir d'une formule chimique seule.
+
+- <u>Propriétés de l'information olfactive</u>$
+	- **Sélectivité** : Des milliers de substances sont perceptibles 
+	- **Sensibilité** : Quelques molécules peuvent suffire à déclencher une perception.
+		- Varie en fonction des odeurs/sujets/méthodes 
+		- Il existe :
+			- Un seuil de détection
+			- Un seuil d'identification
+	- **Adaptation** : diminution de la réponse des récepteurs à une stimulation constante.
+
+- <u>2 dimensions caractéristiques des odeurs</u>
+	- Intensité 
+	- Valence hédonique 
+
+- <u>Variabilité de la sensibilité olfactive</u>
+	- Facteurs génétiques 
+		- Entraine des anosmies partielles pour certaines molécules 
+	- Sexe 
+		- Femmes meilleure olfaction que hommes
+			- Détection/reconnaissance/identification
+	- Age 
+		- Déclin avec l'âge
+- Parfums 
+	- 7 familles 
+	- Pyramide : notes de tête/coeur/fond
+
+- <u>Phéromones</u>
+	- Via organe voméronasal 
+		- Vestigial chez l'humain : très peu sensibles aux phéromones 
+	- Mammifères
+		- Régulation de comportement sociaux
+
+### Structure de l'appareil olfactif
+
+- 2 voies :
+	- Ortho-nasale : nez->épithélium -> odeurs 
+	- Rétro-nasale : bouche->épithélium -> arômes
+
+#### Epithélium olfactif 
+![[Pasted image 20251212163033.png]]
+
+- <u>Cellules réceptrices</u> = neurones de premier ordre = neurone olfactif (directement exposé environnement)
+	- Terminaisons : cils dans le mucus.
+		- Excité par les odeurs.
+			- Envoie d'un message nerveux dans le bulbe olfactif.
+		- Durée de vie : 60 jours.
+			- Renouvellement : cellules basales
+	- Autre côté : 
+		- Passage à travers l'os pour atteindre le glomérule.
+		- Prolongement non myélinisé 
+
+#### Bulbe olfactif 
+
+![[Pasted image 20251212164154.png]]
+
+- Neurones second ordre : <u>cellules mitrales</u>
+	- Prolongement dans le tractus olfactif 
+	- Liaison avec les neurones de premier ordre : 
+		- Dans les glomérules.
+
+### Transduction du signal 
+
+- Se fait au niveau de cils : passage info chimique à électrique.
+- Cils = extrémités neurones olfactifs - contact directe avec l'environnement (les seuls.)
+
+- 5 à 40 cils par bouton dendritique.
+- Sur la face externes des cils: 
+	- Présence de <u>chémorécepteurs</u>
+		- Récepteurs **métabotropiques** 
+			- Couplage via protéine G
+			- Liaison molécule odorante -> cascade de réaction odorante
+				- -> ouverture canaux Na+
+					- -> dépolarisation
+	- 1000 récepteurs olfactifs différents, codés par 1000 gènes ~~
+
+- Mécanisme de transduction : pas à connaitre.
+
+### Traitement central 
+
+- Codage des odeurs:
+	- sur 400 variables. ("un accord musical de 400 touches")
+	- 1 récepteurs : reconnais plusieurs molécules 
+	- 1 molécules : active plusieurs récepteurs.
+	- -> carte d'activation dans l'épithélium olfactif 
+		- -> envoyée dans le bulbe olfactif -> cortex olfactif primaire.
+
+- 1 neurone -> 1 unique type de récepteur. 
+	- Tous les neurones avec le même type de récepteur projettent dans le même glomérule
+- Si une personne n'a pas le récepteur spécifique pour une molécule donné
+	- Pas de perception de l'odeur.
+	- Explique la variabilité des perceptions olfactives entres individus.
+
+![[Pasted image 20251212165329.png|500]]
+
+#### Voies olfactives centrales 
+
+![[Pasted image 20251212165604.png]]
+
+- Connexion importante avec les systèmes mnésique et émotionnels 
+	- -> mémoire émotionnelle ++ via odeurs.
+
+- **Différentes composantes** de la perception/traitement central d'une odeur:
+	- Perception consciente 
+	- Langage
+	- Faim/Satiété
+	- Valeur hédonique 
+
+
+### Troubles de l'olfaction
+
+- Fort impact sur la **qualité de vie**.
+	- 25 à 33% des personnes présentant des troubles olfactifs : symptômes dépressifs
+	- Sécurité/alimentation/hygiène
+		- Modification alimentaires 
+
+- Anosmie/Hyposmie :
+	- Infection
+	- Trauma crânien
+	- Pathologie
+		- Neuro
+		- naso-sinusales
+
+- <u>Lien entre odeur & émotions</u>
+	- Odeur = indice de souvenir autobiographique lointains 
+	- ![[Pasted image 20251212170124.png]]
+
+- Troubles quantitatifs ou qualitatifs 
+	- Quantitatifs :
+		- Anosmie partielle / totale 
+		- Hyposmie partielle / totale
+	- Qualitatifs :
+		- Parosmie : odeur erronée
+		- Cacosmie : odeur désagréable
+		- Phantosmie : hallucination olfactive 
+
+![[Pasted image 20251212170428.png|500]]
+
+- Hyposmie = trouble précoce Parkinson
+	- Puis : fréquents et sévères.
+	- Non spécifiques de certaines odeurs 
+	- Sans lien avec le traitement/durée de vie/troubles cognitifs 
+
+### Système trigéminal 
+
+- Via nerf trijumeau.
+
+- "Troisième sens chimique"
+- La majorité des molécules activent le système olfactif ET le système trigéminal
+
+- Trigéminal sensible à :
+	- Irritation, piquant, chaleur, douleur 
+
+- Fonction d'alerte:
+	- Toxicité
+	- Protection des voies aériennes/digestives
+- Objectif:
+	- Diluer molécules & empêcher inhalation d'une plus grande quantité 
+
+
+## Gustation 
+
