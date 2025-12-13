@@ -1788,3 +1788,101 @@
 
 ## Gustation 
 
+- **Saveurs** = mélange sur les 5 dimensions primaires 
+	- Salé 
+	- Sucré 
+	- Amer 
+	- Acide
+	- Umami - 1908 = glutamate de sodium
+- C'est un continuum -> il existe une infinité de saveurs.
+	- Dans certaines cultures : 2 mots uniquement pour les mentionner 
+	- Langage -> définit la grille de représentation.
+		- 5 saveurs primaires.
+		- Hédonicité d'une saveur : fonction de la concentration 
+			- Sucré >>>
+				- Active système de récompense 
+				- Addiction
+- Molécule dissoutes dans la salive
+
+- **Arômes** : via récepteurs olfactif rétro-nasal
+	- = Odeurs issues des aliments mastiqués 
+	- Chaleur + salive -> nouveaux arômes via transformation chimiques 
+
+- **Goût** = **Saveur + arômes**
+
+- Le **Système trigéminal** influence/module le goût.
+	- Sensation de chaud/froid 
+	- Piquant / Rafraichissant / Irritant / Pétillant 
+
+- Ce que l'on appelle communément "goût" c'est en fait:
+	- La **Flaveur** = **saveur** + **arôme** + **sensations trigéminales**
+		- C'est donc la **somme** des perceptions issues de **trois voies centrales séparées.**
+
+### Épithélium gustatif 
+
+- <u>Papilles gustatives</u> sur la langue 
+	- Elle contiennent des **Bourgeons du goût** (plusieurs dizaines/papille)
+	- 4 types de papilles:
+		- **Foliées, caliciformes, fungiforme & filiforme** (texture)
+	- **Durée de vie** = 8 - 10 jours.
+		- Naissance 10k
+		- 5 - 8k à l'âge adulte. 
+			- Nécessite des concentrations supérieur en molécules de saveurs primaire pour qu'elles soient perçues.
+
+- <u>Bourgeons du goût</u>
+	- Chaque papille : plusieurs dizaines de bourgeons
+	- Un bourgeon : 
+		- <u>25 à 40 cellules réceptrices</u> : en contact avec une fibre nerveuse 
+		- Cellules basales 
+		- Cellules soutien
+	- **Pôle apical** : prolongement des cellules gustatives 
+		- **Cils** activés par les molécules de saveur des aliments 
+			- Envoient un message nerveux direction SNC.
+
+- **Carte sur la langue** = <u>Partiellement faux.</u>
+
+- Seuil de perception variable en fonction des saveurs 
+	- Amer perçu très rapidement car souvent signe poison.
+
+### Transduction du signal 
+
+- Molécules dissoute salive -> entre en contact cils sur les bourgeons.
+
+- **Chaque cellule : sensible à une unique saveur.** 
+
+- <u>2 types de récepteurs</u>:
+	- Ionotropiques : 
+		- Salé : Na+ entrent directement dans la cellule -> dépolarisation
+		- Acide : H+ (acide) -> entrent dans la cellule -> Ouverture Na+ VD -> dépolarisation.
+	- Métabotropiques : Amer/Sucré/Umami
+		- Couplage protéine G.
+	- -> Différents mécanisme de transduction.
+
+
+### Voies centrales et intégration 
+
+- Bourgeons du goût : **innervés par 3 nerfs**
+	- Suivant leur position sur la langue 
+		- Facial (VII)
+		- Glossopharyngien (IX)
+		- Vague (X)
+	- **Projettent tous vers le** <u>Noyau du tractus solitaire</u>
+		- Dans le **bulbe rachidien** 
+		- ![[Pasted image 20251213122555.png|500]]
+	- Bulbe rachidien -> Thalamus. (projection vers amygdale & hypothalamus pour l'aspect émotionnel prise de nourriture)
+	- Thalamus -> Cortex gustatif.
+		- **Cortex gustatif** = insula, opercule frontal, cortex orbitofrontal 
+
+
+- <u>Image multisensorielle pour le goût</u>
+	- Flaveur = saveur + arômes + trigéminal 
+		- odeur, texture, gout
+	- Comparaisons avec infos stockées en mémoire
+		- Sémantique & hédonique 
+	- -> Tous les sens peuvent influencer la perception du goût.
+![[Pasted image 20251213123037.png|500]]
+
+![[Pasted image 20251213123115.png]]
+
+
+

@@ -503,7 +503,7 @@
 	- Entraines des représentations nécessairement simplistes
 
 
-- **Fisk et al 2002 : modèle du contenu du stéréotype**
+- **Fiske et al 2002 : modèle du contenu du stéréotype**
 	- La majorité des stéréotypes s'expriment sur 2 dimensions:
 		- Chaleur 
 			- Exprime les qualités relationnelles, attitudes & intensions vis à vis d'autrui : honnêteté, sympathie, agressivité
