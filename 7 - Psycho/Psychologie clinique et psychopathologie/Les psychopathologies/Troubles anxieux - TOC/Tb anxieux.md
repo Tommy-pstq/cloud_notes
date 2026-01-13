@@ -55,17 +55,17 @@ TTT
 
 - Pathologie si, DSM:
 1. Au mois 3 parmi:
-- Détresse [[Disproportion|excessive]] lors de l'éloignement, de la séparation de la maison, des figures d'[[attachement]] ou d'anticipation de telles situations 
-- Préoccupation d'une éventuelle disparition des figures d'[[attachement]] (accident/maladie/catastrophe/mort)
-- Soucis [[Disproportion|excessifs]] concernant le fait de vivre un événement pouvant entrainer un éloignement/séparation
-- Ne pas sortir ou être réticent à l'idée de le faire par peur de s'éloigner de la maison en [[raisonnement|raison]] de cette peur de la séparation
-- Crainte/réticence excessive à rester seul.e sans figure d'[[attachement]]. 
-- Réticence à dormir ailleurs ou d'aller dormir sans être proche d'une figure d'attachement 
-- Cauchemars fréquents centrés sur la séparation
-- Plaintes somatiques lors d'éloignement de la figure d'[[attachement]] ou crain de l'éloignement. 
-1. Symptomatologie durant depuis au moins 4 semaines chez les enfants/ado et 6 mois chez l'adulte.
-2. Détresse cliniquement significative ou changement de comportement 
-3. Trouble pas mieux expliqué par un autre trouble mental (agoraphobie, [[TSA|autisme]]...)
+	- Détresse [[Disproportion|excessive]] lors de l'éloignement, de la séparation de la maison, des figures d'[[attachement]] ou d'anticipation de telles situations 
+	- Préoccupation d'une éventuelle disparition des figures d'[[attachement]] (accident/maladie/catastrophe/mort)
+	- Soucis [[Disproportion|excessifs]] concernant le fait de vivre un événement pouvant entrainer un éloignement/séparation
+	- Ne pas sortir ou être réticent à l'idée de le faire par peur de s'éloigner de la maison en [[raisonnement|raison]] de cette peur de la séparation
+	- Crainte/réticence excessive à rester seul.e sans figure d'[[attachement]]. 
+	- Réticence à dormir ailleurs ou d'aller dormir sans être proche d'une figure d'attachement 
+	- Cauchemars fréquents centrés sur la séparation
+	- Plaintes somatiques lors d'éloignement de la figure d'[[attachement]] ou crain de l'éloignement. 
+2. Symptomatologie durant depuis au moins 4 semaines chez les enfants/ado et 6 mois chez l'adulte.
+3. Détresse cliniquement significative ou changement de comportement 
+4. Trouble pas mieux expliqué par un autre trouble mental (agoraphobie, [[TSA|autisme]]...)
 
 TTT 
 - Séparation régulière progressive (exposition)

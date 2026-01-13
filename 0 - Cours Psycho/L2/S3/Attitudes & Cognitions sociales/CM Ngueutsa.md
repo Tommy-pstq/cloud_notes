@@ -11,7 +11,7 @@
 		- Via des systèmes cognitifs.
 			- Les connaitre permet de comprendre.
 	- Inaugure l'inférence causale & théories de l'attribution 
-- <u>Asch</u> : influence sociale mène à des conflits cognitifs & perception.
+- <u>Asch</u> : influence sociale mène à des conflits cognitifs & perception. + perception des personnes.
 	- Conformation ou prise de distance par rapport à un comportement 
 
 - <u>Cognition</u>

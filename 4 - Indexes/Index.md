@@ -6,7 +6,8 @@
 - *Référence lue sans prévision de note lors de la dernière actualisation*
 
 ## Livres
-
+- <u>Quand le sexe devient un problème</u>, Nardone, Rampin, *01/2026* 
+- <u>Dissociation et mémoire traumatique</u>, Kédia, Vanderlinder, Lopez, Saillot, Brown, *01/2026*
 - <u>Conflits de famille : Comment sortir des impasses relationnelles entre parents et enfant</u>, Gianotti, Rocchi, Nardone, *11/2025* 
 - <u>L'amour et la haine de la nourriture : Ou comment résoudre rapidement les troubles du comportement alimentaire</u>, Nardone, *10/2025*
 - <u>Manuel Pratique de Thérapie orientée solution</u>, Alain Vallée, *10/2025*
