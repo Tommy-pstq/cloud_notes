@@ -28032,6 +28032,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "0 - Cours Psycho/L2/S4/Psychopatho/CM1 - J Chevalier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1356,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.52,
+      "characterCount": 11636,
+      "nonWhitespaceCharacterCount": 9325,
+      "readingTimeInMinutes": 5.1169811320754715,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768287476786,
+      "modifiedDate": 1768294070092,
+      "sizeInBytes": 11956,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
