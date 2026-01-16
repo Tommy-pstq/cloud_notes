@@ -1,10 +1,134 @@
+## CM1 
+
+- Idée de base : l'esprit humain est un système qui crée/manipule/stock des représentations mentales.
+
+- Modèle modal d'**Atkinson & Shiffrin (1968)**
+- ![[Pasted image 20260116151223.png]]
+- Très court terme:
+	- < 500 ms visuel 
+	- 2s auditif 
+- MCT / Mémoire de travail : 
+	- 5-10 secondes
+
+### Intro 
+
+- Différence entre MCT & MLT
+	- Il existe une dissociation entre les deux.
+		- Arguments neuropsychologiques via études de patientes lésés.
+			- **Patient H.M**:
+				- épilepsie -> opération -> plus d'épilepsie mais amnésie antérograde 
+					- Incapacité à mémoriser à long terme : "présent permanent"
+						- Psychiatre se présentait toutes les semaines 
+				- Mais : sa MCT était intacte.
+			- **Patient K.F**: 
+				- Accident -> lésion -> inverse de H.M.
+					- MLT intacte 
+					- MCT très limitée voire absente 
+				- **MCT très faible**: handicapant mais n'empêche pas l'apprentissage. 
+
+### 1) Différents registres de MLT 
+
+![[Pasted image 20260116151647.png|500]]
+
+- Caractéristique commune : conserve l'information très longtemps. 
+
+- Mémoire déclarative = sémantique + épisodique. 
+	- Réseaux différents:
+		- **Patient K.C** : mémoire épisode affectée mais sémantique OK.
+
+
+- Pour étudier la MLT :
+	- Le plus pratique = 1 séance avec tâche interférence 
+	- Ou : 2 séances avec intervale 
+## 2) Encodage des connaissances en mémoire 
+
+- "Problème" de la mémoire : on ne peut pas "tout" stocker : trop de stimuli (internes ou externes).
+	- Et c'est sans intérêt.
+		- *Qu'est-ce qui fait que des infos sont stockées ou non ?*
+			- Choix pas toujours conscient.
+			- -> Critères de décision stockage PLT ?
+
+### 2.1) La répétition 
+
+- Si quelques chose de répète : ça vaut sûrement la peine de le mémoriser. 
+	- Evaluation permanente de ce qui se répète. 
+
+- Travaux anciens sur la **répétition mentale: Hellyer 1962**
+	- Est-ce que se répéter des info augmente la probabilité de stockage en MLT ?
+		- **Objectif** = étudier le lien entre répétition et MLT
+		- **Méthode** = tâche de Petterson & Petterson modifiée
+			- Demande de se répéter plusieurs fois (1, 2, 4, 8 fois selon les groupes) les 3 éléments à mémoriser 
+			- Compte à rebour de 3 en 3 : **tâche interférente**
+			- Rappel des 3 éléments 
+		- <u>Résultats</u>
+			- La proportion de rappel correct augmente en fonction du nombre de répétition.
+				- -> Répétition favorise stockage à long terme. 
+			- ![[Pasted image 20260116153354.png|300]]
+		- **Critique**: Tâche de Petterson & Petterson habituellement utilisée pour mesurée la MCT, pas MLT.
+- **Rundus (1971)**
+	- Lien entre répétition & MLT
+	- **Méthode** : 20 mots à mémoriser, 1 mot/5 secondes 
+		- Demande aux participants de les répéter à voix haute pour mieux les mémoriser 
+			- Différentes stratégies de répétitions possibles.
+		- Puis : 
+			- Tâche de rappel et de reconnaissance
+		- Suivant les stratégies de répétition : nombre de variable de répétitions.
+			- Lien entre ce nombre et MLT ?
+	- <u>Résultats</u>:
+		- Les performances de rappel & reconnaissance augmentent avec le nombre de répétition.
+		- ![[Pasted image 20260116153731.png|300]]
+		- Habituellement : Reconnaissance > Rappel. 
+			- Mais dépend des distracteurs. 
+
+### 2.2) Profondeur de traitement 
+
+- Plus une info est traitée, mieux elle est mémorisée
+- **Craik & Lokhart (1972)** : Ce qui compte pour le stockage en MLT c'est le **traitement sémantique** de cette info. 
+- **Craik & Tulving (1975)** : Apporter des arguments expérimentaux à la théorie profondeur TTT.
+	- **Méthode**: 
+		1. Participants voient des mots se succéder sur un écran.
+			- G1 = indiquer si majuscule/minuscule 
+			- G2 = Sonorité, rhyme avec X ?
+			- G3 = Est-ce que le mot désigne un animal
+		- Tps de latence 
+		1. Tâche de reconnaissance avec distracteurs 
+	- <u>Résultats</u>
+		- G1 : 15% reconnaissance 
+		- G2 : 50%
+		- G3 : 81%
+		- La profondeur de traitement (ici: comparaison à un animal = accès au **sens** du mot) augmente la mémorisation.
+- TTT sémantique : favorise MLT.
+
+- **Vouloir apprendre n'est pas déterminant**
+	- **Hyde & Jenkins (1973)**
+		- Objectif : effet progondeur TTT
+		- **Méthode**:
+			1. Mots sur un écran
+				- Facteurs croisés:
+					- Profondeur TTT
+						- Est-ce que le mot contient une lettre donnée ?
+						- Est-ce que le mot est agréable ou non ?
+					- Apprentissage incident:
+						- Moitié des participants informés qu'il y aura une tâche de rappel 
+						- L'autre non. 
+			2. Rappel 
+		- <u>Résultats</u>
+			- Effet de la profondeur de TTT:
+				- Evaluation de valence hédonique > présence d'une lettre
+			- Pas/peu d'effet de l'information sur l'interrogation à venir.
+				- A moduler en fonction de la tâche surement, ici 1 mot/secondes.
+			- ![[Pasted image 20260116154630.png|400]]
+
+
+
+
 
 --- 
 ## CM2 
 
 - Encodage en MLT renforcé par:
-	- Répétition : **Hellyer 1962** - Méthode Petterson & Petterson
-	- Profondeur de traitement (Craik & Lockart 1972 - 75)
+	- Répétition : **Hellyer 1962**, **Rundus 1971**
+	- Profondeur de traitement (Craik & Lockart/Tulving 1972 - 75)
 
 - **La profondeur de TTT impact la MLT mais pas CT**
 	- **Rose & Craik (2012)**
