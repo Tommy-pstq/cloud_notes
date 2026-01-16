@@ -131,7 +131,26 @@
 				- Colère -> agressivité 
 		- Conseils spontanés à éviter pour une bonne communication. 
 	- <u>Investigation/Enquête</u>
+		- Voir CM.
+		- 3 sources d'inductions
+			- Sélection des questions
+			- Formulation questions
+			- Ordre des questions 
+		- -> Consistence/Cohérence cognitive & idéologique : effet de Halo. 
 	- <u>Soutien : Solution/décision</u>
 	- <u>Compréhension</u> 
+		- Voir CM.
+		- Manifester à l'autre son intérêt pour ce qu'iel dit = intérêt manifeste
+		- Ecoute active
+		- Empathie 
+		- Non jugement 
+		- Reformulation 
+			- Contrôle, stimulation, expression approfondissement. 
+		- -> Dépendance inversée. 
+		- -> Climat de confiance 
+			- Facilitateur de l'expression
+		- Attention risque d'interprétation
 - Laquelle permet communication optimale ? 
 	- A. Brick : "*Psychologie de la communication, théorie et méthode*"
+	- Compréhension -> approche rogérienne 
+	- 

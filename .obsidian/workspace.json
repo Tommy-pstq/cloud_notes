@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Psychopatho/CM1 - J Chevalier.md",
+                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CM1 - J Chevalier"
-            }
-          },
-          {
-            "id": "119c0104f78366b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du spectre autistique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trouble du spectre autistique"
+              "title": "CM"
             }
           }
         ]
@@ -201,18 +177,30 @@
   },
   "active": "99468e7602af2218",
   "lastOpenFiles": [
-    "0 - Cours Psycho/L2/S4/Process - representation/TD - Langage.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/Autisme et psychanalyse.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
+    "0 - Cours Psycho/L2/S4/Groupe/CM1.md",
+    "3 - Tags/Untitled 1.base",
+    "3 - Tags/Untitled.base",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD2.md",
+    "3 - Tags/TD 2.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du spectre autistique.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
+    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/La thérapie orientée solution.md",
+    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/1 - Les thérapies brèves plurielles/Posture des thérapies brèves.md",
+    "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/Bases théoriques et cliniques/Communication et hypnose.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD1.md",
     "0 - Cours Psycho/L2/S4/Psychopatho/CM1 - J Chevalier.md",
+    "PDF/CM1 - J Chevalier.pdf",
+    "0 - Cours Psycho/L2/S4/Process - representation/TD - Langage.md",
     "0 - Cours Psycho/L2/S4/Groupe/TD1.md",
     "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/Bases théoriques et cliniques/De l'épistémologie à la pratique de l'hypnose thérapeutique.md",
     "7 - Psycho/Soigner par l'hypnose - approches théoriques et cliniques/Autour de l'hypnose/Soigner par l'hypnose en milieu hospitalier.md",
     "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/2 - Un mandat à co-construire/2 - L'objectif.md",
     "0 - Cours Psycho/L2/S4/Groupe",
-    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
     "2 - Source Materials/Pasted image 20260108092154.png",
     "2 - Source Materials/Pasted image 20260108092144.png",
     "2 - Source Materials/Pasted image 20260108092129.png",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du spectre autistique.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
     "4 - Indexes/Index.md",
@@ -222,24 +210,12 @@
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles des conduites alimentaires.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles obsessionnels compulsifs et apparentés.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles liés à des traumatismes ou à des facteurs de stress..md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles de la communication.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles du contrôle sphinctérien.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble spécifique des apprentissages.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du développement intellectuel.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Méthode d'évaluation en psychopathologie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Déterminer et évaluer une psychopathologie.md",
     "0 - Cours Psycho/L2/S4/Methode Quali",
     "0 - Cours Psycho/L2/S4/Psychopatho",
     "0 - Cours Psycho/L2/S3",
     "0 - Cours Psycho/L2/S4/Process - representation",
     "0 - Cours Psycho/L2/S4",
     "PDF/CM - A Goujon.pdf",
-    "PDF/Synthèse _ La métapsychologie freudienne.pdf",
-    "PDF/Synthèse _ Développement psychique de l'enfant (CM5).pdf",
-    "0 - Cours Psycho/L2/S3/Neurosciences Intégratives I/CM VWW",
     "2 - Source Materials/Pasted image 20251213123115.png",
     "2 - Source Materials/Pasted image 20251213123037.png",
     "2 - Source Materials/Pasted image 20251213122555.png",

@@ -112,6 +112,7 @@ Ecrit 2 pages
 	- Pas de réciprocité / jeu partagé 
 	- Dessin : 
 		- Devient symbolique.
+	- Faire semblant -> monde différencié 
 
 - Constitution d'une enveloppe : manteau, jeux sensoriels 
 
@@ -162,7 +163,7 @@ Ecrit 2 pages
 
 - Paula 
 	- Prématurée : 1.8kg
-	- Pneumonie néo-natale 
+	- Pneumonie + hypertonie néo-natale 
 	- Sortie maternité à 4 mois 1/2
 		- Direction assistance publique 
 	- 7 ème enfant 
@@ -180,30 +181,46 @@ Ecrit 2 pages
 		- Pas de soucis physique hormis strabisme ++ 
 			- Strabisme : rend difficile d'évaluer l'attention visuelle 
 		- Manifeste des interactions sociales avec l'équipe soignante 
-			- Sourire, attention conjointe 
+			- Sourire, attention conjointe (difficilement évaluable)
 		- Au début: tension pendant les soins, s'estompe 
+		- *pleure peu*
 	- De 5 à 12 mois 
 		- Diminution progressive quotient de dev -> 0.72
-		- Retard dev psychique 
+		- Retard dev psychique + lent 
 		- Dev moteur lent 
 		- Interaction objets limités 
+			- Surtout observation 
+			- **peu de jeu**
 		- Toujours attention sociale dirigées nurses 
+		- Regarde surtout ses mains : peu d'intérêt pour le monde extérieur.
 		- 9 mois : Apparition d'angoisse dans le parc de la terrasse 
 			- -> Utilisation du parc de la chambre 
-			- Retour parc terasse avec appui proche 
+			- Retour parc terrasse avec appui proche 
+				- **Recours stimulation tactile ?**
+					- Pour se sentir/se repérer -> défaut de structuration psychique ? 
+			- **Angoisse de l'étranger** 
+			- **Tout semble faire peur**
+				- Absence d'attachement sécure / attachement ?
+				- Malaise parc : grand espace -> pleurs
+					- **Retour au calme dans son lit, espace restreint : "contenant".**
 		- 10 mois : 
-			- Réaction de peur à des stimuli auditifs 
-			- Vie estivale : refuse le changement de contexte pour les soins
+			- Réaction de peur manifeste à des stimuli auditifs 
+				- *Logiquement : c'est dans les premiers mois de vie*
+				- Recours stim' tactile 
+			- Vie estivale : **refuse le changement de contexte** pour les soins
 				- Accepte au bout d'1 mois de tentative 
 			- Développement de stéréotypie motrice 
-	- 8 - 18 mois : stagnation du poids 
+	- 8 - 18 mois : stagnation du poids *inquiétante*
 		- Montre des signes sociaux 
 		- Présente des épisodes de retrait / tristesse 
 	- 12 mois : 
 		- Accentuation stéréotypies 
+		- Demande souvent à être mis dans son lit
+		- Difficile d'établir contact
 		- Apparition geste violents auto-centrés 
 		- Développement de réactions de peurs face à de nombreux stimuli 
-		- Parfois en retrait pendant les soins, sans manifester un intérêt quelconque 
+		- Parfois en retrait pendant les soins, sans manifester un intérêt quelconque
+			- Pas de plaisir dans la relation
 		- Apprécie un contact physique contenant (dans les bras)
 			- Montre des signes d'interactions sociales à ce moment (tape dans les mains de l'autre)
 	- Difficultés à s'alimenter 
@@ -211,11 +228,37 @@ Ecrit 2 pages
 		- 13 mois -> maladie -> alimentation liquide 
 			- Refuse désormais la cuillère, tout aliments via verre 
 	- 13 -> 22 mois : développement d'une préférence pour une personne référente 
+		- Important : dev d'un lien avec une personne qui est distinguée des autres. 
+
+
+- Anamnèse 
+	- Prémat
+		- Poids naissance faible
+		- Pneumonie & hypertonie 
+	- Mère invalidité tuberculose
+	- Sortie natalité -> pouponnière
+- Sémioliogie 
+
 
 
 - Q1 : "Quelles défenses repérez vous dans ce cas ? Comment expliquer les peurs vers 10 mois ? "
+	- Retrait, inhibition, absence d'engagement affectif & émotionnel 
+	- Indifférence 
+	- Passivité 
+	- Peurs à 10 mois
+		- A grandi en dehors de stimulation appropriées : pas de lien disponible pour exprimer ses peurs 
 - Q2 : "Comment envisager la question de l'attachement pour Paula ? De la construction de son "self" 
+	- Attachement quasi impossible au début car absence de figure préférentiel 
+		- Repli sur elle même 
+	- Construction de son self :
+		- Pas de soutien 
+		- Donc besoin de se servir de perceptions extérieures 
+		- Contact physique : sentiment d'existence ? 
 - Q3 : "Que penser de l'évolution de son état psychique lors de sa première année ? Risques psychopatho ?"
+	- Etat psychique préoccupant 
+		- Dev psychique lié à la qualité de stimulation 
 - Q4 : "Du point du vue du soin, quelles réflexions cette situations psychopatho vous inspire-t-elle ? "
 	- *Risque Psychopathe -> à gérer via CAMSP* (Centre Action Médico Sociale Précoce) *: suivi trouble du développement* 
 	- *M-CHAT-R : questionnaire dépistage TSA 16-30 mois, maximise la sensibilité, pas mal de faux positifs.*
+	- Dispositif pour favoriser dev enfant 
+		- Possiblement en institution avec relation privilégiée avec une personne référentes + personnes auxiliaires 
