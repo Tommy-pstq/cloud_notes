@@ -6,6 +6,8 @@
 - *Référence lue sans prévision de note lors de la dernière actualisation*
 
 ## Livres
+- <u>Trouble du spectre de l'autisme chez l'enfant, repérage précoce, dépistage et diagnostic </u>, Carlier, *01/2026* 
+- <u>Evaluer et prendre en charge le TDI</u>, AFTD, Binet, *01/2026*
 - <u>Quand le sexe devient un problème</u>, Nardone, Rampin, *01/2026* 
 - <u>Dissociation et mémoire traumatique</u>, Kédia, Vanderlinder, Lopez, Saillot, Brown, *01/2026*
 - <u>Conflits de famille : Comment sortir des impasses relationnelles entre parents et enfant</u>, Gianotti, Rocchi, Nardone, *11/2025* 
