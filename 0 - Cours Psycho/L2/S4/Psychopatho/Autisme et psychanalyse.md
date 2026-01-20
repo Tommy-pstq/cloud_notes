@@ -29,3 +29,19 @@ Current research does **not** provide reliable, controlled evidence that psychoa
 
 
 https://www.youtube.com/watch?v=JkfOvunqLes
+
+
+_"Sur la base des travaux du groupe de cotation1, le Collège de la HAS constate qu'en ce  
+qui concerne spécifiquement les TED, l’apport sur le plan clinique de la classification  
+française des troubles mentaux de l’enfant et l’adolescent révisée (CFTMEA-R) ne fait  
+pas consensus. Les termes « psychose précoce » (cf. CFTMEA-R) ou « psychose  
+infantile » et « psychose infantile précoce » sont contestés en raison des difficultés  
+d’interprétation qu’ils entraînent"_
+
+_HAS, Autisme - Etat des connaissances et argumentaire, p26. 2010._
+
+
+_"Je ne peux cependant pas admettre que des praticiens se permettent encore de faire porter le poids de l'origine autistique à des mères ou à des pères en laissant **filtrer** dans leur discours des thèmes autour de la forclusion, de la symbiose maternelle, de la dépression précoce, des projections mortifères, des désirs aliénants. [...] Pourtant, rien ne permet de prétendre que l'autisme soit la résultant d'un dysfonctionnement maternel, paternel ou sociofamilial conscient ou inconscient. Cette page de la psychanalyse qui laisse toujours planer le doute sur les défectuosités de la fonction organisatrice parentale dans l'origine du processus autistique doit être une fois pour toutes déchirée."_ 
+
+_L'autisme aujourd'hui, p.268-269,_ Michel Lemay.
+

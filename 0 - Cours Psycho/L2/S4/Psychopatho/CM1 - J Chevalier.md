@@ -263,3 +263,285 @@
 	- Situation dans laquelle la vie est menacée 
 	- Symptômes liés au trauma:
 		- Répétition de la situation pour tenter de l'élaborer 
+
+## CM2 
+
+- Freud 
+	- Trauma 
+		- Dépasse toujours les capacité d'intégration & adaptation du sujet 
+		- Physique, psychique 
+
+- Carences / trauma : interconnecté // articulé 
+	- Carences : négligence liées à l'absence/insuffisance de soutient de la part de l'environnement proche 
+		- Pas de dimension volontaire nécessairement 
+	- Traumatismes : violences et maltraitance physique, psycho & sexuels vécues pendant l'enfance 
+		- Impact fortement prévisibilité de l'environnement.
+		- Expé traumatique façonnent en partie la personnalité adulte.
+		- Façonne les modes de réponses aux situations de stress, surtout stress intense. 
+	- Carences graves et régulières -> dimension traumatique 
+	- Traumas -> carences affectives, les renforce. 
+
+- TSPT : **Walker 2013**
+	- 4 stratégies pour lutter contre stress intense : fight/flight/freeze/fawn (soumission)
+	- Utiles pour se défendre, peuvent devenir dysfonctionnelles adultes
+	- On peut abuser de l'autre quand on est en situation de pouvoir (figure abusive souvent d'autorité)
+	- **Fight** :
+		- Affronter la menace perçue 
+		- Origine : environnement avec sensation d'attaque constante & en danger 
+			- Besoin de se défendre activement. 
+		- Adulte :
+			- Comportement agressifs/contrôlants
+			- Tendance autoritarisme / intimidation 
+			- Difficulté accepter vulné / demande d'aide
+	- **Flight**
+		- Evitement de la confrontation 
+		- Origine : environnement ou l'enfant ne peut pas se défendre vs figure autorité abusive 
+			- Eviter les conflits pour minimiser la douleur 
+		- Adulte:
+			- Tendance perfectionnisme / obsession du travail 
+				- Fuite des émotions 
+			- Comportements d'évitement 
+				- Solitude / isolement social 
+				- Diff à faire face à une partie de la réalité 
+					- Anxiété 
+			- Psychodynamique : 
+				- Variation Anxiété/agitation chronique : "défense maniaque" ou trouble de l'humeur. 
+					- Défense maniaque : lutter contre effondrement dépressif 
+	- **Freeze**
+		- **Sidération**/Stupeur (affect associé = effroi), réponse d'immobilisation.
+		- Origine : environnement écrasant, aucun moyen d'y échapper ou de se défendre : état d'impuissance (env violents +++). s'immobilise pour survivre. 
+		- **Adulte**:
+			- Procrastination
+			- Incapacité prise de décision
+			- Isolement extrême
+			- Sensation d'être figés, incapacité à avancer ("spectateur de leur propre vie")
+				- Désengagement émotionnel 
+				- Génère souffrance ++
+	- **Fawn** (soumission)
+		- Réponse de **soumission** : chercher à plaire/ apaiser la menace pour réduire le risque de conflit/d'abus. 
+		- Origine : Environnement qui oblige à se **conformer** aux attentes/désirs d'une figure d'autorité abusive **pour survivre**. 
+		- **Adulte:**
+			- Codépendance
+			- Oublis de soi
+			- Difficulté à établir des limites perso 
+			- Peur du rejet/conflit 
+		- Idée thérapie : accompagner la personne pour acquérir une indépendance (affective notamment). 
+	- "La psychothérapie doit s'éprouver sur du temps long"
+		- Processus de maturation 
+
+## II - Les psychopathologies chez l'enfant 
+
+- **La Demande** 
+	- Rare chez les enfants 
+		- N'a pas nécessairement la maturité psychique pour émettre demande de psychothérapie 
+		- Pas nécessairement inquiété/dérangé par ses symptômes 
+			- Plutôt l'environnement (familial/scolaire) qui est gêné/inquiété 
+		- Parfois (souvent) c'est les parents qui devraient aller en thérapie 
+			- Mais: il **faut travailler l'alliance avec les parents** pour travailler **sereinement** avec l'enfant 
+		- Demandes viennent surtout de l'école/parents/système judiciaire. 
+			- De plus en plus de difficulté à travailler avec l'éducation nationale 
+				- Beaucoup d'IP (Information préoccupante) : par n'importe qui, anonyme (comme signalement)
+					- IP : mène à une enquête sociale, traitées par la Cellule de Recueil et TTT des IP (CRIP). Systématiquement. 
+					- Majorité des IP actuellement : faites par l'école.
+						- Tension avec les parents. 
+				- Signalement (plus grave): conduite systématiquement à une enquête judiciaire. 
+					- Signalement obligatoire dès qu'il y a des **violence** (psy, phy, sex) dirigées vers l'enfant. 
+					- Majorité = abus sexuels / violences physiques. 
+		- Enfants très jeunes non verbaux:
+			- Manifestation de souffrance = activité symboliques ou symptômes
+		- Espace psychothérapeutique appartient à l'enfant.
+			- A spécifier aux parents, ils n'ont pas à questionner avec insistance leur enfant 
+			- Permet que tout le monde retrouve sa place.
+	- Plus fréquentes ados 
+
+- Principaux motifs de consult 
+	- Enfant qui dérange/trouble son envnmt (famille/scolaire) 
+	- Enfant qui inquiète : troubles fonctionnels - alimentation/propretés 
+	- Troubles psychosomatiques
+	- Difficultés scolaires  (apprentissage), sociale (harcèlement), affectives (relations)
+	- Troubles du comportements : Hyperactivité, conduites à risques (surtout ado, jusqu'à TS)
+
+- Plupart du temps : **Troubles externalisés**
+	- Orientés vers les autres 
+	- Origine de souffrances bruyantes
+		- Agitation/Agressivité/Opposition 
+		- Tout ce qui met en difficulté l'adulte -> demande de psychothérapie
+- **Troubles internalisés**
+	- Souffrance sourde, invisible 
+		- Anxiété, dépression, rumination 
+		- Retrait/inhibition 
+- Troubles internalisés les plus préoccupants.
+	- Un enfant dépressif = très très inquiétant. 
+
+- "Enfant = créateur génial de symptômes"
+	- Apparition aussi rapide que la disparition 
+	- *Pourquoi l'enfant présente autant de symptômes ?*
+		- Chaque âge comporte des attendus 
+			- Contraintes sociales/scolaires et attendus psychique 
+				- Met à l'épreuve l'enfant / ado (et même adulte)
+		- On attend beaucoup de chose 
+	- Rassurer les parents, légitimer leurs difficultés.
+		- Ne pas enfermer l'enfant dans un symptôme 
+			- Il peut y avoir des **moments** particulièrement difficiles 
+
+### Les grandes classification 
+
+- DSM / CIM / CFTMEA
+
+	- DSM : première édition 1952, dernière version = 2022 DSM V TR
+		- Origine = APA. 
+		- Premières versions : inspirées psychanalytique 
+			- Catégories : "psychose/névrose"
+		- 1980 - v3 : Tournant comportementaliste. (anti-psychanalytique) 
+	- CFTMEA : 1988, dernière révision = 2020
+		- Dev par Roger Misès
+		- Dernière version : renforcer correspondance avec la CIM.
+		- Classification psychiatrique/psychopatho inspiration analytique 
+			- Prise en compte spécifiquement ado/enfants 
+	- CIM 10 & 11 : 1990, dernière révision = 2024
+		- OMS
+		- Objectif : dimension internationale pour la classification maladie mentales 
+
+- Nomination diag : disent quelque chose sur les pro. 
+	- Peut enfermer le patient
+
+
+### Grande catégories psychopathologiques psychanalytique 
+
+ #### Le champ des névroses de l'enfant 
+
+- On ne peut pas dire qu'un enfant est "névrosé", "autiste", "psychotique"
+	- Mais on peut dire qu'il y a des tendances/traits 
+- -> Souffrances / Symptômes névrotique 
+
+- Névrose infantile VS névrose de l'enfant 
+	- <u>Névrose infantile</u> (Freud) = complexe qui structure la vie pulsionnelle de l'enfant 
+		- Conflit inconscient œdipien, angoisse de castration 
+		- Effacé par le refoulement pendant la période de latence 
+			- Adolescence/puberté -> reviviscence des conflits œdipiens. 
+		- **N'est pas pathologique**, fait partie du développement normal de l'enfant, **structurante** 
+		- Noyau de la névrose de l'adulte
+			- Ne disparait jamais 
+			- Est structurante, fait partie de nous. 
+			- But de la cure psychanalytique : actualiser la névrose infantile via la névrose de transfert 
+				- Névrose de transfert = névrose artificielle créée pendant la cure psychanalytique. "Via mon transfert, je vais rejouer mon complexe d'oedipe" 
+	- <u>Névrose de l'enfant</u>
+		- Correspond davantage à un état morbide 
+		- Préoccupant. 
+		- 'Névrose de l'enfant' =/= névrosé, simple présence de symptômes pouvant devenir envahissant et source de souffrance 
+			- Moment où un suivit thérapeutique est demandé 
+
+		- Hypothèse analytique classique 
+			- "**Les enfants souffrent en partie de leurs parents *ou plutôt de la névrose* de leurs parents**" 
+
+- <u>Manifestation anxieuse</u>
+	- Angoisse & anxiété comme modalité d'expression de la souffrance interne de l'enfant.
+		- Enfant rapporte des sentiments d'anxiété
+	- 3 catégories de manifestation d'angoisse 
+		- **Episodique** : 
+			- Forme de crises d'angoisse chez l'enfant. pathologique = excès. 
+		- **Aigue** : 
+			- Dans un contexte particulier -> ressemble plus à des crises de paniques. 
+				- Ne pas prendre de décision : "l'angoisse ne peut que finir par redescendre"
+				- Intéressant : repérer les contextes qui trigger les crises
+		- Fond d'angoisse **chronique** 
+			- Etat d'inquiétude permanent & de vigilance extrême.
+			- Environnement cata. 
+- <u>Inhibitions névrotiques</u>
+	- Inhibition scolaire : ce qui motive le plus les consult
+		- "Métier d'élève" dès 4 ans : pression de malade. 
+			- Proportion catastrophique 
+		- Société performative
+	- Inhibition peut affecter tous les domaines de la vie:
+		- Scolaire / conduites mentalisés / conduites socialiséss
+		- Inhibition fonctionnement intellectuel 
+			- Consult parfois sans situation d'échec scolaire 
+- <u>Phobies névrotique</u>
+	- Phobie : affect pénible en présence d'un objet/situation réelle que l'éprouve comme dangereux 
+	- A différencier peurs archaïques (étranger 8 mois, noir, mort) et phobie période oedipienne (3-4)
+	- Chez l'enfant : phobie souvent transitoire, durent rarement dans le temps. 
+	- "Phobie scolaire" 
+		- Rend peut être compte d'une perte de sens généralisée chez les ado 
+		- Enfants : beaucoup de "harcèlement"
+			- Discours alarmiste/négatif/compétitifs intégrés. 
+
+- <u>Manifestations obsessionnelles</u>
+	- Deux aspects:
+		- Versant mentalisé : obsessions 
+			- Pensées/sentiments/images en désaccord avec la pensée consciente du sujet contre lesquelles le sujet lutte -> souffrance, culpabilité
+		- Versant agit : compulsions
+			- Actes que le sujet se sent contraint de réalisé 
+				- Augmente l'angoisse si non réalisé 
+	- Chez les enfants : 
+		- Plus de rituels que de pensées obsédantes 
+			- Peut générer de la tension milieu familiale
+		- Se présence de pensées obsédantes:
+			- On demande : **D'où viennent les pensées ?**
+				- De lui ou de l'extérieur?
+					- -> Fonctionnement névrotique ou psychotique 
+
+- <u>Manifestations hystériques</u>
+	- Très peu de symptômes conversifs chez l'enfant
+	- Ne pas utiliser le qualificatif "hystérie" avec abus 
+	- Il peut y avoir du théâtralisme, mais pas de séduction/ 
+	- En cas de maladie notamment:
+		- Bénéfices primaires : 
+			- Bénéfice de la maladie = satisfaction directe ou indirecte de la maladie retirée par la personne. 
+			- Enfant malade : très investie par sa famille via la perspective de sa maladie 
+				- Très dur d'exister en dehors de sa maladie. 
+	- Troubles du contrôle sphinctérien (énurésie/encoprésie)
+		- Souvent présent abus sexuels 
+			- Associé comportement sexuels inadaptés chez l'enfant 
+				- -> Préoccupant, souvent signe d'abus. 
+				- Enfant qui abuse d'un autre = enfant abusé (quasi systématiquement)
+				- Car il les a soit vu, soi entendu, soit en est la victime
+			- Différence entre abus sexuels et ce qui relève de la curiosité sexuelle 
+	- Troubles du sommeil:
+		- Insomnies
+			- Cas d'environnement violent : enfant peut veilleur jusqu'à ce que les adultes se couchent
+		- Terreurs nocturnes 
+	- Troubles de l'alimentation 
+		- "Anorexie" : peur de l'alimentation
+		- Gloutonnerie : moment d'ingestion +++ 
+	- **Tous ces symptômes sont réversibles** : peuvent disparaître.
+		- Apparition possible suite à des événements 
+		- Point d'inquiétude:
+			- Apparition soudaine, massive 
+				- Surtout : si propreté impactée (car tb sexuel)
+
+#### Psychoses de l'enfant 
+
+- "Symptôme à tendance psychotique" 
+
+- "psychose infantile" rejetée, remplacé TND.
+
+- <u>Psychose de l'enfant</u>: 
+	- "Il y a psychose de l'enfant sans génétique"
+	- **Cliniquement** : il n'y a **jamais** d'hallucination / délire de persécution systématisé ou interprétatif chez l'enfant
+		- Majorité du temps : premières hallu, idées délirantes émergent à l'adolescentes 
+		- Donc: phénomène complexes dépassant la maturité de l'enfant 
+	- **Psychoses précoces** - *diag quasiment plus utilisés*
+		- Surviennent après une période de dev psycho-affectif apparemment normale
+		- Psychose : investissement déficitaire des fonctions cognitives 
+		- Psychose symbiotique 
+			- Ressemble schizophrénie : trouble du langage/trouble affectif/temporalité/angoisses sensations corporelles
+			- Recherche de quête fusionnel avec l'objet vs angoisse d'engloutissement
+		- Psychose déficitaire précoce
+			- Pb de relation réciproque 
+			- Niveau d'efficience cognitive faible 
+	- **Psychoses de la seconde enfance** : très rare
+		- 5-10 ans ou 12-13 
+			- Après apparente normalité de l'enfance 
+		- Sémiologie très variée 
+			- Trouble comportement/Langage/motricité/cognition
+			- Troubles de la pensée avec idées délirantes 
+				- Particulièrement : angoisse liées aux sensations corporelles (commun autisme infantile) 
+		- A l'adolescence : premier passages à l'acte psychotique en cas de décompensation 
+	- **Psychoses maniaco-dépressives** ? Non.
+		- Présence d'épisodes hypomaniaque 
+			- Sature l'espace de la relation 
+				- *défense maniaque = lutter contre effondrement dépressif*
+					- Hypothèse d'un environnement anxieux/débordant 
+			- 
+
+### 
