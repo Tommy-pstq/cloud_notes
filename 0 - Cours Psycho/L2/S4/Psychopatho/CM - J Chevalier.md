@@ -240,21 +240,28 @@
 	- Trauma psychique/fantasmatique 
 		- historiquement : Découverte avec "névrose d'hystérie"
 		- 2 critères 
-			- Toujours de nature sexuel (sexualité infantile)
-			- Toujours lieu "en après coup"
+			1. Toujours de nature sexuel (sexualité infantile)
+			2. Toujours lieu "en après coup" -> aspect fantasmatique 
 				- Freud suppose existence de 2 événements 
-					- Première scène de "séduction"
+					1. Première scène de "séduction"
 						- L'enfant subi une tentative sexuelle de la part d'un adulte 
 						- L'enfant n'éprouve pas d'excitation sexuelle. 
 						- Souvent "refoulées"
 						- "Confusion des langues":
 							- La sensualité de l'adulte s'entremêle à la tendresse de l'enfant. jamais à cause de l'enfant
-					- Deuxième scène, à (ou après) la puberté 
+					2. Deuxième scène, à (ou après) la puberté 
 						- Souvent une scène anodine, pas nécessairement sexuelle
-						- Mais évoque la première scène via un trait associatif 
+						- Mais évoque la première scène via un **trait associatif** 
+							- Peut prendre des années 
 						- C'est cette deuxième scène qui déclenche la dimension traumatique.
 		- Névrose d'hystérie : prend sa source dans des traumas sexuels vécus pendant l'enfance. 
 		- Trauma psychique : dimension réelle et fantasmatique. 
+
+- Fantaisies conscientes = se que l'on se raconte consciemment 
+- Fantasmes inconscients (chez Freud) -> inconscient œdipien 
+	- Structuré par les désirs et interdits œdipiens 
+		- Donc à la manière singulière dont l'individu a construit son complexe d'œdipe 
+
 
 - Facteur le plus traumatisant : l'inceste. 
 
@@ -544,4 +551,266 @@
 					- Hypothèse d'un environnement anxieux/débordant 
 			- 
 
-### 
+--- 
+## CM4 
+
+### De la Psychose infantile au syndrome d'Asperger 
+
+- Autisme : toujours pas de consensus sur l'étiologie.
+
+- 1911 : Bleuler 
+	- Autisme = **signe** de schizophrénie du jeune adulte
+		- Retrait sur soi
+			- Centration sur ses propres rythmes corporels 
+	- Autisme : "auto-érotisme"
+- 1943 : Kanner 
+	- Autisme comme entité nosographique à part entière 
+		- Différencié de la psychose 
+- 1944 : Asperger 
+	- Propose psychopathie autistique de l'enfance.
+		- Incapacité importante et précoce dû à des difficultés d'intégration sociale malgré des capacité cognitives adaptées 
+- 1980 : DSM 3 
+	- Autisme = TED 
+		- Sans lien troubles psychotiques. 
+			- Séparation de plus en plus accentuée versions suivante 
+				- TSA 
+
+
+
+- Autisme de Kanner 
+	- 2 signes cliniques majeures 
+		1. Solitude extrême / retrait 
+			- Fuite du regard 
+			- Insensibilité certaines situations 
+			- Langage impacté.
+				- trouble langage <-> trouble rapport à l'autre 
+		2. Désir/Nécessité  obsessionnel.le de préserver immuabilité de l'environnement. 
+			- Stéréotypies / Rituels 
+				- Tentative de contrôle 
+			- Stéréotypie : motrice ou langagière 
+			- Fonctionnement autistique rigide 
+	- Tentative de construction d'un monde imperméable.
+		- Pour se protéger de ses propres mouvements intérieurs/de l'autre. 
+
+- Bettelheim (1967)
+	- Retrait du monde 
+	- Langage pauvre 
+	- Echolalie / Stéréotypies 
+- Usage d'objet autistique 
+	- Coller objets / adultes 
+		- "Prolongement du corps"
+	- Utilisable pour approcher différenciation soi/Autre 
+
+- Tustin (1977)
+	- 3 types d'autismes 
+		- Autisme primaire anormale 
+			- Prolongation autisme primaire normal dans le cas de carences affectives précoces 
+		- Autisme secondaire à carapace 
+			- "Défense contre la panique qu'entraine une séparation corporelle"
+				- Fuit le contact avec l'autre pour se protéger de la séparation 
+			- Sémiologie très proche autisme infantile Kanner 
+		- Autisme secondaire régressif 
+			- Caractérisé par une régression protectrice pour se protéger face à la terreur de l'inconnue et de l'étranger 
+
+- Meltzer (1980)
+	- Monde tridimensionnel : 
+		- Spatial
+		- Temporel
+			- "Finitude" 
+		- Symbolique 
+	- Hypothèse: "l'autiste vit dans un monde bidimensionnel fait de surface"
+		- Surface centrée sur les qualités sensorielles de l'objet. 
+		- Rencontre = collage , séparation = arrachage/déchirement 
+
+- Syndrome d'Asperger:
+	- Systématisé en 1981 par Lorna Wing.
+	- Inclue dans les TSA.
+	- Sémiologie 
+		- Haut développement des connaissances 
+		- Logique mathématique forte 
+		- Mémoire ultra développée 
+		- Intérêts spécifiques 
+		- Contact social pauvre 
+		- Rapport habile au langage 
+			- Sur-pragmatique 
+		- Sélectivité alimentaire 
+- Spectre autistique devient plus vaste. 
+
+- TSA & Comorbidité 
+	- TSA couvre tous les niveaux intellectuels 
+	- Comorbidité ++ : Déficience Intellectuelle & TSA
+	- Epilepsie 
+	- Anomalie génétique 
+	- Trouble alimentaires 
+
+### Pathologies limites ou dysharmonies chez l'enfant 
+
+- Pas d'état limite chez l'enfant. 
+	- Pas mature psychiquement 
+- Etat limite :
+	- Ni 100% névrose ni 100% psychose 
+
+- Pathologies limites:
+	- Dépression qui occupe une place centrale 
+		- Rarement évoqué chez l'enfant (via parents ou enfant eux-mêmes)
+		- Repérer ces états dépressifs ? 
+
+- Dysharmonie:
+	- Remplace "diag" de psychose chez l'enfant 
+		- Limite dimension stigmatisante 
+	- Dysharmonie psychotique 
+		- Renvoie à la psychose 
+	- Dysharmonie évolutive 
+		- Intègre dimension limite
+	- Certains pro' préfèrent utiliser "dysharmonies multiples et complexes du devmt" plutôt que "dysharmonies psychotiques"
+
+- Pb majeure de cette étiquette:
+	- Sujet limite 
+	- Borderline 
+	- Faux self 
+		- Pour protéger le vrai self.
+		- Nécessite d'être sécurisé 
+		- Eviter effondrement
+		- Tout le monde dispose d'un "faux-self ordinaire"
+	- "Comme si"
+	- Schizoïde
+	- ...
+	- -> Fourre-tout. 
+
+- Pathologies limite : dimension de fausseté chez le sujet.
+- Etat limite pensés comme "plus grave qu'une névrose et moins grave qu'une psychose"
+	- Pourquoi ?
+
+### Dysharmonies  - Points de repère 
+
+- Age de début plus tardif (elle dit que autiste avant 3 ans dans le DSM, c'est faut depuis la version 5, pas d'âge explicitement limité)
+- Multiplicité & variabilité symptômes 
+- Comportement & sensibilité sociale altéré 
+	- Investissement massif relation
+	- Expression fantasmatique dans le jeu trop faciale & immédiate 
+- Thématique dominée par une agressivité mal contenue avec des passages à l'acte : auto/hétéro-agressif 
+	- Adultes ont du mal à accepter pulsionnalité de l'enfant, alors que difficile à contrôler. 
+- Décalage entre le développement : Maturation neurobiologique VS organisation personnalité 
+
+- **Clinique**
+	- Manifestation
+		- Internalisées : phobies, rituels obsessionnels 
+		- Externalisée : troubles du comportements
+		- Somatique : insomnie, anorexie 
+	- Retard de maturation
+		- Langage
+		- Motricité 
+	- Difficulté relationnelle majeure 
+		- Isolement/repli
+		- Insertion scolaire difficile 
+			- Via difficultés sociales 
+
+
+- **Dysharmonies psychotiques** 
+	- Expression manifeste à partir de 3- 4 ans 
+	- Symptomatologie varie d'un cas à l'autre, et pour le même enfant : se modifie au cours de l'évolution. 
+	- Motifs de consults 
+		- Manifestation somatiques/comportementale 
+		- Phobies 
+		- Trouble langage/psychomotricité 
+			- Déficit intellectuel pas central 
+				- Mais diff sociale -> diff insertion écoles 
+	- "Pas d'inquiétude nécessaire d'une menace de rupture avec le réel"
+	- Point commun entre variation symptomato :
+		- Mécanismes de la série psychotique 
+			- Menace de rupture avec le réel ou mauvaise organisation du sentiment de soi et des rapports avec la réalité 
+		- Tendance au débordement de la pensée par des affects / représentation "d'une extrême crudité"
+			- Langage cru / grossier : dit quelque chose d'une crudité qui s'exerce dans un environnement. 
+				- Soit répétition de mot simplement entendus soit directement adressés 
+				- Souvent : crudité de langage centrée sur le corps. 
+		   - Angoisses.
+		   - Relation duelle & dominante 
+			   - Incapacité d'accès aux conflits et aux modes d'identification les plus évolués 
+				   - Relation duelle, recherche potentielle de fusion avec l'autre 
+					   - Diff à tolérer le conflit 
+
+- *Différence entre névrose & psychose : triangulation de la relation.
+	- *Névrose : intégration du tiers. 
+		- *Structuré par la triangulation
+	- *Psychose, pas de tiers : relation duelle. 
+		- *Difficulté à faire différence entre moi & l'autre
+		- *Diff accès relation triangulée 
+		- *Relations fusionnelles -> persécutrices
+- *Triangulation : permet d'accéder au conflit psychiques*
+
+- Œdipe : structure à 3 termes 
+	- Initialement : indifférencié de l'objet.
+	- Mais : interdit de rester en fusion avec le premier objet d'amour 
+	- Donc : un tier viens séparer avec l'objet d'amour 
+		- Fonction de séparation/différenciation 
+		- Chez Freud = tier paternel. 
+			- Mais : plus symbolique, "fonction tierce" permettant de se différencier (ex: premières relations amoureuses, état amoureux -> amour)
+
+
+- **Dysharmonies évolutives**
+	- Pathologies limites : manifestations diverses, changeantes 
+	- Hétérogénéité structurelle 
+		- Présence de clivages :
+			- Alternance entre capacité d'adaptation et modalités plus archaïques de symbolisation mental 
+		- Composante dépressive tient un rôle important
+			- Potentiellement recouverte par d'autre troubles (comportements..)
+	- <u>Clinique</u>
+		- Défaut précoce d'étayage 
+			- Failles/distorsions dans l'organisation de la vie mentale 
+				- Faux self : permet de conserver des capacités adaptatives 
+		- Défaillance champ transitionnel et des supports de la pensée
+			- Dominances des expressions par le corps & les agirs 
+		- Difficulté à élaborer la position dépressive 
+			- Grande vulnérabilité à la perte de l'objet. 
+		- Failles narcissiques 
+			- Enfant qui ne se sent pas suffisamment valorisé 
+				- Entraine des affrontements avec figure d'autorité 
+	- Evolutions possibles 
+		- D'une organisation psychotique / déficitaire en fin de latence 
+		- Organisation limite 
+			- Adaptation en surface 
+			- Rigidité fonctionnement mental 
+			- Anxiété ++, défenses projectives 
+			- Svt trouble l'humeur adulte 
+		- Fonctionnement névrotique 
+
+
+### Psychopathologie développementale 
+
+- Différence entre psychopatho analytique & développementale
+	- Analytique : vision processuelle 
+	- Développementale : vision linéaire
+
+- **Considérations Développementale** 
+	- Application perspective du développement au domaine de la psychologie 
+		- Dev normal / Pathologique = résultat de l'adaptation du sujet à son environnement & aux différentes phases développementales. 
+			- Pathologie = résultat d'une séquence de mauvaises adaptations ("trajectoire développementale")
+	- Le moi comme instance adaptative à la réalité extérieure : A.Freud 
+	- Trajectoire développementale 
+		- Influences réciproques entre développement & psychopathologie 
+			- -> Cibles spécifiques d'intervention préventives & curatives 
+		- Dev : influence expression clinique psychopatho
+		- Manifestations : impact le développement. 
+		- Permet de mettre en évidence:
+			- Facteur de protection / facteur de risque. 
+			- Ex: 
+				- Attachement insécure = facteur de risque 
+				- Sociabilité = facteur de protection
+	- Développement = succession d'adaptation.
+	- S'intéresser aux discontinuités développementales. 
+		- Qu'est-ce qui fait qu'à moment donné, "ça bascule"
+	- Enfant : capacité innée à s'adapter.
+	- Toujours tenir compte:
+		- De l'âge 
+		- Des facteurs temporels.
+	- Processus développementaux normaux / **pathologiques**:
+		- Se différencient uniquement seulement en terme **d'intensité**
+
+- Acquisition développementale 
+	- 1 ans : relation attachement opérante 
+	- 1-3 : Auto régulation avec étage connaissance règles de la conscience de soi et de lautre
+	- 3- 6 : auto-régul sans étayage 
+	- Période scolaire : compétences individuelles, structuration de la personnalité 
+	- Adolescence : individuation/ sexuation
+	- Adulte : émancipation & autonomie 
+
