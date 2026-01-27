@@ -59,4 +59,7 @@
 - 3 Questions 
 - Chaque question : 15 minutes 
 	- Décision nécessite consensus 
-	- 
+
+--- 
+## TD2 
+

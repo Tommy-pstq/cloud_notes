@@ -1,0 +1,85 @@
+
+- Apprentissage implicite = automatique & non conscient 
+
+ - *Comment le langage écrit fonctionne par apprentissage implicite ?*
+
+- **Rebert 1969** : Peut on apprendre de manière inconsciente des règles présentes dans un matériel complexe  ? 
+	- Hyppthèse : une part importante de l'apprentissage du langage = implicite. 
+	- Test : protocole de recherche avec **grammaire artificielle**
+		- Ensemble de règles arbitraires qui régissent la manière dont des suites de lettre peuvent être agencées. 
+	- Phase 1 : 
+		- Sujets étudient matériel complexe régit par gramme artificielle 
+			- Sans connaissance des règles 
+			- Sans savoir qu'il y a des règles 
+	- Phase 2 : 
+		- Sujet informés : listes/"mots" régies par des règles 
+		- Doivent identifier quels "mots" correspondent à ces règles 
+	- Phase 3 :
+		- Expliciter les règles identifiées 
+	- 3 hypothèses:
+		- Pas d'apprentissage 
+			- Res = 50% - hasard 
+			- Incapables de donner les règles dans la phase 3 
+		- Apprentissage explicite 
+			- Res > 50%
+			- Explication possible de certaines règles 
+		- Apprentissage implicite 
+			- Res > 50%
+			- Pas d'explication possible 
+	- Résultats :
+		- Res > 50% 
+		- Imcapable d'expliciter règles qui régissent les suites de lettres "grammaticales" 
+	- Conclusion:
+		- Hypothèse apprentissage implicite validée.
+	- Critiques:
+		- Les sujets peuvent avoir conscience de certaines règles mais sans
+			- pouvoir : règles complexes, ne trouvent pas les mots 
+			- oser les verbaliser.
+- **Rebert, Expé 2, 1976**
+	- Veut prouver son apprentissage implicite 
+	- Exactement le même protocole qu'en 69
+	- Deux groupes:
+		- Consigne explicite : les sujets savent dès le début qu'il existe des règles grammaticales 
+			- Sujet voudront chercher ces règles 
+		- Consigne implicite : expé de base, ne savent pas qu'il y a une règle dès la phase 1. 
+	- Hypothèses:
+		- Apprentissage Explicite : si les sujets sont capables d'extraire des règles explicitement
+			- Meilleurs résultats de ceux qui connaissent l'existence de règles 
+		- Apprentissage Implicite : Si extraction de règles uniquement de manière implicite 
+			- Participants connaissant l'existence de règles vont essayer de le fair explicitement, donc moins de ressources laissées aux processus implicites donc sous performe par rapport au groupe consigne implicite 
+	- Résultats:
+		- Explicite : 65% bonne réponse 
+		- Implicite : 77% de bonne réponse 
+		- -> Valide son hypothèse 2 
+			- Les processus explicites interfèrent avec les processus implicites 
+	- Mais : 
+		- **Echec de réplication des résultats**: <u>Brooks 1978</u>
+			- Nouvelle grammaire artificielle 
+			- Même protocole 
+			- Mais :
+				- Consigne explicite > implicite 
+				- -> Consignes explicites favorisent apprentissage règles, donc apprentissage explicite. 
+	- <u>Rebert 1980</u>:
+		- Différence de résultat = lié à la difficulté des grammaires artificielles 
+		- Objectif : tester le lien entre complexité des règles et type d'apprentissage utilisé. 
+			- Si grammaire hyper simple: repérée très facilement 
+		- Propose : 
+			- Une même grammaire artificielle
+			- Fait varier difficulté de l'apprentissage :
+				- Si facile -> explicite > implicite 
+				- Si difficile -> implicite > explicite 
+				- Difficulté = ordre des listes.
+					- Aléatoire vs disposés pour faciliter extraction de règles (ordonnée)
+						- = "2 versions du matériels"
+		- Résultats 
+			- Ordonné : 
+				- Implicite = .68
+				- Explicite = .79
+			- Aléatoire
+				- Implicite = .66
+				- Explicite = .62
+			- Confirme hypothèse. 
+		- Conclusion:
+			- On peut utiliser de l'apprentissage explicite (mieux pour règles faciles) ou de l'apprentissage implicite (préférable pour règles complexes, difficiles d'accès). 
+			- -> L'apprentissage de règle grammaticale est bien régit, au moins en partie, par des processus implicite. 
+	- 
