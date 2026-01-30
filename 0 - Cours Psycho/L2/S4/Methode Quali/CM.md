@@ -313,10 +313,107 @@ S’intéressent :
 - Peu adapté, couteux pour interroger un grand nombre de personne 
 - Non adapté dans le cas de considération liées à la représentativité d'un échantillon 
 - Ne peut pas prendre un charge les questions causales.
-	- Pas de quoi "pourquoi"
+	- **Pas** de quoi "pourquoi"
 	- Mais des "comment"
 	- Accès aux rationalités propres des acteurs 
 		- Celle à partir desquels les individus pensent le monde. 
+- Réflexivité 
+	- Discours incertain & nuancé, parfois contradictoire
+		- Risque d'orienter l'analyse vers un biais de confirmation. 
+			- Rigueur + **triangulation**(=plusieurs analyse data indep) 
+
+	- Influence de la présence du chercheur & conditions de productions du discours
+	- Utilisation possible des résultats à des fins politiques.
+		- Être clair sur les objectifs 
+	- Risque de dévoiler l'identité de la personne. 
+		- RGPD. 
+
+
+
+--- 
+
+## CM4 - Analyse de données 
+
+- Critères scientificité : différents approches quantitatives.
+	- **Triangulation**: ~ Fiabilité, Cohérence, Consistance ~
+	- **Plausibilité**: ~Validité interne (->Lien clairement établit VI / VD & pas de facteurs d'influence)
+	- **Transférabilité des résultats**: ~Validité externe (-> extrapolation possible)
+		- Transférabilité -> analogie 
+	- Sensibilisation aux biais. 
+
+
+### Analyses qualitatives
+
+- <u>Contenu</u>
+	- **Naturel** 
+		- Existant **indépendamment** de l'intervention chercheur 
+			- ex: média/programmes scolaires/...
+	- **Provoqué** 
+		- Via **intervention** +/- directe du chercheur (ex entretien recherche) 
+
+#### Grands axes 
+
+- Recueil de donné : registre donné 
+	- Préférentiel (contenu, croyance, représentations, idées...) ou Modal (Expériences vécues, subjectives)
+	- -> Grands axes d'analyse:
+		1. **Contenu**: représentations, idées (registre préférentiel)
+		2. **Phénoménologique** : expériences vécues/subjectif (registre modal)
+		3. **Discours**: construction de sens autour d'un objet, enjeux de pouvoirs 
+
+- Axe d'analyse -> focale utilisée pour regarder les data, en fonction des objectifs suivi. 
+- Différents type d'analyse : slide moodle. 
+	- Contenu / approche narrative / discursive / interprétative phénoménologique / lexico-métrique ... 
+
+
+#### Analyse de contenu 
+
+- 2 grands type d'analyse de contenu:
+	- Thématique 
+	- Catégorielle 
+- Différence = démarche scientifique dans laquelle on s'ancre. 
+	- **Inductive**
+		- Exploratoire
+		- Grands thèmes inconnus : **peu/pas** d'hypothèse
+			- **Analyse de contenu thématique**
+	- Hypothético-déductive
+		- Nécessite hypothèses sous-jacentes 
+			- Donc catégories de contenu connues 
+				- **Analyse de contenu catégorielle**
+
+- Analyse du contenu : depuis toujours ~~ 
+	- Identifier les thèmes d'un discours = procédure quasi intuitive
+	- Difficile de tracer les origines 
+	- Difficile de définir l'analyse de contenu 
+		- Mais nécessaire de le faire pour science transparente. 
+- Grossièrement : analyse de contenu = déterminer les grands thèmes d'un discours 
+
+##### Objectif 
+- Qui a-t-il de fondamental dans ce propos, de quoi traite-t-il ?
+	- Nécessaire de réduire les données 
+		- Résumer/Synthétiser son corpus 
+			- Au regard des problématiques de recherche 
+				- Donc nécessaire de bien connaitre ses objectifs.
+			- En thèmes -> sous thèmes.
+
+- Définition Bardin 2007 - Moodle 
+	- Analyse de contenu vise, via procédures systématiques, de produire des indicateurs (quali ou quanti) -> questions de recherche/interprétation des résultats 
+
+- Données brutes 
+	- -> Techniques
+		- -> données synthétisées/réorganisées par thèmes 
+			- -> Interprétation au regard des objectifs/hypothèse
+
+- Analyse de contenu :
+	- S'intéresse au **signifiés** (idées, croyances sentiments...) 
+		- Et à qui c'est adressé
+
+- Analyse linguistique :
+	- S'intéresse aux **signifiants** 
+		- Et aux règles qui régissent l'usage du langage 
+
+
+
+
 
 
 

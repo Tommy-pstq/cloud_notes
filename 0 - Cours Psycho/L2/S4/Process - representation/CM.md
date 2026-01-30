@@ -398,8 +398,136 @@
 	- **Ne donne pas assez de place au connaissances de haut niveau**
 		- Ex: stratégies. 
 
-- Milieu des années 90s : plusieurs nouvelles théories de l'expertise. 
+- Milieu des années 90s : plusieurs **nouvelles théories de l'expertise.** 
 
 --- 
 
-## CM4 - à venir. 
+## CM4 
+
+### Nouvelles théories de l'expertise
+#### Mémoire de travail à long terme : Ericsson & Kintsch 1995
+
+- Partent du constat : les **modèles classiques de mémoire MCT // MLT** 
+	- Fonctionnent bien pour rendre compte des performances des novices 
+	- Mais sont **i**ncapables de décrire les observations réalisées sur des experts** 
+		- Etude de plusieurs domaines d'expertise ou les perf des experts sont inexplicables par des modèles MCT/MLT :
+			- Serveurs de restaurants/brasserie : performance mnésique très dures à expliquer en terme de MCT/MLT 
+				- Parviennent à retenir un grand nombre de commandes, changer leur ordre pour les passer aux cuisines puis dans un 3ème ordre pour les apporter aux clients : impossible avec MCT uniquement.
+			- Compréhension de texte 
+				- Nombre d'opération mentales à réaliser impossible avec uniquement la mémoire de travail comme support. 
+			- Conduite automobiles 
+				- Enormément d'info à prendre en compte, excède largement les capacités de la mémoire de travail
+					- Alors qu'on arrive à discuter en même temps une fois habitué. 
+			- Mémorisation de l'ordre d'un jeu de 54 cartes 
+- -> **Ericsson & Kintsch** proposent une <u>modification conséquente des modèles classiques</u> 
+	- Ajout d'une <u>Mémoire de travail à long terme</u> en plus des MCT & MLT.
+		- Quand on devient **expert** :
+			- **Développement en MLT de connaissances particulières** 
+				- Avec lesquelles il est possible d'effectuer un <u>TTT directement en MLT</u>
+					- <small> Ex: conduite en MLT, laisse la MCT dispo pour discuter </small> 
+				- Permettent d'<u>encoder presque directement</u> (très rapidement) des informations <u>en MLT</u> sans passage par la MCT (ou presque)
+			- Ces connaissances ne s'applique QUE au domaine d'expertise pour lequel elles ont été élaborées, de manière spécifique. 
+
+#### Théorie des Templates - Gobet & Simon (1996, 2000)
+
+- <small> Autre nom en Suisse française : théorie des chablons </small> 
+- Modèle informatique associé à cette théorie : CHREST.
+
+- Développée à partir de l'expertise au jeu d'échec.
+	- Amélioration de la théorie des chunks. 
+	- **Conserve l'idée puissante des réseaux de chunks**
+		- Et les mécanismes de recherche de simultanéité associés 
+			- Comme mécanisme d'apprentissage 
+	- Ajout d'une couche de connaissance supplémentaire:
+		- **Les Templates**
+			- "Enormes chunks": contenant des variables.
+			- Permettent un TTT direct en MLT
+				- Basé sur des connaissances construites via expertise 
+
+
+#### Article Science 2012 
+
+- Babouins & langage. 
+	- Ont un accès libre à des box ou des **tâches de décision lexicale** sont proposées
+		- Indiquer si une suite de lettre est un mot anglais ou non sur un écran.
+			- En cas de bonne réponse : renforcement positif via nourriture. 
+	- Après plusieurs milliers d'essaies: 
+		- Les babouins sont capables de dire avec une bonne précision si une suite de lettre - même inconnue - correspond à un mot anglais ou non. 
+			- <u>Sans savoir lire.</u>
+	- Idée sous jacente:
+		- **Apprentissage de chunks** (groupe de lettres) via répétition. 
+			- <u>Indépendamment du sens</u> 
+				- -> Mécanisme de construction de chunks (via repérage de simultanéité) important pour l'apprentissage et pas spécifique aux humains.
+
+### Expertise & perception 
+
+- *Comment les connaissances expertes influencent la perception ?*
+
+- Etude **Reingold, Charnes, Pumplum, Stampe (2001)**
+	- <u>Objectif</u> : Influence des connaissances expertes sur la perception visuelle 
+	- Permis par l'amélioration des devices d'eye tracking.
+	- <u>Méthode</u> :
+		- Eye tracking : **Mesure saccades oculaires**
+			- Position, durée. 
+		- -> Essayer d'observer une manifestation oculaire des chunks 
+	- <u>Tâche</u>
+		- Détecter si le roi est un situation d'échec direct, sur un panneau de 3x3. 
+	- <u>Résultats</u>
+		- Il y a une différence importante entre novice & experts. 
+			- Les **experts** font **moins** de saccade, mais **plus longues**
+				- Les saccades sont centrées **entre** les pièces 
+			- Les Novices font des fixations sur les pièces, plus courtes.
+	- -> Ca valide l'influence des chunks sur la perception. 
+
+### Le sentiment d'être soi. 
+
+
+- *Qu'est-ce qui fait qu'on a l'impression d'être la même personne tout au long de notre vie, malgré tous les changement que l'on subi ?* 
+	- Ref : Bateau de Thésée
+
+#### Être soi même, c'est avoir des souvenirs 
+
+- Rôles respectifs des mémoires sémantiques/épisodes dans le sentiment d'être soi ? 
+
+- **Klein & Ganji (2010)** 
+	- <u>Patient KC</u>
+		- Absence de mémoire épisode 
+		- Mémoire sémantique intacte. 
+		- -> Pas de souvenir, mais présente **un fort sentiment d'identité**
+			- Il aime X, Y ..
+			- Est plutôt A ou B
+			- Sans souvenirs en lien avec ces informations. 
+	- <u>Patiente W.J</u>
+		- Choc à la tête à 18 ans : 3 semaines d'amnésie totale.
+		- Tests durant la période sans souvenirs pour évaluer le sentiment d'identité
+			- Juger si des adjectifs lui correspondent, la définissent ou non.
+			- -> **Peut se décrire**, mais absence de souvenirs de situations générant cette description. 
+		- Les mêmes tests sont effectués après le retour des souvenirs
+			- Même description que pendant la phase d'amnésie totale.
+		- -> Les deux évaluations sont très cohérente. 
+			- -> **Même image d'elle avec ou sans mémoire épisodique**
+	- -> **La mémoire sémantique contient des infos sur nous-même, sur ce que nous sommes, ce qui nous caractérise.**
+		- Les connaissances épisodes jouent surement aussi. 
+
+	- <u>Patient HM</u>
+		- Amnésie pendant des décennies.
+			- Mais maintient un fort sentiment d'identité et une capacité à parler de lui pendant tout ce temps. 
+
+#### Être soi, c'est aussi un corps.
+
+- Continuité des sensations corporelles au fil de l'existence. 
+	- Difficile à étudier. 
+
+- **Botvinick & Cohen, 1998** : étudier la plasticité des représentation de son corps.
+	- Exp 1 : Illusion main en caoutchouc.
+		- Un bras visible, l'autre caché.
+			- Un bras en caoutchouc est placé de manière à "remplacer" celui qui est caché.
+			- Des stimulations tactiles sont effectuées sur les deux bras (caché & en caoutchouc) en même temps. 
+				- Après quelques dizaines de secondes à voir la stimulation sur le caoutchouc et la sentir sur son vrai bras 
+					- -> Apparition d'un **fort sentiment que la main en caoutchouc fait partie du corps** : illusion.
+	- Exp 2 : même dispositif.
+		- Demande cette fois de bouger le bras caché sous la table de manière à le positionné juste sous le bras visible. 
+		- Résultat:
+			- Si pas d'illusion, la personne positionne facilement son bras au bon endroit.
+			- Si l'illusion d'appartenance à été mise en place:
+				- La personne positionne son vrai bras à mi-chemin entre le bras caoutchouc et sa main visible.

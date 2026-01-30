@@ -434,9 +434,68 @@ Axe d'approche : Vécu.
 		- Réciprocité possible 
 		- Tendance à la surprotection de ses productions 
 
-
-
 	- Fascination pour les affiches de **danger**
 	- Déficit d'inhibition 
 		- Réactions violentes à la frustration ou à la  Surstimulation
 		- Réaction à des phrases dont elle n'est pas le suejt 
+
+- "Correction"
+	- Motif consult
+		- Ecole vs Parent 
+		- Parent gnosie trouble dev enfant ?
+		- Pas de motif précis dans le texte
+	- Anamnèse, atcd perso & familiaux 
+		- Dev normal -> 3 ans 
+		- Env pauvre : sous stim
+		- Trauma nounou : cassure dev 
+		- Négligence parentale 
+	- Eléments médicaux 
+		- Pas d'info. 
+	- Sémio au dessus 
+	- Meca def 
+		- Auto-agrssivite
+		- Clivage
+		- Identification adhésive 
+		- Identification adhésive 
+	- Diag diff 
+		- "Diag"
+			- "Psychose symbiotique"
+				- Avec évolution autistique
+		- Diag diff:
+			- Trouble du comportement 
+			- Autisme
+			- Trouble de l'attachement 
+	- Apport sur la compréhension de la dynamique psychique 
+		- Différence bébé fantasmé / réel 
+			- Reconnaissance altérité Sonia 
+		- Mère heureuse enceinte -> dépression post partum 
+			- Projection parentales 
+		- Pb adéquation parents avec la réalité de l'enfant 
+			- Non reconnaissance subjectivité Sonia 
+		- Conflits parents/grand-parents sur l'éducation
+			- Environnement 
+	- Proposition thérapeutique 
+		- Guidance parentale // Thérapie familiale 
+		- Prise en charge corporelle 
+		- Médiation art-thérapie
+
+- Adama-Christian 
+	1. Analyse sémio, hypothèse diag 
+		- Crise de violence 
+		- Crise d'excitation
+		- Echec scolaire 
+		- Variation comportements père/mère 
+		- Provocation prise en charge 
+		- Diag 
+			- TDAH avec léger trouble oppositionnel 
+				- Hyperactivité : agitation motrice, trouble attention, impulsivité exacerbée. 
+	2. Éléments qui explique le fonctionnement psychique ? 
+		- Hypothèse : "Défaut de handling et holding"
+			- Agir comme une enveloppe substitutive
+		- Top inhibé avec le père, trop extraverti avec sa mère 
+		- "Lourdeur transgénérationnel":
+			- se débat pour ne pas être l'oncle (décédé), s'agite pour montrer qu'il est en vie 
+		- Question culturel:
+			- Différence de culture école/maison 
+				- Instabilité de repères 
+	3. 
