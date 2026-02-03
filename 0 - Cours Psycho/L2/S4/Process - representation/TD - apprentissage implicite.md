@@ -82,4 +82,83 @@
 		- Conclusion:
 			- On peut utiliser de l'apprentissage explicite (mieux pour règles faciles) ou de l'apprentissage implicite (préférable pour règles complexes, difficiles d'accès). 
 			- -> L'apprentissage de règle grammaticale est bien régit, au moins en partie, par des processus implicite. 
-	- 
+
+- Point de vue **abstractionniste** (Rebert)
+	- Les sujets extraient les règles implicitement puis les appliquent implicitement 
+		- -> apprentissage implicite
+- VS 
+- Point de vue (Brooks) : **Mnemocentriste** 
+	- Les sujets mémorisent des exemplaires ou partie d'exemplaires lors de la p1 
+		- Juger la ressemblance de ce qui est mémorisé avec les nouvelles suites de lettres 
+	- -> Apprentissage de la forme 
+
+- **Vokey & Brooks (1992)**
+	- Objectif : mettre à l'épreuve les deux hypothèses précédentes 
+	- Matériel : 
+		- 2 listes de lettres créées avec la même grammaire artificielle
+			- Pour chaque liste :
+				- 2 séries d'items à juger en changeant UNE lettre.
+					- **Série grammaticale** : la lettre remplacée est congruente avec la règle grammaticale 
+					- **Série non grammaticale** : la nouvelle suite de lettres viole les règles. 
+	- Méthode :
+		1. Analyse la liste, sans connaissance de règles grammaticales - une seule des deux listes (1 ou 2)
+		2. Analyse de tous les objets de la p2:
+			- Ceux construits à partir de la liste 1, et de la liste 2
+	- Facteurs :
+		- Grammaticalité 
+			- Correspond ou non aux règles de la P1
+		- Familiarité 
+			- Similaire, ou non à la liste étudiée.
+	- -> 4 conditions possibles via logique facteurs
+		- Grammatical + similaire 
+		- ...
+		- Non Grammatical + non similaire 
+	- Métrique
+		- Fréquence de réponse de : "la suite est grammaticale."
+	- Hypothèse:
+		- Mnémocentrisme : similarité -> ++ grammaire OK, balec grammaticalité 
+		- Abstractionnisme : grammaticalité -> ++ grammaire OK, pas d'effet similarité 
+	- Output:
+		- Effets de similarité ET de la grammaticalité présents.
+			- -> Aucune des deux hypothèses correctes. 
+			- -> L'apprentissage se fait via les deux phénomènes. 
+				- -> **Système de TTT mixte : mémoire + extraction implicite règles.**
+
+- **Knowlton & Squire (1994)**
+	- Expé 1 
+		- Objectif : mettre à l'épreuves les hypothèses abstractionniste & mnémocentriste avec des patients amnésiques 
+		- Sujets:
+			- Amnésiques : déficit mémoire déclarative. 
+			- Contrôle : ne souffrent pas de troubles mémoire déclarative. 
+		- Méthode :
+			- p1 : analyse liste de lettres 
+			- p2 : séries de lettres étudiées en p1 mélangées avec d'autres séries de lettre 
+			- ->
+				- Identifier les séries de lettres déjà vues
+				- Identifier les séries respectant la grammaire artificielle. 
+		- Hypothèse:
+			- Si processus mixte (mnésique + abstractionniste):
+				- Sujet contrôle perf élevée sur les deux métriques.
+				- Sujet amnésique : 
+					- Perf naze pour identifier mots déjà vus 
+					- Mais "ok" pour série grammaire artificielle, en dessous du contrôle quand même. 
+		- Résultats 
+		- 
+
+|           | % correct grammatical | % correct reconnnaissance |     |
+| --------- | --------------------- | ------------------------- | --- |
+| Amnésique | 63                    | 52                        |     |
+| Contrôle  | 67                    | 72                        |     |
+- % correct gramma > 50 -> valide la partie abstractionniste
+
+- Exp 2 :
+	- Même paradigme Vokey & Brook 1992 (mots similaires/non similaire & grammaticaux/non grammaticaux), avec la même population que dans la première expérience (sujet amnésique/contrôle)
+	- On s'attend à l'absence d'effet de la similarité avec maintient de la grammaticalité 
+	- Résultat:
+		- Contrôle : Effet de similarité + Grammaticalité. 
+			- Similaire Vokey & Brooks.
+		- Sujet amnésiques :
+			- Pas d'effet de similarité. 
+			- Grammaticalité OK. 
+	- -> Les sujets amnésiques utilisent uniquement le système d'extraction de règles.
+		- -> Confortent l'idée de l'existence des deux traitement : abstractionnistes & mnémocentriques. 

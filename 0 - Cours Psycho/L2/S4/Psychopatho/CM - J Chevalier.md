@@ -422,7 +422,7 @@
 - -> Souffrances / Symptômes névrotique 
 
 - Névrose infantile VS névrose de l'enfant 
-	- <u>Névrose infantile</u> (Freud) = complexe qui structure la vie pulsionnelle de l'enfant 
+	- <u>Névrose infantile</u> (Freud) = complexe qui **structure** la vie pulsionnelle de l'enfant 
 		- Conflit inconscient œdipien, angoisse de castration 
 		- Effacé par le refoulement pendant la période de latence 
 			- Adolescence/puberté -> reviviscence des conflits œdipiens. 
@@ -431,13 +431,13 @@
 			- Ne disparait jamais 
 			- Est structurante, fait partie de nous. 
 			- But de la cure psychanalytique : actualiser la névrose infantile via la névrose de transfert 
-				- Névrose de transfert = névrose artificielle créée pendant la cure psychanalytique. "Via mon transfert, je vais rejouer mon complexe d'oedipe" 
+				- Névrose de transfert = névrose artificielle créée pendant la cure psychanalytique. "Via mon transfert, je vais rejouer mon complexe d'oedipe"  
 	- <u>Névrose de l'enfant</u>
 		- Correspond davantage à un état morbide 
 		- Préoccupant. 
 		- 'Névrose de l'enfant' =/= névrosé, simple présence de symptômes pouvant devenir envahissant et source de souffrance 
 			- Moment où un suivit thérapeutique est demandé 
-
+	
 		- Hypothèse analytique classique 
 			- "**Les enfants souffrent en partie de leurs parents *ou plutôt de la névrose* de leurs parents**" 
 
@@ -662,6 +662,7 @@
 		- Renvoie à la psychose 
 	- Dysharmonie évolutive 
 		- Intègre dimension limite
+		- **présence d'une différenciation soi/non soi.**
 	- Certains pro' préfèrent utiliser "dysharmonies multiples et complexes du devmt" plutôt que "dysharmonies psychotiques"
 
 - Pb majeure de cette étiquette:
@@ -814,3 +815,121 @@
 	- Adolescence : individuation/ sexuation
 	- Adulte : émancipation & autonomie 
 
+--- 
+## CM5  03/02/26
+
+### Troubles de l'attachement 
+
+- Troubles de l'attachement renvoient à :
+	- Désordre émotionnels & comportementaux 
+	- Désordre d'interaction sociale 
+- Résulte de, Bowlby:
+	- Attachement inexistant 
+	- Attachement insécure / pathologique 
+		- Figure d'attachement:
+			- Changeant 
+			- Désintéressée / négligente
+			- Ambivalente 
+
+- Trouble réactionnel de l'attachement - Apparait DSM-3.
+- DSM 5 : Troubles liée à des trauma & stress.
+	- Trouble réactionnel attachement - version inhibée 
+	- Trouble désinhibition du contact social 
+
+- "Souvent":
+	- La forme inhibée (trouble réac attachement) évolue plus positivement que forme désinhibée
+
+- Trouble de l'attachement 
+	- Via mode relationnel avec les adultes 
+	- Perturbation social & émotionnelle 
+
+- **Trouble réactionnel de l'attachement**
+	- Mode relationnel adulte 
+		- Recherche rare ou imperceptible de réconfort 
+		- Réponse rare ou imperceptible au réconfort en moment de détresse 
+	- Perturbation social & émotionnelle, au moins 2:
+		- Diminution réactivité sociale 
+		- Affect restreint 
+		- Episodes tristesse/irritabilité/crainte même en absence de contexte explicatif 
+	- Forme extrême insuffisante de soin, au moins 1:
+		- Négligence/privation sociale caractérisée par une carence chronique primaire des besoin élémentaires primaires 
+		- Changement répétée des personnes s'occupant de l'enfant 
+		- Education dans des conditions inhabituelle qui limite sévèrement les possibilités d'attachement sélectif 
+	- Le manque de soin considéré comme à l'origine des critères du mode relationnel à l'adulte 
+	- Les critères ne correspondent par à un TSA 
+	- Avant 5 ans. 
+	- L'âge de développement de l'enfant > 9 mois.
+
+- **Trouble de désinhibition du contact social**
+	- Mode relationnel:
+		- Enfant s'approche activement &  interagit, adulte inconnu > 2 :
+			- Réticence réduite ou absente dans l'interaction avec des adultes peu familiers 
+			- Comportement verbaux/physique excessivement familier par rapport age & culture 
+			- Ne demande l'accord d'un adulte avant de s'éloigner, inconnu 
+			- Accepte de partir avec un adulte peu familier/inconnu sans hésitation 
+	- Comportement précédents ne se limitent pas à une impulsivité mais incluent un comportement socialement désinhibé. 
+	- Même perturbation dans l'enfance que trouble réactionnel 
+
+### Troubles du comportement & des conduites 
+
+- Aujourd'hui : très fréquent d'entendre des parents & enseignants parler de troubles du comportement chez l'enfant - dès la maternelle.
+	- Dès qu'un enfant s'agite/fait du bruit, ne reste pas assis, n'écoute pas -> génère beaucoup d'impuissance chez les adultes ayant pour obsession que l'enfant "reste à sa place". 
+	- "Métier d'élève"
+		- Alors qu'élèves = enfants & adolescents, avant d'être des élèves. 
+
+#### Troubles du comportement 
+
+- Fréquents & bruyants -> prennent beaucoup de place. 
+- Apparition lors de:
+	- Transition développement
+	- Evénement familiaux stressant. 
+	- Ou sans identification précise. 
+
+- Clinique : Opposé/articulé à des "dys" ""
+	- Dyspraxie : trouble dev motricité 
+	- Dyslexie
+	- Dysorthographie 
+	- Dyscalculie 
+
+- Trouble du comportement: 
+	- Répercutions sociale ++ -> impact pratiques éducatives 
+	- Définis par, clinique :
+		- Opposition, violence fratrie..
+	- -> Péjoratif, mal accueilli. 
+
+- Troubles externalisés & pratique parentales:
+	- Sensibilité parentales diminuent face aux comportement externalisés répétés, qui impact les pratique parentales 
+		- -> Circularité. 
+
+- Trouble du comportement :
+	- Conduite agressive, vol, mensonge, fugue, désobéissance, non respect des limites 
+- Dans le cours normal du dev, on retrouve certain de ces comportements sans que ce soit pathologique. 
+	- Problématique : évolution de ces comportements chez l'adolescent. 
+		- Responsabilité / justice.
+		- Fugues : potentiellement conduites à risque. 
+
+- Diag trouble comportement uniquement si supposé comme fonctionnement interne à l'individu,  pas en réponse à un contexte social donné.  
+
+#### Classification 
+
+- CIM10 & CFM... : liste unique de symptôme 
+
+- DSM 5 : 2 diags possibles.
+	- Troubles des conduites 
+		- Ensemble de conduites répétitives & persistante 
+			- Normes bafouées 
+				- Brutalise, menace souvent d'autre 
+			- Agressions animaux/personnes 
+			- Cruauté physique personnes/animaux 
+			- Vol avec violence 
+		- Destruction de bien matériels 
+
+
+	- Trouble oppositionnel 
+		- Comportement hostile,provocateur, 6 mois +, 4 sympt> 
+			- Colère 
+			- Contestation adulte 
+			- Opposition active/refus des demandes 
+			- Embêtes les autres délibérément 
+			- Fait porter à autrui responsabilité des erreurs/mauvaises conduites 
+			- Susceptible 

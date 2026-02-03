@@ -39,7 +39,7 @@
 
 - Pour étudier la MLT :
 	- Le plus pratique = 1 séance avec tâche interférence 
-	- Ou : 2 séances avec intervale 
+	- Ou : 2 séances avec intervalle 
 ## 2) Encodage des connaissances en mémoire 
 
 - "Problème" de la mémoire : on ne peut pas "tout" stocker : trop de stimuli (internes ou externes).

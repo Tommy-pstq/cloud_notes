@@ -388,6 +388,8 @@ S’intéressent :
 - Grossièrement : analyse de contenu = déterminer les grands thèmes d'un discours 
 
 ##### Objectif 
+
+
 - Qui a-t-il de fondamental dans ce propos, de quoi traite-t-il ?
 	- Nécessaire de réduire les données 
 		- Résumer/Synthétiser son corpus 
@@ -412,8 +414,76 @@ S’intéressent :
 		- Et aux règles qui régissent l'usage du langage 
 
 
+## CM5 03/02/26
 
+- Suite analyse contenu : thématique vs catégorielle 
 
+- Contenu: 
+	- <u>Prérequis</u>:
+		- Familiarisation avec l'objet d'étude/corpus 
+			- A ne pas sauter, important ++ 
+				- Accès à une signification non immédiatement visible
+			- -> Permet la production d'hypothèses 
+		- Ne pas dénaturer le contenu initial.
+	- <u>Thématique</u>   :
+		- Analyser, identifier des thèmes dans les données
+			- Décrire l'ensemble des données
+		- Pas d'implication d'une discipline ou d'un cadre théorique particulier - transdisciplinaire 
+			- Mais :
+				- Analyse & interprétation varie selon l'approche & les objectifs 
+		- **Objectifs** :
+			1. Identifier les contenus significatifs dans les données 
+			2. Les liens qu'ils entretiennent entre eux 
+			3. Permettre une articulation avec les conditions de production 
+		- **Thème** :
+			- Capture quelque chose d'important dans les données en rapport avec les questions de recherche 
+			- Pertinence du thème =/= mesure quantifiable 
+				- Mais de la manière dont il capture quelque chose d'important en lien avec la question de recherche 
+				- *Se préserver d'une trop grande rigidité*
+			- Justifiable par des exemples 
+			- Faire ce que l'on annonce : on se limite aux questions de recherche, et on traite toutes les questions de recherches établies.
+			- **Constitution de catégories** 
+				- 5 étapes, **Braun & Clarke, 2006**
+					- Etape 1 : Familiarisation avec les données 
+					- Etape 2 : Génération système initiale de catégorie - non définitif  
+					- Etape 3 : recherche catégories dans le corpus 
+					- Etape 4 : révision système catégorie 
+						- Au regard objet de recherche 
+					- Etape 5 : définition & dénomination catégories 
+						- Stabilise le système de catégorie 
+						- Définition : justifiée par des exemples.
+						- Différents niveaux de catégorisation possible (thème->sous thème etc, par perdre le sens non plus)
+					- Mais : étapes non linéaires, va et viens. 
+			- **Règles de constitution d'un système de catégorie**
+				1. <u>Pertinence</u> : chaque thème/catégorie est pertinent si il y a un rapport direct avec les objectifs de l'étude 
+				2. <u>Homogénéité & exclusion mutuelle</u> - sans ambiguïté 
+				3. <u>Objectivité & fidélité</u> : limite la subjectivité d'interprétation 
+				4. <u>Efficacité pratique</u> 
+					- Démarche déductive (inductive aussi) -> ne pas s'accrocher de manière rigide à son système de catégorie 
+						- Possible de le modifier 
+							- Dans le respect des règles précédentes. 
 
+			- **Codage** 
+				- Transformation données brutes effectuée selon des règles précises 
+					- Découpage, agrégation, dénombrement -> aboutit à une représentation du contenu 
+				- "Il s'agit de repérer les noyaux de sens  qui composent la communication et dont la présence/fréquence d'apparition peut être significative"
+			- **Catégorie**
+				- Def : notion générale qui représente un ensemble/regroupement d'unité de sens. 
+					- Unité de sens = segment de texte avec une signification spécifique 
+				- Définir des *<u>indices</u>* pour découper les données par unités de sens. 
+					- *Mots ? Idées ? Etc..*
+				- Fonction : rassembler une grande quantité de données dans des unités d'analyse plus significative & économique 
 
+ V1
+- Définition
+- Comparaison / Similitude - Identité
+- Symptômes 
+- Souffrance
+- Incertitude 
+- Lutte / Solution 
 
+V2
+- Identité 
+- Symptômes 
+- Souffrance
+- Lutte/Solution : TTT
