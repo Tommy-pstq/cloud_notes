@@ -1,4 +1,3 @@
-
 ## Troubles obsessionnels compulsifs et apparentés
 
 - Souvent associés à de la détresse ou anxiété 

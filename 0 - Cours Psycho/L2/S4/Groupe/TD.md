@@ -61,5 +61,11 @@
 	- Décision nécessite consensus 
 
 --- 
-## TD2 
+## TD3
 
+ 
+- Sherif 1935 : situation d'incertitude -> aléatoire ou création d'une ref ?
+	- Quid du fonctionnement en groupe ? 
+		- -> Effet auto-cinétique. 
+			- -> Recherche cadre de référence + normalisation. 
+	- 

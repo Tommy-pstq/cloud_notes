@@ -291,7 +291,7 @@ Synthèse intro :
 	- **Pas de hiérarchie**, membres égaux 
 	- Souvent : existence de bandes **rivales** 
 	- Souvent : dans des comportement de déviances (car plus besoin de s'adapter/normes etc..)
-	- Ce qui est important : faire quelque chose **ensemble** pour être ensemble, pas vrraiment l'activité même 
+	- Ce qui est important : faire quelque chose **ensemble** pour être ensemble, pas vraiment l'activité même 
 	- Bande : peut durer dans le temps (vs foule qui est éphémère)
 		- Mais très longtemps ? 
 			- Basé sur la similarité
@@ -386,7 +386,7 @@ Synthèse intro :
 	- Désir de se rendre acceptable pour autrui
 		- En étant relativement similaire à lui
 			- Concessions réciproques. 
-	- Tendance à renoncer à des positions extrêmes : pour se rapprocher d'une valeur centrale plus vraisemblable. 
+	- Tendance à renoncer à des positions extrêmes : pour se rapprocher d'une valeur centrale plus vraisemblable - respecter les tendances centrales.
 	- Volonté d'éviter le conflit 
 		- Intrasubjectif : "en fait je sais pas trop"
 		- Intersubjectif : "flemme de me disputer avec l'autre à propos d'un point lumineux" (ou tout autre comportement/opinion lié à des considérations groupales)
@@ -565,3 +565,166 @@ Synthèse intro :
 						- Jusqu'à l'insulter 
 		- 91% mènent l'exercice jusqu'au bout. 
 			- Soumission autorité ++ etc.
+
+## CM4 
+
+### 4 - Effet du témoin 
+
+- En situation de groupe, augmenté par le nombre:
+	- Tendance à l'indifférence face à la détresse 
+	- Fait divers  : 1964 - affaire Kitty Genovese 
+		- Jeune femme - sans soucis 
+		- Etude 
+		- Barmaid 
+		- Poursuivie jusque chez elle par un homme en voiture 
+			- L'agresse 
+			- Crie, cours etc
+			- 3h du matin.
+			- Kitty poignardée une première fois 
+			- Quelqu'un dit à l'agresseur de se barrer par sa fenêtre 
+				- Mais ne descend pas voir la victime 
+			- Kitty tente de rentrer chez elle 
+			- L'agresseur la retrouve, viole et achève.
+	- -> *Comment des drames peuvent avoir lieu sans que des témoins ne réagissent ?* 
+- **Expérience de Latané & Darley** : comprendre effet du témoin
+	- Appel à des étudiants 
+		- Invités dans des locaux 
+	- Echanges avec d'autres étudiants 
+		- Sur les conditions de travail université/problèmes rencontrés 
+	- 3 conditions expé :
+		1. Participant naïf, seul avec complice expérimentateur jouant le rôle d'un étudiant 
+		2. 2 Participants naïf, 1 complice 
+		3. 4 participants naïf, 1 complice 
+	- Echange entre participants : via micro sans visio. 
+	- Après un certain temps: 
+		- Le complice simule une crise d'épilepsie 
+			- Bruit + demande d'aide + détresse 
+	- -> ***Quel % des personnes vont réagir et porter secours à la personne ?***
+		- ***Et au bout de combien de temps ?***
+	- Résultats:
+		- Seul avec personne qui fait le malaise : 
+			- 85% des personnes régissent 
+			- 52 secondes 
+		- 2 témoins + victime :
+			- 62% intervienne 
+			- 93 secondes 
+		- Sujet + victime + 4 autres 
+			- 31%
+			- 166 secondes 
+- **-> *Comment on explique ça ?***
+	- Réponse + fréquentes:
+		- Je savais pas quoi faire 
+		- Je savais pas ce qu'il se passait 
+		- Je pensait que c'était simulé 
+	- **Dilution de la responsabilité** 
+		- 1 personne seule = responsabilité totale 
+		- Puis : +  de personnes -> dilution.
+			- D'autres peuvent intervenir 
+	- **Appréhension de se tromper**
+		- "De quoi je vais avoir l'air si je me trompe ?"
+		- Crainte d'être évalué négativement si je décide d'intervenir 
+			- De manière inadéquate
+			- En erreur 
+			- -> Réticence à apporter son aide
+- -> **Pour diminuer ces effets** : 
+	- Diminuer l'incertitude -> consigne directe / demande d'aide explicite 
+	- Diminuer dilution -> désigner quelqu'un directement 
+
+
+### Influence & manipulation 
+ - Ref : Influence & manipulation Cialdini 2004
+
+- Mécanismes de réaction automatiques permettant de vivre en société 
+	- Utilisés de façons intéressés parfois. 
+
+- Raccourcis cognitifs -> réactions automatiques. 
+
+#### La réciprocité 
+
+- Règle de base pour bien fonctionner en société. 
+- Archéo/Anthropologie:
+	- C'est cette règle de réciprocité qui a permis de s'organiser en communautés. 
+- Spécialisation des tâches possible via réciprocité 
+
+- Réaction réciproques : souvent automatiques. 
+
+- <u>Manipulation par réciprocité</u> :
+	- **Denis Regan, 1971** : objectif : montrer mécanismes manipulation 
+		- Participants dans une salle 
+		- Tâche : évaluer/classer des tableaux artistiques 
+		- 1 participant naïf, 1 complice et l'expérimentateur 
+		- **2 Conditions**
+			1. Pause après 1h, le complice sort de la salle & revient avec 2 bouteilles de coca, une pour lui et une pour le participant complice (fait un don)
+			2. Joey revient sans rien, absence de don. 
+		- Après départ de l'expérimentateur, complice dit qu'il vend des billets de tombola, qu'il aura une prime si il en vend beaucoup 
+			- -> Combien de ticket achète le participant ?
+		- **Résultat:**
+			- 2x plus de tickets achetés dans la condition "don".
+	- -> Difficile de ne pas donner quelque chose en retour si on a reçu un don. 
+	- Variable de l'expérimentation:
+		- Personnalité du complice ( sympa --> connard)
+			- -> Les personnes achètent toujours 2x plus de ticket 
+	- -> **réciprocité non liée à la sympathie pour la personne ?**
+
+- Ex : Hare Krishna 
+	- Mouvement sectaires, 
+		1. Déambulent lieu public habillés en orange + bruit avant de faire la quête.
+			- Pas efficace
+		2. Attendre personnes sorties quelconques, propose une fleur en papier 
+			- personnes se sentaient dans l'obligation de le prendre 
+			- Puis rendaient de l'argent, même si on leur disait que c'était un don 
+- Ex : Lobbying.
+
+- **Risque de détournement régulier des règles**:
+	- Génère méfiance 
+	- Perte de confiance 
+	- Alors que c'est des règles qui permettent de vivre ensemble depuis longtemps 
+		- Touche directement à notre humanité 
+		- Menace l'existence même de ces règles.
+
+#### Engagement & cohérence 
+
+- Principe de cohérence dans la détermination des actes. 
+	- Si on vie ensemble, on s'attend à ce que les autres soit cohérents entre les dires & actions etc. 
+		- -> Prédictibilité 
+- On aime pas quand quelqu'un ne respecte pas ses engagements
+	- Car besoin de compter les uns sur les autres. 
+
+ - **Cette cohérence & engagement : utilisés à des fins de manipulation**
+	 - **Freedman & Fraser 1966** US
+		 - Technique du pied dans la porte 
+		 - 3 conditions 
+			 1. Demande aux propriétaires : est-ce qu'on peut planter une grand pancarte (prudence au volant) moche dans la belle pelouse ?
+				 - Full non
+			2. Expérimentateurs demandent d'abord si personnes d'accord pour poser un petit écriteau sur la pelouse 
+				- Majorité : oui
+				- Reviennent 2 semaines plus tard, comme vous accepter la petite pancarte, OK pour la plus grande ? 
+					- 83% acceptent. 
+			3. Demande d'abord aux personnes s'ils accepteraient de signer une pétition assez vague 
+				- Majorité des personnes s'engagent à la signer
+				- 2 Semaines plus tard, reviennent : comment vous aver accepter signer, OK pour pancarte (rien à voir avec la prédiction) ?
+					- La moitié accepte. 
+
+- **Phénomène pour renforcer l'engagement :**
+	- L'écriture, signer quelque chose. 
+		- Longtemps le cas, peut être effet du numérique. 
+
+- **Freedman 1965**
+	- Comment se développe l'engagement & sentiment de cohérence chez l'enfant ? 
+	- Expérience dans des écoles 
+		- Groupes de 22 enfants 
+	- **2 conditions**
+		1.  Enfants 1 à 1 dans les pièces 
+			- 5 jouets à disposition 
+		- -> Vous pouvez jouer avec les jouets, mais il ne faut pas jouer avec le robot (qui est le jouet le plus intéressant), je serai très fâchés si tu le fais + menace punition
+			- Il sort de la pièce 
+				- Seulement 1 enfant sur 22 touche au robot
+		- 2 semaines après deuxième personne vient, mêmes jouets.
+			- Est-ce que l'interdiction reste ancrée ?
+				- 77% des enfants jouent avec le robot 
+					- **Menace de punition ne perdure pas**
+		2. . Deuxième cas : même condition, mais juste "jouer avec le robot c'est pas bien", sans menace.
+			-  -> 1/22 joue avec le robot à sa sortie 
+			- 2 semaines plus tard 
+				- 33% seulement joue avec le robot.
+		- -> **Effet d'engagement seulement quand motivation intériorisée et non menace extérieure**

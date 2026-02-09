@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Methode Quali/CM.md",
+                "file": "0 - Cours Psycho/L2/S4/Groupe/CM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CM"
+            }
+          },
+          {
+            "id": "283355433580546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +79,8 @@
               "title": "Troubles moteurs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,43 +224,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99468e7602af2218",
+  "active": "283355433580546e",
   "lastOpenFiles": [
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD4.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/CM.md",
+    "0 - Cours Psycho/L2/S4/Groupe/CM.md",
+    "PDF/releve_notes_S3.pdf",
+    "PDF/releve_notes.pdf",
+    "0 - Cours Psycho/L2/S4/Groupe/TD.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles somatiques.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles obsessionnels compulsifs et apparentés.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Les problèmes de désir sexuel.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Troubles paraphiliques.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Trouble lié à des douleurs génito-pelvienne ou à la pénétration.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Trouble de l'érection.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Diagnostics reliés à la sexualité/Problèmes reliés à l'orgasme.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble délirant.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble psychotique Bref.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles de la communication.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyances - des autres.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
     "0 - Cours Psycho/L2/S4/Psychopatho/CM - J Chevalier.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/CM.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD4.md",
     "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
     "PDF/CM - Psychopatho - J Chevalier.pdf",
     "0 - Cours Psycho/L2/S4/Process - representation/TD - apprentissage implicite.md",
     "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
-    "0 - Cours Psycho/L2/S4/Groupe/CM.md",
     "PDF/CM - Groupe social .pdf",
     "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôle de soi.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
-    "3 - Tags/Untitled.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD2.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles du contrôle sphinctérien.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles de la communication.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble spécifique des apprentissages.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du spectre autistique.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Trouble du développement intellectuel.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD1.md",
     "PDF/CM - J Chevalier.pdf",
-    "0 - Cours Psycho/L2/S4/Psychopatho/Autisme et psychanalyse.md",
-    "0 - Cours Psycho/L2/S4/Groupe/TD.md",
     "PDF/CM - groupe social .pdf",
     "PDF/CM - RPC - Didierjean.pdf",
     "PDF/2024 Textes TD psychopathologie licence 2_Sonia.pdf",
     "PDF/CM - Didierjean - RPC.pdf",
     "PDF/CM1 - groupe social .pdf",
-    "PDF/CM - Method Quali.pdf",
-    "PDF/CM Psychopatho - J Chevalier.pdf",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM1.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM2 - J Chevalier.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/TD - Langage.md",
-    "4 - Indexes/Index.md",
     "2 - Source Materials/Pasted image 20260116154630.png",
     "2 - Source Materials/Pasted image 20260116153731.png",
     "2 - Source Materials/Pasted image 20260116153712.png",

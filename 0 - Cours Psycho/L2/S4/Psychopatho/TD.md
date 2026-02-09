@@ -497,5 +497,13 @@ Axe d'approche : Vécu.
 			- se débat pour ne pas être l'oncle (décédé), s'agite pour montrer qu'il est en vie 
 		- Question culturel:
 			- Différence de culture école/maison 
-				- Instabilité de repères 
-	3. 
+				- Instabilité de repères , 
+
+- Cas : Karmen 
+	- Consult suspicion IMV, idées suicidaires sans infos sur la caractérisation, humeur dépressive + douleur 
+	- Sémio : humeur basse,  incongruence propos tenus/situation (anosognosie ?), potentiel fond de personnalité histrionique, douleur, sentiment d'abandon 
+	- Dépression + perso histrionique 
+	- TTT : 
+		- ToS sur la douleur + échelles 
+		- Antidep en seconde intention 
+		- Maintien suivi libéral 
