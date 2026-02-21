@@ -728,3 +728,204 @@ Synthèse intro :
 			- 2 semaines plus tard 
 				- 33% seulement joue avec le robot.
 		- -> **Effet d'engagement seulement quand motivation intériorisée et non menace extérieure**
+	- Effet d'engagement : apparait très tôt.
+## CM5 
+
+--- 
+- Choix de limiter la politisation du cours:
+	- Moins d'échanges en CMs
+	- Sociétés ++ tendus 
+		- -> Pleins d'avis divergents dans l'amphi
+			- Si intervenant donne son avis tranché : clivant.
+	- Préfère rassembler en limitant son opinion personnelle 
+
+--- 
+
+- **Pallack 1980** : Engagement - influence pour cause environnementale. Ioha - US
+	- Changer les habitudes des gens. 
+		- Essaie de montrer : si vous accepter cet effort 
+	- Hivers longs & froids.
+	- Population : se chauffe au gaz. 
+	- Intérêt pour réchauffement/économie d'énergie 
+		- Volonté d'informer la population pour inciter à réduire la conso de gaz. 
+	- Expérimentateur va rencontrer les gens chez eux. 
+		- Descriptifs des avantages à réduire conso d'énergie
+			- Les gens auront leur nom dans le journal s'ils acceptent de faire les efforts. 
+				- Se prennent au jeu. 
+		- Revient 1 mois plus tard 
+			- Check les relevés du compteur
+				- La conso de gaz : **-12%**
+	- Est-ce que le changement uniquement lié à motivation exterieure d'avoir son nom dans le journal ? 
+		- On retire cette motivation : "le journal ne veut plus publier les noms"
+		- Revient à la fin de l'hiver : Est-ce que l'engagement est maintenu ? 
+			- Résultat : **La conso d'énergie a continuer de réduire : -15.5% d'économie**
+				- Encore plus d'efforts qu'au départ. 
+					- Hypothèse : effet d'engagement. 
+						- Les efforts ont déjà été fait, s'arrêter là serait renoncer à son engagement, qui est désormais interne et non lié à une motivation extérieure. 
+- Engagement : plus le choix est intérieur, plus il est fort. 
+
+#### La preuve sociale - Cialdini
+
+- Mécanisme pouvant aussi être utilisé de manière manipulatoire : preuve sociale. 
+
+- **Preuve sociale = Pour savoir comment se comporter, observation des autres.**
+	- Ex: salle de cinéma -> que faire de son sac de pop corn une fois vide ? 
+		- Cinéma ou c'est le bordel : via preuve social, si tout le monde laisse son paquet, tendance à le laisser également dans le siège. Si tout le monde le ramasse, on ramasse également. 
+	- Ex: rires préenregistrés sitcom - Smyth & Fuller 1972
+		- Pourquoi utilisé ?
+			- Par mimétisme, on observe (surtout si programme médiocre) que les gens rient plus.
+			- Même si déclaré comme énervant 
+
+- Ex Barmen & pourboires 
+	- On met quelque chose d'équivalent à ce qu'on observe dans le pot de pourboire 
+		- -> Mettre des grosses pièces visible dedans. 
+- Phénomène similaire pour la quête à l'église. 
+
+- Billy Graham (politicien) - 1977
+	- Début communication de masse
+	- Beaucoup de succès 
+	- Beaucoup de meeting avec impression d'engouement ++ 
+		- En fait : au premier rang, gens placés avec demande explicite de se lever & acclamer etc 
+			- Le reste suit. 
+
+- Milgram et al 1967
+	- Personnes qui regardent en l'air comme s'il y avait quelque chose d'étrange.
+		- -> Mimétisme des passants. 
+
+- **Tentatives d'utilisation a des fins thérapeutiques**
+	- Bandura **1967**
+		- Intérêts pour les phobies des enfants face à des chiens. (peur panique)
+		- Emmène UN enfant phobique au parc, reste à l'éxtérieur.
+			- DANS le parc : un enfant joue  avec un chien (complice)
+				- Donne tous les signaux de plaisir etc. 
+		- On laisse l'enfant regarder la scène sans intervention 
+		- Revienne quelques jours plus tard avec le même enfant 
+			- Toujours le même enfant qui joue avec le chien.
+			- Expérimentateur propose à l'enfant d'aller dans le parc pour voir & caresser le chien ? 
+				- **Résultat** : 67% des enfants acceptent de rentrer de le parc, et  caresser le chien. 
+	- Puis : font varier l'exposition:
+	- Bandura & Menlove **1968**
+		- Est-ce qu'il faut que la présence soit physique ou juste une vidéo suffit ? 
+		- Différentes scènes filmées d'enfants qui jouent avec des chiens. 
+		- Vidéo présentée plusieurs jours de suite (15 minutes ~)
+		- 1 mois plus tard:
+			- Enfants (phobique) acceptent de rentrer dans le parc pour jouer avec un chien. 
+	- -> **Ce qui fonctionne le mieux:**
+		- Le nombre de scènes différentes 
+			- Plusieurs enfants différents jouants avec des chiens et ça se passe bien 
+
+- **O'Connor 1972**
+	- Peut-on agir sur d'autres éléments que la peur des chiens ? 
+	- -> Enfants timides/repliés sur eux mêmes 
+		- Série de petits films : 11 scènes 
+			- Enfants présentés comme isolés du groupe, dans son coin.
+			- Pendant la scène : cherche le contact avec ceux qui jouent 
+				- Le groupe répond de façon positive
+					- A la fin : l'enfant joue avec eux. 
+	- Fait visionner le film à des enfants repliés etc, dans 4 écoles. 
+		- Après **une seule visualisation** des 11 scènes :
+			- Les enfants isolés vont vers les autres, sortent de leur position de renfermement. 
+	- Revient 6 semaines plus tard:
+		- Compare à des enfants n'ayant pas vu le film 
+		- Résultat :
+			- Ceux qui ont visionnés le film sont devenus bien plus intégrés que ceux qui n'ont pas visionné le film
+	- -> <u>Via preuve sociale, possible d'inverser une tendance.</u>
+
+
+
+- Tous ces mécanismes (réciprocité, engagement, preuve sociale) : permettent de bien vivre ensemble, probablement là depuis "toujours"
+	- Si trop exploités : nuit au vivre ensemble 
+		- Méfiance 
+
+### Recherches de l'intervenante : comme sont étudiés/utilisés ces éléments 
+
+- Thématiques : psychosociale spé santé psycho/physique, cadre du travail 
+	- Stress au travail
+	- Gestion émotionnelle 
+
+- Etude portant sur la réciprocité
+	- Sentiment de justice au travail vécu par les soignants 
+		- Comment le sentiment d'injustice les impacte ? 
+
+- Qu'est-ce que le sentiment d'injustice ? <- provoque le sentiment de révolte
+	- On y réagit très fort
+	- Sur quoi se construit le sentiment du juste/injuste ?
+		- Dans le milieu du travail - société occidentale
+			
+- **Justice organisationnelle**
+	- Se base sur 3 grands éléments 
+		1. **L'équité** - (Adams 1963) : on s'attend à ce que l'on donne corresponde à ce que l'on reçoit 
+			- Ex: ce que je donne en terme d'énergie/travail correspond à mon salaire ? 
+			- -> Comment est-ce que je me sens quand la balance est déséquilibrée ?
+				- Sentiment négatif : malaise
+					- Tentatives pour rétablir l'équilibre.
+				- Si déséquilibré à son avantage : culpabilité 
+		2. **Procédures** et implication dans les prises de décision 
+			- Ex: 
+				- On demande à certains quand ils souhaitent être en vacances et imposés à d'autres
+			- -> Est-ce que l'on peut donner son avis sur des choses qui me concernent directement.
+			- **Justice procédurale, Leventhal 1980**, procédures "justes" si:
+				- S'appliquent de façon constante entre individu dans le temps 
+				- Décisions non prises en fonction d'intérêts personnels
+				- Informations exactes & pouvant être corrigées 
+				- Conforment à l'étique et à la moralité 
+				- Prennent en considérations les valeurs, besoins, opinions des différentes parties 
+		3. **Justice interactionnelle** 
+			- Qualité de relation avec le supérieur hiérarchique 
+				- Est-ce que le supérieur justifie ses décisions ? ou de manière arbitraire
+				- Semble honnête / franc ?
+				- Respect, dignité 
+				- Droiture ou bienséance
+
+- *Comment le sentiment d'injustice joue sur la santé psycho & physique ?*
+-
+- Conséquences d'un stresse chronique
+	- Psychique 
+		- **Burn-out** : conséquence stress chronique au travail.
+			- 3 symptômes :
+				1. Epuisement émotionnel : "jpp, vidé de mes ressources, fatigue au réveil"
+				2. Cynisme 
+					- Comme j'ai plus de ressources -> attitude très distante, cynique. 
+						- Dépersonnalisation 
+						- Distanciation
+				3. Réduction de l'accomplissement personnel 
+					- Impression que ce que je fais ne vaut rien, n'a pas d'intérêt. 
+	- Physique 
+		- **Trouble somatique**
+
+- Questionnement étude: 
+	- *Comment le sentiment d'injustice joue sur la santé psycho & physique au delà des différents stresseurs liés à l'environnement des soignants ?*
+		- Basé sur le modèle d'exigence/ressource 
+			- Dans n'importe quel métier, il y a des exigences auxquelles il faut répondre 
+			- Il faut prendre en compte les ressources disponibles à la personne pour y répondre.
+	- Contextualisation 
+		- Entretiens + revue littérature 
+			- 4 Grandes exigences 
+				1. Charge de travail 
+				2. Exigences émotionnelles
+				3. Difficulté de coopération, agressivité des patients 
+				4. Problématiques d'équipes 
+			- Ressource : justice organisationnelle 
+	- Participants : 445 inf/AS
+	- Résultats 
+		- Tableau Moodle
+
+
+- Etude : Burn-out et maltraitance en ehpad 
+	- Exigences 
+		- Surcharge travail
+		- Exigences émotionnelles
+		- Manque d'écoute et de considération des pro 
+	- Ressource, 
+		- Qualité des relations vis à vis:
+			- Cadre de santé 
+			- Collèges
+		- Autres aussi.
+	- -> Entretiens pour établir ce qui est maltraitant / négligent 
+		- Négligence : absence de 
+		- Maltraitance : menace, colère, faire mal, douleur ... 
+	- 460 réponses sur questionnaires anonyme 
+	- Résultats :
+		- Entre 10 - 15% des répondants : négligence/maltraitance presque tous les jours 
+			- Donc surement plus élevé dans la réalité 
+		- Tableaux moodle 

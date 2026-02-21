@@ -53,9 +53,9 @@
 - Ce qui fait la pathologie = excès et régularité d'un événement. 
 
 
-- Carence de soin maternel : situation dans laquelle un enfant très jeune ( moins de 3 ans), ne jouit pas de lien affectif avec une figure maternelle. 
+- <u>Carence de soin maternel</u> : situation dans laquelle un enfant très jeune (moins de 3 ans) ne jouit pas de lien affectif avec une figure maternelle. 
 	- Processus morbide (=qui génère de la souffrance).
-		- Apparait quand l'enfant subit une rupture de ses premiers investissements avec les figure de son entourage.
+		- Apparait quand l'enfant subit une rupture de ses premiers investissements avec les figures de son entourage.
 			- Le jeune enfant ne dispose pas maturité pour combler défaillance environnement.
 				- Bébé/enfant = "créateurs génieux de symptômes"
 					- Symptômes disparaissant aussi vite qu'ils sont apparus. 
@@ -64,7 +64,7 @@
 			- Soumission à l'environnement. 
 
 - Bowlby : théorie de l'attachement.
-	- attachement  = primaire. Lien sociaux, besoins de contact...
+	- Attachement  = primaire. Lien sociaux, besoins de contact...
 	- Désorganisé = suite maltraitance. 
 	- Troubles psychiques de l'enfant = fonction de la défaillance de l'environnement 
 
@@ -74,7 +74,7 @@
 		- Augmente les chances de symptômes/comportements psychotiques. 
 - Lebovici : considère diade mère-bébé homéostasique 
 	- Communication circulaire 
-	- Théorie transctionnelle 
+	- Théorie tranasctionnelle 
 
 - Théories expérimentales 
 	- Piaget : bébé = partenaire actif d'une interaction complexe avec l'environnement. 
@@ -99,7 +99,7 @@
 	- Spitz :
 		- Hospitalisme : soins automatiques sans affections conduisent à la mort du nourrisson.
 			- Si pas de relation affective -> souffrance très précoce.
-		- 3 stades:
+		- 3 stades de la relation:
 			- Non objectale
 				- Pas différenciation entre le sujet et l'environnement 
 				- Sujet dans une dépendance absolue 
@@ -126,18 +126,21 @@
 			- D'être adaptée/ajustée aux besoins de son enfant. 
 		- Etat de fusion psychisme maternel/psychisme bébé 
 			- Presque psychotique
-	- Holding : manière dont l'environnement porte le bébé, physique et psychiquement 
-	- Handling : Manière dont l'enfant est **manipulé**
-		- Procure des sensations sensorielles 
-	- Objet presenting : Mode de présentation de l'objet 
+	- **Holding** : 
+		- Manière dont l'environnement porte le bébé, physique et psychiquement 
+	- **Handling** : 
+		- Manière dont l'enfant est **manipulé**
+			- Procure des sensations sensorielles 
+	- Objet presenting : 
+		- Mode de présentation de l'objet 
 	- De grave défaillance de l'environnement 
 		- Etat psychotiques 
 		- Etat autistiques 
-		- structuration en "Faux self"
+		- Structuration en "Faux self"
 			- Organisation psychique pouvant être transverse à toute organisation. 
-	- Environnement défaillant = imprévisible 
+	- Environnement **défaillant = imprévisible** 
 		- Sentiment d'insécurité car incapable d'anticipé réactions de l'environnement.
-	- Plus les carences sont précoces -> plus elles désorganises le psychisme, pendant la dépendance absolue (indifférenciation)
+	- Plus les carences sont précoces -> plus elles désorganisent le psychisme, pendant la dépendance absolue (indifférenciation)
 	- Carences pendant la dépendance relative 
 		- Organisation névrotique 
 		- Tendance antisociale 
@@ -170,13 +173,13 @@
 - Approche développementale 
 	- Mary Ainsworth 
 		- 3 types de carences 
-			- Quantitatives
+			- <u>Quantitatives</u>
 				- Situation dans lesquelles le bébé/enfant fait face à une absence physique de l'objet maternant
 					- Ex: situation d'abandon
-			- Qualitative 
+			- <u>Qualitative</u> 
 				- Situations dans lesquelles le parent est présent physiquement mais absent psychiquement (fonction de son propre état personnel)
 				- Absence psychique de la figure de soin
-			- Interactives 
+			- <u>Interactives</u> 
 				- Types mixtes : quantitatif & qualitatif 
 				- Les plus nocives : enfant confronté à l'imprévisibilité de l'environnement.
 					- Impossible à anticiper 
@@ -232,9 +235,9 @@
 - Trauma : parmi les plus puissants prédicteurs psychopatho adultes. 
 
 - Trauma chez Freud:
-	- Traumatismes vs Trauma psychique & fantasmatique
+	- Traumatismes **vs** Trauma psychique & fantasmatique
 	- Conception économique:
-		- Une expérience est traumatique si génère un accroissement d'excitation interne que le sujet ne parvient pas à décharger. 
+		- Une expérience est traumatique si elle génère un accroissement d'excitation interne que le sujet ne parvient pas à décharger. 
 			- Effraction psychique -> conséquences sur l'ensemble de l'organisation. 
 		- Carence précoce : pas nécessairement une expérience traumatique. 
 	- Trauma psychique/fantasmatique 
@@ -333,7 +336,7 @@
 			- Difficulté à établir des limites perso 
 			- Peur du rejet/conflit 
 		- Idée thérapie : accompagner la personne pour acquérir une indépendance (affective notamment). 
-	- "La psychothérapie doit s'éprouver sur du temps long"
+	- "La psychothérapie doit s'éprouver sur du temps long" BOF HEIN
 		- Processus de maturation 
 
 ## II - Les psychopathologies chez l'enfant 
@@ -496,18 +499,18 @@
 			- Bénéfice de la maladie = satisfaction directe ou indirecte de la maladie retirée par la personne. 
 			- Enfant malade : très investie par sa famille via la perspective de sa maladie 
 				- Très dur d'exister en dehors de sa maladie. 
-	- Troubles du contrôle sphinctérien (énurésie/encoprésie)
+	- **Troubles du contrôle sphinctérien** (énurésie/encoprésie)
 		- Souvent présent abus sexuels 
 			- Associé comportement sexuels inadaptés chez l'enfant 
 				- -> Préoccupant, souvent signe d'abus. 
 				- Enfant qui abuse d'un autre = enfant abusé (quasi systématiquement)
 				- Car il les a soit vu, soi entendu, soit en est la victime
 			- Différence entre abus sexuels et ce qui relève de la curiosité sexuelle 
-	- Troubles du sommeil:
+	- **Troubles du sommeil**:
 		- Insomnies
 			- Cas d'environnement violent : enfant peut veilleur jusqu'à ce que les adultes se couchent
 		- Terreurs nocturnes 
-	- Troubles de l'alimentation 
+	- **Troubles de l'alimentation** 
 		- "Anorexie" : peur de l'alimentation
 		- Gloutonnerie : moment d'ingestion +++ 
 	- **Tous ces symptômes sont réversibles** : peuvent disparaître.
@@ -549,7 +552,7 @@
 			- Sature l'espace de la relation 
 				- *défense maniaque = lutter contre effondrement dépressif*
 					- Hypothèse d'un environnement anxieux/débordant 
-			- 
+
 
 --- 
 ## CM4 
@@ -655,7 +658,7 @@
 		- Rarement évoqué chez l'enfant (via parents ou enfant eux-mêmes)
 		- Repérer ces états dépressifs ? 
 
-- Dysharmonie:
+- **Dysharmonie**:
 	- Remplace "diag" de psychose chez l'enfant 
 		- Limite dimension stigmatisante 
 	- Dysharmonie psychotique 
@@ -926,10 +929,125 @@
 
 
 	- Trouble oppositionnel 
-		- Comportement hostile,provocateur, 6 mois +, 4 sympt> 
+		- Comportement hostiles, provocateurs, négativiste 6 mois +, 4 sympt> 
 			- Colère 
 			- Contestation adulte 
-			- Opposition active/refus des demandes 
+			- Opposition active/refus des demandes/règles  
 			- Embêtes les autres délibérément 
 			- Fait porter à autrui responsabilité des erreurs/mauvaises conduites 
 			- Susceptible 
+		- Altération cliniquement significative fonctionnement 
+			- Scolaire / Social / Pro.
+	- Diag diff : 
+		- Trouble psychotique / de l'humeur 
+		- TDAH
+			- Comorbidité fréquente.
+
+## CM6 
+
+### TDAH 
+
+- Pas mal médiatisé atm 
+	- En fonction des transformations subies par l'école ?
+		- "Ne jamais mésestimer la façon dont les adultes vont nommer les conduites de l'enfant à partir de leur propre difficultés"
+			- Le symptôme dit quelque chose du lien avec l'adulte 
+
+- TDAH : 
+	- Déficit d'attention
+	- Et/Ou impulsivité/hyperactivité 
+	- Symptomatologie : évolutive avec la maturation.
+- Dans la CFTMEA 
+	- Diag basé sur l'instabilité 
+		- Tente de distinguer aspect moteur / psychique 
+			- Moteur 
+				- Hyperactivité motrice incessante + impulsivité 
+					- Absence d'inhibition sociale 
+						- -> Manque de respect des règles 
+			- "Psychique"
+				- Distractibilité 
+				- Diff' à fixer volontairement l'attention
+				- Manque de constance 
+				- Désorganisation 
+	- avant 5 ans 
+
+- DSM-V 
+	- Symptômes, durée > 6 mois 
+	- Plus prononcé que niveau de dev enfant
+	- Symptômes dans plus de 2 situations 
+	- Présents en partie avant 12 ans 
+	- <u>Inattention</u>
+		- Face à des tâches demandant 
+			- Vigilance
+			- Attention soutenue 
+			- Recherche visuelle & perceptive 
+			- Temps de réaction rapide 
+		- Au moins 6 symptômes 
+			- Ne prête pas attention aux détails / fautes d'étourderies 
+			- Difficultés à soutenir son attention
+			- Ne suit pas les instructions/ne finit pas ses tâches 
+			- Evite/n'aime pas/réticent à s'engager dans des tâches demander un effort soutenu sur une longue période 
+			- Perd souvent des choses 
+			- Difficultés d'organisation 
+			- Distractibilité 
+				- De manière générale
+				- Dans les activité quotidiennes 
+	- <u>Hyperactivité/impulsivité</u>
+		- Activité motrice excessive dans des situations inappropriés 
+			- Du mal à rester assis tranquillement 
+			- Remue les mains/pieds 
+			- Se lève régulièrement 
+			- Cours 
+			- Difficultés à jouer tranquillement 
+			- "Driven by a motor"
+		- Difficultés à attendre son tour 
+		- Interrompt/fait intrusion 
+		- Parle trop 
+		- **Impulsivité** : actions **précipités** pouvant avoir des conséquences négatives.
+			- **Cognitive** : Difficultés à inhiber des réponses spontanées 
+			- **Comportementale** : Difficultés à inhiber des comportements verbaux/physiques 
+
+### Troubles liés aux écrans 
+
+- Chez les enfants de 0 à 3 ans.
+	- **Cas de surexposition (6-8h par jours)**
+		- Fonctionne en continue ~~ -> passivité devant 
+			- Retard/Absence de langage 
+			- Pas de regard quand on s'adresse à eux 
+			- Passivité ou agitation ++ 
+	- **Parents** 
+		- Victimes d'un discours social & marketing injonctif :
+			- "Les outils numériques c'est super et favorisent les apprentissages"
+		- Démunis :
+			- écran = tranquillité 
+			- Illusion que les écrans limitent les diff' éducatives 
+	- **Confusion avec l'autisme** 
+		- Surexposition -> retard de la pensée/langage, repli sur soi même, tendance autostimulation
+		- Mais : sevrage -> disparition symptômes 
+	- **Rapport faussé au réel** 
+		- Un tout-petit qui reste passif des heures devants un écran :
+			- Ne joue plus avec des objets réels 
+				- Manque/Absence de manipulation des objets 
+					- Déficit d'exploration 
+					- Retard du développement de motricité globale 
+			- Retard de fonction symbolique du langage
+				- Absence de jeu -> objets non nommés par les figures parentales 
+			- Ne se familiarise pas avec **l'irréversibilité des actions** 
+	- **Attention perturbée** 
+		- Il existe  : 
+			- Attention volontaire & 
+			- Attention réactionnelle/automatique 
+		- Très jeune qui semble très concentré devant un écran, ne travaille absolument son attention volontaire. 
+		- Jamais l'expérience du silence. 
+			- Expérience de simulacre de présence 
+				- Privé d'échanges nourrissants
+
+- Plasticité Cérébrale
+	- Un tout petit qui cesse de regarder les écrans :
+		- Peut reprendre le cours quasi-normal de son développement 
+			- Rattraper bon nombre de ses retards 
+		- Peut fonctionner s'il n'y a pas d'autres difficultés 
+			- Mais s'il passe 6-8h devant des écrans : surement un environnement défaillant. 
+	- Fonction positivité des écrans :
+		- Si accompagné par un adulte -> relationnel 
+			- L'écran reste un moyen 
+

@@ -487,3 +487,183 @@ V2
 - Symptômes 
 - Souffrance
 - Lutte/Solution : TTT
+
+--- 
+- Qu'est-ce qui questionne dans la démarche ?
+	- Pas de retranscription des données : on ne travaille pas sur des audios 
+	- Pas de découpe par unité de sens 
+	- Fourni quelques éléments mais besoin de + de rigueur 
+	- Problématiques & objectifs non définis en amont.
+
+## CM6 10/02/26  
+
+### Rigidité & Subjectivité du chercheur 
+
+- Subjectivité pas à nier mais : réflexivité. 
+- **Assurer la rigueur dans l'analyse de contenu** : *Lincoln & Guba 1985*
+	- 3 manière différentes.
+	1. <u>Codage parallèle en aveugle</u> (triangulation)
+		- Codeurs indépendants avec les mêmes objectifs 
+	2. <u>Vérification de la clarté des catégories</u> 
+		- Un codeur & un second qui vérifie à partir du codage brut qu'il aurait procéder de la même façon 
+			- Réorganisation possible 
+	3. <u>Vérification auprès des participants</u>
+		- Inclure les participants à la vérification & tout au long de l'étude. 
+
+- **2 écoles analyse qualitatives**
+	1. Essaie de quantifier le plus possible les données des analyses de contenu.
+		- -> Triangulation de l'analyse en comparant avec les scores d'autres codeurs, indice de fiabilité: *Indice Kappa*
+			- -> Restreindre la subjectivité
+	2. Vision plus qualitative, vise surtout l'interprétation et moins la quantification des résultats
+		- Subjectivité considérée comme partie intégrante & intégrale du processus de recherche 
+			- -> On ne cherche pas à l'éliminée 
+		- Quali -> dégage un savoir qui a ses éléments objectifs mais **développé par des filtres disciplinaires, théoriques, culturels, idéologiques** qu'il faut reconnaitre plutôt que nier. 
+
+### Analyse contenu catégorielle - déductive
+
+- En cas de connaissances fortes 
+	- Démarche plus confirmatoire qu'exploratoire 
+		- -> Génère les thèmes en avance.
+
+### Introduction approche narrative
+
+- Fin XX ème : émergence de **récits contestataires**/alternatifs aux récits dominants 
+		- Féministes 
+		- Malades du SIDA
+	- Récits dominants : tendance à pérenniser/favoriser les pratiques sociales et institutions en place
+- Mouvements de réappropriation d'un récit : 
+	- Ouvrent la voie au **développement et à la prise au sérieux** de l'approche narrative
+		- Via augmentation des publications autobiographiques: témoignages, mémoires 
+			- Chercheurs s'y intéressent. 
+
+- Travaux phares:
+	- France - Ricoeur 
+		- Récits & temps 
+		- Récits & identité 
+	- US 
+		- Manière dont les gens mettent en récit ce qui leur arrive
+- -> Etudier comment les gens racontent ce qui leur arrive
+	- **Engouement dans les années 80s**
+
+- **Approche qui relie 2 grands courants**:
+	- L'individu (psychologique)
+	- Les structures 
+	- -> **Approche structuro-psychologique**
+		- Prise en compte des structures sociales & leurs interactions avec l'individu. 
+	- Quand on étudie un récit individuel, il est toujours teinté socialement (par le récit maître)
+
+#### Définitions & Objectifs 
+
+- Analyse narrative :
+	- Pas clairement définie dans les travaux de recherche 
+		- Pas de solution "clé en main" pour faire de l'approche narrative, moins précis que l'analyse de contenu
+	- Se prête bien pour des entretien de type autobiographique ou phénoménologique 
+	- Fréquemment présentée comme :
+		- **Etude des récits & de la narration**
+		- Le récit comme objet principal dans la recherche, la thérapie et la formation.
+	- Etudie 
+		- Les récits personnels des individus
+		- Les récits sociaux : des groupes, communautés, sociétés 
+	- -> S'intéresse à la façons dont les récits :
+		- Se construisent/structurent
+		- Et la fonction qu'ils assurent 
+#### Récits individuels & société 
+
+- Récits individuels - toujours teintés du social (récit maître)
+	- imbriqué dans **des récits plus grands** (sociaux) et les (re)produisent 
+	- Imbriqué dans un **ordre social & culturel** et le (re)produisent 
+	- Imbriqué dans des **relations sociales** et les (re)produisent 
+
+#### Récit & Soi
+
+- Manière de se raconter : toujours social, contextuel, culturel.
+	- Se positionne
+		- Dans/par rapport à d'autres récits (y comprend dominant)
+		- Dans le temps 
+	- Donne du sens à notre soi via des récits. 
+
+- Approche narrative :
+	- Beaucoup mobilisé pour comprendre comme les récits sont élaborés et mobilisés pour 
+		- Créer/Gérer son identité et les conséquences sur la reproduction de l'ordre social 
+
+#### Pourquoi développer des récits 
+
+- Les récits : *font* des choses:
+	- Mobiliser un récit plutôt qu'un autre, consciemment ou non, crée un positionnement. 
+	- On crée des récits pour nous raconter 
+	- On construit qui nous sommes, qui nous étions et qui nous souhaitons être. 
+		- Analyse des temporalité 
+- -> Peut être envisagé de façon individuelle mais impossible de considérer la construction identitaire sans une dimension sociale 
+
+#### Engagement narratif 
+
+- Comme les individus puisent dans des récits généraux -> engagement narratif. 
+
+- **Engagement narratif** = *Processus par lequel l'individu s'engage activement dans un grand récit culturel (récit maitre) pour créer sa propre identité narrative personnelle*
+	- "Engagement" -> processus actif.
+		- Par lequel l'individu est façonné (ou résiste) aux grands récits dans ses pratiques quotidiennes.
+
+#### Séquences temporelles d'un récit 
+
+- Récit = ensemble d'événements reliés dans le temps par un ou plusieurs thèmes dominants 
+- 3 séquences : début, milieu, fin.
+	- Reconstruites pour la mise en récit. 
+		- Organisation différente du déroulement réel des événements, c'est une reconstruction 
+- Récit =
+	- Péripétie qui vient troubler l'existence 
+		- Narrateur réorganise ensuite les événements pour tenter de rétablir une continuité et unité du récit. 
+
+- <u>L'événement/péripétie</u> 
+	- Pas l'événement en tant que tel mais **son appropriation par le sujet** comme événement marquant un tournant dans son vécu.
+		- Peut être négatif ou positif 
+
+#### Fonctions individuelles du récit 
+
+- Mise en récit :
+	- Permet de rétablir un **sentiment de continuté**, de paix par la mise en sens & cohérence du désordre
+		- Exprime naturellement des contradictions/paradoxes mais relié en un tout cohérent pour l'individu 
+			- Rend compte de son expérience vécue.
+#### Fonctions sociales du récit 
+
+- Récit individuel dit des choses niveau collectif 
+- Etude du récit individuel renseigne sur le contexte à partir duquel il est énoncé 
+	- Perspective psychosociale 
+		- Focus sur l'existence humaine et comment elle est vécue, expérimentée, interprétée 
+			- Et la manière dont elle s'inscrit dans un contexte socio-culturel donné. 
+
+#### Adaptée pour 
+
+- Récit d'événement, de vie 
+- Analyse de journal intime
+- Tout ce qui a un caractère biographique, mise en récit de soi
+- Groupes de discussion
+
+#### Objectifs 
+
+1. Analyse de la temporalité 
+	- Avant, pendant, après. 
+	- -> Comment est-ce que le temps est mobilisé pour construire le récit, quelles sont les séquences temporelles. Quels enseignements pour le présent ou le futur issu du passé ?
+2. Analyse des récits, identités et ordre social 
+	- Dans quelles mesures le récit les positionne en soutien (le reproduit) ou en opposition (le délégitime) du récit maître 
+
+#### Exercice 
+
+- Thèmes narratifs 
+	- SEP
+		- Temps, maladie, mort travail amour sport
+		- Commun : maladie, travail, 
+	- Schi : amitié, entraide
+- Séquences temporelles / épisodes signifiants  : Moodle 
+- Construction du récit par rapport récit maitre 
+	- Opposition au récit maitre 
+
+#### Différences / Complémentarité 
+
+- Découpage différent 
+	- Analyse en séquence temporelle et pas par thème 
+- Analyse + interprétative
+- Analyse en terme d'identité 
+
+-> Deux méthodes complémentaires mais autonomes.
+- Dépend des objectifs de recherche. 
+

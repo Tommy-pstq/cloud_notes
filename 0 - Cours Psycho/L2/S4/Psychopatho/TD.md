@@ -1,4 +1,3 @@
-()
 
 --- 
 Eval CC
@@ -507,3 +506,39 @@ Axe d'approche : Vécu.
 		- ToS sur la douleur + échelles 
 		- Antidep en seconde intention 
 		- Maintien suivi libéral 
+
+- **Geneviève** 
+	- Motif consult : pas clairement défini. 
+		- Agoraphobie envahissante
+		- Pathophobie 
+	- Anamnèse 
+		- Victime exhib enfance
+		- Deuil difficile décès père
+		- Début de rituels de vérification post relation amoureuse 
+		- Etudes difficiles mais réussies
+		- Crise d'angoisse voyage 
+		- Trompée par son marie 
+	- Médicaux 
+		- Rien
+	- Sémio
+		- Versant compulsif
+			- Rituels de vérifications envahissants 
+			- Rituels de nettoyage envahissants 
+		- Pathophobie  
+			- Hypocondrie
+		- Anxiété : peur de la solitude 
+		- Métacognition dépréciative 
+			- Culpabilité ++ 
+			- Croyance d'être une mauvaise personne
+		- 
+	- Méca défense 
+		- Lutte / contrôle
+		- *Déplacement*
+			- Déposer la charge affective conflictuelle sur un autre objet/situation anodine par rapport à ce qui est réellement problématique 
+		- *Formation réactionnelle*
+			- Contre-investissement d'un élément conscient par opposition à un élément inconscient refoulé.
+		- *Annulation rétroactive*
+			- Pensée/comportement utilisé par le sujet avec la conviction que cela aura un effet d'annulation d'une pensée ou d'un acte passé
+	- Diag
+	- Compréhension dynamique 
+	- TTT
