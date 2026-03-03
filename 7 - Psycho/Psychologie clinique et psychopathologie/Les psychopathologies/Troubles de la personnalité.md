@@ -158,7 +158,6 @@ TTT
 
 ### Personnalité limite ([[trouble de la personnalité limite|borderline]])
 
-
 - Trouble grave
 - Comorbidité fréquente avec des troubles de l'humeur 
 - Vie chaotiques 
@@ -182,7 +181,8 @@ TTT
 DSM
 - Grande instabilité dans les réactions interpersonnelles, dans la perception de l'image de soi et des affects. Apparition au début de l'âge adulte, 5 manifestations suivantes:
 	- Efforts importants pour éviter l'abandon
-	- Instabilité dans les relations interpersonnelles : idéalisation <--> dévalorisation
+	- Instabilité dans les relations interpersonnelles : 
+		- Idéalisation <--> dévalorisation
 	- Instabilité marquée et prolongée dans l'image de soi, problème d'identité
 	- Impulsivité dans au moins 2 domaines d'activité potentiellement dommageable 
 		- Sexualité
@@ -265,7 +265,7 @@ TTT
 - Sens excessif et démesuré de leur importance 
 - Veulent toujours se vanter 
 - Leurs réalisations sont toujours les meilleures
-	- s'attendent à ce que les félicitent, admirent, envient.
+	- S'attendent à ce que les félicitent, admirent, envient.
 - Comme tout est centré sur eux :
 	- Peu sensible/empthique par rapport aux autres.
 	- Tendance à les utiliser, exploiter, contrôler.

@@ -542,3 +542,18 @@ Axe d'approche : Vécu.
 	- Diag
 	- Compréhension dynamique 
 	- TTT
+
+
+--- 
+
+- Idées persécutoires + délirantes 
+	- Réaction violentes 
+- Tendance à l'érotomanie 
+- Somatisation 
+- Conserve un fonctionnement "correct"
+	- Pas de symptômes négatifs 
+- Pas d'hallucination 
+
+
+- -> Trouble délirant. 
+

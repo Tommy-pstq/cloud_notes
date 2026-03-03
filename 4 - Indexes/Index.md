@@ -6,6 +6,10 @@
 - *Référence lue sans prévision de note lors de la dernière actualisation*
 
 ## Livres
+
+- <u>Cartes des pratiques narratives</u>, M. White, *02/2026*
+- <u>Changements, paradoxes et psychothérapies</u>, P. Watzlawick, J.Weakland, R. Fisch, *02/2026* 
+- <u>Les pièges psychologiques</u>, G. Nardone *02/2026*
 - <u>Trouble du spectre de l'autisme chez l'enfant, repérage précoce, dépistage et diagnostic </u>, Carlier, *01/2026* 
 - <u>Evaluer et prendre en charge le TDI</u>, AFTD, Binet, *01/2026*
 - <u>Quand le sexe devient un problème</u>, Nardone, Rampin, *01/2026* 

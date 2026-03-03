@@ -68,4 +68,36 @@
 	- Quid du fonctionnement en groupe ? 
 		- -> Effet auto-cinétique. 
 			- -> Recherche cadre de référence + normalisation. 
-	- 
+
+--- 
+
+## TD4 
+
+
+- Rôles particuliers
+	- Leader défense N°8
+	- Leaders accusation : 3,10,7
+	- Arbitre : 1 
+- Fonctions 
+- Sous-groupes 
+
+
+- Bonne décision de groupe:
+	- Encourager expression des points de vus minoritaires 
+		- Sinon : risque de passer à côté de données potentiellement pertinente. 
+		- Favoris solution meilleures
+			- Evite le consens de base injustifié 
+				- Souvent dans des groupes avec majoritairement relation formelles. 
+					- Le consensus est recherché dans ces groupes pour éviter l'éclatement. 
+	- Dans les groupes établis, avec équité entre membres ou personnes ne risque d'être expulsé en cas de désaccord/conflit:
+		- Favorise écoute & expression opinions minoritaires. 
+	- Ecouter opinion minoritaire :
+		- Evite cristallisation de principe 
+	- Ne pas chercher de décision de compromis 
+		- Améliore pas résolution du problème.
+
+- Valeur d'une décision:
+	- Via sa qualité 
+	- Via son degré d'adhésion
+	- Majorité en tord : importance de l'influence minoritaire. 
+

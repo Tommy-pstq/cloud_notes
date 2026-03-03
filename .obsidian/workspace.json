@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99468e7602af2218",
+            "id": "7fb386e6ca2facc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+                "file": "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles de la personnalité"
+              "title": "CM - Bouteloup"
             }
           },
           {
-            "id": "283355433580546e",
+            "id": "906185133729bd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
+                "file": "0 - Cours Psycho/L2/S4/Groupe/CM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "7fb386e6ca2facc9",
+            "id": "cf870f947830bd62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
+                "file": "4 - Indexes/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles moteurs"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -213,65 +212,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "283355433580546e",
+  "active": "7fb386e6ca2facc9",
   "lastOpenFiles": [
+    "4 - Indexes/Index.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
+    "0 - Cours Psycho/L2/S4/Groupe/TD.md",
+    "0 - Cours Psycho/L2/S4/Groupe/CM.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles somatiques.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles neurocognitifs.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles des conduites alimentaires.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles liés à des traumatismes ou à des facteurs de stress..md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
+    "PDF/L2_S4/CM - Psychopatho - Boutloup.pdf",
+    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
+    "PDF/L2_S4/CM - Groupe - Severin Guignard.pdf",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble délirant.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Schizophrénie.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble schizophréniforme.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD 6.md",
+    "PDF/L2_S4.zip",
+    "PDF/L2_S4/fiches_revision_psycho_groupe.pdf",
+    "PDF/EXERCICE DELIVRANCES.pdf",
+    "PDF/desktop.ini",
+    "PDF/2024 Textes TD psychopathologie licence 2.pdf",
+    "PDF/L2_S4_20260224.zip",
+    "PDF/L2_S4/fiches_psycho_sociale.pdf",
+    "PDF/L2_S4/fiches_rpc.pdf",
+    "0 - Cours Psycho/L2/S4/Methode Quali/CM.md",
     "2 - Source Materials/Pasted image 20260221161823.png",
     "2 - Source Materials/Pasted image 20260221161750.png",
     "2 - Source Materials/Pasted image 20260221161715.png",
     "2 - Source Materials/Pasted image 20260221161645.png",
     "2 - Source Materials/Pasted image 20260221161625.png",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
     "2 - Source Materials/Pasted image 20260221152848.png",
     "2 - Source Materials/Pasted image 20260221152423.png",
     "2 - Source Materials/Pasted image 20260221150624.png",
-    "PDF/L2_S4/Psychodynamique groupe/CM3 théorie psycho dynamique du grp copie.pdf",
     "0 - Cours Psycho/L2/S4/Psychopatho/CM - J Chevalier.md",
-    "PDF/L2_S4/desktop.ini",
-    "PDF/L2_S4/2024 Textes TD psychopathologie licence 2.pdf",
-    "PDF/L2_S4/Psychodynamique groupe/CM 2_ Théorie psychodynamique du groupe.pdf",
-    "PDF/L2_S4/Psychodynamique groupe/THEORIE PSYCHODYNAMIQUE DU GROUPE.pdf",
-    "PDF/L2_S4/Psychodynamique groupe/CM 2_ Théorie psychodynamique du groupe-1.pdf",
-    "PDF/L2_S4/Psychodynamique groupe",
-    "PDF/L2_S4/Nouveau dossier",
-    "PDF/L2_S4/CM 2_Groupes et formations sociales _ approche sociale (1).pdf",
-    "PDF/L2_S4/CM 2_ Théorie psychodynamique du groupe.pdf",
     "PDF/L2_S3/Revision TD Psycha objet transi winni dolto.md",
     "PDF/L2_S3/Réponses révisions objet transi.md",
     "PDF/L2_S3/Réponses révision adolescence.md",
     "PDF/L2_S3/Révision fonctionnement SN LJ.md",
-    "PDF/L2_S3/Révision nsci LJ anatomie.md",
-    "PDF/L2_S3/Révision sys récompense.md",
-    "PDF/L2_S3/Révision chronobiologie.md",
-    "PDF/L2_S3/Révision ontogénèse.md",
-    "PDF/L2_S3/Révision conduction neuronale et  transmission synaptique.md",
-    "PDF/L2_S3/Révision motricité.md",
-    "PDF/L2_S3/Revision somesthésie.md",
-    "PDF/L2_S3/Révision plasticité.md",
-    "PDF/L2_S3/Révision vieillissement.md",
-    "PDF/L2_S3/Révision Vision.md",
-    "PDF/L2_S3/Révision olfaction gustation.md",
-    "PDF/L2_S3/Révision Audition.md",
-    "PDF/L2_S3/Revision TD Psycha Adolescence.md",
-    "0 - Cours Psycho/L2/S4/Groupe/CM.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
-    "7 - Psycho/Thérapie brèves plurielles - principes et outils pratiques/La thérapie systémique brève/3 - Outils systémiques brefs.md",
     "2 - Source Materials/Pasted image 20260116154630.png",
     "2 - Source Materials/Pasted image 20260116153731.png",
-    "2 - Source Materials/Pasted image 20260116153712.png",
     "Untitled.canvas"
   ]
 }

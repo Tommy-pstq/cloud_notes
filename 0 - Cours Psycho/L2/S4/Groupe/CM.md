@@ -36,7 +36,7 @@ Synthèse intro :
 	- Majeure partie de notre vie = individu inséré dans un groupe
 	- Humain = par nature un être social.
 		- Qu'est-ce que ça veut dire ? "*Maisoneuve*" ?
-			1. Sociabilité 
+			1. **Sociabilité** 
 				- L'individu a besoin des autres pour se développer.
 				- Humain pas fait pour vivre seul 
 				- Besoin des autres:
@@ -72,7 +72,7 @@ Synthèse intro :
 						- Immersion en tant que SDF à Paris 
 						- Montre comment la désocialisation entre la perte de facultés sociales, cognitives, relationnelles
 						- Perte de l'identité 
-			2. Socialisation 
+			2. **Socialisation** 
 				- Appartenir à des groupes = caractéristiques fondamentale de l'espèce humain.
 				- Ces groupes : rôle fonctionnel déterminant dans l'intégration et le développement des personnes. 
 					- C'est pas les groupes que l'individu est formé/façonné 
@@ -152,7 +152,7 @@ Synthèse intro :
 			- "Qu'est-ce qui se montre ?"
 		- Imitation de comportements valorisés 
 		- En même temps:
-		- Exposition constante au jugement d'autrui 
+			- Exposition constante au jugement d'autrui 
 	- Souvent : **socialisation se fait entre pairs**
 		- -> Socialisation plus influente que dans les institutions traditionnelles
 		- Effet de la sélection de contenu par des algo ? 
