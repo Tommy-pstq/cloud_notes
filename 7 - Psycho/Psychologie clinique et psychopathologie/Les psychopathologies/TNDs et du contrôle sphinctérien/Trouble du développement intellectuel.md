@@ -14,7 +14,7 @@
 
 - DSM5 : diag si, durant la période de dev, on observe des déficits intellectuels et adaptatifs dans différents domaines: conceptuel, sociale, pratique. 
 1. 
-	- Difficultés d'ordre intellectuel : via clinique & tests d'[[intelligence]].
+	- Difficultés d'ordre intellectuel : via clinique & tests d'[[3 - Tags/intelligence]].
 		- Jugement
 		- Fonctionnement scolaire 
 		- Apprentissage par l'expérience 

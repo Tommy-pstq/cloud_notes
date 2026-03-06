@@ -633,7 +633,6 @@ Synthèse intro :
 
 ### Influence & manipulation 
  - Ref : Influence & manipulation Cialdini 2004
-
 - Mécanismes de réaction automatiques permettant de vivre en société 
 	- Utilisés de façons intéressés parfois. 
 
@@ -730,16 +729,8 @@ Synthèse intro :
 		- -> **Effet d'engagement seulement quand motivation intériorisée et non menace extérieure**
 	- Effet d'engagement : apparait très tôt.
 ## CM5 
+ 
 
---- 
-- Choix de limiter la politisation du cours:
-	- Moins d'échanges en CMs
-	- Sociétés ++ tendus 
-		- -> Pleins d'avis divergents dans l'amphi
-			- Si intervenant donne son avis tranché : clivant.
-	- Préfère rassembler en limitant son opinion personnelle 
-
---- 
 
 - **Pallack 1980** : Engagement - influence pour cause environnementale. Ioha - US
 	- Changer les habitudes des gens. 

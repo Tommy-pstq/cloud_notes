@@ -23,7 +23,7 @@
 - Comparative:
 	- Entre enfant ordinaire et 
 		- Déficient (intellectuel, [[sensorialité|sensoriel]] (surdité))
-		- [[intelligence]] animale 
+		- [[3 - Tags/intelligence]] animale 
 		- Modes de pensées de peuples primitifs
 	- Entre caractéristiques structurales et fonctionnelles de différents types d'activité [[psychologie|psychologique]] (Ex: langage écrit/parlé/intérieur) 
 - Observation objective / normée:

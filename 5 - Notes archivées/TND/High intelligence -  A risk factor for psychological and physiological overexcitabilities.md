@@ -21,7 +21,7 @@
 	-> Investiguation des prévalences entre HQI & trouble mentionnés ci-dessus. (+lien entre sur-excitabilité intellectuel & ceux-ci.)
 
 #### Revue de littérature
-52 chercheurs en cognitions s'accordent sur une def de l'[[intelligence]] : "Une capacité plus large et plus profonde à comprendre son environnement"
+52 chercheurs en cognitions s'accordent sur une def de l'[[3 - Tags/intelligence]] : "Une capacité plus large et plus profonde à comprendre son environnement"
 	-> permet la création artistique ou mène à la [[dépression]]. (et ?)
 
 Enfants HPI (6-11 ans) ont montrés des réactions émotives significativement plus marquées que ceux ayant un QI moyen.  (1-1) 

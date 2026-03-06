@@ -35,5 +35,8 @@
 	- identifier, nommer, analyser.
 		- -> donnée comparables entre observateurs & études 
 		- qtification, analyse puis enfin interpréter. 
+			- Verbal & non verbal 
+	- Transformer comportement -> donnée 
 3. Quelle est la place de l'observateur ? 
 	- Externe. 
+	- Formé, encadré 

@@ -280,7 +280,7 @@ La [[métacognition]] concerne les processus et représentations mentales qui on
 - Effet Dunning-Kruger chez les élèves les moins performants 
 - Corrélation entre sensibilité métacognitive d'enfants sur une tâche numérique:
 	- Avec leurs connaissances en mathématique
-	- Pas avec leur [[intelligence]] mesurée via un test de QI classique 
+	- Pas avec leur [[3 - Tags/intelligence]] mesurée via un test de QI classique 
 
 ### Impact du vieillissement
 

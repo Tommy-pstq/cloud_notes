@@ -22,7 +22,7 @@ Emmanuel Sander, Hippolyte Gros, Katarina Gvozdic, Calliste Scheibling-Sève
 	- L'[[émotion]] est-elle un frein ou un moteur pour l'apprentissage ? 
 	- Nombreux faits précis ou connaissances transposables ? 
 	- Est-il possible d'[[apprentissage|apprendre]] à [[apprentissage|apprendre]], ou la modestie devrait elle être de mise lorsqu'il s'agit de transfert de connaissances ? 
-	- L'éducation accroit elle l'[[intelligence]] ou fait elle seulement fructifier des potentiels existants ? 
+	- L'éducation accroit elle l'[[3 - Tags/intelligence]] ou fait elle seulement fructifier des potentiels existants ? 
 
 - Recherche de pratiques de qualité et de rationalisation des moyens accordés. 
 	- -> Recherche de "pratiques efficaces".
@@ -140,7 +140,7 @@ Mais, pas de différence structurale = pas d'impact ?
 
 - Travaux en [[psychologie]] expérimentale sur les modifications de comportements des *digital natives* : 
 	- 2020, 10 000 individus : les enfants passant en moyenne entre 2.9 et 7.2 heures par jour devant des écrans ont des performances [[cognition|cognitives]] inférieures (NIH Toolbox) à celles de ceux n'y passant que moins d'1.2h
-		- Peut-on en conclure, comme l'ont fait de nombreux commentateurs hâtifs, que les écrans réduisent l'[[intelligence]] ? 
+		- Peut-on en conclure, comme l'ont fait de nombreux commentateurs hâtifs, que les écrans réduisent l'[[3 - Tags/intelligence]] ? 
 			- <u>Cette étude ne montre qu'une corrélation et non un lien de causalité.</u> 
 				- La [[causalité]] pourrait justement être inverse: les enfants avec des capacités [[cognition|cognitives]] plus faibles seraient davantage attirés par le visionnage de vidéos.
 				- Existence d'une variable cachée:

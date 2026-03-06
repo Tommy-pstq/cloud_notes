@@ -43,7 +43,7 @@ Domaine prépondérant dans les chances d'avoir un enfant [[TSA|ASD]] : compréh
 
 ## Discussions:
 
-- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> [[association]] [[génétique]] ET [[phénotypique]] entre [[intelligence]] & [[TSA|ASD]].
+- [[TSA|ASD]] chances + avec QIp au dessus de la moyenne --> [[association]] [[génétique]] ET [[phénotypique]] entre [[3 - Tags/intelligence]] & [[TSA|ASD]].
 - [[TDAH|ADHD]] chances - avec QIp : confirme l'[[association]] inverse [[génétique]] entre [[TDAH|ADHD]] & capacité [[cognition|cognitives]]. Etudes récentes. 
 
 ## Refs

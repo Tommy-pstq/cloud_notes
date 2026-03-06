@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
+                "file": "0 - Cours Psycho/L2/S4/Groupe/Andela/Justice organisationnelle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CM - Bouteloup"
+              "title": "Justice organisationnelle"
             }
           },
           {
-            "id": "906185133729bd5a",
+            "id": "00c8eaadb02aef25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Groupe/CM.md",
+                "file": "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Intelligence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CM"
-            }
-          },
-          {
-            "id": "cf870f947830bd62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Index"
+              "title": "Intelligence"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,39 +200,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fb386e6ca2facc9",
+  "active": "00c8eaadb02aef25",
   "lastOpenFiles": [
-    "4 - Indexes/Index.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
-    "0 - Cours Psycho/L2/S4/Groupe/TD.md",
-    "0 - Cours Psycho/L2/S4/Groupe/CM.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles somatiques.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles neurocognitifs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles des conduites alimentaires.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles liés à des traumatismes ou à des facteurs de stress..md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
-    "PDF/L2_S4/CM - Psychopatho - Boutloup.pdf",
-    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
-    "PDF/L2_S4/CM - Groupe - Severin Guignard.pdf",
     "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Créativité.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Intelligence.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Intro et Recueil de données.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Questions revisions.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Justice organisationnelle.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Intro et Structure de groupe.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Influence et manipulation.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Groupe et influence.md",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/Le soi et l'identité.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/CM.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/CM - J Chevalier.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire/Mémoire des experts et nouvelles théories.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire/Mémoire, encodage et accès.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Analyse de données.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/CM.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Point méthodo recherche.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD/TD4.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/TD",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Sans titre.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela",
+    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
+    "2 - Source Materials/Pasted image 20260305111452.png",
+    "2 - Source Materials/Pasted image 20260305105946.png",
+    "7 - Psycho/Psychologie sociale/La pensée sociale/Le jugement social.md",
+    "7 - Psycho/Psychologie sociale/L'influence sociale/Sens commun et culture.md",
+    "4 - Indexes/Index.md",
+    "3 - Tags/Sans titre.md",
+    "2 - Source Materials/Pasted image 20260305105512.png",
     "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble délirant.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Schizophrénie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/TNDs et du contrôle sphinctérien/Troubles moteurs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble schizophréniforme.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD 6.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
+    "PDF/L2_S4/CM - Psychopatho - Boutloup.pdf",
+    "PDF/L2_S4/CM - Groupe - Severin Guignard.pdf",
     "PDF/L2_S4.zip",
     "PDF/L2_S4/fiches_revision_psycho_groupe.pdf",
     "PDF/EXERCICE DELIVRANCES.pdf",
-    "PDF/desktop.ini",
-    "PDF/2024 Textes TD psychopathologie licence 2.pdf",
-    "PDF/L2_S4_20260224.zip",
-    "PDF/L2_S4/fiches_psycho_sociale.pdf",
-    "PDF/L2_S4/fiches_rpc.pdf",
-    "0 - Cours Psycho/L2/S4/Methode Quali/CM.md",
     "2 - Source Materials/Pasted image 20260221161823.png",
     "2 - Source Materials/Pasted image 20260221161750.png",
     "2 - Source Materials/Pasted image 20260221161715.png",
@@ -263,14 +248,6 @@
     "2 - Source Materials/Pasted image 20260221161625.png",
     "2 - Source Materials/Pasted image 20260221152848.png",
     "2 - Source Materials/Pasted image 20260221152423.png",
-    "2 - Source Materials/Pasted image 20260221150624.png",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM - J Chevalier.md",
-    "PDF/L2_S3/Revision TD Psycha objet transi winni dolto.md",
-    "PDF/L2_S3/Réponses révisions objet transi.md",
-    "PDF/L2_S3/Réponses révision adolescence.md",
-    "PDF/L2_S3/Révision fonctionnement SN LJ.md",
-    "2 - Source Materials/Pasted image 20260116154630.png",
-    "2 - Source Materials/Pasted image 20260116153731.png",
     "Untitled.canvas"
   ]
 }

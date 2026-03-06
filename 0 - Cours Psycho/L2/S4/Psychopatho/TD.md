@@ -557,3 +557,11 @@ Axe d'approche : Vécu.
 
 - -> Trouble délirant. 
 
+
+- "identification projective" : relation à l'objet par l'action de mouvement identificatoires entrainés par une défense projective 
+	- Parties du moi projetés sur l'objet lui font éprouver ce que le sujet ne peut intégrer ou supporter lui même 
+
+--- 
+
+- Maintient apparence 
+

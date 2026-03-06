@@ -19,7 +19,7 @@ Neural ordinary differential equations ([[ODE]]) : nouveau paradigme en deep-lea
 * Supporte bien les données irrégulièrement échantillonnées 
 * Efficace pour l'inter ou [[extrapolation]]
 * Principalement utilisé pour les signaux à durée variable 
-	* Récemment : [[reconnaissance vocale]] en temps réel, [[analyse de données]] issues de capteurs, [[prise de décision]] séquentielle 
+	* Récemment : [[reconnaissance vocale]] en temps réel, [[3 - Tags/analyse de données]] issues de capteurs, [[prise de décision]] séquentielle 
 
 1 + 2 : Architecture fournissant une [[adaptabilité dynamique]] incomparable.
 

@@ -10,8 +10,8 @@
 			- Enfant = sujet épistémique 
 				- -> Recherche d'invariants présents chez tous les sujets 
 	- Logico-mathématique
-		- Progrès de l'[[intelligence]] reposerait sur le développement d'[[opérations logico-mathématiques]] 
-		- Développement de l'[[intelligence]] implique la construction d'organisation [[cognition|cognitives]] à [[Complexité]] croissante 
+		- Progrès de l'[[3 - Tags/intelligence]] reposerait sur le développement d'[[opérations logico-mathématiques]] 
+		- Développement de l'[[3 - Tags/intelligence]] implique la construction d'organisation [[cognition|cognitives]] à [[Complexité]] croissante 
 			- Actions
 			- [[Opérations concrètes ]]
 			- [[Opérations formelles ]]
