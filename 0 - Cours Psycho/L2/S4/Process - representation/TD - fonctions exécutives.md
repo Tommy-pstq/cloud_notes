@@ -150,3 +150,118 @@
 		- Les 2 groupes se différencient au niveau de la capacité de maintient du but de la tâche activé lorsque le contexte rend un tel maintien très difficile (25%)
 		- -> Suggère lien étroit entre capacité MDT & contrôle attentionnel 
 
+## TD8 Mémoire experte & automatisation 
+
+- Rappel : distinction processus automatiques & processus contrôlés ?
+	- Automatique 
+		- Parallèle, rapide, - de ressource, difficile à interrompre
+	- Contrôlé 
+		- Sériel, plus long, nécessite + ressources cognitives , facile à interrompre
+
+- Comment on passe d'un processus contrôlé à un processus automatique ? 
+	- Automatisation.
+	- Expert = réalise une tâche de manière automatique 
+		- Ex: conduite. 
+			- Avant automatisation : utilisation contrôlée & sérielles entre les différentes tâches. 
+				- Bcp de sous - tâches -> fatigue car nécessite concentration ++
+			- Après : presque plus aucune attention nécessaire, permet de discuter tranquillement avec quelqu'un 
+
+- **Reingold et al 2001** : Jeux d'échecs. 
+	- Objectif = mettre en évidence les différents modes de TTT (contrôlé/automatique) en fonction du niveau d'expertise des joueurs d'échecs.
+	- 2 expériences:
+		- 3 populations : novice/intermédiaire/experts. (ici, focus juste différences novices/experts)
+	- Exp 1 :
+		- Jeu 5x5
+			- 1 roi noir 
+			- 1 ou 2 pièces blanches 
+		- Tâche de détection d'échec 
+			- Indiquer, + vite possible si la pièce blanche met le roi en échec 
+			- Mesure tps de réponse 
+		- Hypothèse :
+			- TTT sériel -> 
+				- Plus long en cas de non-échec:
+					- Car toutes les pièces doivent être considérées pour vérifier si échec ou non. 
+				- Si roi en échec : 
+					- Potentiellement plus rapide car détecté à la première pièce analysée 
+			- TTT parallèle :
+				- Même temps de réponse, en cas d'échec ou non puisque les déplacements des deux pièces sont évalués en même temps. 
+		- Résultats 
+
+| *tps rep ms* | Experts | Novice |
+| ------------ | ------- | ------ |
+| Echec        | 870     | 1080   |
+| Safe         | 880     | 1280   |
+
+- CCL : 
+	- Experts plus rapide & tps de réponse similaire en cas d'échec ou non 
+		- -> Valide TTT parallèle 
+	- Novces : tps de réponse plus important si pas en échec
+		- -> Valide TTT sériel 
+	- L'expertise impacte le mode de TTT : contrôlé (novice) -> automatique chez les experts. 
+		- Automatisation processus avec l'expertise 
+
+
+- Expé 2 :
+	- Même tâche de détection d'échec.
+	- Mais dans certains essais : une pièce blanche est entourée en rouge. 
+		- Dans ce cas : consigne d'ignorer l'autre pièce et donc de ne considérer que la pièce entourée en rouge. 
+	- Conditions :
+		- Congruence : indice rouge sur la pièce cible, même finalité pour les deux pièces blanches : mettent en échecs où sont safe toutes deux. 
+		- Incongruence : indice rouge sur la pièce cible mais finalité différente pour les pièces blanches  
+		- Sans indice : pas d'indice rouge, même tâche qu'exp 1 
+	- Hypothèse :
+		- Tentative d'interférence avec l'indice rouge: les experts vont devoir inhiber la réponse liées à une pièce non indicée qui met en échec pour se focaliser sur celle indicée.
+			- Alors que leur expertise -> TTT automatique donc les effets des deux pièces sont traités en même temps. 
+				- -> Experts + long dans la condition incongruente
+		- -> Novices pas de diff congruence/incongruence puisqu'ils traitent toujours la pièce indicée en premier (sériel.)
+	- Résultats 
+		- 
+
+| Tps réaction          | Novice | Experts |
+| --------------------- | ------ | ------- |
+| Pas d'indice          | 1190   | 840     |
+| Indice + congruence   | 900    | 880     |
+| Indice + Incongruence | 920    | 1020    |
+- CCL 
+	- Valide les hypothèses:
+		- TTT sériel contrôlé novice 
+		- TTT automatique parallèle experts
+
+### Rigidité liée à l'expertise 
+
+- Automatisme suite expertise : limite la créativité = rigidité de l'expert. 
+
+- Deux études de **Bilalic et al 2008**
+	- Exp 1 : experts (++) de différents niveaux aux échecs doivent chercher la solution à un problème d'échec
+		- Tâche de résolution de problème d'échec 
+			- Que 2 solutions possibles pour mettre le roi adverse mat. 
+				- 1 est familière : couramment utilisée par un joueur d'échec
+				- L'autre est peu familière, mais plus efficace que la solution familière dans ces situations 
+	- Metric : taux d'identification en fonction du niveau de maitrise et familiarité des réponses 
+	- Hypothèse :
+		- Rigidité -> les participants les plus experts ont plus de difficultés à identifier la solution peu familière. (bloqué dans leur TTT automatique)
+	- Résultat :
+		- 100% GM trouvent la solution peu familière 
+		- 50% Int. Master la trouvent 
+		- 18% master 
+		- 0% pré-master 
+	- -> Plus le niveau est élevé, plus ils sont capable d'identifier la solution non familière.
+		- Les pré-master en sont incapables, que 18% des masters 
+		- 2 interprétations possibles :
+			- Pas assez bons pour trouver cette solution ?
+			- pré-masters & master tellement focus sur la première solution qu'ils n'arrivent pas à trouver celle qui n'est pas familière ? 
+	- Pour vérifier que c'est pas la difficulté qui pose problème :
+		- Même tâche, mais une seule solution à trouver : celle qui est non familière. 
+			- -> 100% des int. master, masters & pré-masters trouvent cette solution.
+				- Alors qu'incapable lorsqu'il y avait une autre solution plus familière. 
+	- -> Leur TTT favorisait l'autre solution et ils n'arrivaient pas à inhiber le TTT de la solution familière pour trouver une autre solution. 
+		- Exception des GM. 
+- Exp 2 :
+	- Pour essayer de comprendre la rigidité : 
+		- Eye tracking lors de l'expérience 1. 
+	- -> Lorsque les joueurs ont trouvés la première solution familière, ils continuent de la fixer. 
+		- Incapacité à inhiber le TTT automatique. 
+	- CCL : 
+		- Le TTT automatique ne s'arrête pas après avoir trouver la première solution, ce qui empêche de trouver la solution créative 
+			- -> **Rigidité de l'expertise**
+		- Les GM seraient capable d'inhiber le TTT automatique pour chercher une autre solution

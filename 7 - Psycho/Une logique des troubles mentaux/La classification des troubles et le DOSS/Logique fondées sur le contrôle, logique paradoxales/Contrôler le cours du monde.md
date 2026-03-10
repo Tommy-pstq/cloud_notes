@@ -30,7 +30,7 @@
 - <u>Troubles, signes cliniques</u>:
 	- TOC
 	- Dépressions sévères
-	- suspicion de troubles [[symptômes psychotiques|psychotiques]] 
+	- Suspicion de troubles [[symptômes psychotiques|psychotiques]] 
 - <u>Techniques utilisées</u>:
 	- **Recadrages**
 		- Toutes les métaphores qui illustrent les paradoxes 

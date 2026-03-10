@@ -159,7 +159,7 @@ Synthèse intro :
 
 - <u>Algorithme, normes et identité</u>
 	- Plateforme numérique = jamais neutre. 
-		- Algo the recommandations = visibilité des contenue
+		- Algo the recommandations = visibilité des contenus
 			- -> Reconnaissance sociale 
 				- Certaines opinions/comportements/esthétiques davantage valorisés que d'autres. 
 					- Sociabilisation via systèmes techniques et pas uniquement les normes de l'endogroupe. 

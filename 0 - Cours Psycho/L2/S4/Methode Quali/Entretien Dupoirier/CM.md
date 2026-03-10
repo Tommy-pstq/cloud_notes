@@ -474,26 +474,7 @@ S’intéressent :
 					- *Mots ? Idées ? Etc..*
 				- Fonction : rassembler une grande quantité de données dans des unités d'analyse plus significative & économique 
 
- V1
-- Définition
-- Comparaison / Similitude - Identité
-- Symptômes 
-- Souffrance
-- Incertitude 
-- Lutte / Solution 
 
-V2
-- Identité 
-- Symptômes 
-- Souffrance
-- Lutte/Solution : TTT
-
---- 
-- Qu'est-ce qui questionne dans la démarche ?
-	- Pas de retranscription des données : on ne travaille pas sur des audios 
-	- Pas de découpe par unité de sens 
-	- Fourni quelques éléments mais besoin de + de rigueur 
-	- Problématiques & objectifs non définis en amont.
 
 ## CM6 10/02/26  
 

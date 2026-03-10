@@ -46,7 +46,7 @@
 		- Eviter ++ le conflit 
 		- Adhère aux positions du groupe pour être tranquille 
 		- Souvent : relation de pouvoir/hiérarchique 
-	- **D'itentification** : envie d'appartenance
+	- **D'identification** : envie d'appartenance
 		- Pour conserver relation positive avec le groupe 
 			- Car le groupe est perçu comme attractif 
 			- Peut apporter du prestige/visibilité 
@@ -62,7 +62,7 @@
 	- Si 1 complice donne la même réponse que le sujet, la bonne.
 		- -> Grande majorité des sujets donnent alors la bonne réponse . 
 
-- **Facteurs influençant la conformité**
+- **Facteurs influençant le conformisme**
 	1. Ambiguïté de la tâche 
 		- Ambiguïté + -> conformisme +
 			- Doute -> référence. 
@@ -77,7 +77,7 @@
 		- Taille du groupe 
 		- Présence d'une personne du même avis/comportement ...
 		- Liens entre membre du groupe 
-	- Sympathie entre individus
+	- **Sympathie entre individus**
 		- Normalisation ++ par rapport individus proches. 
 			- proche / membre du groupe d'appartenance. 
 

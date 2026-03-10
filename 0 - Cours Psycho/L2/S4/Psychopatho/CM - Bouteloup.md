@@ -209,3 +209,115 @@
 		- Crainte persistante des situations où l'individu pourrait être observé par autrui / pourrait se comporter de manière embarrassante
 	- **Phobie d'impulsion** 
 		- Peur intense de perdre le contrôle -> commettre un acte grave & violent 
+
+--- 
+## CM3 
+
+### Névrose obsessionnelle 
+
+- Première caractéristique : 
+	- Névrose de contrainte ou maladie du doute 
+		- Questionnement constant 
+			- Vérification
+			- Rumination 
+	- Signes cliniques très transnosographie 
+- Caracs :
+	- Vérification
+	- Rumination
+	- Besoin de contrôle & d'emprise 
+		- Surtout sur les situations plus que personnes 
+	- Rigidité de la pensée & du fonctionnement 
+		- "il y a une seule bonne manière de faire"
+	- Sujets prompts aux angoisses 
+		- Développement de **compulsions** pour lutter contre.
+			- Système de croyances pour apaiser l'angoisse 
+	- Affects fréquents
+		- Honte, culpabilité 
+		- Sentiment d'être sales / rapport à la propreté/hygiène spécifiques 
+			- Plaisir à penser/réfléchir à ... (ex: façon de faire le ménage)
+	- "régression à la phase anal" (au secours)
+		- Dimension contrôle 
+			- Economie ou parcimonie 
+			- Ordre & ponctualité 
+			- Entêtement / autoritarisme rigide
+	- Personnalité obsessionnelle 
+		- Préoccupation omniprésente pour l'ordre
+		- Tendance au perfectionnisme 
+		- Besoin de contrôle important
+			- Sans place pour la flexibilité ni l'efficacité 
+		- -> Interférence avec des tâches.
+			- Potentiellement ne pose pas de problème 
+			- Parfois si. 
+	- Pathologisation :
+		- Sentiment d'une impression étrangère 
+			- Se sent obliger de faire certaines choses pour éviter que l'angoisse arrive.
+				- Tentative de reprise de contrôle 
+					- Obsessions / Compulsions
+
+- TOC 
+	- Obsesssion & / ou compulsions
+	- Invalidantes 
+	- Voir DSM.
+
+- Obsessions idéatives 
+	- Pensées répétées qui s'imposent au sujet 
+		- Souvent associée doute permanent 
+- Obsessions phobiques 
+	- Angoisse de se retrouver dans une situation anxiogène 
+- Obsessions impulsives 
+	- En lien en avec compulsions à accomplir un acte ridicule ou gênant 
+		- Acte absurde, incongru, ridicule, violent 
+
+- Compulsions 
+	- Moyen de répondre aux obsessions 
+		- Les ignorer / les supprimer / neutraliser par l'action. 
+	- Comportements répétitifs, délibérés & intentionnels 
+- Gravité du trouble = nombre & fréquence des compulsions 
+
+## Psychose 
+
+### Structure psychotique 
+
+- "Organisation psychotique -> décompense exclusivement en psychose".
+
+- Structure psychotique :
+	- Peu de conscience de son état 
+	- Moindre contact avec la réalité (pas décompensé pour autant)
+	- "Défaillance de l'organisation objectale primaire"
+		- Limite soi/autre pas si simple 
+	- Présence massive du déni de la réalité 
+	- "Processus primaires prennent le dessus" 
+		- Dimension pulsionnelle ++
+		- Diff accès dim secondarisé 
+	- l'objet est désinvesti car ne parvient pas à être créer comme un objet à part entière 
+	- Angoisse principale :
+		- "De morcelement , d'anéantissement"
+			- Trouble profond du sentiment d'identité 
+
+
+- Mécanisme de défense :
+	- Déni de la réalité 
+		- Refuse une perception
+		- Jusqu'à création d'une autre réalité 
+	- Clivage 
+		- Co-Existence de deux attitudes contradictoires du moi face à la réalité extérieure
+			- De l'existence : "Comment c'est possible ?"
+	- Dissociation
+		- Séparation entre des éléments psychiques qui sont habituellement réuni 
+
+
+- Décompensation psychotique 
+	- Rupture de l'équilibre habituel 
+	- Périodes de vigilance :
+		- Fin de l'adolescence 
+		- Psychose paranoïaque plus tardive : 30 - 40 ans ~~
+	- Transitoire ou permanente / chronique 
+		- Transitoire : bouffées délirantes aigues 
+			- Ex : Syndrôme du voyageur 
+				- Survenu état délirant aigue 
+					- Hallucinations
+					- Sentiment de persécution 
+					- Eventuelle déréalisation 
+				- Disparition au retour du voyage 
+	- 
+

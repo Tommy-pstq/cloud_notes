@@ -724,7 +724,7 @@
 		- <u>Orthographique</u> : accélère reconnaissance via similitudes orthographiques ("chat" puis "char")
 			- S'observe également en cas de stimuli subliminale
 - <u>Délétère/interférent</u>
-	- **Effet de voisinage orthographique** : *Grainger, O'Reagan, Jacobs & Segui 1989*
+	- **Effet de voisinage orthographique** : <u>*Grainger, O'Reagan, Jacobs & Segui 1989*</u>
 		- Plus un mot à de voisins orthographiques, plus sa reconnaissance est lente. 
 		- ![[Pasted image 20260221152423.png|300]]
 		- $t=f_+(nb-voisin)$  

@@ -97,12 +97,9 @@
 		- -> **Effet d'engagement seulement quand motivation intériorisée et non menace extérieure**
 	- Effet d'engagement : apparait très tôt.
 ## CM5 
- 
-
 
 - **Pallack 1980** : Engagement - influence pour cause environnementale. Ioha - US
 	- Changer les habitudes des gens. 
-		- Essaie de montrer : si vous accepter cet effort 
 	- Hivers longs & froids.
 	- Population : se chauffe au gaz. 
 	- Intérêt pour réchauffement/économie d'énergie 
@@ -114,10 +111,10 @@
 		- Revient 1 mois plus tard 
 			- Check les relevés du compteur
 				- La conso de gaz : **-12%**
-	- Est-ce que le changement uniquement lié à motivation exterieure d'avoir son nom dans le journal ? 
+	- Est-ce que le changement uniquement lié à motivation extérieure d'avoir son nom dans le journal ? 
 		- On retire cette motivation : "le journal ne veut plus publier les noms"
 		- Revient à la fin de l'hiver : Est-ce que l'engagement est maintenu ? 
-			- Résultat : **La conso d'énergie a continuer de réduire : -15.5% d'économie**
+			- Résultat : **La conso d'énergie a continuer de réduire : 15.5% d'économie**
 				- Encore plus d'efforts qu'au départ. 
 					- Hypothèse : effet d'engagement. 
 						- Les efforts ont déjà été fait, s'arrêter là serait renoncer à son engagement, qui est désormais interne et non lié à une motivation extérieure. 

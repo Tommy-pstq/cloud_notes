@@ -95,7 +95,7 @@
 			- Empêche de reconnaitre les inégalités 
 				- Stigmatisé en mode "c'est se focus tout le temps sur le côté négatif"
 			- Refus de combat féministes 
-		- -> discours sur la féminité, chercher le positif à tous prix ... 
+		- -> Discours sur "la féminité", chercher le positif à tous prix ... 
 	- **Evacue la conflictualité du monde, le questionnement de l'ordre social**
 
 - Idéologie dominante :
@@ -114,7 +114,7 @@
 			- **Réflexivité**
 		- <u>Suspension du jugement</u>
 			- Amar Bharati - Quitte tout pour se consacrer à Shiva & fait un appel à la paix. 
-				- Toujours le bras levé. 
+				- Toujours le bras levé aujourd'hui. 
 				- Approche positiviste : c'est pas très rationnel, logique, il a même failli en mourir. 
 					- -> "Cet homme est dérangé"
 						- Si évalué à partir de bases de standards
@@ -328,7 +328,7 @@ Mais aussi :
 	- Educateurs (parents, école, etc.)
 		- Eviter à tous prix de rapporter à des éléments d'essence
 	- Pairs (enfants, endo groupe)
-		- Ex: Loup Glancé filles vs garçons :"On perd tout le temps"
+		- Ex: Loup Glacé filles vs garçons :"On perd tout le temps"
 			- -> Moins de jeux sportifs 
 				- -> Dev moins de capacités motrices 
 					- "On est pas forte en sport"
