@@ -9,6 +9,13 @@
 	- "Comprendre et percevoir les manifestation corporelle & émotionnelle du bébé dans un milieu naturel (domicile familial)"
 	- Naissance -> 2 ans 
 - Différente phase de l'observation ? 
+	- Observation 
+		- 0 notes
+	- Cpt rendu post séance
+		- Détaillé + chronologique
+	- Supervision
+		- Groupe + superviseur 
+		- Décrire + interprétation
 - Rôle de la supervision et comment s'organise-t-elle ? 
 
 

@@ -333,9 +333,135 @@ Mais aussi :
 				- -> Dev moins de capacités motrices 
 					- "On est pas forte en sport"
 	- Société (médias, culture, figures de références)
+--- 
+## CM3  
 
+- Rosenthal : psychologue expert du droit 
+	- "Being Sane in Insane Places"
+		- Science - 1973 
 
+- Construction sociale de l'institution psychiatrique 
 
+1. **Propos général de l'article** ? A quel champ théorique de la psychologie sociale le rattacher ?
+- Si il existe normal/anormal : comment les définir ? 
+	- Des catégories bien distinctes : normales/anormales ? 
+		- Comment s'opère cette distinction ? 
+			- Ex: "meutre" directement catégorisé comme déviant/anormale ? 
+				- Mais aussi simple que ça ?
+					- Ex: Hallucinations
+						- Quand est-ce que c'est défini comme anormal ? 
+							- Pas si clair.
+- -> Comment opère la société pour effectuer cette classification ?
+	- Un outil : 
+		- Le diagnostic 
+2. **Problématique précise étudiée**  ?
+	- Est-ce que les diags sont efficaces et permettes des distinctions objectives ? 
+		- -> Validité du diag ? 
+	- Influences de variables (non pertinentes) sur un diag en présence de symptômes identiques ?
+		- Si oui : pas ouf comme diag. 
+	- -> **Est-ce que le diag est élaboré par les caractéristiques du patient ou est-il influencé par l'environnement et les contextes ?**
+3. Objectifs/hypothèse ?
+	- Est-ce que le caractère normal/anormal d'une personne va être facilement détecté par l'outil du pro ?
+		- Si des personnes "normales" sont présentées au pro, sont-elles identifiées comme "normales" ou pas ? 
+			- Si oui -> méthode de diag plutôt rigoureux 
+			- Si non -> les diag ont de grosses difficultés 
+4. **Méthodes** ?
+	- Etude principale :
+		- **Observation participante en aveugle** 
+			- Personnes sans pathologie mentales à des entretiens d'entrée en institutions psychiatrique - sans être informé.
+				- Pourquoi ? 
+					- Perturber le moins possible le fonctionnement concret et quotidien
+						- = **validité écologie**
+		- Pourquoi pas cette méthode aujourd'hui ? 
+			- Aujourd'hui, impossible de publier dans une revue à IF élevée des obs participantes, uniquement de l'expérimental.  
+			- Méthode alternative possible :
+				- Mettre des pro de santé devant une vidéo et demander déterminer si une personne devrait rentrer ou non en institution.
+					- En faisant varier des paramètres : couleurs de peau, genre, éléments non pertinents ... 
+	- Deuxième étude :
+		- Nb de pseudo-patients internés f(Nb de psuedo-patiens envoyés)
+		- 12 hôpitaux très différents.
+			- Dans des états différents 
+		- Pseudo patients : 
+			- Entendent des voix peu claires - leur rôle s'arrête là.
+				- Pourquoi ce symptôme ? 
+					- A l'époque : pas de nosographie particulière autour de ce seul symptôme. 
+			- Changent leurs noms & profession, le reste inchangé 
+				- Le plus spontané, poli, gentil, répondre sans rien masquer/changer de sa biographie.
+			- Si admis :
+				- Contact sociaux normaux 
+				- Tenu d'un carnet de bord 
+				- Déclare ne plus entendre de voix & souhait de sortir. 
+				- Pas de prise de médicaments 
+				
+5. <u>Résultats</u> :
+			- Admissions & Sortie :
+				- 12 / 12 admission 
+				- Diag posé :
+					- Schizophrénie : 11 / 12 
+					- 12 ème : psychose maniaco-dépressive
+				- Durée moyenne : 
+					- 19 jours en moyenne, entre 7 & 52 jours. 
+					- Condition de sortie :
+						- Schizophrène en rémission 
+							- **Pas de remise en question du diag.**
+							- En rémission =/= sains
+								- Permanence d'une étiquette de malade. 
+			- Réponses de pas mal d'hôpitaux : 
+				- "ça marcherait pas chez nous etc.."
+				- Réponse de Rosenthal :
+					- Pour les 3 prochains mois, des faux patients vont venir et il faudra les détecter. 
+				- Au bout de 3 mois :
+					- 193 personnes reçues 
+						- Combien étaient des faux patients ? 
+							- 19 personnes - 10% : accord interjuge entre au moins un psychiatre et un autre membre déclarés comme faux-patients. (Jusqu'à 21% de suspicion)
+						- Alors que : 0 patients envoyés. 
+				- Erreur type 1 : considérer des malades comme sains
+					- Deuxième dispositifs 
+				- Type 2 : considérer des sains comme malade 
+					-  premier dispositifs
+					- Problématique et difficile à mettre en évidence dans la psychiatrie 
+- **Aspects "Collant" des étiquettes**
+	- <u>Reconstruction de l'histoire du patient.</u>
+		- Utilisation d'éléments non directement liés à la pathologie. 
+			- Arrière-fond psychanalytique. 
+	- <u>Prise de notes des patients</u>
+		- Se rendent compte que ça ne génère **pas** de suspicion **des soignants**
+			- Car ça attesterait le caractère psychopatho
+		- Alors que d'autres patients, présence de suspicion :
+			- Les identifient comme des chercheurs / journalistes
+- **Dépersonnalisation & perte de pouvoir**
+	- <u>Absence de regard</u> : 
+		- Sensation d'invisibilité, pas de salutation, pas d'intérêt véritable du personnel soignant 
+	- <u>Echanges verbaux</u> :
+		- Très peu, on leur adresse peu la parole 
+		- En cas d'échange : toujours directif, à l'initiative du soignant 
+		- S'ils souhaitent interpeller un psychiatre :
+			- Ne les écoutent pas, comme si personne ne leur parlait. 
+		- Très similaire avec ce qui se passe avec les enfants 
+	- <u>Statut particulier</u> 
+		- Privation de droits légaux 
+			- Plus proche de la prison que d'un accompagnement de soin
+		- Privation de crédibilité : statut de malade mental 
+		- Liberté de mouvement 
+		- Absence d'initiative contacts équipe soignante 
+		- Intimité 
+		- Objets personnels soumis à examens 
+		- Absence de secret sur la vie personnelle 
+			- Dossier médical en libre accès 
 
-
-
+6. **Quels enseignements généraux ?**
+	- Faire gaffe. Surtout pas de diagnostique sauvages. {apprentisocier
+		- Engendrera des biais, de la confirmation, reconstruction a posteriori. 
+	- Etiquette -> Essentialisation 
+		- Pathologisation du social 
+		- Prise en charge : très impactée par l'étiquette
+	- Difficulté de remise en cause du diagnostic. 
+		- Alors qu'il est malléable, dépendant du contexte etc, stigmatisant, totalitaire, enfermant etc.
+		
+	- Requestionner nos catégorisation psychologiques 
+		- Avec quel prisme je construis la réalité ?
+			- Rapport réflexif/critique sur ces catégories. 
+	- Requestionner les fonctionnements des institutions
+		- Rapport (de pouvoir) aux publics pris en charge ?
+	- Changer son regard sur le vécu de la maladie mentale 
+		- Prise en compte du vécu psychosocial 
