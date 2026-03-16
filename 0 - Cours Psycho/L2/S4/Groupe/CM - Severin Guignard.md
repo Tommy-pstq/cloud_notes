@@ -336,7 +336,7 @@ Mais aussi :
 --- 
 ## CM3  
 
-- Rosenthal : psychologue expert du droit 
+- Rosenhal : psychologue expert du droit 
 	- "Being Sane in Insane Places"
 		- Science - 1973 
 
@@ -394,22 +394,22 @@ Mais aussi :
 				- Pas de prise de médicaments 
 				
 5. <u>Résultats</u> :
-			- Admissions & Sortie :
-				- 12 / 12 admission 
-				- Diag posé :
-					- Schizophrénie : 11 / 12 
-					- 12 ème : psychose maniaco-dépressive
-				- Durée moyenne : 
-					- 19 jours en moyenne, entre 7 & 52 jours. 
-					- Condition de sortie :
-						- Schizophrène en rémission 
-							- **Pas de remise en question du diag.**
-							- En rémission =/= sains
-								- Permanence d'une étiquette de malade. 
-			- Réponses de pas mal d'hôpitaux : 
-				- "ça marcherait pas chez nous etc.."
-				- Réponse de Rosenthal :
-					- Pour les 3 prochains mois, des faux patients vont venir et il faudra les détecter. 
+	 - **Admissions & Sortie** :
+		- 12 / 12 admission 
+			- Diag posé :
+				- Schizophrénie : 11 / 12 
+				- 12 ème : psychose maniaco-dépressive
+			- Durée moyenne : 
+				- 19 jours en moyenne, entre 7 & 52 jours. 
+				- Condition de sortie :
+					- Schizophrène en rémission 
+						- **Pas de remise en question du diag.**
+						- En rémission =/= sains
+							- Permanence d'une étiquette de malade. 
+		- Réponses de pas mal d'hôpitaux : 
+			- "ça marcherait pas chez nous etc.."
+			- Réponse de Rosenthal :
+				- Pour les 3 prochains mois, des faux patients vont venir et il faudra les détecter. 
 				- Au bout de 3 mois :
 					- 193 personnes reçues 
 						- Combien étaient des faux patients ? 
@@ -418,7 +418,7 @@ Mais aussi :
 				- Erreur type 1 : considérer des malades comme sains
 					- Deuxième dispositifs 
 				- Type 2 : considérer des sains comme malade 
-					-  premier dispositifs
+					- Premier dispositifs
 					- Problématique et difficile à mettre en évidence dans la psychiatrie 
 - **Aspects "Collant" des étiquettes**
 	- <u>Reconstruction de l'histoire du patient.</u>

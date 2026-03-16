@@ -101,3 +101,12 @@
 	- Via son degré d'adhésion
 	- Majorité en tord : importance de l'influence minoritaire. 
 
+
+--- 
+## TD Psychodynamique Groupe 1 
+
+- comment se forme le groupe ?
+	- Procédés / rôle de l'enseignant ?
+- Quels mouvements peuvent s'y retrouver ?
+- Que devient l'individu dans le groupe ? 
+- Identifier persos importants et leurs rôles ?

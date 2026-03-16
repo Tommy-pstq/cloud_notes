@@ -265,3 +265,96 @@
 		- Le TTT automatique ne s'arrête pas après avoir trouver la première solution, ce qui empêche de trouver la solution créative 
 			- -> **Rigidité de l'expertise**
 		- Les GM seraient capable d'inhiber le TTT automatique pour chercher une autre solution
+
+## TD Perception & capture attentionnelle 
+
+- Environnement : il y a des informations saillantes 
+	- Attire notre attention.
+		- Sans que cela soit volontaire. 
+- Mais parfois : certaines infos saillantes passent complètement inaperçues. 
+
+- *Comment explique-t-on que l'attention puisse être attirée par des informations non pertinentes tandis qu'elle peut échouer à être attirées par des infos pertinentes ?*
+	- -> Mécanismes de captures de l'attention.
+
+- Etude de capture attentionnelle :
+	- Retrouver une cible parmi des distracteurs. 
+		- Ex, un des plus utilisés : trouver une lettre parmi d'autres.
+			- Métrique = temps nécessaire.
+- Capture automatique/involontaire de l'attention :
+	- Un des distracteurs possède une propriété qui la rend unique (ex: lettre en rouge)
+		- Singleton
+	- -> Ralentissement du temps de réponse 
+		- Non influencé nombre d'items distractifs.
+
+
+- Effet de la présence d'un singleton :
+	- **Capture attentionnelle subordonnée au stimuli** :
+		- Les caractéristiques du stimuli attirent l'attention, involontairement. 
+		- attention **Exogène**
+		- **Bottom up**
+	- Ralenti la recherche volontaire du stimulus via captation de l'attention
+
+- **Capture intentionnelle contingente des buts & intentions** :
+	- Capture attentionnelle guidée par les caractéristiques recherchées. 
+		- But attentionnel.
+	- -> processus **Top-down**.
+		- Attention orientée via info descendante 
+	- Présence d'un singleton :
+		- Si correspond à la lettre cible : pas d'effet 
+		- Si ne correspond pas : un peu d'impact. 
+
+- Etude récentes:
+	- Matériel : radiographie poumons / contenus de valises 
+	- Impact sur la capture attentionnelle :
+		- Fréquence d'apparition
+		- Niveau d'expertise 
+
+- **Wolf & al 2005**
+	- Objets cibles + distracteurs dans une valise 
+	- Variable :
+		- Prévalence de la cible : 10/25/50% 
+		- Nombres d'objets : 3 -> 18
+	- Métrique :
+		- Taux d'erreur 
+		- Temps de réaction
+	- Hypothèse :
+		- Si bottom-up :
+			- Pas d'effet de fréquence, l'attention devrait être attirée par les caractéristiques de la cible 
+		- Si top-down :
+			- Fréquence faible -> peu attendu -> beaucoup d'erreurs rapides en supposant son absence
+			- Fréquence élevée -> recherche longue, plus précis. 
+	- Résultats :
+		- Valide top-down:
+			- Cible rare -> plus d'erreurs plus rapides 
+		- En fonction des attentes -> perfs différentes. 
+			- Les participants ajusteraient leur critères de décision en fonction de leurs attentes sur la probabilité d'apparition. 
+				- Interruption rapide de la recherche si la proba est basse.
+			- Influence top-down
+				- Processus attentionnels guidés par les attentes 
+
+
+- **Cécité d'inatttention** 
+	- Incapacité à percevoir un stimulus, même saillant, quand il apparait de manière inattendu et que l'attention est focalisée sur autre chose. 
+		- Souvent : tâches visuelles inconnues 
+	- Phénomène également présent chez des experts de la recherche visuelle ? 
+		- **Drew et al 2013**:
+			- Radios d'un poumon à des radiologues expérimentés et novices 
+				- Doivent détecter les oedèmes.
+				- 10 oedèmes / radio en moyenne 
+				- Chaques participants : 5 radios
+				- Dernier essai: un gorille est insérer dans la radio.
+			- Métrique :
+				- Nb oedème détecter 
+				- Est-ce que le gorille a été détecté ? 
+			- Hypothèses :
+				- Si bottom-up : gorille va attirer l'attention via ses caractéristiques. Indep niveau d'expertise;
+				- Top-down : les experts devraient rater le gorille car très focus sur les oedèmes 
+			- Résultats
+				- % d'erreurs :
+					- Experts détectent plus d'oedèmes (50%) que les novices 
+				- Deux groupes :
+					- Très forte cécité d'inattention :
+						- 100% des naifs 
+						- 4 / 24 radiologues qui voient le gorille 
+					- Naifs plus impactés qu'expert, un peu inattendu.
+					- Grande majorité ne voit pas le gorille quand même. 

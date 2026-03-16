@@ -235,3 +235,66 @@
 		- <u>Facteurs S</u>: facteurs spécifiques 
 			- Car les épreuves ne sont pas parfaitement corrélées
 				- Les facteurs S influencent spécifiquement, en plus de la "direction générale" du facteur G 
+
+## CM9 Intelligence 3/3
+
+- Facteurs G & S : inférés.
+	- Il existent, ok.
+		- Mais est-ce que certains facteurs sont plus communs entre certaines épreuves ? 
+			- -> Sous facteurs G spécifiques/relatif à un certain nombre d'épreuve ? 
+				- Clusters : catégorisation par points communs.
+
+### Approche multifactorielle de Thurstone 
+
+- **Thurstone**
+	- Toujours focus analyse stats. 
+	- Critique le facteur G.
+	- Focus sur des **ados**
+		- Plus de variabilité que dans les populations enfants, car + vieux -> plus différenciés.
+			- Donc plus de probabilité de trouver des nuances plus fines entre individus. 
+	- Focus sur les **facteurs spécifiques**
+	- **Analyse factorielle** : réduire la complexité en montrant les facteurs communs entre éléments. 
+		- Spearman : PCA -> cherche un nombre minimum de facteurs 
+		- vs 
+		- **Thurstone** : analyse factorielle multiple 
+			- focus sur **l'indépendance des facteurs** (orthogonaux)
+			- Pas de facteur G unique, mais plusieurs pour des domaines de sous compétences. 
+
+- **Méthodo Thurstone** - 1938
+	- 56 épreuves, 240 étudiants.
+		- Epreuves : reposant supposément sur des compétences complètement indépendantes 
+	- Matrice de corrélation 56x56.
+		- **Emergence de 7 clusters** :
+			- Forte corrélation interne entre épreuve 
+			- Faible corrélation externe 
+			- -> Dépendent de quelque chose en commun : 
+				- **Variable latente** hypothétisée 
+					- Responsable d'une part de variance spécifique pour chaque épreuve 
+						- = "**Saturation**" de l'épreuve 
+							- i.e : degré de prototypie 
+		- <u>7 clusters -> 7 aptitudes mentales primaires</u> 
+			- En opposition avec un facteur G unique 
+			- Permet de définir un "Profil de compétence"
+				- Meilleur orientation/accompagnement 
+
+- Différences Spearman/Thurstone :
+	- Spécificité des tâches 
+	- Population d'étude : ado vs enfants 
+	- Méthode d'analyse :
+		- Focus différences VS pts commun 
+
+
+- **Thurstone**
+	- Ré-analyse ses résultats :
+		- Clusters pas si indépendant entre eux. 
+			- -> Il existe un facteur qui les influences conjointement. 
+
+
+### Modèle hiérarchique de Caroll 
+
+- 1 rang de plus que Thurstone :
+	- Corrélations entre facteurs 
+		- Tous influencés par un "**Facteur général d'intelligence**"
+			- Capacité d'adaptation générale 
+		- Certains facteurs sont +/- représentatifs de ce facteur G.
+	- Profil de compétence possible. 
