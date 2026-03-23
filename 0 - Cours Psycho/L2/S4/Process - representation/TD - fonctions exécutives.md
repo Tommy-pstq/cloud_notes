@@ -344,7 +344,7 @@
 				- Chaques participants : 5 radios
 				- Dernier essai: un gorille est insérer dans la radio.
 			- Métrique :
-				- Nb oedème détecter 
+				- Nb oedème détectés
 				- Est-ce que le gorille a été détecté ? 
 			- Hypothèses :
 				- Si bottom-up : gorille va attirer l'attention via ses caractéristiques. Indep niveau d'expertise;
@@ -358,3 +358,10 @@
 						- 4 / 24 radiologues qui voient le gorille 
 					- Naifs plus impactés qu'expert, un peu inattendu.
 					- Grande majorité ne voit pas le gorille quand même. 
+						- Stimulus non pertinent pour la tâche. 
+
+- CCL :
+	- Des stimulis saillants peuvent passer inaperçu si l'attention est orientée sur une tâche spécifiques.
+	- Performances modulées par les attentes et par l'objectif de la tâche. 
+		- Influence la sélection des infos pertinentes. 
+	- La capture attentionnelle ne dépend pas uniquement des caractéristiques perceptives des stimuli mais largement modulée par du top-down. 

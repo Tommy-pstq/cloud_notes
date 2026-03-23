@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
+                "file": "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyances - des autres.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TD - fonctions exécutives"
+              "title": "Croyances - des autres"
             }
           },
           {
-            "id": "018ad601cd33b681",
+            "id": "d5a29a304e8c6e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Attention Auditive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troubles de la personnalité"
-            }
-          },
-          {
-            "id": "00c8eaadb02aef25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôle de soi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Contrôle de soi"
+              "title": "Attention Auditive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,44 +200,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fb386e6ca2facc9",
+  "active": "d5a29a304e8c6e9b",
   "lastOpenFiles": [
-    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
     "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Intelligence.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Attention Auditive.md",
+    "PDF/L2_S4/CM-RPC-CT-Intelligence.pdf",
+    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
+    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/CM.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur l'évitement/Evitement de soi.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôle de soi.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/CM Method Quali Bernard.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyances - des autres.md",
+    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble délirant.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble psychotique Bref.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble psychotique dû à une autre affection médicale.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Schizophrénie.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble schizophréniforme.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles obsessionnels compulsifs et apparentés.md",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
     "0 - Cours Psycho/L2/S4/Groupe/TD.md",
     "0 - Cours Psycho/L2/S4/Process - representation/Mémoire/Mémoire des experts et nouvelles théories.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/TD/Eval Obs.md",
     "PDF/Rendu TD Methodes qualitatives/DEDOLE_21513279_Entretien de recherche/DEDOLE_21513279_Entretien_invest_univ_2026-01-28_11-34-05.WAV",
     "PDF/Rendu TD Methodes qualitatives/DEDOLE_21513279_Entretien de recherche.zip",
     "0 - Cours Psycho/L2/S4/Methode Quali/TD/TD 7 Bick.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/CM.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Question révisions.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Intro et Recueil de données.md",
-    "0 - Cours Psycho/L2/S4/Groupe/Andela/Intro et Structure de groupe.md",
-    "0 - Cours Psycho/L2/S4/Groupe/Andela/Justice organisationnelle.md",
-    "0 - Cours Psycho/L2/S4/Groupe/Andela/Influence et manipulation.md",
-    "0 - Cours Psycho/L2/S4/Groupe/Andela/Groupe et influence.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Langage.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/CM.md",
     "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut",
     "PDF/L2_S4/CM_method_quali_Bernard.pdf",
-    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Analyse de données.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôle de soi.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôler le cours du monde.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur l'évitement/Evitement de soi.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles obsessionnels compulsifs et apparentés.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Créativité.md",
     "PDF/L2_S4/Mémoire, encodage et accès.pdf",
     "PDF/L2_S4/Mémoire des experts et nouvelles théories.pdf",
     "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité",
     "0 - Cours Psycho/L2/S4/Process - representation/Mémoire",
     "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD",
     "2 - Source Materials/Pasted image 20260305111452.png",
     "2 - Source Materials/Pasted image 20260305105946.png",
     "2 - Source Materials/Pasted image 20260305105512.png",

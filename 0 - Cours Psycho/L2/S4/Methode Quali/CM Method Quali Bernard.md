@@ -262,3 +262,125 @@
 
 - Rigueur réflexive (non structurée) et rigueur procédurale (structurée)
 
+## CM3 
+
+- Observation naturaliste vs expérimentale 
+
+- **Naturaliste** 
+	- Observer des comportements dans leur environnement habituel. Sans intervenir sur la situation.
+		- Contexte non artificiellement construit. 
+	- Comportements spontanés.
+		- vs "produits"
+		- Plus authentiques 
+		- Interactions complexes 
+	- **Validité écologique** 
+	- <u>Limites</u> :
+		- Manque de contrôle 
+			- Tout est mélangé : contexte, individus etc.
+				- Impossible d'isoler des variables
+		- Difficulté de reproductibilité 
+
+- **Observation expérimentale**
+	- Observer des comportements dans une situation contrôlée. Construite pour permettre la manipulation de variable.
+	- Pas que de l'observation : il y a un processus d'organisation. 
+	- Permet de **tester des hypothèses**:
+		- Isoler des variables et mesurer leur effet
+		- **Réplicabilité** ++ 
+	- <u>Limites</u>
+		- Artificialité 
+			- Se savent observés
+				- Biais de désirabilité 
+		- Faibles validité écologique 
+
+- Dilemne psychologie, 2 exigences :
+	- Comprendre la réalité : naturaliste
+	- Expliquer les mécanismes : expérimental 
+	- Complémentarité des approches. : tableau Moodle. 
+- + contrôle -> - réel
+
+### Outils de l'observation en psychologie 
+
+- *Passer de l'observation à une donnée ?*
+	- i.e : produire une observation utilisable 
+		- Transformer le réel : 
+			- Observation brute -> description, codage -> data. 
+
+- #### **Grille d'observation**
+	- Organisation préalable de ce qui va être observé. 
+		- "Sélectionner, organiser, limiter le regard"
+	- Construction d'une grille:
+		1. Définir l'objectif 
+			- Ce qui est recherché 
+		2. Opérationnaliser 
+		3. Définir des catégories 
+	1. Définition de l'objectif 
+		- Souvent : idée vague initialement. 
+			- Définition des termes impliqués 
+				- Les comportements qui les caractérisent	
+		- Précision ++ : contexte précis.
+	2. Opérationnaliser 
+		- Liste de comportement observables 
+	3. Catégories :
+		- Labels pour les observations. 
+			- Compréhensibles immédiatement 
+				- Claires 
+				- Non ambiguës 
+				- Distinctes 
+		- Catégories mal définies 
+			- -> pas de fidélité interjuge .
+	- **Validité de la grille ?**
+		- Est-ce qu'un autre observateur comprend la grille de la même manière ? 
+			- Sinon, pas de fidélité IJ. 
+				- Mesuré : même situation, même grille. 
+		- Comparabilité des observateurs
+		- Fidélité interjuge :
+			- Assure de la cohérence, pas de la vérité. 
+	- Grilles 
+		- Simplifient la réalité 
+			- Risque : perte de complexité. 
+		- "Plus on structure plus on perd de la richesse"
+			- Sélection des infos 
+		- Dépend du cadre théorique 
+			- -> Observation construite 
+		- Biais principal :
+			- Oriente l'observation 
+				- **Biais de sélection** 
+				- **Biais d'interprétation** 
+			- =/= objectif
+- -> Grilles = construction, simplification, choix, pas des miroirs de la réalité. 
+	- Regard critique dessus nécessaire. 
+
+- #### Codage des comportements 
+	- Coder =/= compter
+		- Traduire. 
+			- Traduction -> transformation. 
+		- "coder c'est déjà interpréter"
+- ##### Différents types de codage 
+	- **Codage par fréquence** 
+		- Itération d'un comportement.
+	- **Codage par intensité**
+	- **Occurrence** 
+		- Binaire : présent / absent 
+	- **Durée**
+- ##### Fonction
+	- Dépend du cadre théorique 
+	- Codage clair -> fidélité interjuge ++
+	- Objectiver 
+		- Sortir des simples impressions 
+	- Comparer
+		- Temporellement, entre individu
+	- Analyser
+	- Communiquer
+- ##### Limites 
+	- Simplification
+	- Réduction du sens 
+	- Subjectivité persistante 
+		- illusion d'objectivité
+			- Marge  d'interprétation lors du codage 
+	- Perte de contexte 
+
+- En recherche :
+	- Codage essentiel pour mesurer 
+- Clinique :
+	- Ressenti = utilisable de manière réflexive 
+	- Codage complémentaire 

@@ -319,5 +319,118 @@
 					- Sentiment de persécution 
 					- Eventuelle déréalisation 
 				- Disparition au retour du voyage 
-	- 
+
+## CM3 
+
+#### Troubles de la personnalité d'allure psychotique 
+
+- Schizoïde 
+- Schizotypique 
+- Paranoïde 
+
+### Caractéristiques générales psychoses 
+
+- Série de troubles mentaux graves définis par :
+	- Perte de contact avec la réalité
+	- Idées irrationnelles 
+	- Fausses perceptions 
+- Perturbations importantes du fonctionnement psychique 
+	- Pensée : confusion entre imaginaire & réalité 
+	- Sensations 
+	- Perceptions 
+	- Contrôle des impulsions 
+- -> Dysfonctionnement global du sujet, impact toutes les sphères de la vie 
+- Anosognosie 
+
+### Schizophrénie 
+
+- Début :
+	- Aiguë - décompensation rapide puis maintiens dans cet état 
+	- Plus fréquent : entrée progressive.
+		- Installation à bas bruit 
+			- Phase prodromique : quelques semaines -> années 
+				- Signes non spécifiques.
+					- Nervosité / irritabilité 
+					- Inquiétude / anxiété exagérée 
+					- Humeur dépressive, émoussement affectif 
+					- Baisse de motivation 
+						- Effet scolaire / pro 
+					- Troubles cognitifs : concentration
+					- Modification des activités :
+						- Apathie 
+					- Retrait / isolement social 
+- Symptomato :
+	- "Symptômes dissociatifs"
+	- Symptômes positifs 
+	- Symptômes négatifs 
+
+- Symptômes désorganisés dissociatifs 
+	- Désorganisation majeure de la pensée :
+		- Discours désorganisé 
+		- Affects inapproprié 
+		- Comportements désorganisés 
+- Symptômes positifs 
+	- Idées délirantes 
+		- Mécanisme de formation :
+			- Interprétation : soutient un élément faux à partir d'un élément réel perçu. 
+			- Imagination. 
+			- Intuition : revendique une connaissance particulière de choses qui l'entourent que d'autres ignorent. 
+			- Illusion : déformation de perception.
+			- Hallucination : perception sans objet 
+	- Hallucinations 
+	- Pensée désorganisée 
+		- Discours désorganisé 
+	- Perturbations affectives / comportementales 
+- Symptômes négatifs 
+	- Retrait social 
+		- Anhédonie sociale 
+		- Baisse d'intérêt 
+	- Manque d'énergie / initiative 
+		- Apathie 
+		- Négligence corporelle 
+	- Insensibilité émotionnelle 
+
+### Formes de la schizophrénie (ça n'existe plus)
+
+- Paranoïde 
+	- Idée délirantes persécutives 
+	- Symptômes négatifs discrets
+- Hébéphrénique 
+	- Perturbation des affects au premier plan 
+		- Maniérisme / superficialité
+		- Discours incohérent
+		- Isolement social
+	- Idées délirantes / hallu en marge 
+- Simple 
+	- Avec phase prodromique "bizarre"
+- Catatonique 
+	- Perturbations psychomotrices importantes 
+	- Expériences hallucinatoires intensément vécues 
+
+### Paranoïa = Trouble délirant. 
+
+- Glissement personnalité paranoïde -> paranoïa :
+	- Hypertrophie du moi 
+		- Pas de remise en question, se considère comme meilleur que les autres 
+	- Rigidité des modes de pensée
+		- Croyance, ne peut être convaincu autrement 
+	- Sentiment de persécution 
+	- Fausseté du jugement, discours pseudo-logique 
+		- Mauvaise interprétation du réel, sans remise en question possible 
+	- Bonne insertion sociale possible 
+	- Pas d'hallucination
+	- Capacité cognitives préservées hors domaine délire
+- Psychose chronique, centrée sur l'interprétation du monde extérieur. 
+	- Délire **systématisé**, stable. 
+	- Potentiellement convainquant 
+	- Type de délires fréquents :
+		- Passionnels 
+			- Erotomanie 
+			- Jalousie 
+			- Revendication : conviction de détenir la vérité 
+		- D'interprétation 
+			- Prisme d'interprétation 
+		- De persécution 
+			- Se considère comme victime 
+				- Préjudice. 
 

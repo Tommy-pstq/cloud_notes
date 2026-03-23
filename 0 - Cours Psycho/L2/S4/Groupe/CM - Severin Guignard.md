@@ -464,4 +464,177 @@ Mais aussi :
 	- Requestionner les fonctionnements des institutions
 		- Rapport (de pouvoir) aux publics pris en charge ?
 	- Changer son regard sur le vécu de la maladie mentale 
-		- Prise en compte du vécu psychosocial 
+		- Prise en compte du vécu psychosocial
+
+## CM4 - Construction collective de la réalité 
+
+- Léo Festinger, 1954
+	- Découvre article journal local : interpelé.
+		- Prophétie - Fuyez le déluge.
+			- Prédiction via écriture automatique. 
+	- Curiosité -> vont rencontrer la madame.
+		- Femme au foyer, 49 ans, vit seule, M. Keech
+		- Pratique écriture automatique (en vogue à l'époque, coucou la psychanalyse)
+			- Reçoit des messages extraterrestres.
+				- 21 décembre prochain = fin du monde. 
+					- Date précise -> **Menace** +++
+	- Solution à cette menace :
+		- Les extraterrestre lui demande de créer un groupe.
+			- Qui recevra des messages, le groupe devra suivre les instructions pour préparer l'évacuation et les sauver de la fin du monde. 
+- -> Livre : l'échec d'une prophétie (mi psychosociale, mi roman)
+	- Lire aussi l'article qui "debunk" ce qui se dit dans le bouquin: les auteurs pas si passifs que ça pdt leur observation.
+
+- A propos de la fin du monde.
+	- Thématique classique, retrouvée quasiment toute sociétés humains = *Eschatologie*
+		- Renvoie à la fin de nos propres existences. 
+	- Figure du déluge / guerre / enfer-paradis = classique.
+		- Plus récent : collapsologie
+			- Effondrement de l'ère thermo industrielle 
+				- -> Effondrement **d'un** monde. 
+	- Prédictions de fin du monde :
+		- Il y en a toujours eu.
+		- Et il y en a toujours.
+			- Dont une en 2027
+
+- **Narrations qui y sont liées ?**
+	- Mise en récit : construction sociale de réalité. 
+		- Pour des petits groupes, voire des sociétés entières. 
+	- Pourquoi ça fonctionne ?
+		- Puise dans des grands récits, "réservoir culturel" connu
+		- Met en scène des protagonistes 
+			- Donne des rôles
+		- Préconise des formes d'actions :
+			- Evite la passivité 
+		- -> Devient un **mouvement rassembleur**
+			- Face à une menace qui dépasse tout le reste.
+			- Des actions sont à menées 
+				- Qui donne accès à une forme de **rédemption**
+					- Pour des "élus"
+	- Collapsologie : utilisation d'une "courbe du deuil" pour la narration
+		- Déni > Colère > Négociation > Tristesse > Acceptation
+		- Favorise : autonomie alimentaire + liens sociaux
+
+- <u>Festinger 1955</u>
+	- Post curiosité & entretien : quel intérêt de recherche ? 
+		- *Comment le groupe va s'organiser autour d'une nouvelle croyance ?*
+			- Emergence d'un groupe et d'une croyance, moment charnière pour la constitution
+			- Forme, degré des croyances ? Adhésion à ces croyances ?
+		- *Comment s'opère le recrutement des adeptes ?* 
+			- Personne en quête de sens, baignant déjà dans certaines pratiques ésotériques 
+		- ***Que va-t-il se passer pour ces individus lorsque leurs croyances vont êtes démenties par la réalité ?***
+	- <u>Méthode</u> d'étude :
+		- Focus chronologie des événements 
+			- Evolution du groupe au quotidien 
+			- Lors du soir de la fin du monde
+		- Focus sur les comportements & force des convictions
+			- Retranscrire leurs discussions, activités : évaluer croyances convictions
+				- Lien entre comportements & force des convictions 
+		- -> <u>Infiltrer le groupe</u> : <u>observation participante en aveugle</u>. 
+			- Taille groupe: 20 - 40 personnes environ 
+- Chronologie 
+	- Plusieurs séquences :
+		- Avant le 20 décembre : peu de prosélytisme/pub
+			- Plutôt méfiant journalistes, pas bcp d'interviews
+			- QG = maison M. Keech
+				- Pas accès pour tous, seulement aux "vrais croyants"
+					- Pas que ceux qui viennent aux events qui les intéressent 
+		- Petit à petit :
+			- Augmentation de l'implication des membres.
+				- Conflits entre activités du groupe et vie perso :
+					- Famille / Travail / Proches / Etudes 
+				- Les membres acceptent à mettre de côté des aspects qu'ils maintenaient auparavant. 
+			- -> **La force de croyance augmente avec l'implication / adhésion avec ce que dit M. Keech** 
+		- Le jour de la fin du monde:
+			- 20 au soir : Tous les plus fidèles se retrouvent dans la maison de M. Keech
+				- Sauf les 2 femmes empêchés par leurs maris (qu'elles essaient de convaincre)
+			- M. K : messages de plus en plus intenses :
+				- Un extraterrestre viendra à minuit.
+					- Leur proposera de venir dans son vaisseau
+					- Devront enlever tous les éléments métalliques de leur corps 
+						- Y compris l'alliance (geste fort) : le font quand même.
+			- Se réunissent dans le salon.
+			- Attendent.
+			- A minuit : rien.
+	- **Quand la fin du monde ne vient pas.**
+		- *Comment font ils face à cette situation ?* 
+			- Silence - nervosité.
+				- Sauf qu'une pendule affiche 23h55
+					- Le groupe **s'accorde**: pour dire qu'il n'était pas minuit **l'espoir renait.**
+			- Deuxième horloge affiche minuit aussi, et ne se passe toujours rien.
+				- Restent assis plusieurs heures, en rond, silence de stupéfaction. 
+					- Sidération.
+				- M. Keech se retire pour pleurer. 
+			- **4h45** : M. Keech  ressort, avec un message provenant de la planète Clarion
+				- = échappatoire à la sidération
+				- "Le petit groupe assis toute la nuit à répandu tant de lumière que Dieu à sauver le monde de la destruction" (première mention de Dieu.)
+					- Critique : il y aurait eu suggestions des collaborateurs de Festinger. 
+			- Dans l'après midi :
+				- Nouvel enthousiasme dans le groupe :
+					- Envoie des messages aux journaux 
+					- Explique ce qu'il s'est passé aux autres initiés absents 
+					- Informent les curieux 
+				- -> **Début des actions de prosélytisme**
+					- Semble renforcer les convictions 
+		- Epilogue :
+			- L'observation participante touche à sa fin
+			- Suivi de loin :
+				- Le groupe se disloque.
+				- M. Keech et d'autres très impliqués dans le groupe :
+					- Très rassurés sur le foi (pas sûr que ce soit vrai d'après l'article.)
+				- Ceux qui persistent dans leur foi = 
+					- Les plus impliqués.
+						- Organisent des projets 
+						- Evitent de porter du métal 
+						- L'un des membre vent sa maison car biens matériels d'aucune utilité, pour subventionner le groupe 
+						- Certains étudiants restent avec le groupe pour Noël 
+			- Les 2 femmes n'ayant pas pu participer au groupe du 20 au soir :
+				- S'éloignent du groupe 
+				- Se rapprochent d'autres groupes ésotériques. 
+			- Majorité des curieux : se détournent rapidement. 
+		- Confirment bien (trop ?) la théorie de la dissonance cognitive de Festinger. 
+
+- **Théorisation de Festinger** :
+	- Intérêt pour le renforcement de Festinger :
+		- Seulement les plus engagés (présents le 20) et pas forcément les plus croyants (adhésion) qui persistent dans leur croyance 
+			- **-> rôle de l'implication comportementale** dans la capacité à **changer** ses croyances. 
+				- Engagement ++ 
+	- Evolution des activités/comportements 
+		- Peu de prosélytisme au départ 
+		- Le désaveu amène à des engagement comportementaux qui renforcent leur croyance 
+			- **Comportement -> renforcement des croyances**
+	- Très facile de <u>s'arranger avec la réalité </u>
+		- "Sujet motivé" : besoin psychologique 
+			- Inconfort lié à une tension psychologique/physique via **dissonance cognitive** 
+				- -> on s'arrange avec la réalité pour éviter cet inconfort. 
+		
+- Humain $\neq$ rationnel.
+	- Mais il **rationnalise** :
+		- Essaie de trouver les bonnes raisons derrière des comportements effectués. 
+			- Ex: jeu de société semi coopératif soirée pyjama, survivaliste:				- Construction collective d'un radeau, certains peuvent mourir. 
+				- Gamine ne veut pas qu'on regarde les règles pendant qu'elle explique. 
+				- Gagne, en tuant quelqu'un, s'en va SEULE sur le radeau, dit qu'elle a gagné et très fière. 
+				- Check les règles : en fait elle a pas gagné.
+					- "NON je connais bien le jeu"
+					- Refuse qu'on aille regarder les règles "a la fin du livret", le prend et s'enfui. 
+				- -> Déni de réalité. 
+					- Elle voulait GAGNER plutôt que jouer à SON jeu. 
+- **Dure de changer une conviction**		
+	- Surtout en cas de croyances profondément ancrées 
+	- En fonction de l'engagement comportemental 
+	- Du support collectif :
+		- Croyances portées collectivement.  
+		- Controverses peuvent alimenter 
+
+- **Construction sociale de la réalité**
+	- <u>Approche positiviste</u>: posture évaluative 
+		- Déterminer pourquoi "ils se trompent autant ?" et pensent de façons irrationnelle 
+			- Jugement de complotisme, secte, etc... 
+
+	- <u>Approche socio-constructiviste</u>: posture compréhensive. 
+		- Origine / fonctions / sens de ces croyances ?
+		- Pas si irrationnel que ça : logique interne propre. 
+		- Comprendre l'adhésion à des formes collectives de croyances 
+
+
+- Pas toujours un gourou/leader charismatique manipulateur
+	- M. Keech : plutôt oracle style Pitie, qui donne des signes et les autres organisent autour de ça. 
