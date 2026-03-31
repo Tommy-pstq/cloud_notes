@@ -110,3 +110,16 @@
 - Quels mouvements peuvent s'y retrouver ?
 - Que devient l'individu dans le groupe ? 
 - Identifier persos importants et leurs rôles ?
+
+
+- Bion : 
+	- Présupposé de dépendance au leader
+	- Présupposé de combat/fuite
+	- Présupposé de couplage 
+		- Duo/tout petit groupe qui illustre l'idéal du groupe 
+			- "peut faire renaitre un groupe"
+	- Groupe de base :
+		- Latent, moins conscientisé, plus affectif 
+		- Clivage : bon à l'intérieur, mauvais extérieur 
+	- Groupe de travail :
+		- Avec objectif 

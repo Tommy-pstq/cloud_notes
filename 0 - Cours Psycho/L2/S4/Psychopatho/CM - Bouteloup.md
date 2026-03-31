@@ -365,6 +365,7 @@
 	- Symptômes négatifs 
 
 - Symptômes désorganisés dissociatifs 
+	- *Fait partie des symptômes positifs dans le DSM. Rien à voir avec la dissociation telle que définie actuellement : dépersonnalisation, déréalisation, amnésie*
 	- Désorganisation majeure de la pensée :
 		- Discours désorganisé 
 		- Affects inapproprié 
@@ -433,4 +434,70 @@
 		- De persécution 
 			- Se considère comme victime 
 				- Préjudice. 
+--- 
+## CM5 Etats limite & trouble de la personnalité 
 
+- Entité clinique issue de deux mouvements :
+	- Recherche de la nosographie psychiatrique 
+		- Surtout autour schizophrénie 
+			- Perso' schizoïde/schizotypique 
+	- Gros ratés des thérapies psychanalytiques:
+		- Fonctionnent pas. 
+		- "psychoses de transfert" alors que "structure névrotiques"
+
+- Etats limites : ni dans la psychose ni dans la névrose.
+	- Structuration oeudipienne : n'est pas parvenu à organiser la psyché 
+		- Relation d'objet pré-génitale = relation à l'autre sans existence indépendante. Collage, fusion.
+	- Angoisse prédominante : perte d'objet / séparation / effondrement / abandon
+	- Peu / pas de lien entré vécu dans l'enfance et situation adulte   
+		- Tendance anaclitique à l'autre
+			- Autre : toujours une fonction très importante = combler un vide ou soutenir mégalomanie 
+	- Regroupe les "troubles graves de la personnalité" des DSM.
+	- Modes durables des conduites et de l'expérience vécue qui dévient notablement de ce qui attendu culturellement.
+		- Inadapté, rigide, altération fonctionnement 
+
+
+
+### Trouble personnalité borderline 
+
+- Comorbidités ++ :
+	- Substances, conso/abus :  drogues / médocs
+		- Souvent : pour réguler les émotions 
+	- Troubles de l'humeur ; 50%
+	- Trouble bipolaire : 30% 
+- Peur extrême de l'abandon 
+- Impulsivité 
+	- Diff diag TDAH, mais comorbidité ++ aussi
+- Instabilité relationnelle 
+- Image de soi instable 
+- Conduites autodestructrices 
+- TS
+- Sentiment chronique de vide 
+- Labilité émotionnelle 
+
+- Activation émotionnelle +++
+
+
+### Trouble perso narcissique 
+
+- Narcissisme se construit en même temps que relation d'objet 
+	- R6 objet normale <-> narcissisme normale 
+	- Pathologique <-> Pathologique 
+- Narcissisme pathologique :
+	- Approche Dimensionnelle : 
+		- Combinaison 3 phénomènes 
+			- Dysrégulation du self 
+			- Dysrégulation des émotions 
+			- Dysfonction relation interpersonnelles
+		- Attachement intense & anxieux 
+		- Peur à faire confiance / dépendre de l'autre 
+	- Approche Catégorielle :
+		- Grandiose 
+			- Arrogance, dans son droit, sans honte, inconscient du côté pathologique de son narcissisme 
+		- Vulnérable 
+			- Hypervigilance / dépression / enclin à la honte / narcissisme appauvri 
+
+- Caractéristiques :
+	- Sentiment de supériorité // autres 
+	- Besoin d'être admiré 
+	- Manque d'empathie

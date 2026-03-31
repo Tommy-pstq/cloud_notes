@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fb386e6ca2facc9",
+            "id": "50133802561d584e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyances - des autres.md",
+                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Mémoire adaptative.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Croyances - des autres"
+              "title": "Mémoire adaptative"
+            }
+          },
+          {
+            "id": "293ff11a45aeb37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/Sans titre 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 1"
+            }
+          },
+          {
+            "id": "fe253ddbbeb117d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notes archivées/Fonctionnement neural/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memory, Navigation and theta rythm in the hippocampal-entorhinal system"
             }
           },
           {
@@ -37,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Attention Auditive.md",
+                "file": "0 - Cours Psycho/L2/S4/Groupe/Andela/Questions revisions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +100,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attention Auditive"
+              "title": "Questions revisions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,54 +247,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5a29a304e8c6e9b",
+  "active": "50133802561d584e",
   "lastOpenFiles": [
-    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Intelligence.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Attention Auditive.md",
-    "PDF/L2_S4/CM-RPC-CT-Intelligence.pdf",
-    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
-    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
-    "0 - Cours Psycho/L2/S4/Groupe/Andela/CM.md",
-    "0 - Cours Psycho/L2/S4/Psychopatho/TD.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur l'évitement/Evitement de soi.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logique fondées sur le contrôle, logique paradoxales/Contrôle de soi.md",
+    "3 - Tags/Sans titre 1.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Mémoire adaptative.md",
+    "5 - Notes archivées/Fonctionnement neural/Memory, Navigation and theta rythm in the hippocampal-entorhinal system.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/CM Method Quali Bernard.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyances - des autres.md",
-    "7 - Psycho/Une logique des troubles mentaux/La classification des troubles et le DOSS/Logiques fondées sur la confirmation de croyance/Croyance - de soi.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble délirant.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble psychotique Bref.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble psychotique dû à une autre affection médicale.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Schizophrénie.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Spectre de la schizophrénie et autre psychoes/Trouble schizophréniforme.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles anxieux - TOC/Troubles obsessionnels compulsifs et apparentés.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/TD - fonctions exécutives.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Apprentissage implicite.md",
+    "PDF/L2_S4/CM - Method Quali - Dupoirier.pdf",
+    "PDF/L2_S4/RPC.zip",
+    "PDF/L2_S4/RPC/Apprentissage implicite.pdf",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Attention Auditive.md",
+    "PDF/L2_S4/RPC/Attention Auditive.pdf",
+    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut/Langage.md",
+    "PDF/L2_S4/RPC/Langage.pdf",
+    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité/Créativité.md",
+    "PDF/L2_S4/RPC/Créativité.pdf",
+    "0 - Cours Psycho/L2/S4/Groupe/CM - Severin Guignard.md",
+    "PDF/L2_S4/RPC/CM-RPC-CT-Intelligence.pdf",
+    "PDF/L2_S4/RPC/Mémoire, encodage et accès.pdf",
+    "PDF/L2_S4/RPC/Mémoire des experts et nouvelles théories.pdf",
+    "PDF/L2_S4/Psychodynamique groupe/Mémoire des experts et nouvelles théories.pdf",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Justice organisationnelle.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Influence et manipulation.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Groupe et influence.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Intro et Structure de groupe.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/CM.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/TD - Self control.md",
+    "2 - Source Materials/Pasted image 20260330140721.png",
+    "2 - Source Materials/Pasted image 20260330140037.png",
+    "2 - Source Materials/Pasted image 20260330140025.png",
+    "2 - Source Materials/Pasted image 20260330130539.png",
     "0 - Cours Psycho/L2/S4/Groupe/TD.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire/Mémoire des experts et nouvelles théories.md",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD/Eval Obs.md",
-    "PDF/Rendu TD Methodes qualitatives/DEDOLE_21513279_Entretien de recherche/DEDOLE_21513279_Entretien_invest_univ_2026-01-28_11-34-05.WAV",
-    "PDF/Rendu TD Methodes qualitatives/DEDOLE_21513279_Entretien de recherche.zip",
-    "0 - Cours Psycho/L2/S4/Methode Quali/TD/TD 7 Bick.md",
+    "0 - Cours Psycho/L2/S4/Groupe/Andela/Questions revisions.md",
+    "PDF/Methodo.md",
+    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire/Mémoire, encodage et accès.md",
+    "0 - Cours Psycho/L2/S4/Psychopatho/CM - Bouteloup.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Point méthodo recherche.md",
+    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Intro et Recueil de données.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/CM.md",
     "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier/Question révisions.md",
-    "0 - Cours Psycho/L2/S4/Process - representation/CM Thiebaut",
-    "PDF/L2_S4/CM_method_quali_Bernard.pdf",
-    "PDF/L2_S4/Mémoire, encodage et accès.pdf",
-    "PDF/L2_S4/Mémoire des experts et nouvelles théories.pdf",
-    "0 - Cours Psycho/L2/S4/Process - representation/Intelligence et créativité",
-    "0 - Cours Psycho/L2/S4/Process - representation/Mémoire",
-    "0 - Cours Psycho/L2/S4/Methode Quali/Entretien Dupoirier",
+    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
+    "5 - Notes archivées/TND/Sensorialité chez les personnes TSA.md",
     "2 - Source Materials/Pasted image 20260305111452.png",
     "2 - Source Materials/Pasted image 20260305105946.png",
     "2 - Source Materials/Pasted image 20260305105512.png",
     "2 - Source Materials/Pasted image 20260221161823.png",
     "2 - Source Materials/Pasted image 20260221161750.png",
     "2 - Source Materials/Pasted image 20260221161715.png",
-    "2 - Source Materials/Pasted image 20260221161645.png",
-    "2 - Source Materials/Pasted image 20260221161625.png",
-    "2 - Source Materials/Pasted image 20260221152848.png",
-    "2 - Source Materials/Pasted image 20260221152423.png",
     "Untitled.canvas"
   ]
 }

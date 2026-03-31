@@ -450,7 +450,7 @@ Mais aussi :
 			- Dossier médical en libre accès 
 
 6. **Quels enseignements généraux ?**
-	- Faire gaffe. Surtout pas de diagnostique sauvages. {apprentisocier
+	- Faire gaffe. Surtout pas de diagnostique sauvages. {apprentisorcier
 		- Engendrera des biais, de la confirmation, reconstruction a posteriori. 
 	- Etiquette -> Essentialisation 
 		- Pathologisation du social 
@@ -617,7 +617,7 @@ Mais aussi :
 					- "NON je connais bien le jeu"
 					- Refuse qu'on aille regarder les règles "a la fin du livret", le prend et s'enfui. 
 				- -> Déni de réalité. 
-					- Elle voulait GAGNER plutôt que jouer à SON jeu. 
+					- Elle voulait GAGNER plutôt que JOUER à son jeu. 
 - **Dure de changer une conviction**		
 	- Surtout en cas de croyances profondément ancrées 
 	- En fonction de l'engagement comportemental 
@@ -638,3 +638,123 @@ Mais aussi :
 
 - Pas toujours un gourou/leader charismatique manipulateur
 	- M. Keech : plutôt oracle style Pitie, qui donne des signes et les autres organisent autour de ça. 
+
+## CM5 Discrimination & construction sociale 
+
+- Questions pré projection :
+	- Pourquoi cette expérimentation/simulation ?
+		- Objectifs ?
+			- Sortir discrimination de sa classe, toujours présent malgré plusieurs interventions 
+		- Justification du recours à ce type de dispositif 
+			- Si vécu = reste dans les valeurs / façons de penser.
+		- Regard critique : objectif vs résultat
+			- Directement contesté / atmosphère tendue 
+			- Intériorisation, reproduction de la discrimination de la prof par les élèves 
+			- Inversion des rôles plus rapide, sans rébellion
+			- "Vengeance" -> "ils n'ont rien compris"
+	- Qu'est-ce qui a favorisé la mise en place de la situation de discrimination ?
+		- Comment le dispositif a-t-il été réfléchi ? quels éléments ? 
+		- Justification "scientifiques"
+		- Éléments visuels 
+		- Favoritisme procédurale 
+		- Type de travaux différents 
+	- Conséquences du TTT discriminatoire sur les élèves ?
+		- Isolement / tristesse / insultes 
+		- Ségrégation
+			- Mise en rang discriminé sans demande 
+			- Table 
+		- Dilution de honte du groupe 
+		- Incapacité de concentrer 
+	- Questionnement éthique / critique ? 
+		- Pousser à bout d'un élève volontairement 
+	- Quels parallèles avec d'autres situations ? (pas évaluer dessus)
+
+- schisme endo/exo groupe = suffisant pour faire émerger discrimination. 
+- Reprod exp couleurs yeux -> favoritisme systématique -> ségrégation 
+- Très peu de rébellion 
+- Effet ++ après temps de réflexion 
+
+1. **Pourquoi cette expérimentation ?** 
+	- Quel objectif ?
+		- Pédagogique & pratique : faire sortir les préjugés/discrimination de la tête des enfants 
+	- Pourquoi cette démarche 
+		- Résultat profond si c'est vécu plutôt que juste des discussions 
+			- "Il faut vivre pour comprendre"
+				- Similaire vaccin 
+					- Probant de premier abord, mais critique car procédés biologiques très connu et contrôlés, moins le cas pour ce qui des attitudes & comportements 
+	- Critique :
+		- C'est efficace. changement des attitudes & comportements. 10 ans plus tard, affimre que ça a eu des effets sur les trajectoires de vie. 
+		- Mais :
+			- C'est obtenu par des situations violentes. 
+			- Consements des élèves : limites niveau liberté et éclairé 
+		- Apprentissage par l'expérience : est-ce vraiment le seul moyen ? 
+			- Modification de attitudes / comportements uniquement via l'expérience ? 
+				- On ne pourrait pas comprendre ce que l'on a pas expérimenté ?
+		- Critique des démarches de simulation "se mettre à la place de..."
+			- Parfois pas les bons points abordés :
+				- Ex: ne pas pouvoir marché le plus difficile ou la brutalité institutionnelle quotidienne ? 
+			- Entrainent parfois de la pitié/compassion 
+			- -> Permettre aux personnes concernés d'exprimer leur vécu et que ce soit pris en compte réellement par celleux qui ne le sont pas 
+			- -> Est-ce que les élèves ont vraiment expérimentés la discrimination ou simplement de la violence ? 
+2. **Quels éléments favorisant la mise en place de situation de discrimination**
+	- Catégorisation
+		- Division du groupe sur la base d'un **critère arbitraire** & **non contrôlable** 
+			- Via utilisation d'argument d'autorité "scientifique" (similaire eugénisme)
+		- Différenciation, rendre visible via utilisation de **stigmate visuel**
+			- Distinction facile endo/exo groupe
+			- "stigmate" = élément visible pour jeter le discrédit sur une population donnée 
+	- Comportements :
+		- Valorisation du groupe favorisé 
+			- Renforcement positifs, encouragements, attentes positives 
+		- Dévalorisation groupe défavorisé 
+			- Attribution interne, renforcements négatifs, attentes négatives
+		- Base matérielle :
+			- Répartition inégalitaire des ressources & droits 
+				- Privilèges : uniquement pour les favorisés
+				- Pour l'autre groupe : absence de privilèges. 
+3. **Conséquences** 
+	- Détresse 
+		- Tristesse / Apathie 
+	- Légère révolte (trop légère pour la prof)
+		- Pourquoi pas plus de révolte ? 
+			- Soumission à l'autorité 
+				- La prof n'y pense jamais, elle renvoie toujours ça a "la nature humaine"
+				- Dispositif traditionnel d'éducation, tout le pouvoir est dans les mains de l'enseignant. 
+					- Donc élèves pas étonnés quand elle dit : "les petits font ci, les grand ça"
+	- Enthousiasme 
+		- Chez les enfants favorisés 
+	- Coopération **active** (des favorisés)
+	- Processus de différenciation endo/exo groupe marqués.
+		- Cantine / rangs 
+		- Malgré les relations affinitaires initiales, qui sont supplantés par les groupes imposés 
+	- Rivalité intergroupe 
+		- Remarques quand un élève va au tableau 
+	- Baisse des performances scolaires 
+		- -> Menace du stéréotype 
+		- Test mathématique impacté 
+	- Baisse de l'estime de soi 
+		- Se sentent moins capables/compétents car moins valorisés 
+4. **Questionnement éthique & critique** 
+	- Place de l'enseignante ? 
+		- Pas assez traitée dans le doc 
+			- Les élèves se conforment aux règles imposées par l'enseignante 
+				- Plutôt de la soumission à l'autorité que des "instincts naturels"
+					- Coopération avec une autorité malveillante, conformément à le rôle d'élève du quotidien. 
+				- Favorisée par la disposition des tables qui empêche la communication entre élèves 
+	- Soumission à l'autorité :
+		- Contrevient au principe de pouvoir "sortir librement" de l'expérimentation imposée par l'enseignante. 
+	- Est-ce acceptable d'utiliser la violence à des fins justes ? 
+		- Violence "banale" de la société 
+			- Si c'est accepté dans la société, pourquoi s'en empêcher dans la recherche pour les critiquer / mettre en lumière ?
+				- De manière encadrée, avec comité d'éthique, suivit psychologique etc. 
+					- Et ça c'est pas le cas dans le quotidien. 
+		- Ne pas ressortir plus mal qu'en y rentrant ? 
+			- Plus questionnable dans cette situation 
+			- Subir des violences pendant une journée : potentiellement traumatique ? 
+				- Trauma qui entraine l'efficacité à long terme ? 
+	- Commentaires de la voix off ?
+		- Très problématique. 
+		- Beaucoup de questionnements et des conclusions présentées 
+			- Portant sur la "nature humaine"
+- 
+

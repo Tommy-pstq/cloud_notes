@@ -384,3 +384,202 @@
 - Clinique :
 	- Ressenti = utilisable de manière réflexive 
 	- Codage complémentaire 
+
+## CM -1 
+
+### Contre-transfert 
+
+- Contre-transfert = "Ensemble de réactions affectives conscientes & inconscientes du psychanalyste envers son patient"
+	- En lien avec la nature du conflit psychique projeté par le patient. 
+	- Etendu tout pro' relation d'aide 
+	- D'abord considéré comme une résistance 
+	- Puis : devient un élément pertinent à prendre en compte 
+
+- Contre-transfert groupal
+	- Famille : "transfert subjectale" 
+
+- Activité système miroir spontané en cas d'observation de comportements. 
+
+- Reynold & Rogers : conséquences du contre-transfert.
+	- Au niveau psychosomatique 
+
+
+- Deux courants de recherche : 
+	1. Psychanalytique - étude mécanisme contre transférentiels - qualitatif 
+	2. Rogers : aspect psychosomatique 
+		- Burn-out 
+		- Trauma vicariant
+		- Fatigue de compassion 
+		- Stress traumatique secondaire (écoute récits traumatique)
+
+		- ->Clinique traumatique  = solicite ++ 
+			- Wilson & Landy 1994 :
+				- Symptômes chez les pros : éléments inévitable. 
+					- 2 tendances contre-transfert -> 
+						- **Déséquilibre positionnement empathique** 
+							- Instaure un état psychique. 
+								- -> Mécanismes de défense par les pros.
+									 1. Evitement - sort de l'empathie
+										- Pour se préserver
+									2. Suridentification
+										- Envahissement perso 
+											- équipe s'occupant de personnes migrantes 
+								- Impact la santé 
+									- CTf non analysé :
+										- **Saturation psychique** 
+											- Défaut de positionnement 
+											- Conflits massifs entre pro
+						
+			- Lachal 2006 : 
+				- "Partage traumatique"
+			- Accompagnement des équipes : informer sur ces mécanismes.
+		- Sexton : **contamination de la dynamique institutionnelle**
+			- Répétition de schémas bourreaux/victimes 
+			- En absence d'analyse de la pratique / soutien des équipes. 
+			- Réponse en miroir du négatif : 
+				- Modalité de transfert par retournement 
+				- Equipe = écho de problématique familial 
+					- Conflits / passage à l'acte 
+- Etre attentif au CTF pour un accompagnant:
+	- CTF = ensemble des réactions en réponse au transfert de ce dernier 
+	- Formes de CTF :
+		- Y être habitué & formé 
+			- Supervision 
+			- Analyse de la pratique 
+		- -> Devient une méthode d'observation : subjectivité +++++ 
+
+
+### Deux concepts freudiens dans la rencontre 
+
+- **Neutralité**
+	- S'intéresser à un patient peu importe ses caractéristiques personnelles
+-  **Attention flottante.**
+	- Démarche inductive : on s'intéresse à l'inattendu 
+		- Etat attentif à tout ce qui peut arriver 
+		- Pas uniquement ce qui vérifierait / falsifierait une hypothèse - déductif dans ce cas. 
+
+### Observation -> Compréhension 
+
+- Comment analyse une observation :
+	- Distinguer description / interprétation / hypothèse 
+- Analyser = étape entre observation & compréhension 
+	- Sans analyse -> liste d'observation
+	- Donne une "forme"
+
+- Etapes d'analyses 
+	1. **Sélection** 
+		- Impossible de tout analyser en même temps 
+		- Choisir ce qui est pertinent :
+			- Ce qui parait le plus important. 
+			- Choix guidé par :
+				- Ce qui surprend 
+				- Ce qui se répète 
+				- Intensité 
+				- Jamais neutre. 
+			- Dépend :
+				- De l'attention
+				- Des attentes 
+				- De la formation 
+		- Analyser : c'est déjà une interprétation de ce qui est important 
+			- Triangulation possible. 
+	2. **Organiser les données** : structurer les observations 
+		- Par catégories 
+		- Par temporalité 
+		- Par t : hématique 
+		- -> Éléments dispersé -> cohérence architecturale 
+		- Triangulation applicable 
+	3. **Relier les éléments** 
+		- Etablir des liens entre éléments qui séparément aurait peu de sens, une certaine cohérence émerge de leur combinaison 
+	4. **Recontextualiser** 
+		- Contexte influe/déterminer le sens d'une observation 
+		- Contexte = 
+			- Cadre - domicile / groupe ...
+			- Relation 
+			- Histoire 
+		- Sans contexte : l'analyse ne vaut pas grand chose 
+	5. **Hypothétiser** 
+		- Formuler une/des hypothèse.s : proposer une compréhension 
+			- Prudence 
+
+- Élément essentiel : **Cadre théorique. Ne s'y ajoute pas mais structure l'analyse.**
+	- Si deux psychologues analysent la même situation :
+		- Potentiellement pas le même cadre théorique de référence. 
+			- -> Interprétations différentes car perspectives différentes.
+	- **Pas d'analyse sans théorie** 
+	- Cadre théorique doit rester souple.
+	- Cadre théorique :
+		- Manière organiser de comprendre les fonctionnements 
+		- Grille de lecture 
+		- Manière de donner du sens 
+		- Absence de cadre théorique : se repose sur ses propres références/représentation personnelles, et c'est problématique 
+		- **Influence** :
+			- La sélection, l'organisation 
+			- La manière de relier les éléments. 
+			- Les interprétations 
+	- Risques
+		- Réduction : sensible uniquement à ce que le modèle théorique permet de voir 
+		- Fermeture : croyance en une unique interprétation valable 
+		- Biais de confirmation
+- Analyse = construction guidée par un cadre de pensée. 
+- Risque d'une analyse trop rapide :
+	- Surinterpréter 
+	- Projeter ses propres idées 
+	- Se fermer aux autres perspectives 
+
+
+### Ecriture d'une observation 
+
+- Pourquoi écrire une obs 
+	- Permet un travail de transformation des éléments d'observation
+	- Mémoire = limitée 
+		- Oublis. 
+		- Se souvient surtout de ce qui a marqué, par nécessairement ce qui est important 
+	- Permet une prise de distance / organisation de la pensée 
+	- Sortir de l'immédiateté 
+	- Transmission/communication des éléments 
+		- Principe de neutralité : pas de jugements 
+	- Distinguer les faits de l'interprétation
+		- Tendance naturelle à l'interprétation 
+		- Travail d'écriture :  clarté 
+			- Compréhensible par un autre 
+- Travail d'écriture 
+	- Notes pendant ou après, plus on attend plus on oublis.
+	- Permet de penser, remarquer des contradictions, identifier des thèmes.
+	- "Transforme l'observation en analyse"
+	- Standards internationaux 
+		- Homogénéifier 
+		- Favoriser explicitation méthodes 
+		- **STROBE statement 2007** (épidémio surtt)
+			- Améliorer la qualité de description des études observationnelles 
+				- De cohorte, de cas, transversale
+			- **Transparence totale :**
+				- Tout doit être **explicite**, décrit précisément.
+					- Contexte 
+						- Lieu/moment/conditions 
+					- Méthode 
+					- Choix de sélection
+					- Participants :
+						- Caractéristiques / critères d'inclusion / situation 
+					- Biais possibles 
+						- Reconnaitre les biais = signe de rigueur 
+					- Résultats :
+						- Présentés sans ambiguïtés 
+						- Exemples 
+						- Limites 
+			- Enjeux éthiques
+
+- Application STROBE en clinique :
+	- Compte rendu clinique respecte les principes de STROBE 
+	- Observation :
+		- Influence diag / prise en soin
+			- Responsabilité du psycho 
+		- Toujours partielle 
+		- On observe une réalité construite, pas "pure". 
+	- Difficulté lié à la clinique : **éléments difficilement descriptible**
+		- Relation / ambiance / affects / subjectivité 
+
+
+
+--- 
+
+- Observation : continuum de prise en compte de la subjectivité de la personne 
