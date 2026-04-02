@@ -756,5 +756,197 @@ Mais aussi :
 		- Très problématique. 
 		- Beaucoup de questionnements et des conclusions présentées 
 			- Portant sur la "nature humaine"
-- 
+
+## CM 6 Représentation sociale & construction de la réalité 
+
+- Citation moodle Jodelet 
+	- Représentation sociale -> interprétation réalité 
+	- Prescription de la réalité :
+		- Comment se comporter / ce que l'on doit faire / guide comportementaux 
+
+- Logique de l'illogique : ont du sens pour les individus.
+
+- approche de représentation sociales = cadre théorique d'analyse de la pensée sociale. 
+
+- **Cognition chaude** 
+	- Caractère symbolique de la connaissance.
+		- Construire et donner sens à la réalité. 
+	- **Moscovici** 
+		- Regard contextuel (façons de pensées individuelles : il y a une part de social)
+		- & compréhensif (comprendre la logique interne sans comparaison normative/evaluation)
+		- Via :
+			- **Analyse des facteurs : psychologiques / relationnels & sociaux.**
+				- Qui expliquent sa construction & actualisation. 
+
+- Etude constitutive représentation sociales :
+	- **Thèse Moscovici** : étude post WW2, a été en camp. 
+		- "*La psychanalyse, son image & son public*" 
+			- Questionne place de la psychanalyse en France
+			- Prend la psychanalyse comme objet d'étude de la construction des représentations sociales 
+				- Comment se diffuse le savoir & comment est-il reçu ?
+				- Comment les individu & groupe s'approprie ce savoir ? 
+		- **Constats**
+			- Pas d'appropriation passive mais de manière **active**. 
+				- Info transformée/sélectionnée/ignorée pour la **conformer** à leur vision du monde. 
+			- Certains éléments disparaissent dans le sens commun, d'autres sont ajoutés/modifiés 
+			- Caractère dynamique/évolutif de ces représentations 
+				- Via les communications 
+					- Transforment les objets sociaux 
+					
+- **Théorisation de l 'approche des représentations sociales**
+	- 2 processus mentaux principaux : objectivation & ancrage. 
+	- **Objectivation**
+		- Rendre concret ce qui est abstrait. 
+			- Transformer un schéma conceptuel en une image 
+		- "Objectiver = résorber un excès de signification en les matérialisant"
+			- Métaphores -> rendre concret. 
+		- Etapes du processus (pas à connaitre ++)
+			1. Phase de construction sélective 
+				- Suppression / sélection de certains éléments. (ex: libido supprimée car non admise/acceptée débat public)
+			2. Schématisation structurante : 
+				- Forger un noyaux imageant 
+			3. Naturalisation 
+				- Noyau bien structuré -> acquiert un statut d'évidence partagée 
+					- Nouvelle grille de lecture du monde de la vie quotidienne 
+						- *Ex: inconscient = cocotte minute*
+							- Métaphore imagée, simplificatrice 
+							- Adresser un message -> simplification 
+	- **Ancrage**
+		- Enracinement d'un concept nouveau dans un **système de pensée déjà en place**, des représentations du monde préexistantes. Permet une **instrumentalisation** du savoir. 
+			- Intégration : de manière à être conforme au système de représentation déjà en place. Prise en compte **intérêts persos/rôles/pratiques**.
+				- -> Réactance ou intégration fluide. 
+		- Phase 1 : Enracinement.
+			- Rendre familier ce qui est nouveau, en l'incorporant dans son système de pensée. 
+		- Phase 2 : Instrumentalisation du savoir 
+			- Produire du savoir utile : fonction pratique de maitrise et d'action sur son environnement. 
+- ***Objectivation = ce qui produite des figure, Ancrage = attribution de sens.***  
+	- Ex : 
+		- chez les cathos, psychanalyse appréhendée à travers le prisme de confession. (Une fois qu'on a virer la libido bien sûr). 
+		- Mal vu par les communistes initialement (car apprécié par les bourgeois). Mouvement Marxiste 80s : mélange psychanalyse à la théorie marxiste pour penser la révolution
+		- 2015 : psychanalyste VS mariage homo (bien tiens quelle surprise)
+
+- Définitions des représentations sociales (Moodle)
+	- Abric - doctorant Moscovici : 
+		- "Le **produit** et le **processus** d'une activité mentale par laquelle l'individu ou un groupe **reconstitue** le réel auquel il est confronté" - *importance du contenu*
+	- Jodelet : 
+		- "Forme de connaissance, socialement **élaborée et partagée**, ayant une **visée pratique** et concourant à la **construction** d'une réalité commune à un ensemble social"
+			- Connaissances vernaculaires, pas exclusivement scientifique. 
+			- -> évidences partagées 
+
+- Grille de lecture : **Regard psychosocial**
+	- Objectivation de l'approche des représentations sociales (Schéma moodle)
+		- Regard sur un objet (Ego -> Objet) toujours médiatisé par un aspect social (alter)
+
+
+### De l'intérêt de l'approche des représentations sociales 
+
+- Ex d'application : supervision de stage L3 - Charmila*
+	- Prend la parole dans la **dernière** ("J'me lance") supervision de stage. 
+		- Voulait faire un stage petite enfance - pas trouvé de place. 
+		- Réseau : une psychologue qui n'a jamais d'étudiant.e en stage
+			- Car enfants/ados polyhandicapés.
+				- Interactions complexes. 
+		- -> Des pensées / réflexions qui font violence au début du stage, culpabilité/honte  :
+			- Beaucoup de pro' avec assez peu d'évolutions positives visibles. 
+				- Argent gaspillé ? 
+					- Euthanasie / à quoi bon ? 
+			- Premières journées : très difficiles. 
+				- Cris/violence ...
+				- Débrief le soir : "mes petits légumes" / "tentes quechua"
+- **En quoi l'approche des représentations sociales permet d'éclairer cette situation ?**
+	- Ancrage : 
+		- Objet nouveau - polyhandicap ; ancré dans un réservoir culturel sociétal. 
+			- Fardeau du handicap en contexte néolibéral capitaliste. 
+				- Vision économique de la vie humaine 
+	- Objectivation :
+		- Petit légume :
+			- "Légume" - individu passif 
+			- "Petit" Relativement gentil / bienveillant 
+			- Incapacité à rentrer en contact  / relation
+		- Tente Quechua :
+			- Corps invisibilisé dans la société 
+				- Violence de s'y trouver confronter 
+- **Être parlé par le social**
+	- Qu'est-ce qui s'exprime à travers moi ?
+		- Conflit entre regard de future psycho et celui d'une société qui stigmatise cette population 
+
+- Approche représentations sociales : permet d'être compréhensif. 
+
+### Folies & représentations sociales - Jodelet 
+
+- Observation participante sur quelque chose de nouveau :
+	- Courant anti-psychiatrie : désinstitutionalisation. 
+	- Pas loin d'un hopital psy : 
+		- Accueil et hébergement de patients par des familles d'à côté. 
+	- Approche anthropologique 
+		- Monographie 
+		- Observation (beaucoup au bar)
+		- Entretiens / Discussions 
+		- Stats 
+- -> *Comment les représentations sociales de la folie permette de comprendre le rapport à la maladie mentale comme figure d'altérité ?*
+	- Malade mental = toujours un exogroupe. 
+- *Que fait la société de ces figures d'altérité ?* 
+	- Que faisons nous de l'autre ?
+
+- **Constats**
+	1. Que disent les habitants du village ? - **Paroles**
+		- Villageois disent qu'ils sont totalement habitués à vivre avec les patients, tout va bien dans le meilleur des mondes en apparence. 
+	2. Observations - **Actes** 
+		- Pensionnaires isolés du  reste de la famille 
+			- Séparer les lieux d'habitation : chambre à l'extérieur / barrières à l'entrée de la maison / rideaux aux fenêtres 
+		- Pas de partage des repas / promenades / soirées 
+		- Manque d'intégration : à l'échelle de la commune entière -> **Ségrégation**
+			- Au bar : une place pour les patients, et la place principale est pour les villageois 
+			- Discours : 
+				- Les patients = marchandises permettant de faire du profit.
+					- Si on les accueil, subvention.
+						- Dans un village en perte d'activité économique, désertification etc..  
+					- "Arrivages", "Livraisons"
+					- -> **Déshumanisation**
+					- Rapport instrumental. 
+
+- *Pourquoi ce traitement entre villageois et malades ?*
+	- Questions entretiens/discussions : 
+		- Pas beaucoup de réponses probantes.
+		- Comportement expliqué par des habitudes / imitations / coutumes
+	- **Analyse des pratiques** :
+		- Micro-pratiques révélantes :
+			- D'une **conception archaïque de la transmission de la folie**
+				- Peur d'une contagion. 
+		- Exemple 1:
+			- Mère de famille qui reçoivent des patients -> plus de consult des psychiatres pour des questions d'irritabilité / nervosité 
+				- Crainte que l'enfant soit contaminé
+				- Dans des situations limites/confuses pourtant normales 
+		- Exemple 2 : 
+			- 3/4 des familles n'accueillent des patients qu'après que les enfants aient quitter le foyer. 
+				- Limite proximité enfants/patients 
+		- Exemple 3 : 
+			- Séparation des affaires :
+				- Couverts / linge de maison 
+					- Lavé dans une eau différente
+	- Pratique signifiante, révélatrices, avec une portée symbolique.
+		- Mise à distance la question de la folie. 
+
+- **2 représentations de la folie:**
+	- Liées à des entités organiques, maladie mentale = complexe, objectivé plus concretement 
+		1. **Le cerveau - raison**
+			- Attardés mais inoffensifs, renvoient à l'image de l'innocence 
+			- Pourrais être en contact avec des enfants 
+		2. **Les nerfs - émotions**
+			- Détraqués, dangereux : agressives/irritables/dangereuses 
+			- Serait transmissible par les effluves 
+				- D'ou la séparation du linge etc... 
+	- Théorie profanes : 
+		- Rend concret ce qui est abstrait, fourni un guide pratique pour les comportements. 
+
+### Conclusion 
+
+- Enseignement approches des représentations sociales :
+	- Approche compréhensive. 
+	- S'intéresser aux logiques de construction du sens 
+	- Socio-constructiviste : organisation & construction de la réalité 
+	- Nouvelles pistes :
+		- Moins normatives 
+		- Accompagnement avec prise en compte du social 
+			- Dimension socio-symbolique 
 
