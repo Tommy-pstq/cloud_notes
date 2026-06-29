@@ -228,7 +228,7 @@
 - Etudes sur l'utilisation du contexte: faire mémoriser quelques chose dans un contexte donné puis tâche de rappel mnésique dans le même contexte ou un autre. 
 	- **Godden & Baddeley (1975)** : Le lieu comme élément de contexte.
 		- Mémorisation d'une liste de mot sur la plage avant une plongée ou une fois sous l'eau.
-		- Tâche de rappel : sur la place ou dans l'eau.
+		- Tâche de rappel : sur la plage ou dans l'eau.
 		- <u>Résultats</u>
 			- Les performances de rappel sont bien supérieures dans les cas où le contexte de rappel est congruent au contexte de mémorisation. -> effet de contexte. 
 	- **Geiselman & Glenny (1976)** : Contexte imaginaire.

@@ -129,7 +129,7 @@
 
 ## CM 8 C.T Intelligence 2/3 
 
-- Binet : 
+- **Binet** : 
 	- Etudie les processus supérieurs 
 		- Mémoire, attention, images mentales...
 	- A l'époque : il n'existe pas de mesure de l'intelligence 

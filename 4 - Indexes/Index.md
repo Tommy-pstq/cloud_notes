@@ -6,7 +6,12 @@
 - *Référence lue sans prévision de note lors de la dernière actualisation*
 
 ## Livres
-
+- <u>Manger beaucoup, à la folie, pas du tout</u>, G. Nardone, T. Verbitz, R. Milanese *06/2026*
+- <u>Obsessions, Compulsions, Manies</u>, G. Nardone, C. Portelli *06/2026*
+- <u>Amour et violence</u>, John Bowlby *05/2026*
+- <u>Amour et rupture</u>, John Bowlby *05/2026*
+- <u>Le grand livre du diagnostique systématique et de l'intervention stratégique</u>, G. Vitry *03/2026*
+- <u>DSM-5-TR Cas Cliniques</u>, John W. Barnhill *03/2026*
 - <u>Cartes des pratiques narratives</u>, M. White, *02/2026*
 - <u>Changements, paradoxes et psychothérapies</u>, P. Watzlawick, J.Weakland, R. Fisch, *02/2026* 
 - <u>Les pièges psychologiques</u>, G. Nardone *02/2026*

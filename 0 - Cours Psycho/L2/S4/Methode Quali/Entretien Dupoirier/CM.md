@@ -313,7 +313,7 @@ S’intéressent :
 - Peu adapté, couteux pour interroger un grand nombre de personne 
 - Non adapté dans le cas de considération liées à la représentativité d'un échantillon 
 - Ne peut pas prendre un charge les questions causales.
-	- **Pas** de quoi "pourquoi"
+	- **Pas** de  "pourquoi"
 	- Mais des "comment"
 	- Accès aux rationalités propres des acteurs 
 		- Celle à partir desquels les individus pensent le monde. 
@@ -497,7 +497,7 @@ S’intéressent :
 			- -> Restreindre la subjectivité
 	2. Vision plus qualitative, vise surtout l'interprétation et moins la quantification des résultats
 		- Subjectivité considérée comme partie intégrante & intégrale du processus de recherche 
-			- -> On ne cherche pas à l'éliminée 
+			- -> On ne cherche pas à l'éliminer
 		- Quali -> dégage un savoir qui a ses éléments objectifs mais **développé par des filtres disciplinaires, théoriques, culturels, idéologiques** qu'il faut reconnaitre plutôt que nier. 
 
 ### Analyse contenu catégorielle - déductive
@@ -601,7 +601,7 @@ S’intéressent :
 #### Fonctions individuelles du récit 
 
 - Mise en récit :
-	- Permet de rétablir un **sentiment de continuté**, de paix par la mise en sens & cohérence du désordre
+	- Permet de rétablir un **sentiment de continuité**, de paix par la mise en sens & cohérence du désordre
 		- Exprime naturellement des contradictions/paradoxes mais relié en un tout cohérent pour l'individu 
 			- Rend compte de son expérience vécue.
 #### Fonctions sociales du récit 

@@ -42,7 +42,7 @@
 
 - *Qu'est-ce qui amène a organiser des réalités communes ?* 
 
-- **Gramsci** : comment produit-on des certitudes de sens commun ? 
+- **Gramsci** : comment produit on des certitudes de sens commun ? 
 	- Idéologie.
 	- Ex : religion. 
 		- Construction sans preuve, démonstration, d'une réalité collective = processus idéologique. 
@@ -336,7 +336,7 @@ Mais aussi :
 --- 
 ## CM3  
 
-- Rosenhal : psychologue expert du droit 
+- Rosenhan : psychologue expert du droit 
 	- "Being Sane in Insane Places"
 		- Science - 1973 
 
@@ -575,7 +575,7 @@ Mais aussi :
 					- Informent les curieux 
 				- -> **Début des actions de prosélytisme**
 					- Semble renforcer les convictions 
-		- Epilogue :
+			- Epilogue :
 			- L'observation participante touche à sa fin
 			- Suivi de loin :
 				- Le groupe se disloque.
@@ -692,7 +692,7 @@ Mais aussi :
 				- On ne pourrait pas comprendre ce que l'on a pas expérimenté ?
 		- Critique des démarches de simulation "se mettre à la place de..."
 			- Parfois pas les bons points abordés :
-				- Ex: ne pas pouvoir marché le plus difficile ou la brutalité institutionnelle quotidienne ? 
+				- Ex: ne pas pouvoir marché le plus difficile ou la brutalité institutionnelle quotidienne ? Pour les personnes en situation de handicap 
 			- Entrainent parfois de la pitié/compassion 
 			- -> Permettre aux personnes concernés d'exprimer leur vécu et que ce soit pris en compte réellement par celleux qui ne le sont pas 
 			- -> Est-ce que les élèves ont vraiment expérimentés la discrimination ou simplement de la violence ? 
@@ -717,7 +717,7 @@ Mais aussi :
 		- Tristesse / Apathie 
 	- Légère révolte (trop légère pour la prof)
 		- Pourquoi pas plus de révolte ? 
-			- Soumission à l'autorité 
+			- **Soumission à l'autorité** 
 				- La prof n'y pense jamais, elle renvoie toujours ça a "la nature humaine"
 				- Dispositif traditionnel d'éducation, tout le pouvoir est dans les mains de l'enseignant. 
 					- Donc élèves pas étonnés quand elle dit : "les petits font ci, les grand ça"

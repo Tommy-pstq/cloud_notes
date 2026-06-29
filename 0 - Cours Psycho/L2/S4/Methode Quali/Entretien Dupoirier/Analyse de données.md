@@ -56,7 +56,6 @@
 
 ##### Objectif 
 
-
 - Qui a-t-il de fondamental dans ce propos, de quoi traite-t-il ?
 	- Nécessaire de réduire les données 
 		- Résumer/Synthétiser son corpus 

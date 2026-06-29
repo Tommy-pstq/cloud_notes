@@ -1,4 +1,4 @@
-- Sapiens : -350k a 
+	- Sapiens : -350k a 
 	- Outils : dev très lent 
 - -12k = agriculture 
 	- Rythmes = saisons 
@@ -201,7 +201,7 @@ Synthèse intro :
 		2. <u>Passivité</u> envers ce qui n'est pas lié à la satisfaction de la motivation personnelle 
 		3. <u>Contagion des émotions</u>
 			- propagation spatiale rapide
-			-  Stimulation latente -> éclate en action collective 
+			- Stimulation latente -> éclate en action collective 
 			- Potentiellement violente 
 			- Enthousiaste 
 			- Apathie collective 

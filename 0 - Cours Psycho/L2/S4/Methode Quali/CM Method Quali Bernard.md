@@ -77,7 +77,7 @@
 			- Non.
 			- La relation elle même peut devenir une donnée 
 				- "La subjectivité devient une donnée d'observation"
-			- Inquiété/confusion/agacement 
+			- Inquiétude/confusion/agacement 
 				- Traduit quelque chose.
 		- -> La question n'est pas de *"comment de rien ressentir ? "* mais  plutôt : *"comment comprendre ce que je ressens ?"* 
 			- L'observateur s'observe en train d'observer 
@@ -117,7 +117,7 @@
 	- Observation en présence du phénomène 
 		- Dans le moment même
 	- Sans intermédiaire 
-	- Structurée ou non, participant ou non.
+	- Structurée ou non, participante ou non.
 	- Ex :
 		- Chercheur qui observe les interactions d'un groupe 
 		- Psycho scolaire qui observe enfant en classe 
@@ -155,11 +155,11 @@
 		- Sans être présent au moment où le comportement à eu lieu
 	- *Qu'est-ce qu'on observe ?*
 		- 3 grande catégories 
-			1. Traces comportementales : pas l'action mais les effets 
+			1. <u>Traces comportementales</u> : pas l'action mais les effets 
 				- Dessins répétitifs, marques d'usures ...
-			2. Productions symboliques 
+			2. <u>Productions symboliques</u> 
 				- Dessins, prod artistiques, récits, langage écrit
-			3. Enregistrements 
+			3. <u>Enregistrements </u>
 				- vidéo/audios 
 					- Plusieurs observateurs : triangulation 
 	- <u>Avantages</u>
@@ -293,8 +293,8 @@
 		- Faibles validité écologique 
 
 - Dilemne psychologie, 2 exigences :
-	- Comprendre la réalité : naturaliste
-	- Expliquer les mécanismes : expérimental 
+	- **Comprendre la réalité : naturaliste**
+	- **Expliquer les mécanismes : expérimental** 
 	- Complémentarité des approches. : tableau Moodle. 
 - + contrôle -> - réel
 
@@ -419,9 +419,9 @@
 						- **Déséquilibre positionnement empathique** 
 							- Instaure un état psychique. 
 								- -> Mécanismes de défense par les pros.
-									 1. Evitement - sort de l'empathie
+									 1. <u>Evitement</u> - sort de l'empathie
 										- Pour se préserver
-									2. Suridentification
+									2. <u>Suridentification</u>
 										- Envahissement perso 
 											- équipe s'occupant de personnes migrantes 
 								- Impact la santé 
@@ -485,7 +485,7 @@
 	2. **Organiser les données** : structurer les observations 
 		- Par catégories 
 		- Par temporalité 
-		- Par t : hématique 
+		- Par thématique 
 		- -> Éléments dispersé -> cohérence architecturale 
 		- Triangulation applicable 
 	3. **Relier les éléments** 

@@ -153,7 +153,7 @@ DSM
 
 ### Episode hypomaniaque
 
-"Hypo" dans le sens "moins" et pas la négation. 
+"Hypo" dans le sens "moins". 
 -> Humeur au delà de ce qui est considéré comme habituel sans atteindre les niveaux de ce qui est observable dans des épisodes [[manie|maniaques]]. 
 
 - Individus pouvant passer pour des gens superactifs dans tout, notamment travaillant très fort, très énergiques avec parfois des comportements dépassant la norme et peuvent les conduire dans des activité à potentiel dommageable. 
