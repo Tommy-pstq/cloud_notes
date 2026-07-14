@@ -13,6 +13,11 @@
 - Linehan apporte un concept absent du behaviorisme & humanise :
 	- **L'acceptation radicale du moment présent sans tentative de le changer.** 
 
+- Efficacité, Harned et al 2008
+	- Taux de rémission lors de suivi annuel 
+		- TUS = 87%
+		- Dépression majeure = 68%
+		- TCA = 64%
 #### Dysrégulation émotionnelle
 
 - Interfère avec un comportement efficace orienté vers un objectif, résultante, chez les personnes TPB de :

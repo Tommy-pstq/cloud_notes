@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Psycho/Thérapie comportementale dialectique/Application à des populations et à des contextes précis.md",
+                "file": "7 - Psycho/Thérapie comportementale dialectique/TCD et addictologie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Application à des populations et à des contextes précis"
+              "title": "TCD et addictologie"
             }
           }
         ]
@@ -178,7 +178,11 @@
   "active": "50133802561d584e",
   "lastOpenFiles": [
     "7 - Psycho/Thérapie comportementale dialectique/Généralités sur la TCD.md",
+    "7 - Psycho/Thérapie comportementale dialectique/TCD et addictologie.md",
+    "7 - Psycho/Thérapie comportementale dialectique/Trouble de personnalité, trauma et TCD.md",
     "7 - Psycho/Thérapie comportementale dialectique/Application à des populations et à des contextes précis.md",
+    "3 - Tags/Sans titre.md",
+    "3 - Tags/Sans titre 1.md",
     "6 - En cours de rédaction/Déclin de la psychanalyse.md",
     "7 - Psycho/Thérapie comportementale dialectique",
     "4 - Indexes/Index.md",
@@ -200,10 +204,6 @@
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles somatiques.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles dissociatifs.md",
     "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles neurocognitifs.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles du sommeil.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles des conduites alimentaires.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de la personnalité.md",
-    "7 - Psycho/Psychologie clinique et psychopathologie/Les psychopathologies/Troubles de l'humeur.md",
     "PDF/L2_S4/CM - Method Quali - Dupoirier.pdf",
     "PDF/L2_S4/RPC.zip",
     "PDF/L2_S4/RPC/Apprentissage implicite.pdf",
